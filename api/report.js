@@ -15,7 +15,7 @@ const TYPE_LABELS = {
 // 只允許自家三個部署來源跨域回報（CF/Netlify 鏡像站會 POST 回 Vercel）
 const ALLOW_ORIGINS = new Set([
   "https://gsat-english-lac.vercel.app",
-  "https://gsat-english.pages.dev",
+  "https://gsat-english-bqe.pages.dev",
   "https://gsat-english.netlify.app",
 ]);
 
