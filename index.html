@@ -9,11 +9,11 @@
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#eef1f7" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#10131f" media="(prefers-color-scheme: dark)">
-<link rel="canonical" href="https://gsat-english.vercel.app/">
+<link rel="canonical" href="https://gsat-english-lac.vercel.app/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="學測英文題庫｜歷屆試題．考古題分類練習">
 <meta property="og:description" content="學測英文歷屆選擇題免費練，每題附官方答對率、鑑別度、選項分析與詳解，支援單選多選、錯題本與弱點分析，免註冊。">
-<meta property="og:url" content="https://gsat-english.vercel.app/">
+<meta property="og:url" content="https://gsat-english-lac.vercel.app/">
 <meta property="og:image:alt" content="學測英文題庫">
 <meta property="og:site_name" content="學測英文題庫">
 <meta property="og:locale" content="zh_TW">
@@ -22,7 +22,7 @@
 <meta name="twitter:description" content="學測英文歷屆考古題免費練，每題附官方答對率、鑑別度、選項分析與詳解，附錯題本間隔複習與弱點分析，免註冊。">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
-{"@type":"WebSite","name":"學測英文題庫","alternateName":"學測英文考古題練習","url":"https://gsat-english.vercel.app/","inLanguage":"zh-Hant","description":"學測英文歷屆試題（考古題）選擇題免費線上練習，附大考中心官方答對率、鑑別度、選項分析與詳解。"},
+{"@type":"WebSite","name":"學測英文題庫","alternateName":"學測英文考古題練習","url":"https://gsat-english-lac.vercel.app/","inLanguage":"zh-Hant","description":"學測英文歷屆試題（考古題）選擇題免費線上練習，附大考中心官方答對率、鑑別度、選項分析與詳解。"},
 {"@type":"FAQPage","mainEntity":[
 {"@type":"Question","name":"這個網站是什麼？","acceptedAnswer":{"@type":"Answer","text":"收錄大學學測英文科歷屆選擇題，可依類別、年份、題數挑題當場作答，每題附大考中心官方答對率、鑑別度、選項分析與詳解。首批完成 115 學年度。"}},
 {"@type":"Question","name":"需要註冊或付費嗎？","acceptedAnswer":{"@type":"Answer","text":"完全免費、免註冊。錯題本與學習歷程只存在你這台裝置的瀏覽器，不會上傳任何個人資料。"}},
@@ -870,7 +870,7 @@ function wrongReasonPickerHtml(q){
     ).join("")+`</div>`;
 }
 const REPORT_API = (location.hostname.endsWith("vercel.app") || location.hostname==="localhost")
-  ? "/api/report" : "https://gsat-english.vercel.app/api/report";
+  ? "/api/report" : "https://gsat-english-lac.vercel.app/api/report";
 function reportLinkHtml(q){
   return `<div class="reportBox no-print">
     <button type="button" class="reportToggleBtn">🚩 這題有問題？回報給大乃老師</button>

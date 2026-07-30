@@ -46,7 +46,7 @@ node scripts/build-data.mjs
 
 ## 正式網站
 
-- Vercel：https://gsat-english.vercel.app/
+- Vercel：https://gsat-english-lac.vercel.app/
 - Cloudflare Pages：https://gsat-english.pages.dev/
 - Netlify：https://gsat-english.netlify.app/
 
