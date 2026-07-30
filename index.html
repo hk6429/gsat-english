@@ -869,61 +869,12 @@ function wrongReasonPickerHtml(q){
       `<button type="button" class="reasonBtn${cur===k?" on":""}" data-reason="${k}">${label}</button>`
     ).join("")+`</div>`;
 }
-const REPORT_API = (location.hostname.endsWith("vercel.app") || location.hostname==="localhost")
-  ? "/api/report" : "https://gsat-english-lac.vercel.app/api/report";
 function reportLinkHtml(q){
-  return `<div class="reportBox no-print">
-    <button type="button" class="reportToggleBtn">🚩 這題有問題？回報給大乃老師</button>
-    <div class="reportPanel" style="display:none">
-      <select class="reportType">
-        <option value="answer">答案錯</option>
-        <option value="explain">解析錯</option>
-        <option value="content">題目／選項／圖片缺漏或錯誤</option>
-        <option value="other">其他</option>
-      </select>
-      <textarea class="reportDesc" placeholder="請具體描述問題（選填）" maxlength="300" rows="2"></textarea>
-      <div class="reportActions">
-        <button type="button" class="reportSubmitBtn">送出回報</button>
-        <span class="reportStatus"></span>
-      </div>
-    </div>
-  </div>`;
-}
-function wireReportBox(box, q){
-  const rb = box.querySelector(".reportBox");
-  if(!rb) return;
-  const toggleBtn = rb.querySelector(".reportToggleBtn");
-  const panel = rb.querySelector(".reportPanel");
-  const submitBtn = rb.querySelector(".reportSubmitBtn");
-  const statusEl = rb.querySelector(".reportStatus");
-  toggleBtn.onclick = ()=>{ panel.style.display = panel.style.display==="none" ? "block" : "none"; };
-  submitBtn.onclick = async ()=>{
-    submitBtn.disabled = true;
-    statusEl.textContent = "送出中…";
-    try{
-      const resp = await fetch(REPORT_API, {
-        method:"POST",
-        headers:{"Content-Type":"application/json"},
-        body: JSON.stringify({
-          id:q.id, era:q.era, year:q.year, no:q.no,
-          type: rb.querySelector(".reportType").value,
-          desc: rb.querySelector(".reportDesc").value
-        })
-      });
-      if(resp.ok){
-        statusEl.textContent = "✓ 已送出，謝謝回報！";
-        toggleBtn.disabled = true;
-        rb.querySelector(".reportType").disabled = true;
-        rb.querySelector(".reportDesc").disabled = true;
-      }else{
-        statusEl.textContent = "送出失敗，請改寄 hk6429@gmail.com";
-        submitBtn.disabled = false;
-      }
-    }catch(e){
-      statusEl.textContent = "送出失敗，請改寄 hk6429@gmail.com";
-      submitBtn.disabled = false;
-    }
-  };
+  const subject = encodeURIComponent(`學測英文題庫問題回報：${q.era}${q.year}-${q.no}`);
+  const body = encodeURIComponent(
+    `題目：${q.era} ${q.year} 年第 ${q.no} 題（${q.id}）\n\n問題類型：\n問題描述：\n`
+  );
+  return `<div class="reportBox no-print"><a class="reportToggleBtn" href="mailto:hk6429@gmail.com?subject=${subject}&body=${body}">🚩 這題有問題？回報給大乃老師</a></div>`;
 }
 // 錯題連對通過第3盒畢業時，在解析框補一句正回饋（把「還債」變成「成就」）
 function markGraduated(div){
@@ -940,7 +891,6 @@ function showExplain(div, q){
   const wrong = answered[q.id] && !isCorrect(q, answered[q.id]);
   box.innerHTML = `<b>解析：</b>${q.explain ? q.explain : "解析製作中，之後會補上"}${optionStatsHtml(q)}${pickStatsHtml(q)}${wrong?wrongReasonPickerHtml(q):""}${reportLinkHtml(q)}`;
   div.appendChild(box);
-  wireReportBox(box, q);
   if(wrong){
     box.querySelectorAll(".reasonBtn").forEach(btn=>{
       btn.onclick = ()=>{

@@ -6,8 +6,5 @@
   "scripts": {
     "build:data": "node scripts/build-data.mjs",
     "test": "node --test test/*.test.mjs"
-  },
-  "dependencies": {
-    "@upstash/redis": "^1.38.0"
   }
 }
