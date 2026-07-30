@@ -200,19 +200,21 @@ test("題庫不含 Word 欄位碼或轉檔雜訊", () => {
 });
 
 test("已完成解析批次逐題完整", () => {
-  const completed = new Map([
-    [109, 56], [107, 56], [106, 56], [104, 56], [103, 56], [102, 56],
-    [100, 56], [99, 56], [98, 56], [96, 56], [95, 56], [94, 56],
-    [93, 55], [91, 55], [90, 55], [88, 55], [87, 60], [86, 55],
-    [85, 50], [83, 50]
-  ]);
-  for (const [year, questionCount] of completed) {
-    const item = banks.find(candidate => candidate.era === "學測" && candidate.year === year);
+  const completed = [
+    ["學測", 109, 56], ["學測", 107, 56], ["學測", 106, 56], ["學測", 104, 56],
+    ["學測", 103, 56], ["學測", 102, 56], ["學測", 100, 56], ["學測", 99, 56],
+    ["學測", 98, 56], ["學測", 96, 56], ["學測", 95, 56], ["學測", 94, 56],
+    ["學測", 93, 55], ["學測", 91, 55], ["學測", 90, 55], ["學測", 88, 55],
+    ["學測", 87, 60], ["學測", 86, 55], ["學測", 85, 50], ["學測", 83, 50],
+    ["指考", 110, 51], ["指考", 109, 51]
+  ];
+  for (const [era, year, questionCount] of completed) {
+    const item = banks.find(candidate => candidate.era === era && candidate.year === year);
     assert.ok(item);
     assert.equal(item.questions.length, questionCount);
     for (const q of item.questions) {
-      assert.ok(q.explain, `學測${year} 第 ${q.no} 題缺解析`);
-      assert.ok(q.explain.trim().length >= 12, `學測${year} 第 ${q.no} 題解析過短`);
+      assert.ok(q.explain, `${era}${year} 第 ${q.no} 題缺解析`);
+      assert.ok(q.explain.trim().length >= 12, `${era}${year} 第 ${q.no} 題解析過短`);
       assert.doesNotMatch(q.explain, /TODO|待補|待確認|undefined|null/i);
     }
   }
