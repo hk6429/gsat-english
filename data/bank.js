@@ -3525,7 +3525,65 @@ window.BANK.push({
 /* g103.js */
 // 103 學年度學科能力測驗英文考科（單選題 56 題）；題目與答案取自大考中心官方資料。
 (() => {
-  const q=(no,cat,tags,textType,answer,stem,options,group)=>({no,cat,tags,lang:group?"題組":"單題",textType,answer,stem,options,...(group?{group}:{})});
+  const explanations={
+    1:"迷路又害怕的小狗沿街四處走、尋找主人，wandered 表示「漫無目的地走動」。",
+    2:"脫鞋後以沒有覆蓋的雙腳走在草地上，bare feet 是「赤腳」。",
+    3:"在網路散播謠言不只違法，也違反道德；morally wrong 表示「在道德上錯誤」。",
+    4:"暖身運動讓緊繃肌肉放鬆以避免受傷，loosen 表示「使放鬆、鬆開」。",
+    5:"Mei-ling 做重要決定前會徵詢父母意見，consult 表示「請教、諮詢」。",
+    6:"每人最低收費 250 元，四人至少付一千元；minimum charge 是「最低消費」。",
+    7:"書展參展者會陳列教科書、小說與漫畫，display 表示「展示」。",
+    8:"上臺前深呼吸以平靜情緒，take a deep breath 是固定搭配。",
+    9:"多數年輕人不以高中畢業證書為滿足，diploma 表示「畢業文憑」。",
+    10:"垃圾不可不經分類就直接丟入垃圾桶，straight 在此作副詞表示「直接地」。",
+    11:"站在梯子上失去平衡而摔落，lose one’s balance 是「失去平衡」。",
+    12:"若招生持續下降，部分學程可能被撤除以降低成本，eliminated 表示「被取消、淘汰」。",
+    13:"沒有使用現代方法，表示採用原始農法；primitive 表示「原始的」。",
+    14:"敘利亞爆發內戰後政府發布旅遊警示，travel alert 是「旅遊警示」。",
+    15:"熊貓寶寶受輕傷、與母親分開後由保育員照料，tended 表示「照顧」。",
+    16:"第一位旅人形容家鄉人友善且說自己愛他們，語氣應是微笑著 Smiling 回答。",
+    17:"Aesop 聽到這番回答後很高興，At this 表示「聽到／看到這件事時」。",
+    18:"數小時後又有另一位旅人到來，another 表示「另一個」，接單數名詞。",
+    19:"第二位旅人問相同問題，Aesop 也再次提出相同要求，Again 表示「再次」。",
+    20:"unfriendly 與 vicious 都是負面性格，中間應為 mean「刻薄的」。",
+    21:"遊客受海明威對古老冰河的描寫吸引，descriptions 表示「描述」。",
+    22:"冰雪將融化消失，因此這項觀光景點也會消失；vanish 表示「消失」。",
+    23:"研究預測冰雪到 2020 年很可能消失，be likely to V 表示「很可能……」。",
+    24:"若沒有峰頂積雪，山下動植物便缺少水分；Without 表示「沒有」。",
+    25:"氣溫上升造成積雪流失，因而威脅生態；thus 表示「因此」。",
+    26:"題目問人們做決定前是否徹底檢視重要因素，examined 表示「仔細檢查」。",
+    27:"無論是主管、專家或一般人都不會考慮得很周全，whether A, B, or C 表示「不論是……」。",
+    28:"很少人能在短時間把所有可能與結果都納入考量，take into account 表示「考慮」。",
+    29:"前句說果斷者努力事先考量，後句卻說常在完成前便決定，However 表示轉折。",
+    30:"一旦形成意見，之後思考多是在找支持；once 表示「一旦」。",
+    31:"沿用親人名字是為表達尊敬或紀念，show respect for 表示「對……表示敬意」。",
+    32:"把父親名字傳給長子是家族傳統，passing down 表示「傳承」。",
+    33:"把姓氏納入名字是為讓家族姓氏延續，keep...going 表示「使……持續」。",
+    34:"後文列出聖經人物與基督教美德名字，說明宗教 religion 長期影響命名。",
+    35:"喜愛自然者偏好涉及美麗事物的名字，involving 表示「包含、涉及」。",
+    36:"Heather、Rosemary、Iris 都屬花草名稱，fall into this category 表示「歸入此類」。",
+    37:"媒體文化傳播對命名選擇造成重大影響，have an impact on 是固定搭配。",
+    38:"因深受書或影集角色吸引而取同名，be drawn to 表示「被……吸引」。",
+    39:"外國名字較少見，可讓孩子顯得獨特且與眾不同，unique 與 distinctive 呼應。",
+    40:"有人只喜歡名字的聲音，不考慮意義、來源或流行度；regardless of 表示「不論」。",
+    41:"全文依時間介紹 Toni Morrison 的成長、婚姻、寫作歷程與獲獎，主旨是這位非裔美國作家的生平，選 B。",
+    42:"第二段說婚姻開始失敗，她為暫時逃離困境而加入寫作小組，因此選 D。",
+    43:"Song of Solomon 描寫非裔男子在自身文化中尋找身分，呈現追尋非裔美國價值與認同的主題，選 A。",
+    44:"末段明說她是第一位獲諾貝爾文學獎的非裔美國女性，因此在她之前沒有任何人獲此殊榮，選 D。",
+    45:"外界好奇三兄弟為何都成功，「媽媽在麥片裡加了什麼」是玩笑式追問教養成功孩子的祕訣，選 A。",
+    46:"Zeke 沒有電視、車，也不用 Facebook 或 Twitter，顯示許多現代便利並非生活必需，選 C。",
+    47:"他說永遠不要停在上一次勝利，總有更多事可做，表示成功後仍持續向前，選 D。",
+    48:"他預測兄弟五年後仍做相同工作，三人也不會去遊輪或海灘休息，重點是近期不會有太大改變，選 B。",
+    49:"MOOCs 免費對 cash-strapped students 是好消息，故 cash-strapped 指缺錢、手頭拮据，選 B。",
+    50:"MOOCs 可免費、名校教授開課且同時容納大量學生；人工智慧只是早期例子，不是多數課程主題，NOT 題選 C。",
+    51:"第二段從首門大型課程談到大學數量、免費教育與學生負擔，核心是 MOOCs 對高教的影響，選 A。",
+    52:"批評者認為線上課無法取代師生真實對話，學生也會錯過大學社交面向，問題是缺乏社會互動，選 D。",
+    53:"V2V 交換車輛位置、速度與方向，使彼此保持安全距離以減少事故，選 C。",
+    54:"V2I 讓車與道路標誌、交通號誌及交通管理系統溝通，infrastructure 指這些交通設施與資訊系統，選 A。",
+    55:"文中提到老人、身障者與盲人可安全移動，也可在通勤中工作休息；賽車不是潛在效益，NOT 題選 C。",
+    56:"V2V、V2I 可降低約八成碰撞，完全自駕又排除人為操作風險，可推論未來可能趨近無車禍時代，選 B。"
+  };
+  const q=(no,cat,tags,textType,answer,stem,options,group)=>({no,cat,tags,lang:group?"題組":"單題",textType,answer,stem,options,...(group?{group}:{}),...(explanations[no]?{explain:explanations[no]}:{})});
   const naming={A:"drawn to",B:"fall into",C:"impact",D:"involving",E:"keep",F:"passing down",G:"regardless",H:"religion",I:"respect",J:"unique"};
   window.BANK=window.BANK||[];
   window.BANK.push({year:103,era:"學測",groups:{
@@ -3612,6 +3670,64 @@ The young will not have to pay crippling motor insurance, because their reckless
 // 102 學年度學科能力測驗英文考科（單選題 56 題）
 // 題目與答案取自大學入學考試中心官方試題、答案。
 (function () {
+  const explanations = {
+    1: "比賽因大雨延到下週六，postponed 表示「延期」；不是永久取消。",
+    2: "網路成為最重要新聞來源，取代了報紙；replace A as B 表示「取代 A 成為 B」。",
+    3: "Joy 存夠錢後預訂兩趟暑期旅行，book a trip 表示「預訂旅程」。",
+    4: "尚未完全理解提案，無法加以評論；make a comment on 是「對……發表意見」。",
+    5: "Betty 認為自己能想出更好點子，所以不情願接受朋友建議；reluctant 表示「不情願的」。",
+    6: "銀行希望即時為顧客提供服務，prompt service 是「迅速、即時的服務」。",
+    7: "在餐廳打工能為日後經營自己的餐廳做好準備，preparation for 是「為……做準備」。",
+    8: "流行每季改變，constantly changing 表示「不斷變化」。",
+    9: "海鷗的群體量詞是 a flock of seagulls「一群海鷗」。",
+    10: "書讓人發笑並放鬆，表示內容有娛樂性；entertaining 是「有趣、娛樂人的」。",
+    11: "整天用電腦造成頸肩僵硬到無法轉頭，stiff 表示「僵硬的」。",
+    12: "流感疫苗讓身體建立對抗致病病毒的保護力，virus 表示「病毒」。",
+    13: "統治者死後王國開始瓦解，隨即被鄰國接管；collapse 表示「崩潰、瓦解」。",
+    14: "雖然去年落敗，他沒有感到挫折而繼續苦練；frustrated 表示「受挫的」。",
+    15: "夫妻偏好會做飯的住家保母，preferably 表示「最好是、較理想地」。",
+    16: "此處指「接收來電的號碼」，number 與 call 為被動關係，故用 being called。",
+    17: "區碼同區時可能不用撥，另一方面本地號碼必須完整撥出；on the other hand 表示對照。",
+    18: "號碼依 XYX 的格式建立，in the format of 是固定搭配。",
+    19: "紐約被分配到 212 區碼，be assigned＋事物表示「被分配」。",
+    20: "後文說同區電話費率通常較低，顯示區碼決定通話費用 cost。",
+    21: "The＋比較級..., the＋比較級... 表示「越……，就越……」，故為 The rarer a coin is。",
+    22: "千年古幣仍可能很便宜，說明稀有程度與硬幣年代 age 關係不大。",
+    23: "千年古幣因數量多而便宜，1913 鎳幣因僅五枚而昂貴，while 表示兩者對比。",
+    24: "收藏需求會大幅影響硬幣價格，greatly influence 表示「大大影響」。",
+    25: "前者是 1798 dime，後者是 1916 dime；the latter 指後者。",
+    26: "Binet 研究正常心智如何運作，而非精神疾病本質，normal 與 mental illness 形成對照。",
+    27: "have＋受詞＋原形動詞是使役結構；he had children do tasks 表示「讓孩子執行任務」。",
+    28: "智力量尺以所蒐集的法國兒童資料為基礎，based on 表示「根據」。",
+    29: "若七成八歲兒童能通過，則在測驗中成功代表八歲智力水準，success 最符合語意。",
+    30: "with＋名詞＋V-ing 構成附帶狀況，with 100 being the average 表示「以 100 為平均值」。",
+    31: "珊瑚礁暗處讓魚產卵並躲避掠食者，escape from predators 表示「逃離天敵」。",
+    32: "失去棲地的物種可能瀕危甚至完全消失，endangered 表示「瀕臨絕種的」。",
+    33: "世上雖有數千珊瑚礁，令人遺憾的是如今面臨危險；sadly 表達負面評價。",
+    34: "超過三分之一可能十年內死亡，有些甚至撐不了那麼久；last 表示「持續、存活」。",
+    35: "尚有許多疑問，但三個主要原因已被確認，identified 表示「辨識、確認」。",
+    36: "河川溪流把污染物帶進海洋，carry 表示「攜帶」。",
+    37: "毒物使珊瑚變弱，對疾病的抵抗力下降；resistance to 是「對……的抵抗力」。",
+    38: "藻類死亡後珊瑚失去顏色，最後也會死亡；eventually 表示「最終」。",
+    39: "最後一項導致珊瑚礁消失的因素是人類，disappearance 表示「消失」。",
+    40: "有人因珊瑚鮮豔美麗而折下收藏作紀念品，souvenirs 表示「紀念品」。",
+    41: "文章從瑞士軍方需求、Elsener 設計到名稱流傳，目的在說明瑞士刀的起源，選 A。",
+    42: "It was a lifesaver 承接軍方決定為每位士兵配發多功能刀，這項需求拯救了受德國進口品競爭的瑞士刀商，選 A。",
+    43: "軍方認為新款的開瓶器並非生存必需，所以未配發給軍官，選 D。",
+    44: "美軍覺得 Schweizer Offizier Messer 太難念，便直接稱為 Swiss army knife，因此選 C。",
+    45: "1964 年停止運作、失去地面聯繫的 Vanguard I 衛星是第一件太空垃圾，選 D。",
+    46: "Vanguard I 雖持續繞地球運行卻未造成任何後果，使科學家起初不擔心，選 C。",
+    47: "太空垃圾可能撞擊運作中的衛星並損害太空船，因此會對太空梭造成問題，選 D。",
+    48: "地面站已建成，用來監控較大型垃圾並避免碰撞；密切監看是已執行的措施，選 B。",
+    49: "美國未滿 21 歲者體內只要有任何酒精便不得駕車，所以合法濃度是 0.000%，選 A。",
+    50: "研究測量能量飲料酒精含量並比較不同時間的呼氣結果，目的是找出飲料與 ABT 結果的關係，選 B。",
+    51: "受試者喝完整罐飲料後，分別在一分鐘與十五分鐘接受酒精呼氣測試，選 C。",
+    52: "一分鐘內可能驗出，十五分鐘後全都驗不出，顯示測試時間是最重要因素，選 D。",
+    53: "第一段說婚姻狀態只是一般解讀，這項習俗主要與印度教相關，因此最初是表達宗教信仰，選 B。",
+    54: "第三眼向內聚焦於神，bindi 提醒信徒把神放在思想前端，意義是敬神，選 C。",
+    55: "印度教相信紅色能為已婚夫婦帶來好運，因此傳統 bindi 採紅色，選 D。",
+    56: "現代 bindi 有各種尺寸、顏色與貼紙形式，已更像時尚宣言與裝飾品，選 B。"
+  };
   const groups = {
     G1: {
       title: "Telephone area codes",
@@ -3646,11 +3762,11 @@ The young will not have to pay crippling motor insurance, because their reckless
       passage: `<p>The majority of Indian women wear a red dot between their eyebrows. While it is generally taken as an indicator of their marital status, the practice is primarily related to the Hindu religion. The dot goes by different names in different Hindi dialects, and “bindi” is the one that is most commonly known. Traditionally, the dot carries no gender restriction: Men as well as women wear it. However, the tradition of men wearing it has faded in recent times, so nowadays we see a lot more women than men wearing one.</p><p>The position of the bindi is standard: center of the forehead, close to the eyebrows. It represents a third, or inner eye. Hindu tradition holds that all people have three eyes: The two outer ones are used for seeing the outside world, and the third one is there to focus inward toward God. As such, the dot signifies piety and serves as a constant reminder to keep God in the front of a believer’s thoughts.</p><p>Red is the traditional color of the dot. It is said that in ancient times a man would place a drop of blood between his wife’s eyes to seal their marriage. According to Hindu beliefs, the color red is believed to bring good fortune to the married couple. Today, people go with different colors depending upon their preferences. Women often wear dots that match the color of their clothes. Decorative or sticker bindis come in all sizes, colors and variations, and can be worn by young and old, married and unmarried people alike. Wearing a bindi has become more of a fashion statement than a religious custom.</p>`
     }
   };
-  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options});
-  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options});
+  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options,explain:explanations[no]});
+  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options,explain:explanations[no]});
   const FILL={A:"resistance",B:"identified",C:"last",D:"escape",E:"sadly",F:"eventually",G:"disappearance",H:"souvenirs",I:"endangered",J:"carry"};
-  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL});
-  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options});
+  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL,explain:explanations[no]});
+  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options,explain:explanations[no]});
   const questions=[
     V(1,"B","It rained so hard yesterday that the baseball game had to be ______ until next Saturday.",{A:"surrendered",B:"postponed",C:"abandoned",D:"opposed"}),
     V(2,"C","As more people rely on the Internet for information, it has ______ newspapers as the most important source of news.",{A:"distributed",B:"subtracted",C:"replaced",D:"transferred"}),
