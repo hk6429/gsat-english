@@ -1,6 +1,64 @@
 // 100 學年度學科能力測驗英文考科（單選題 56 題）
 // 題目與答案取自大學入學考試中心官方試題、參考答案。
 (function () {
+  const explanations = {
+    1: "每位新生只有一分鐘向全班自我介紹，必須簡短進行；briefly 表示「簡短地」。",
+    2: "深棕外套穿久後變成淺棕色，faded 表示「褪色」。",
+    3: "全公司的人都喜歡與 Jason 共事，表示他是理想、令人想合作的 desirable partner。",
+    4: "眼睛對光敏感，直視太陽會造成傷害；directly 表示「直接地」。",
+    5: "天候不佳迫使週末野餐計畫取消，cancel 表示「取消」。",
+    6: "三位競選市長的人都是 candidates「候選人」。",
+    7: "酒駕屬違反交通法規，violate a law 表示「違法、違反法律」。",
+    8: "申請大學包含多個連續步驟，是漫長過程；process 表示「過程」。",
+    9: "演講吸引觀眾高度注意，attract attention 是固定搭配。",
+    10: "辦公室每個人都必須參加，不能有例外；exceptions 表示「例外」。",
+    11: "把檸檬汁擠入碗中，squeeze the juice 表示「擠出果汁」。",
+    12: "泰國九成人口是佛教徒，顯示佛教是占優勢的 dominant religion。",
+    13: "先看目錄以了解章節內容，table of contents 是「目錄」。",
+    14: "孩子看到小丑後開心大笑、尖叫、拍手，delighted 表示「欣喜的」。",
+    15: "此次雨量大幅高於該季通常水準，average rainfall 是「平均雨量」。",
+    16: "古埃及人相信死後生命，life after death 是固定搭配。",
+    17: "靈魂在冥界經歷一連串審判，go through 表示「經歷」。",
+    18: "為讓靈魂順利旅行，身體必須保持完好；remain＋形容詞表示「維持某狀態」。",
+    19: "by 後列出 drying、oiling、wrapping 三個平行動名詞，故選 wrapping。",
+    20: "金字塔存放法老遺體與陪葬珍寶，因此是國王的陵墓 tombs。",
+    21: "首演發生於過去且 MAMMA MIA! 是接受歡迎，故用過去式被動 was given。",
+    22: "超過三千萬名世界各地觀眾喜愛，表示它成為全球 global 娛樂現象。",
+    23: "比較同類中的其他音樂劇，than any other musical 表示「比任何其他音樂劇」。",
+    24: "that 引導關係子句修飾 way，說明這種呈現方式仍保留流行樂與音樂劇本質。",
+    25: "吸引許多人後才拍成電影，appeal to people 表示「吸引人、投合喜好」。",
+    26: "前者是 water，後者是 diamonds；the latter 指後者鑽石，價格更高。",
+    27: "鑽石是稀有資源，供給有限；be limited in supply 表示「供應有限」。",
+    28: "這種行為在經濟學中「被稱為」炫耀性消費，termed 為過去分詞補充說明。",
+    29: "空格引導名詞子句並在其中作主詞，what causes... 表示「造成……的事物」。",
+    30: "這是假設與現況相反的條件句，if 子句用過去式 were，主句用 would。",
+    31: "爆米花是常見且受歡迎的電影點心，popular snack 符合上下文。",
+    32: "研究指出微波爆米花物質可能造成健康問題，health problems 是自然搭配。",
+    33: "PFOA 是用來塗覆包裝袋的化學物質，chemical 表示「化學品」。",
+    34: "人工奶油替代品通常隨微波爆米花附上，comes with 表示「隨附」。",
+    35: "該調味物質被認為是嚴重肺病的原因，be responsible for 表示「導致、對……負責」。",
+    36: "自己爆玉米花既簡單又較健康，healthy alternative 是「健康的替代方案」。",
+    37: "後面列出所需物品，All that is needed 表示「所需要的一切」。",
+    38: "玉米粒開始爆開時要搖鍋，start popping 表示「開始爆裂」。",
+    39: "爆裂聲變慢便把鍋子移開爐火，remove A from B 表示「從 B 移開 A」。",
+    40: "只加少量真正奶油或橄欖油，a small amount of 接不可數名詞。",
+    41: "第三段指出慢且充滿停頓、錯誤的說話方式比快語更可靠地顯示說謊，因此選 C。",
+    42: "第一段說多數人只對數秒眼神接觸感到自在，更久會緊張，選 C。",
+    43: "文章談眼神接觸、肢體觸碰與說話速度，沒有討論臉部表情，NOT 題選 A。",
+    44: "三段都先提出常見溝通信念，再用研究或事實指出可能相反，主旨是這些信念不總正確，選 D。",
+    45: "Maasai 青年會用矛刺動物，因此對大象構成威脅；Kamba 主要務農，選 A。",
+    46: "大象聞到 Maasai 穿過的衣服便較快遠離且較久才放鬆，顯示聞到敵人會害怕逃走，選 D。",
+    47: "全文以實驗說明大象如何用衣服氣味與紅色視覺判斷威脅，主旨選 A。",
+    48: "大象把 Maasai 的氣味與紅衣視為危險，反應源自過往經驗所形成的辨識，可推論牠們會從經驗學習，選 A。",
+    49: "籃球傷勢讓 Deborah 轉而投入物理治療、幫助他人，最適合標題是人生的新方向，選 D。",
+    50: "傷勢終結她期待已久的賽季與籃球目標，後文又寫無助地坐在場邊，可推知她感到失望，選 D。",
+    51: "第二段明說她側移阻擋對手時膝蓋受傷倒地，選 B。",
+    52: "頻繁接受物理治療讓她找到新志向：攻讀物理治療並教人照顧身體、面對無助，選 A。",
+    53: "一億年前北美氣候更溼潤且屬熱帶，因此紅杉分布更廣，選 C。",
+    54: "母樹死亡後，基部嫩芽長成完整樹木並環繞原樹形成 fairy ring，選 D。",
+    55: "厚樹皮能保護老樹免受昆蟲侵害，也能隔絕中度火災；題目所列功能選 B。",
+    56: "樹皮厚且耐火，使樹心在森林火災中保持完整，這種抗火性解釋紅杉長壽，選 C。"
+  };
   const groups = {
     G1: {
       title: "Ancient Egyptian beliefs and burial practices",
@@ -35,11 +93,11 @@
       passage: `<p>Redwood trees are the tallest plants on the earth, reaching heights of up to 100 meters. They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years. A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America. As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.</p><p>The trunk of redwood trees is very stout and usually forms a single straight column. It is covered with a beautiful soft, spongy bark. This bark can be pretty thick, well over two feet in the more mature trees. It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness. This fire resistant quality explains why the giant redwood grows to live that long. While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them. Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.</p><p>New trees are often produced from sprouts, little baby trees, which form at the base of the trunk. These sprouts grow slowly, nourished by the root system of the “mother” tree. When the main tree dies, the sprouts are then free to grow as full trees, forming a “fairy ring” of trees around the initial tree. These trees, in turn, may give rise to more sprouts, and the cycle continues.</p>`
     }
   };
-  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options});
-  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options});
+  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options,explain:explanations[no]});
+  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options,explain:explanations[no]});
   const FILL={A:"chemical",B:"amount",C:"popping",D:"popular",E:"comes",F:"healthy",G:"needed",H:"responsible",I:"remove",J:"problems"};
-  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL});
-  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options});
+  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL,explain:explanations[no]});
+  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options,explain:explanations[no]});
   const questions=[
     V(1,"A","All the new students were given one minute to ______ introduce themselves to the whole class.",{A:"briefly",B:"famously",C:"gradually",D:"obviously"}),
     V(2,"B","His dark brown jacket had holes in the elbows and had ______ to light brown, but he continued to wear it.",{A:"cycled",B:"faded",C:"loosened",D:"divided"}),

@@ -200,7 +200,7 @@ test("題庫不含 Word 欄位碼或轉檔雜訊", () => {
 });
 
 test("已完成解析批次逐題完整", () => {
-  for (const year of [109, 107, 106, 104, 103, 102]) {
+  for (const year of [109, 107, 106, 104, 103, 102, 100, 99]) {
     const item = banks.find(candidate => candidate.era === "學測" && candidate.year === year);
     assert.ok(item);
     assert.equal(item.questions.length, 56);

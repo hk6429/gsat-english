@@ -4215,6 +4215,64 @@ window.BANK.push({
 // 100 學年度學科能力測驗英文考科（單選題 56 題）
 // 題目與答案取自大學入學考試中心官方試題、參考答案。
 (function () {
+  const explanations = {
+    1: "每位新生只有一分鐘向全班自我介紹，必須簡短進行；briefly 表示「簡短地」。",
+    2: "深棕外套穿久後變成淺棕色，faded 表示「褪色」。",
+    3: "全公司的人都喜歡與 Jason 共事，表示他是理想、令人想合作的 desirable partner。",
+    4: "眼睛對光敏感，直視太陽會造成傷害；directly 表示「直接地」。",
+    5: "天候不佳迫使週末野餐計畫取消，cancel 表示「取消」。",
+    6: "三位競選市長的人都是 candidates「候選人」。",
+    7: "酒駕屬違反交通法規，violate a law 表示「違法、違反法律」。",
+    8: "申請大學包含多個連續步驟，是漫長過程；process 表示「過程」。",
+    9: "演講吸引觀眾高度注意，attract attention 是固定搭配。",
+    10: "辦公室每個人都必須參加，不能有例外；exceptions 表示「例外」。",
+    11: "把檸檬汁擠入碗中，squeeze the juice 表示「擠出果汁」。",
+    12: "泰國九成人口是佛教徒，顯示佛教是占優勢的 dominant religion。",
+    13: "先看目錄以了解章節內容，table of contents 是「目錄」。",
+    14: "孩子看到小丑後開心大笑、尖叫、拍手，delighted 表示「欣喜的」。",
+    15: "此次雨量大幅高於該季通常水準，average rainfall 是「平均雨量」。",
+    16: "古埃及人相信死後生命，life after death 是固定搭配。",
+    17: "靈魂在冥界經歷一連串審判，go through 表示「經歷」。",
+    18: "為讓靈魂順利旅行，身體必須保持完好；remain＋形容詞表示「維持某狀態」。",
+    19: "by 後列出 drying、oiling、wrapping 三個平行動名詞，故選 wrapping。",
+    20: "金字塔存放法老遺體與陪葬珍寶，因此是國王的陵墓 tombs。",
+    21: "首演發生於過去且 MAMMA MIA! 是接受歡迎，故用過去式被動 was given。",
+    22: "超過三千萬名世界各地觀眾喜愛，表示它成為全球 global 娛樂現象。",
+    23: "比較同類中的其他音樂劇，than any other musical 表示「比任何其他音樂劇」。",
+    24: "that 引導關係子句修飾 way，說明這種呈現方式仍保留流行樂與音樂劇本質。",
+    25: "吸引許多人後才拍成電影，appeal to people 表示「吸引人、投合喜好」。",
+    26: "前者是 water，後者是 diamonds；the latter 指後者鑽石，價格更高。",
+    27: "鑽石是稀有資源，供給有限；be limited in supply 表示「供應有限」。",
+    28: "這種行為在經濟學中「被稱為」炫耀性消費，termed 為過去分詞補充說明。",
+    29: "空格引導名詞子句並在其中作主詞，what causes... 表示「造成……的事物」。",
+    30: "這是假設與現況相反的條件句，if 子句用過去式 were，主句用 would。",
+    31: "爆米花是常見且受歡迎的電影點心，popular snack 符合上下文。",
+    32: "研究指出微波爆米花物質可能造成健康問題，health problems 是自然搭配。",
+    33: "PFOA 是用來塗覆包裝袋的化學物質，chemical 表示「化學品」。",
+    34: "人工奶油替代品通常隨微波爆米花附上，comes with 表示「隨附」。",
+    35: "該調味物質被認為是嚴重肺病的原因，be responsible for 表示「導致、對……負責」。",
+    36: "自己爆玉米花既簡單又較健康，healthy alternative 是「健康的替代方案」。",
+    37: "後面列出所需物品，All that is needed 表示「所需要的一切」。",
+    38: "玉米粒開始爆開時要搖鍋，start popping 表示「開始爆裂」。",
+    39: "爆裂聲變慢便把鍋子移開爐火，remove A from B 表示「從 B 移開 A」。",
+    40: "只加少量真正奶油或橄欖油，a small amount of 接不可數名詞。",
+    41: "第三段指出慢且充滿停頓、錯誤的說話方式比快語更可靠地顯示說謊，因此選 C。",
+    42: "第一段說多數人只對數秒眼神接觸感到自在，更久會緊張，選 C。",
+    43: "文章談眼神接觸、肢體觸碰與說話速度，沒有討論臉部表情，NOT 題選 A。",
+    44: "三段都先提出常見溝通信念，再用研究或事實指出可能相反，主旨是這些信念不總正確，選 D。",
+    45: "Maasai 青年會用矛刺動物，因此對大象構成威脅；Kamba 主要務農，選 A。",
+    46: "大象聞到 Maasai 穿過的衣服便較快遠離且較久才放鬆，顯示聞到敵人會害怕逃走，選 D。",
+    47: "全文以實驗說明大象如何用衣服氣味與紅色視覺判斷威脅，主旨選 A。",
+    48: "大象把 Maasai 的氣味與紅衣視為危險，反應源自過往經驗所形成的辨識，可推論牠們會從經驗學習，選 A。",
+    49: "籃球傷勢讓 Deborah 轉而投入物理治療、幫助他人，最適合標題是人生的新方向，選 D。",
+    50: "傷勢終結她期待已久的賽季與籃球目標，後文又寫無助地坐在場邊，可推知她感到失望，選 D。",
+    51: "第二段明說她側移阻擋對手時膝蓋受傷倒地，選 B。",
+    52: "頻繁接受物理治療讓她找到新志向：攻讀物理治療並教人照顧身體、面對無助，選 A。",
+    53: "一億年前北美氣候更溼潤且屬熱帶，因此紅杉分布更廣，選 C。",
+    54: "母樹死亡後，基部嫩芽長成完整樹木並環繞原樹形成 fairy ring，選 D。",
+    55: "厚樹皮能保護老樹免受昆蟲侵害，也能隔絕中度火災；題目所列功能選 B。",
+    56: "樹皮厚且耐火，使樹心在森林火災中保持完整，這種抗火性解釋紅杉長壽，選 C。"
+  };
   const groups = {
     G1: {
       title: "Ancient Egyptian beliefs and burial practices",
@@ -4249,11 +4307,11 @@ window.BANK.push({
       passage: `<p>Redwood trees are the tallest plants on the earth, reaching heights of up to 100 meters. They are also known for their longevity, typically 500 to 1000 years, but sometimes more than 2000 years. A hundred million years ago, in the age of dinosaurs, redwoods were common in the forests of a much more moist and tropical North America. As the climate became drier and colder, they retreated to a narrow strip along the Pacific coast of Northern California.</p><p>The trunk of redwood trees is very stout and usually forms a single straight column. It is covered with a beautiful soft, spongy bark. This bark can be pretty thick, well over two feet in the more mature trees. It gives the older trees a certain kind of protection from insects, but the main benefit is that it keeps the center of the tree intact from moderate forest fires because of its thickness. This fire resistant quality explains why the giant redwood grows to live that long. While most other types of trees are destroyed by forest fires, the giant redwood actually prospers because of them. Moderate fires will clear the ground of competing plant life, and the rising heat dries and opens the ripe cones of the redwood, releasing many thousands of seeds onto the ground below.</p><p>New trees are often produced from sprouts, little baby trees, which form at the base of the trunk. These sprouts grow slowly, nourished by the root system of the “mother” tree. When the main tree dies, the sprouts are then free to grow as full trees, forming a “fairy ring” of trees around the initial tree. These trees, in turn, may give rise to more sprouts, and the cycle continues.</p>`
     }
   };
-  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options});
-  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options});
+  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options,explain:explanations[no]});
+  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options,explain:explanations[no]});
   const FILL={A:"chemical",B:"amount",C:"popping",D:"popular",E:"comes",F:"healthy",G:"needed",H:"responsible",I:"remove",J:"problems"};
-  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL});
-  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options});
+  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL,explain:explanations[no]});
+  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options,explain:explanations[no]});
   const questions=[
     V(1,"A","All the new students were given one minute to ______ introduce themselves to the whole class.",{A:"briefly",B:"famously",C:"gradually",D:"obviously"}),
     V(2,"B","His dark brown jacket had holes in the elbows and had ______ to light brown, but he continued to wear it.",{A:"cycled",B:"faded",C:"loosened",D:"divided"}),
@@ -4319,7 +4377,65 @@ window.BANK.push({
 /* g99.js */
 // 99 學年度學科能力測驗英文考科（單選題 56 題）；題目與答案取自大考中心官方資料。
 (() => {
-  const q=(no,cat,tags,textType,answer,stem,options,group)=>({no,cat,tags,lang:group?"題組":"單題",textType,answer,stem,options,...(group?{group}:{})});
+  const explanations={
+    1:"每年至少出版五本小說，顯示林先生創作產量高；productive 表示「多產的」。",
+    2:"熱敷或溫水澡可減輕下背痛，relieve pain 是「緩解疼痛」。",
+    3:"熬夜後喝咖啡是為在課堂保持清醒，keep oneself awake 表示「使自己保持清醒」。",
+    4:"相同商品如今價格上升，是通貨膨脹 inflation 的結果。",
+    5:"政府擔心部落文化消失而努力保存，preserve 表示「保護、保存」。",
+    6:"麵包香味令人難以抗拒，resist 表示「抵抗、忍住」。",
+    7:"每天有多場會議，工作時程非常緊湊；tight schedule 是「緊湊的行程」。",
+    8:"Phelps 在奧運男子游泳競賽中破紀錄並奪牌，contests 表示「比賽」。",
+    9:"學生在孤兒院服務且不領薪，on a voluntary basis 表示「以志願方式」。",
+    10:"倒垃圾、洗碗是家務 chores。",
+    11:"老闆已責罵十分鐘，顯然不滿 John 再次遲到；Apparently 表示「顯然」。",
+    12:"暴風雨使橘子樹受嚴重損害，導致收成大減；severe damage 是「嚴重損害」。",
+    13:"莫拉克颱風奪走六百多人性命，是重大天然災害；disaster 表示「災難」。",
+    14:"只有 Robert 目擊車禍，警方需靠他還原經過；witness 表示「目擊者」。",
+    15:"傷勢嚴重到幾乎無法移動雙腿，scarcely 表示「幾乎不」。",
+    16:"母女最後買了同一條牛仔褲，end up V-ing 表示「最後結果是……」。",
+    17:"二十出頭者熟悉各品牌與趨勢，是資訊更充分的 informed consumers。",
+    18:"想掌握流行的母親會向女兒求助，turn to somebody 表示「轉向某人尋求協助」。",
+    19:"要讓母親掏錢購買，先贏得女兒認同；pocketbook 在此指「錢包、消費支出」。",
+    20:"百貨公司吸引中年女性，同時沒有失去年輕客群；without 表示「沒有」。",
+    21:"新鮮洋蔥有黃、紅、白三種顏色，available in＋顏色表示「有……顏色可選」。",
+    22:"薄而淺色的外皮可用來辨認新鮮洋蔥，be identified by 表示「藉由……辨認」。",
+    23:"make it easier for A to V 是虛受詞結構，it 代替後面的 to bruise。",
+    24:"儲藏洋蔥皮厚、深色，與新鮮洋蔥不同；Unlike 表示「不像」。",
+    25:"儲藏洋蔥適合重口味菜餚，表示味道較強烈；intense flavor 是「濃烈風味」。",
+    26:"塑膠加工可能釋出有害物，讓瓶裝水潛在威脅健康；health-threatening 表示「危害健康的」。",
+    27:"can 後並列 be absorbed 與 cause，故用原形 cause，表示化學物造成身體不適。",
+    28:"因為儲運資訊不一定容易取得，瓶裝水未必比自來水好；Since 表示原因。",
+    29:"前文談塑膠化學物與儲存細菌的健康風險，these safety issues 指這些安全問題。",
+    30:"大量塑膠瓶未回收並長留掩埋場，形成固體廢棄物 solid waste。",
+    31:"足球不只是運動，也是教導合作與公民角色的珍貴老師，teacher 為比喻用法。",
+    32:"球員在練習場上合作，practice field 表示「練習場」。",
+    33:"足球教人合作，使他們成為更好的公民與個人，better 最符合比較語意。",
+    34:"團隊只有靠每位成員合作才能獲勝，cooperation 表示「合作」。",
+    35:"團隊合作是球員在場上必須永遠記住的教訓，remember 表示「記得」。",
+    36:"球員不把自己視為可與社會隔絕的孤狼，isolated from 表示「與……隔離」。",
+    37:"身為社會成員就必須以相應方式行事，behave oneself 表示「守規矩、合宜行事」。",
+    38:"每個人透過合作盡自己的一份力量，do one’s share 表示「盡本分」。",
+    39:"文章強調現代生活必須團隊合作，essential 表示「不可或缺的」。",
+    40:"每位公民盡責，國家才能繁榮；prosper 表示「繁榮」。",
+    41:"文章介紹紐西蘭特有昆蟲的生物特徵、棲地與保育，也可能見於科普或旅遊資料，最不可能出自商業期刊，選 D。",
+    42:"weta 名稱意為「醜陋之神」，文章也說多數人一見便反感，因此外觀不討喜，選 A。",
+    43:"weta 遭外來老鼠捕食且已瀕危，表示數量正在下降，選 C。",
+    44:"native species 不習慣「牠的存在」中的 its 指前面進入島上的 rat，選 A。",
+    45:"第二段說家長與教育者把舞會視為學習社交技巧的重要課程，因此選 C。",
+    46:"第三段從早期校內簡樸舞會談到八○年代昂貴禮服、豪華車與餐廳，主旨是由樸素轉為華麗，選 D。",
+    47:"傳統舞會讓社交不自在、沒有舞伴或有特殊處境的學生感到痛苦，因此出現另類舞會滿足其需求，選 D。",
+    48:"舞會在 1920 年代出現，1930 年代已遍及全美，顯示自 1930 年代成為高中重要活動，選 C。",
+    49:"第二段從 1953 年的 Intervac 談到網路平台成長與會員增加，核心是換屋日益普及，選 B。",
+    50:"HomeExchange bills itself as the world’s largest club，bills itself as 表示「自我宣傳為」，最接近 advertises，選 A。",
+    51:"第三段明說第一次聯繫透過電子郵件，後續才通常用電話，選 B。",
+    52:"網站建議事前討論並填寫責任協議，以處理偷竊或損壞疑慮，選 C。",
+    53:"文章提到高海拔稀薄空氣、日常長跑與長腿體型，沒有把知名教練列為成就因素，NOT 題選 A。",
+    54:"Bekoji 位於接近一萬英尺高的火山側坡，因此選 C。",
+    55:"孩子都夢想成為另一位奧運冠軍 Derartu Tulu，也就是在國際賽事獲勝，選 B。",
+    56:"成功榜樣吸引周邊數千孩子到鎮上訓練並懷抱冠軍夢，可推論未來還會有更多長跑好手出現，選 A。"
+  };
+  const q=(no,cat,tags,textType,answer,stem,options,group)=>({no,cat,tags,lang:group?"題組":"單題",textType,answer,stem,options,...(group?{group}:{}),...(explanations[no]?{explain:explanations[no]}:{})});
   const football={A:"cooperation",B:"prosper",C:"teacher",D:"behave",E:"isolated",F:"essential",G:"better",H:"share",I:"field",J:"remember"};
   window.BANK=window.BANK||[];
   window.BANK.push({year:99,era:"學測",groups:{
