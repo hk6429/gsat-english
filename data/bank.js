@@ -11491,6 +11491,66 @@ window.BANK=window.BANK||[];window.BANK.push({
   ]
 });
 
+[
+  "芭蕾舞者的動作優雅，因而使觀眾愉悅；graceful 表示「優美的、優雅的」。",
+  "閉幕式上運動員向觀眾揮手道別；wave good-bye 是「揮手告別」。",
+  "毒品問題遍及全球，並不限於單一國家；be restricted to 表示「限於」。",
+  "這項新計畫值得投入心力；be worthy of 表示「值得……的」。",
+  "新課本比另一本難讀許多；considerably 用來加強比較級，表示「相當多地」。",
+  "琳達對音樂的強烈熱愛促使她赴維也納求學；intensity 表示「強烈程度」。",
+  "電子郵件在現代通訊中扮演不可或缺的角色；vital 表示「極重要的」。",
+  "說話者大致接受計畫，但認為措辭仍需調整；basically 表示「基本上、大致上」。",
+  "同一首詩可有數種合理解讀；interpreted 表示「詮釋、解讀」。",
+  "布料太粗，指的是表面質地；texture 表示「質地、紋理」。",
+  "計畫雖獲支持，最後仍以失敗告終；end up in failure 表示「最終失敗」。",
+  "莎拉編故事逗朋友開心；make up stories 表示「編造故事」。",
+  "掌聲逐漸減弱時，舞臺布幕緩緩落下；die down 表示「逐漸平息」。",
+  "沒有人能事先知道地震何時發生；in advance 表示「事先」。",
+  "建造實驗室的預算龐大，使計畫受到質疑；be called into question 表示「遭到質疑」。",
+  "given that 是固定連接語，表示「考量到、既然」聖誕節只剩幾週。",
+  "here is a gift idea 用來引出接下來提出的禮物點子。",
+  "形容喜愛科技新品的人不難取悅；hard to please 為主動形式表被動意義。",
+  "make life more enjoyable 是固定使役結構，表示「讓生活更愉快」。",
+  "be capable of 後接事物能做到的程度；how much 表示「能有多大能耐」。",
+  "For a student 表示「對於總是不準時的學生而言」，引出適合的鬧鐘。",
+  "普通時鐘清晨難以看清，因此造成學生遲到；therefore 表示因果。",
+  "anywhere else 表示除了牆壁、天花板之外的任何其他地方。",
+  "鬧鈴會愈來愈大聲，直到被關掉為止；until 表示持續到某時點。",
+  "make 後接動名詞片語作受詞；make waking up a little easier 表示讓起床容易些。",
+  "People in this village 是複數主詞，接 have carried out many welfare programs 才構成完整句。",
+  "After his graduation from college 後接 he found a job in a computer company，交代畢業後的結果。",
+  "be attracted to 是固定搭配，故接 to this new form of art。",
+  "It has been many years since... 是固定句型，表示「自從上次見他已過多年」。",
+  "過去進行式 I was taking a walk 與 when 引導的突發事件搭配，表示散步時遇見老友。",
+  "insist on 後接動名詞；my leaving my legs behind 表示堅持要我留下雙腿。",
+  "quite 修飾 annoyed，表示雖不驚訝，卻相當惱火。",
+  "服務員對規定帶來的不便感到抱歉；be sorry about 表示「對……感到抱歉」。",
+  "in the way 是固定片語，表示別人的腿總是「擋路」。",
+  "既然雙腿妨礙他人，劇院決定讓觀眾把腿留在外面；outside 符合文意。",
+  "under normal circumstances 表示「在正常情況下」，說話者原本會提出爭辯。",
+  "make a disturbance 是固定搭配，表示「引起騷動」。",
+  "說話者一直以為腿牢固地連在身上；securely 表示「牢固地」。",
+  "come off 表示「脫落、拆下」，此處說雙腿竟能輕易拆下。",
+  "not ... any more than... 表示前後兩件事同樣不令人驚訝，故用 any。",
+  "文中說手工削皮耗時且常缺貨，直到機械削皮器發明後才得以大量生產。",
+  "廚師故意把馬鈴薯切得極薄，是想讓抱怨的客人無話可說，結果反而創造新食品。",
+  "洋芋片於 1853 年在餐廳誕生，自十九世紀起便在美國流行。",
+  "文章明說杜馬缺乏正規教育，因此「受過良好教育」是錯誤敘述。",
+  "杜馬的小說雖寫於一百五十年前，至今仍吸引世界各地數百萬讀者。",
+  "杜馬致富後把宅邸開放給挨餓的藝術家、朋友甚至陌生人，可推知他慷慨且富同情心。",
+  "柔伊僅兩週大便失去母親、孤身在市場遊蕩，因此被送往大象孤兒院。",
+  "孤兒院設在達芙妮家中並依靠私人捐款運作，故屬私人資金支持。",
+  "柔伊在保護區由照護員逐步學習尋找食物與水，以適應野外生活。",
+  "最終目標是把幼象放回野生象群，顯示達芙妮希望大象回到自己的群體生活。",
+  "這只普通女鞋之所以特殊，在於發現地是著名淘金路線 Chilkoot Pass。",
+  "許多淘金者不了解路途嚴酷、準備不足，因飢餓與寒冷而死。",
+  "政府要求攜帶足供一年使用的物資，是為讓淘金者能避免飢寒、存活下來。",
+  "鞋主人結局雖無從得知，但她參與艱險旅程所展現的勇氣與決心值得欽佩。",
+  "全文由一只普通舊鞋引發對淘金者旅程的想像，強調簡單物件也能激發想像力。"
+].forEach((explain, index) => {
+  window.BANK.at(-1).questions[index].explain = explain;
+});
+
 /* g89.js */
 // 89 學年度學科能力測驗英文考科（單一選擇題 55 題）
 // 題目取自大考中心正式英文題本；答案由多科答案掃描 PDF 第 2 頁「英文考科答案」目視核對。
@@ -11956,6 +12016,66 @@ window.BANK.push({
     q(55,"C4",["語境推義"],"閱讀測驗","C","Why does the report say that the figure of Glenn’s second parade was “inflated”?",{A:"Because the second parade had a larger crowd than the first parade.",B:"Because there were many people who attended both parades.",C:"Because the crowd of the second parade seemed to be far less than 500,000.",D:"Because the crowd of the second parade was far more enthusiastic."},"G7",S3)
   ]});
 })();
+
+[
+  "句子有不只一種意思，因此語意模稜兩可；ambiguous 表示「有歧義的」。",
+  "王先生不斷改變主意，所以難以預測下一步；constantly 表示「持續不斷地」。",
+  "假期逐漸接近時，學生較難專心讀書；approaching 表示「接近中的」。",
+  "人類演化中展現適應環境的能力；adapt to 是「適應」。",
+  "科學家把成功也歸功於運氣，展現謙遜；modesty 表示「謙虛」。",
+  "能在特殊場合向眾人致詞是一種榮幸；privilege 表示「殊榮、榮幸」。",
+  "家人得知他在山區嚴寒中生還而鬆了一口氣；relief 表示「寬慰」。",
+  "颱風後坍方顯示環境保護值得關注；deserve attention 表示「值得注意」。",
+  "未來汽車將以高效率使用汽油為特色；efficient 表示「有效率的」。",
+  "Peter 體格強健，但情感上脆弱且依賴他人；emotionally 表示「情感上」。",
+  "Kevin 打破客廳窗戶，因此惹上麻煩；in trouble 表示「有麻煩」。",
+  "金融危機中若製造商都能撐下去，經濟可能改善；hang on 表示「堅持下去」。",
+  "專心與努力往往能激發一個人最好的一面；bring out the best in 表示「發揮最佳潛能」。",
+  "許多人促成他的成功，尤其是父母；in particular 表示「尤其、特別是」。",
+  "他因大雨而遲到；as a result of 表示「由於、因為」。",
+  "主詞是 I，動作由電話造成，需用被動式 was woken up。",
+  "this is the second time 後接現在完成式，故用 has happened。",
+  "most 可修飾形容詞形成正式的加強語氣；most terribly sorry 表示「非常抱歉」。",
+  "there should be 表示「應該還有」，此處指應另有四頁傳真。",
+  "助動詞 do 用來加強 apologize 的語氣，表示「我確實向您道歉」。",
+  "多數人愛說卻少有人愛聽，然而善於傾聽很珍貴；Yet 表示轉折。",
+  "善於傾聽者往往知道更多；tend to 表示「往往、傾向於」。",
+  "他們傾向接納容忍，而不是評斷批評；rather than 表示「而不是」。",
+  "enemies 是可數複數，表示較少應用 fewer。",
+  "承接前述優點並作進一步判斷，In fact 表示「事實上」。",
+  "後文以史坦貝克為反例，故此處說一般情況也有 exceptions「例外」。",
+  "be said to have been 是「據說曾是」，符合被動報導句型。",
+  "contribute to 是固定搭配，表示傾聽能力有助於寫作能力。",
+  "雖然善於傾聽幫助寫作，結果卻未使他受歡迎；Nevertheless 表示讓步轉折。",
+  "depending on 是分詞片語，表示受傾聽者如何運用所得資訊而定。",
+  "陌生人是在我走向海灘時靠近；As 表示兩件事同時發生。",
+  "敘事者完全認不出陌生人的臉；recognize 表示「認出」。",
+  "陌生人指先前在機場看見敘事者，為明確完成的過去事件，故用 saw。",
+  "敘事者想不起對方，卻因尷尬而不敢坦白；embarrassed 表示「尷尬的」。",
+  "前句說他很友善，接著他提議去餐廳；Then 表示事件順序。",
+  "敘事者禮貌道謝、婉拒邀請，但對方仍堅持；politely 符合語境。",
+  "對方向他保證一定會喜歡海鮮；assure someone 表示「向某人保證」。",
+  "現在分詞 overlooking 修飾 window，表示窗戶「俯瞰海灣」。",
+  "not until 是固定結構，表示直到隔日上午十點才醒來。",
+  "錢已全數不見，應用 gone 表示「消失了、沒有了」。",
+  "文章先說作者可為娛樂或提供資訊而寫，再以兩段示例說明不同寫作目的。",
+  "第一段人物進行生物專題且在辦公室互開玩笑，沒有任何軍官身分，因此 B 錯誤。",
+  "Nelson 把空箱偷放進 Adam 辦公室，後來 Adam 用堆積物反制，使 Nelson 得到教訓。",
+  "第二段定義軟體動物並列舉貝殼形狀，目的在陳述關於貝殼的事實。",
+  "全文介紹 Kauai 的地形、降雨、山脈與戶外特色，主題是某地的地理資訊。",
+  "文章開頭即強調 Kauai 擁有夏威夷最壯麗的景色之一，故以自然美景聞名。",
+  "島中央山區年雨量近五百英吋，但數英里外僅六英吋，顯示降雨集中於特定地點。",
+  "Kauai 的主要魅力在戶外活動，並不適合偏愛室內活動者，因此 C 為錯誤敘述。",
+  "文章明說分解者是自然生命循環中不可或缺的一環，並非只扮演次要角色。",
+  "死亡物與排泄物成為分解者食物，再釋出化學物質供其他生物利用，因此死亡支持多種生命。",
+  "報導主題是葛倫相隔三十六年重返太空後，第二次在紐約接受遊行歡迎。",
+  "葛倫回憶 1962 年遊行時最深刻的是漫天大量紙屑，甚至難以抬頭。",
+  "第二次遊行人潮稀少且觀眾反應平淡，文中指出許多美國人已把太空成就視為平常。",
+  "文中提到 1962 年 Mercury 飛行與三十六年後的重返太空，共兩次太空飛行。",
+  "現場人潮按紐約標準顯得稀少，因此聲稱有五十萬人的數字被認為誇大。"
+].forEach((explain, index) => {
+  window.BANK.at(-1).questions[index].explain = explain;
+});
 
 /* g87.js */
 // 87 學年度學科能力測驗英文考科（可選擇作答題 60 題）

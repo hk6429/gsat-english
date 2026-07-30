@@ -203,7 +203,7 @@ test("已完成解析批次逐題完整", () => {
   const completed = new Map([
     [109, 56], [107, 56], [106, 56], [104, 56], [103, 56], [102, 56],
     [100, 56], [99, 56], [98, 56], [96, 56], [95, 56], [94, 56],
-    [93, 55], [91, 55]
+    [93, 55], [91, 55], [90, 55], [88, 55]
   ]);
   for (const [year, questionCount] of completed) {
     const item = banks.find(candidate => candidate.era === "學測" && candidate.year === year);
