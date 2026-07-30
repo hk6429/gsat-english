@@ -1,10 +1,16 @@
 {
   "name": "gsat-english",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "build:data": "node scripts/build-data.mjs",
+    "build:stats": "node scripts/build-official-stats.mjs",
+    "build:data": "node scripts/build-bank.mjs && node scripts/build-official-stats.mjs",
+    "validate:official": "node scripts/validate-official.mjs",
+    "pretest": "npm run build:data",
     "test": "node --test test/*.test.mjs"
+  },
+  "devDependencies": {
+    "xlsx-cli": "^1.1.3"
   }
 }

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>查題校對 — 學測英文題庫</title>
+<title>查題校對 — 大學英文題庫</title>
 <meta name="robots" content="noindex">
 <style>
 :root{--ink:#1f2733; --paper:#eef2f8; --card:#ffffff; --accent:#2e4a8a; --seal:#2e4a8a; --ok:#2f7d4f; --muted:#6b7688; --line:#cdd7e6}
@@ -47,7 +47,7 @@ kbd{background:var(--ink); color:var(--paper); border-radius:4px; padding:1px 6p
 <body>
 <div class="wrap">
   <h1>查題校對系統 <a href="index.html" style="font-size:.8rem;font-weight:400;margin-left:8px">← 回題庫首頁</a></h1>
-  <div class="hint">輸入「年份-題號」直接查題，例如 <kbd>115-38</kbd>、<kbd>學測115-49</kbd> 或 <kbd>g115 1</kbd>。按 Enter 或「查」即可。</div>
+  <div class="hint">輸入「年份-題號」直接查題，例如 <kbd>115-38</kbd>、<kbd>學測115-49</kbd>、<kbd>指考110-20</kbd> 或 <kbd>z110 20</kbd>。按 Enter 或「查」即可。</div>
   <div class="bar">
     <input id="q" placeholder="例：115-38、學測115-49" autocomplete="off" autofocus>
     <button id="go">查</button>
@@ -70,6 +70,7 @@ function parse(s){
   const prefix = s.split(/\d/)[0] || '';
   let era = null;
   if(/學|[gG]/.test(prefix)) era = '學測';
+  if(/指|[zZ]/.test(prefix)) era = '指考';
   const m = s.match(/(\d{2,3})\D*?(\d{1,2})\b/);
   if(!m) return null;
   return { era, year: parseInt(m[1],10), no: parseInt(m[2],10) };
@@ -120,7 +121,10 @@ function cardHtml(bank, q){
   if(q.passage) h += '<div class="passage">'+q.passage+'</div>';
   h += '<div class="stem">'+q.stem+'</div>';
   if(q.image) h += '<img src="'+q.image+'" style="max-width:100%;border:1px solid var(--line);border-radius:6px" alt="'+esc(q.imageAlt||'附圖')+'">';
-  const ansSet = new Set(String(q.answer||'').split(/[、,\s]+/).filter(Boolean));
+  const answerKeys = Array.isArray(q.acceptedAnswers) && q.acceptedAnswers.length
+    ? q.acceptedAnswers
+    : String(q.answer||'').split(/[、,\s]+/).filter(Boolean);
+  const ansSet = new Set(answerKeys);
   if(q.options){
     for(const k of Object.keys(q.options)){
       const on = ansSet.has(k);
@@ -128,7 +132,7 @@ function cardHtml(bank, q){
          + (q.options[k]===''?'（圖／空）':q.options[k]) + (on?' ✓':'') + '</div>';
     }
   }
-  h += '<div class="ans">正解：<b>'+(q.answer||'—')+'</b>'
+  h += '<div class="ans">正解：<b>'+(answerKeys.length?answerKeys.join(q.multi?'、':' 或 '):'—')+'</b>'
      + (q.pass!=null?' ・ 答對率 '+Math.round(q.pass*100)+'%':'')
      + (q.disc!=null?' ・ 鑑別度 '+(Math.abs(q.disc)>1?q.disc/100:q.disc).toFixed(2):'') + '</div>';
   if(q.explain) h += '<div class="explain">'+q.explain+'</div>';
@@ -149,7 +153,7 @@ function render(target){
   if(!r){ out.innerHTML = '<div class="err">看不懂「'+esc(target)+'」，請輸入像 115-38 或學測115-49 這樣的格式。</div>'; return; }
   let banks = window.BANK.filter(b=>b.year===r.year && (!r.era || b.era===r.era));
   if(!banks.length){
-    out.innerHTML = '<div class="err">題庫目前沒有 '+(r.era||'')+' '+r.year+' 年；首批已完成 115 學年度。</div>';
+    out.innerHTML = '<div class="err">題庫目前沒有 '+(r.era||'')+' '+r.year+' 年的資料。</div>';
     return;
   }
   let h = '';

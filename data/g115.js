@@ -1,5 +1,5 @@
 // 115 學年度學科能力測驗英文考科（選擇題 47 題）
-// 題目、答案、答對率、鑑別度與選項分析均取自大學入學考試中心官方資料；explain 為本站自製解析。
+// 題目、答案取自大學入學考試中心官方資料；統計由 data/option-stats.js 掛載，explain 為本站自製解析。
 window.BANK = window.BANK || [];
 window.BANK.push({
   "year": 115,
@@ -48,8 +48,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "B",
-      "pass": 0.57,
-      "disc": 0.54,
       "stem": "The mayor has such a ______ schedule that it takes weeks to arrange an interview with her.",
       "options": {
         "A": "hasty",
@@ -68,8 +66,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "C",
-      "pass": 0.48,
-      "disc": 0.61,
       "stem": "Jane started as an ______ art designer, but now she has a professional studio of her own.",
       "options": {
         "A": "official",
@@ -88,8 +84,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "B",
-      "pass": 0.45,
-      "disc": 0.59,
       "stem": "The teaching ______ at the famous high school soon attracted more than a dozen well-qualified applicants.",
       "options": {
         "A": "career",
@@ -108,8 +102,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "A",
-      "pass": 0.65,
-      "disc": 0.71,
       "stem": "Designed by a young engineer, the new product has created far more profit than ______ expected.",
       "options": {
         "A": "initially",
@@ -128,8 +120,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "D",
-      "pass": 0.63,
-      "disc": 0.69,
       "stem": "It has been confirmed that a balanced ______ of fruit and vegetables is a key element to good health.",
       "options": {
         "A": "dimension",
@@ -148,8 +138,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "A",
-      "pass": 0.29,
-      "disc": 0.38,
       "stem": "As a shy boy afraid of making public appearances, Timmy ______ the thought of speaking before large audiences.",
       "options": {
         "A": "dreads",
@@ -168,8 +156,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "C",
-      "pass": 0.66,
-      "disc": 0.48,
       "stem": "To the newly-crowned winner of the piano competition, music is his life’s ______, which he has devoted himself to whole-heartedly.",
       "options": {
         "A": "resource",
@@ -188,8 +174,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "B",
-      "pass": 0.47,
-      "disc": 0.52,
       "stem": "The drunk driver who shouted at passers-by and ______ them with glass bottles was quickly arrested by the police.",
       "options": {
         "A": "shattered",
@@ -208,8 +192,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "C",
-      "pass": 0.29,
-      "disc": 0.21,
       "stem": "There were so many people at the bus station that I had to ______ my way through the crowd to board the bus in time.",
       "options": {
         "A": "crash",
@@ -228,8 +210,6 @@ window.BANK.push({
       "lang": "單題",
       "textType": "詞彙題",
       "answer": "D",
-      "pass": 0.24,
-      "disc": 0.18,
       "stem": "Deadly shootings on US campuses have raised ______ concerns about how to prevent such tragic incidents from happening again.",
       "options": {
         "A": "swift",
@@ -248,8 +228,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "B",
-      "pass": 0.29,
-      "disc": 0.16,
       "group": "G1",
       "stem": "Choose the best answer for blank 11.",
       "options": {
@@ -269,8 +247,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "C",
-      "pass": 0.73,
-      "disc": 0.58,
       "group": "G1",
       "stem": "Choose the best answer for blank 12.",
       "options": {
@@ -290,8 +266,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "D",
-      "pass": 0.57,
-      "disc": 0.64,
       "group": "G1",
       "stem": "Choose the best answer for blank 13.",
       "options": {
@@ -311,8 +285,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "D",
-      "pass": 0.58,
-      "disc": 0.75,
       "group": "G1",
       "stem": "Choose the best answer for blank 14.",
       "options": {
@@ -332,8 +304,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "A",
-      "pass": 0.5,
-      "disc": 0.54,
       "group": "G1",
       "stem": "Choose the best answer for blank 15.",
       "options": {
@@ -353,8 +323,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "A",
-      "pass": 0.57,
-      "disc": 0.62,
       "group": "G2",
       "stem": "Choose the best answer for blank 16.",
       "options": {
@@ -374,8 +342,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "B",
-      "pass": 0.44,
-      "disc": 0.48,
       "group": "G2",
       "stem": "Choose the best answer for blank 17.",
       "options": {
@@ -395,8 +361,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "D",
-      "pass": 0.37,
-      "disc": 0.21,
       "group": "G2",
       "stem": "Choose the best answer for blank 18.",
       "options": {
@@ -416,8 +380,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "B",
-      "pass": 0.31,
-      "disc": -0.07,
       "group": "G2",
       "stem": "Choose the best answer for blank 19.",
       "options": {
@@ -437,8 +399,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "綜合測驗",
       "answer": "C",
-      "pass": 0.62,
-      "disc": 0.55,
       "group": "G2",
       "stem": "Choose the best answer for blank 20.",
       "options": {
@@ -458,8 +418,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "E",
-      "pass": 0.49,
-      "disc": 0.75,
       "group": "G3",
       "stem": "Choose the best answer for blank 21.",
       "options": {
@@ -485,8 +443,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "G",
-      "pass": 0.61,
-      "disc": 0.81,
       "group": "G3",
       "stem": "Choose the best answer for blank 22.",
       "options": {
@@ -512,8 +468,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "F",
-      "pass": 0.54,
-      "disc": 0.77,
       "group": "G3",
       "stem": "Choose the best answer for blank 23.",
       "options": {
@@ -539,8 +493,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "D",
-      "pass": 0.47,
-      "disc": 0.75,
       "group": "G3",
       "stem": "Choose the best answer for blank 24.",
       "options": {
@@ -566,8 +518,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "A",
-      "pass": 0.57,
-      "disc": 0.75,
       "group": "G3",
       "stem": "Choose the best answer for blank 25.",
       "options": {
@@ -593,8 +543,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "J",
-      "pass": 0.48,
-      "disc": 0.77,
       "group": "G3",
       "stem": "Choose the best answer for blank 26.",
       "options": {
@@ -620,8 +568,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "B",
-      "pass": 0.56,
-      "disc": 0.77,
       "group": "G3",
       "stem": "Choose the best answer for blank 27.",
       "options": {
@@ -647,8 +593,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "I",
-      "pass": 0.59,
-      "disc": 0.81,
       "group": "G3",
       "stem": "Choose the best answer for blank 28.",
       "options": {
@@ -674,8 +618,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "H",
-      "pass": 0.58,
-      "disc": 0.79,
       "group": "G3",
       "stem": "Choose the best answer for blank 29.",
       "options": {
@@ -701,8 +643,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "文意選填",
       "answer": "C",
-      "pass": 0.69,
-      "disc": 0.77,
       "group": "G3",
       "stem": "Choose the best answer for blank 30.",
       "options": {
@@ -728,8 +668,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "篇章結構",
       "answer": "C",
-      "pass": 0.73,
-      "disc": 0.52,
       "group": "G4",
       "stem": "Choose the sentence that best fits blank 31.",
       "options": {
@@ -750,8 +688,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "篇章結構",
       "answer": "E",
-      "pass": 0.6,
-      "disc": 0.75,
       "group": "G4",
       "stem": "Choose the sentence that best fits blank 32.",
       "options": {
@@ -772,8 +708,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "篇章結構",
       "answer": "A",
-      "pass": 0.6,
-      "disc": 0.72,
       "group": "G4",
       "stem": "Choose the sentence that best fits blank 33.",
       "options": {
@@ -794,8 +728,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "篇章結構",
       "answer": "B",
-      "pass": 0.5,
-      "disc": 0.58,
       "group": "G4",
       "stem": "Choose the sentence that best fits blank 34.",
       "options": {
@@ -816,8 +748,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "C",
-      "pass": 0.52,
-      "disc": 0.49,
       "group": "G5",
       "stem": "What is this passage mainly about?",
       "options": {
@@ -837,8 +767,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "D",
-      "pass": 0.43,
-      "disc": 0.72,
       "group": "G5",
       "stem": "Which of the following idioms is closest in meaning to “exacerbated the situation” in the third paragraph?",
       "options": {
@@ -858,8 +786,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "A",
-      "pass": 0.51,
-      "disc": 0.66,
       "group": "G5",
       "stem": "According to the passage, which of the following is true about Shackleton and his Antarctic expedition?",
       "options": {
@@ -879,8 +805,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "C",
-      "pass": 0.27,
-      "disc": 0.2,
       "group": "G5",
       "stem": "Which route shows the correct course of the Endurance after leaving South Georgia?",
       "options": {
@@ -902,8 +826,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "D",
-      "pass": 0.43,
-      "disc": 0.31,
       "group": "G6",
       "stem": "Which question can the passage answer?",
       "options": {
@@ -923,8 +845,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "A",
-      "pass": 0.38,
-      "disc": 0.41,
       "group": "G6",
       "stem": "What does “them” in the third paragraph refer to?",
       "options": {
@@ -944,8 +864,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "A",
-      "pass": 0.72,
-      "disc": 0.59,
       "group": "G6",
       "stem": "According to the passage, which is a correct time sequence of the materials used in making spiral staircases?",
       "options": {
@@ -965,8 +883,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "B",
-      "pass": 0.44,
-      "disc": 0.25,
       "group": "G6",
       "stem": "Which statement can be inferred about spiral staircases in the Medieval Ages?",
       "options": {
@@ -986,8 +902,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "C",
-      "pass": 0.72,
-      "disc": 0.63,
       "group": "G7",
       "stem": "What is the passage mainly about?",
       "options": {
@@ -1007,8 +921,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "D",
-      "pass": 0.72,
-      "disc": 0.48,
       "group": "G7",
       "stem": "What does “this” refer to in the second paragraph?",
       "options": {
@@ -1028,8 +940,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "A",
-      "pass": 0.39,
-      "disc": 0.55,
       "group": "G7",
       "stem": "Which is closest in meaning to “a blip” in the last paragraph?",
       "options": {
@@ -1049,8 +959,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "閱讀測驗",
       "answer": "D",
-      "pass": 0.43,
-      "disc": 0.55,
       "group": "G7",
       "stem": "Which of the following statements is true?",
       "options": {
@@ -1070,8 +978,6 @@ window.BANK.push({
       "lang": "題組",
       "textType": "混合題",
       "answer": "A,D,E",
-      "pass": 0.55,
-      "disc": 0.61,
       "group": "G8",
       "stem": "The Chen family wants (1) a 19th-century oil lamp, (2) recycled plastic sunglasses, and (3) an aboriginal wooden beads necklace. Which stores should they visit?",
       "options": {
