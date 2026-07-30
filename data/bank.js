@@ -59,7 +59,7 @@ window.BANK.push({
         "C": "diligent",
         "D": "routine"
       },
-      "explain": "tight schedule 是「行程緊湊」，最符合要等數週才能排到訪談的語境。"
+      "explain": "<b>解題關鍵：</b>後半句說要等好幾週才能排到市長的訪談，表示她的行程排得很滿。<br>(A) hasty：匆忙的，形容做事急，不等於行程滿。<br>(B) tight：緊的；tight schedule 是「緊湊的行程」，最符合。<br>(C) diligent：勤奮的，通常形容人。<br>(D) routine：例行的，沒有「很難排時間」的意思。<br>把答案放回去：市長行程非常緊湊，所以訪談得等好幾週。"
     },
     {
       "no": 2,
@@ -77,7 +77,7 @@ window.BANK.push({
         "C": "amateur",
         "D": "elementary"
       },
-      "explain": "前後以 but 對比；由業餘的 amateur 設計師成長為擁有工作室的專業人士。"
+      "explain": "<b>解題關鍵：</b>but 表示前後相反；後面說 Jane 現在有自己的專業工作室，所以一開始應是「業餘」設計師。<br>(A) official：官方的，不和 professional 形成對比。<br>(B) instant：立即的，不能自然形容設計師身分。<br>(C) amateur：業餘的，正好和後面的 professional 對照。<br>(D) elementary：初級的，常形容程度或學校，不等於業餘身分。<br>把答案放回去：Jane 起初是業餘藝術設計師，後來才成立專業工作室。"
     },
     {
       "no": 3,
@@ -95,7 +95,7 @@ window.BANK.push({
         "C": "expectation",
         "D": "inspiration"
       },
-      "explain": "會吸引申請者的是職缺 vacancy；teaching vacancy 指教職空缺。"
+      "explain": "<b>解題關鍵：</b>後面提到十多位合格者來申請 applicants，表示學校有一個可申請的教職空缺。<br>(A) career：職涯，是長期的工作發展，不是一個空缺。<br>(B) vacancy：空缺；teaching vacancy 就是「教職缺額」。<br>(C) expectation：期望，不能讓人來應徵。<br>(D) inspiration：靈感，也不符合申請工作的情境。<br>把答案放回去：這所名校的教職空缺很快吸引許多合格申請者。"
     },
     {
       "no": 4,
@@ -113,7 +113,7 @@ window.BANK.push({
         "C": "alternatively",
         "D": "fundamentally"
       },
-      "explain": "initially expected 表示「起初預期」，與實際利潤遠高於原先預期相呼應。"
+      "explain": "<b>解題關鍵：</b>far more ... than 表示「遠比……更多」，此處比較實際利潤和一開始的預期。<br>(A) initially：起初、最初；initially expected 是「原先預期」。<br>(B) genuinely：真誠地，不能表示時間先後。<br>(C) alternatively：或者、換個方式，沒有比較原先預期的意思。<br>(D) fundamentally：根本上，語意不合。<br>把答案放回去：新產品創造的利潤遠高於最初的預期。"
     },
     {
       "no": 5,
@@ -131,7 +131,7 @@ window.BANK.push({
         "C": "provision",
         "D": "consumption"
       },
-      "explain": "consumption 表示攝取或食用；balanced consumption of fruit and vegetables 語意完整。"
+      "explain": "<b>解題關鍵：</b>水果和蔬菜與健康有關，空格要表達「均衡攝取」。<br>(A) dimension：面向、尺寸，不表示吃下食物。<br>(B) integration：整合，不能自然搭配 fruit and vegetables 表示飲食。<br>(C) provision：供應，重點是提供而非食用。<br>(D) consumption：消耗、攝取；balanced consumption 是「均衡攝取」。<br>把答案放回去：均衡攝取水果和蔬菜，是維持健康的重要因素。"
     },
     {
       "no": 6,
@@ -149,7 +149,7 @@ window.BANK.push({
         "C": "wanders",
         "D": "escapes"
       },
-      "explain": "dread the thought of… 是「一想到……就害怕」，呼應害羞且怕公開露面。"
+      "explain": "<b>解題關鍵：</b>句首說 Timmy 害羞而且怕公開露面，所以他一想到要對很多人說話就會害怕。<br>(A) dreads：非常害怕；dread the thought of 是「一想到……就害怕」。<br>(B) stresses：強調或使緊張，不能說 stress the thought。<br>(C) wanders：漫遊，語意不合。<br>(D) escapes：逃離，後面通常直接接人、地點或 from。<br>把答案放回去：Timmy 很怕在大批聽眾前說話。"
     },
     {
       "no": 7,
@@ -167,7 +167,7 @@ window.BANK.push({
         "C": "passion",
         "D": "emphasis"
       },
-      "explain": "devote himself whole-heartedly 呼應一生熱愛的 passion。"
+      "explain": "<b>解題關鍵：</b>music is his life 以及 devoted himself whole-heartedly 都表示他全心投入、非常熱愛音樂。<br>(A) resource：資源，不是內心的熱愛。<br>(B) impact：影響，不能說音樂是他一生的影響。<br>(C) passion：熱情、熱愛；life’s passion 是「一生的摯愛」。<br>(D) emphasis：重點、強調，搭配不自然。<br>把答案放回去：音樂是這位鋼琴賽冠軍一生的熱愛。"
     },
     {
       "no": 8,
@@ -185,7 +185,7 @@ window.BANK.push({
         "C": "overturned",
         "D": "condemned"
       },
-      "explain": "assaulted 指攻擊；用玻璃瓶攻擊路人後遭警方逮捕。"
+      "explain": "<b>解題關鍵：</b>with glass bottles 說明他拿玻璃瓶對路人做出暴力行為，後面 arrested 也支持「攻擊」。<br>(A) shattered：打碎，受詞通常是玻璃等物品，不是人。<br>(B) assaulted：攻擊、襲擊，符合暴力情境。<br>(C) overturned：推翻、翻倒，不合受詞 them（路人）。<br>(D) condemned：譴責，不需要用玻璃瓶。<br>把答案放回去：酒駕者拿玻璃瓶攻擊路人，很快就被逮捕。"
     },
     {
       "no": 9,
@@ -203,7 +203,7 @@ window.BANK.push({
         "C": "elbow",
         "D": "struggle"
       },
-      "explain": "elbow one’s way through 指用手肘在人群中擠出路來。"
+      "explain": "<b>解題關鍵：</b>車站人很多，說話者為了及時上車，必須在人群中擠出一條路。<br>(A) crash：猛撞，沒有 crash one’s way through 這個自然搭配。<br>(B) tumble：跌倒、翻滾，不表示在人群中前進。<br>(C) elbow：用手肘推擠；elbow one’s way through 是固定說法。<br>(D) struggle：奮力，但通常說 struggle through，不說 struggle my way through the crowd 來強調推擠。<br>把答案放回去：我只好用手肘擠過人群去搭車。"
     },
     {
       "no": 10,
@@ -221,7 +221,7 @@ window.BANK.push({
         "C": "harsh",
         "D": "grave"
       },
-      "explain": "grave concerns 是「嚴重的憂慮」，符合致命槍擊事件的語氣。"
+      "explain": "<b>解題關鍵：</b>校園發生 deadly shootings（致命槍擊），大家擔心如何避免悲劇再發生，語氣非常嚴重。<br>(A) swift：快速的，不形容憂慮的嚴重程度。<br>(B) brutal：殘忍的，通常形容行為或攻擊。<br>(C) harsh：嚴厲的、惡劣的，也不常搭配 concerns。<br>(D) grave：嚴重的；grave concerns 是「嚴重憂慮」。<br>把答案放回去：致命槍擊引起人們對預防悲劇的嚴重憂慮。"
     },
     {
       "no": 11,
@@ -240,7 +240,7 @@ window.BANK.push({
         "C": "in other words",
         "D": "all in all"
       },
-      "explain": "it turns out 引出令人意外的新發現：白犀牛也會聚集交換訊息。"
+      "explain": "<b>解題關鍵：</b>前句談人類聚在一起交換消息，後面說白犀牛「也會」，這是一個研究發現。<br>(A) what is more 是「此外」，只增加資訊，沒有「結果發現」的語氣。<br>(B) it turns out 是「結果發現、原來」，最能帶出意外的新知。<br>(C) in other words 是「換句話說」，但後句不是改述前句。<br>(D) all in all 是「總而言之」，不適合文章開頭。<br>句意：原來白犀牛也會做類似的事，只是聚會地點是糞堆。"
     },
     {
       "no": 12,
@@ -259,7 +259,7 @@ window.BANK.push({
         "C": "communicate",
         "D": "manipulate"
       },
-      "explain": "下文說犀牛在糞便中留下訊息，因此是 communicate。"
+      "explain": "<b>解題關鍵：</b>下一句明說 rhinos leave messages in their poop，表示犀牛用糞便「傳遞訊息」。<br>(A) demonstrate：示範，不一定有彼此交換訊息。<br>(B) immigrate：移民，和糞便無關。<br>(C) communicate：溝通，正好對應 leave messages。<br>(D) manipulate：操控，不符合研究內容。<br>句意：研究顯示，犀牛有一種氣味很重的溝通方式。"
     },
     {
       "no": 13,
@@ -278,7 +278,7 @@ window.BANK.push({
         "C": "matches",
         "D": "clues"
       },
-      "explain": "糞便中的化學物質提供年齡、性別與健康狀況的線索 clues。"
+      "explain": "<b>解題關鍵：</b>化學物質讓其他犀牛得知年齡、性別、健康等資料，因此它們提供的是可用來判斷的「線索」。<br>(A) doubts：懷疑，不會提供資訊。<br>(B) icons：圖示、偶像，與氣味化學物質不合。<br>(C) matches：相配物、比賽，也無法概括這些資訊。<br>(D) clues：線索，最符合 provide important clues about... 的搭配。<br>句意：不同化學物質提供每隻犀牛狀況的重要線索。"
     },
     {
       "no": 14,
@@ -297,7 +297,7 @@ window.BANK.push({
         "C": "truly important",
         "D": "less likely"
       },
-      "explain": "成員掌握彼此狀況可維持和平，因此打鬥的可能性較低 less likely。"
+      "explain": "<b>解題關鍵：</b>前句說彼此知道近況對群體和平很重要，所以結果應是「比較不可能」打架。<br>(A) hardly surprising：不太令人意外，沒有說打架機率下降。<br>(B) more acceptable：更可接受，文章不是說打架變得可接受。<br>(C) truly important：真的重要，和後面的 that they will fight 接法不合。<br>(D) less likely：較不可能；it is less likely that... 是自然句型。<br>句意：成員互相了解時，就比較不會打架。"
     },
     {
       "no": 15,
@@ -316,7 +316,7 @@ window.BANK.push({
         "C": "considerate of",
         "D": "tolerant with"
       },
-      "explain": "公犀牛聞得更久且常回來，表示對帶有母犀牛訊息的氣味有反應 responsive to。"
+      "explain": "<b>解題關鍵：</b>後面說公犀牛聞得更久、也更常回到原處，表示牠們對可交配母犀牛的氣味「特別有反應」。<br>(A) responsive to：對……有反應，符合觀察。<br>(B) annoyed at：對……感到厭煩；牠們反而主動回來。<br>(C) considerate of：體諒……，不用來說氣味反應。<br>(D) tolerant with：容忍……，也不符合交配資訊。<br>句意：優勢公犀牛特別會回應帶有母犀牛化學物質的假糞便。"
     },
     {
       "no": 16,
@@ -335,7 +335,7 @@ window.BANK.push({
         "C": "anticipate",
         "D": "reinforce"
       },
-      "explain": "茶館提供旅人休息，accommodate 有接待、容納之意。"
+      "explain": "<b>解題關鍵：</b>絲路旅人需要地方休息，茶館出現是為了接待疲憊的旅人。<br>(A) accommodate：接待、提供住宿或空間，符合茶館功能。<br>(B) compensate：補償，通常補償損失。<br>(C) anticipate：預期，不表示讓旅人休息。<br>(D) reinforce：加強，也不合受詞 travelers。<br>句意：茶館興起，接待疲憊的旅人並提供茶水。"
     },
     {
       "no": 17,
@@ -354,7 +354,7 @@ window.BANK.push({
         "C": "was fast developing",
         "D": "had almost developed"
       },
-      "explain": "當時飲茶被認為不宜配食物，所以點心文化「尚未發展」had yet to develop。"
+      "explain": "<b>解題關鍵：</b>後句說當時人們認為茶不該配食物；再下一句才說幾百年後點心傳統誕生，因此那時點心藝術「尚未發展」。<br>(A) would hardly develop：幾乎不會發展，像是預測永遠難以發展。<br>(B) had yet to develop：當時還沒發展，保留後來發展的可能，正確。<br>(C) was fast developing：正在快速發展，和不配食物矛盾。<br>(D) had almost developed：幾乎發展完成，也不合時間線。"
     },
     {
       "no": 18,
@@ -373,7 +373,7 @@ window.BANK.push({
         "C": "thought to have",
         "D": "meant to be"
       },
-      "explain": "dim sum 不只是一種料理，更是 meant to be 一種愉快的用餐體驗。"
+      "explain": "<b>解題關鍵：</b>前句用 more than 說點心不只是一種料理，後句要補充它原本的目的：成為一段愉快的用餐體驗。<br>(A) passed on to：傳給某人，後面沒有接受者。<br>(B) brought up as：被當成……養大，多用於人。<br>(C) thought to have：被認為擁有，後面接名詞結構不完整。<br>(D) meant to be：本來就是、旨在成為，最順。<br>句意：點心也旨在帶來可持續數小時的愉快用餐體驗。"
     },
     {
       "no": 19,
@@ -392,7 +392,7 @@ window.BANK.push({
         "C": "by then",
         "D": "in that"
       },
-      "explain": "前句說小份量原本只是「點心」，as such 指「以這樣的身分／因此」最順。"
+      "explain": "<b>解題關鍵：</b>前面說小份量只是要「觸動人心」，後面說它們最初被當作 snacks；空格要承接「以這種形式」。<br>(A) if so：如果是這樣，帶有條件，不合敘述。<br>(B) as such：以這種身分／因此，承接 small portions，正確。<br>(C) by then：到那時，文中沒有特定時間點。<br>(D) in that：因為、在於，後面句型不合。<br>句意：這些小份點心原先就是以小吃的形式享用。"
     },
     {
       "no": 20,
@@ -411,7 +411,7 @@ window.BANK.push({
         "C": "a joyful social activity",
         "D": "an amazing local cuisine"
       },
-      "explain": "大群人共享菜餚，重點是愉快的社交活動，而非只談食物。"
+      "explain": "<b>解題關鍵：</b>big groups、enjoy together 都指一群人一起吃東西，重點在共同用餐的社交樂趣。<br>(A) a widely known delicacy：廣為人知的美食，只說食物名氣。<br>(B) an intimate romantic dinner：親密浪漫晚餐，通常不是大群人。<br>(C) a joyful social activity：愉快的社交活動，完全符合。<br>(D) an amazing local cuisine：很棒的地方料理，仍只談食物。<br>句意：大群人一起享用簡單菜餚，是一種愉快的社交活動。"
     },
     {
       "no": 21,
@@ -436,7 +436,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "前文說午睡不必感到罪惡，後文列出益處，所以午睡絕非 unproductive。"
+      "explain": "<b>解題關鍵：</b>前面叫讀者不用為午睡內疚，後面又說身體和大腦能充電，所以午睡絕不是「沒有成效的」。空格在 be 動詞後，需要形容詞。<br>(E) unproductive：沒有產出、沒有效率的，加上 by no means 就成為「絕非沒用」。<br>(I) dramatic 也是形容詞，但「午睡絕非戲劇性的」與下文無關；其他選項的詞性或意思也不合。<br>句意：白天午睡絕不是浪費時間。"
     },
     {
       "no": 22,
@@ -461,7 +461,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "brain size and function 是自然搭配，後文 cognition and memory 也說明腦功能。"
+      "explain": "<b>解題關鍵：</b>and 連接兩個名詞；後面的 cognition（認知）和 memory（記憶）都是大腦的「功能」。<br>(G) function：功能，brain size and function 是自然搭配。<br>(F) risk 雖是名詞，但「腦的大小和風險」不合；(C) atmosphere 是氣氛，也和認知、記憶無關。<br>句意：研究顯示，午睡與大腦大小和功能有關。"
     },
     {
       "no": 23,
@@ -486,7 +486,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "dementia risk 指罹患失智症的風險。"
+      "explain": "<b>解題關鍵：</b>前文說大腦萎縮會讓認知變慢，到了晚年會增加罹患失智症的可能性。空格需要名詞。<br>(F) risk：風險；dementia risk 是「失智症風險」。<br>(D) delay 是延遲，放在 increase 後語意不通；(G) function 是功能，也不能說 increase dementia function。<br>句意：大腦萎縮會增加晚年罹患失智症的風險。"
     },
     {
       "no": 24,
@@ -511,7 +511,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "午睡可維持腦容量，因此能 delay 與年齡相關的腦萎縮。"
+      "explain": "<b>解題關鍵：</b>習慣午睡者的大腦大小保存得比較好，所以午睡可能讓隨年齡出現的腦萎縮「晚一點發生」。may 後面要接原形動詞。<br>(D) delay：延緩，符合因果。<br>(A) retain 是保留，但不能自然說 retain brain shrinkage，會變成「保留萎縮」；(J) point to 是指出，也不表示減慢。<br>句意：午睡可能延緩年齡造成的腦萎縮。"
     },
     {
       "no": 25,
@@ -536,7 +536,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "retain acquired knowledge 指保留已習得的知識。"
+      "explain": "<b>解題關鍵：</b>前句說午睡可以增強記憶和學習，因此對考生的幫助是把已學到的知識和技能留在記憶中。help 後接原形動詞。<br>(A) retain：保留、記住；retain acquired knowledge 搭配合理。<br>(D) delay 是延遲，不能延遲知識；(J) point to 是指出，也不符合學習效果。<br>句意：午睡有助考生記住所學的知識與技能。"
     },
     {
       "no": 26,
@@ -561,7 +561,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "有些研究 point to 較短的午睡時間，意為「指出」。"
+      "explain": "<b>解題關鍵：</b>前句說有些研究 recommend 20 到 40 分鐘，while 表示另一批研究提出不同結果：15 到 20 分鐘。主詞 others 指其他研究。<br>(J) point to：指出、顯示，能接 shorter naps。<br>(B) depend on 需表示「取決於」，但研究不會取決於短午睡；(A) retain 是保留，也不合。<br>句意：另一些研究則指出，15 到 20 分鐘的短午睡較好。"
     },
     {
       "no": 27,
@@ -586,7 +586,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "最佳午睡長度可能 depend on 個人的身體狀況與疲勞程度。"
+      "explain": "<b>解題關鍵：</b>前面列出不同建議，後面接每個人的身體狀況和疲勞程度，表示最佳時間會「因人而異」。may 後接原形動詞。<br>(B) depend on：取決於，完整搭配是 depend on a person’s condition。<br>(J) point to 是指出，主詞「最佳午睡長度」不能指出人的狀況；(A) retain 也不合。<br>句意：最好的午睡長度可能取決於個人身體狀況與疲勞程度。"
     },
     {
       "no": 28,
@@ -611,7 +611,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "即使五分鐘午睡也可能帶來顯著的 dramatic 效益。"
+      "explain": "<b>解題關鍵：</b>even a five-minute nap 和 surprisingly 都強調：時間這麼短，效果卻很大。空格要用形容詞修飾 benefits。<br>(I) dramatic：顯著的、巨大的，符合驚人的反差。<br>(H) minimal 是極少的，會變成「驚人地少的好處」，和作者鼓勵午睡的語氣不合；(E) unproductive 也不能形容 benefits。<br>句意：有些人即使只睡五分鐘，也能得到非常明顯的好處。"
     },
     {
       "no": 29,
@@ -636,7 +636,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "適合午睡的是光線 minimal 的安靜空間。"
+      "explain": "<b>解題關鍵：</b>本段先說 dark space 最適合午睡，下一句又建議 blackout curtains，所以空間中的光應該愈少愈好。<br>(H) minimal：極少的；with minimal light 是「光線很少」。<br>(I) dramatic 是顯著的，不能說顯著光線；(C) atmosphere 是名詞，詞性也不合。<br>句意：找一個安靜、光線很少或有遮光窗簾的地方。"
     },
     {
       "no": 30,
@@ -661,7 +661,7 @@ window.BANK.push({
         "I": "dramatic",
         "J": "point to"
       },
-      "explain": "舒緩的自然聲能營造放鬆的 atmosphere。"
+      "explain": "<b>解題關鍵：</b>soothing nature sounds（舒緩的自然聲）能讓環境更放鬆，create 後面需要一個名詞。<br>(C) atmosphere：氣氛；a relaxing atmosphere 是「放鬆的氣氛」。<br>(G) function 是功能，不能由聲音創造放鬆功能；(F) risk 是風險，和 effective naps 相反。<br>句意：自然聲可以營造放鬆的氣氛，讓午睡更有效。"
     },
     {
       "no": 31,
@@ -681,7 +681,7 @@ window.BANK.push({
         "D": "A genuine smile indicates contentment, while a forced smile suggests underlying distress.",
         "E": "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
       },
-      "explain": "下一句以西方 1700 年前肖像不露笑容為例，因此先總述歷史上開口笑曾長期不流行。"
+      "explain": "<b>解題關鍵：</b>空格後用 1700 年以前的西方肖像當例子，說人們多半表情嚴肅，因此空格要先提出「過去不流行露齒笑」。<br>(C) 正好概括整段，後面的 for example 接得自然。<br>(A) 談移民，應接在後面人口多樣性的段落；(E) 俄羅斯諺語適合文化差異段；(B) 是總結句；(D) 談真假笑，本文未發展此主題。<br>句意：在人類大部分有紀錄的歷史中，開口笑其實不受歡迎。"
     },
     {
       "no": 32,
@@ -701,7 +701,7 @@ window.BANK.push({
         "D": "A genuine smile indicates contentment, while a forced smile suggests underlying distress.",
         "E": "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
       },
-      "explain": "前文談某些文化把微笑者看成較不聰明，俄羅斯諺語正好提供具體例證。"
+      "explain": "<b>解題關鍵：</b>前一句說某些文化會把微笑的人看成比較不聰明，空格要提供這種文化觀念的例子。<br>(E) 俄羅斯諺語說「無故微笑是愚蠢的象徵」，正好支持前句。<br>(C) 是歷史總述，應放 1700 年肖像前；(A) 談移民多樣性；(B) 適合全文結尾；(D) 分辨真笑與假笑，沒有呼應 intelligent。<br>上下文：同一個笑容在不同文化裡，可能受到不同評價。"
     },
     {
       "no": 33,
@@ -721,7 +721,7 @@ window.BANK.push({
         "D": "A genuine smile indicates contentment, while a forced smile suggests underlying distress.",
         "E": "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
       },
-      "explain": "後文立即談不同地區的移民與共同語言，故此處應引出移民多樣性。"
+      "explain": "<b>解題關鍵：</b>前文談個人主義和人口數，空格後則談「來自世界不同地方的新移民」以及沒有共同語言，因此空格要引出移民多樣性這個新因素。<br>(A) Another crucial factor 能承接前面的因素，immigration diversity 又直接連到 newcomers。<br>(B) 是總結，不會在此另開移民主題；(C) 談歷史；(E) 談俄羅斯文化；(D) 談真假笑，都接不上 newcomers。<br>句意：社會中的移民多樣性也會影響人們微笑的頻率。"
     },
     {
       "no": 34,
@@ -741,7 +741,7 @@ window.BANK.push({
         "D": "A genuine smile indicates contentment, while a forced smile suggests underlying distress.",
         "E": "In fact, there is a well-known Russian proverb that goes, “Smiling with no reason is a sign of stupidity.”"
       },
-      "explain": "末段總結前述歷史、文化與人口因素，因此用 Various factors have thus contributed… 收束。"
+      "explain": "<b>解題關鍵：</b>這是最後一段，下一句說「這個簡單動作其實比看起來複雜」，所以空格要先總結：前面很多因素共同造成微笑現象。<br>(B) Various factors... 能統整歷史、文化、個人主義、人口與移民等內容。<br>(A) 只引出單一因素，前面已使用；(C)、(E) 是前段例子；(D) 是文章沒有展開的新分類。<br>句意：許多因素共同影響微笑，因此微笑並不像表面上那麼單純。"
     },
     {
       "no": 35,
@@ -760,7 +760,7 @@ window.BANK.push({
         "C": "A challenging voyage to Antarctica.",
         "D": "The amazing discovery of a sunken ship."
       },
-      "explain": "全文重心是 Shackleton 團隊從受困、棄船到全員獲救的艱險南極航程，選 C。"
+      "explain": "<b>解題關鍵：</b>全文依序寫 Endurance 出航、困在冰中、船沉沒、隊員在冰上求生，最後全員獲救，核心是一段艱難航程。<br>(A) Shackleton 是主角，但文章重點不只是介紹他。<br>(B) 極端天氣只是困難之一。<br>(C) 一趟充滿挑戰的南極航程，涵蓋全文，正確。<br>(D) 沉船被發現只出現在開頭和結尾，不是主要篇幅。"
     },
     {
       "no": 36,
@@ -779,7 +779,7 @@ window.BANK.push({
         "C": "Missed the boat.",
         "D": "Added fuel to the fire."
       },
-      "explain": "exacerbate 是使情況惡化；Added fuel to the fire（火上加油）語意最接近。"
+      "explain": "<b>解題關鍵：</b>冰壓已讓船板彎曲，接著冰水湧入，使情況更糟；exacerbate 就是「使惡化」。<br>(A) break the ice 是「打破冷場」。<br>(B) cost an arm and a leg 是「非常昂貴」。<br>(C) miss the boat 是「錯失機會」。<br>(D) add fuel to the fire 是「火上加油、使問題更嚴重」，最接近。<br>關鍵句：冰水湧入，讓本來受損的船況更加惡化。"
     },
     {
       "no": 37,
@@ -798,7 +798,7 @@ window.BANK.push({
         "C": "His team camped out on Elephant Island for five months.",
         "D": "He sent five crew members on a lifeboat to get help from a whaling station."
       },
-      "explain": "航程自 1914 年 8 月開始，到 1916 年 8 月 30 日救援，超過兩年，故 A 正確。"
+      "explain": "<b>解題關鍵：</b>第二段寫 1914 年 8 月 4 日出發，最後一段寫 1916 年 8 月 30 日才救回全部隊員，時間超過兩年。<br>(A) 正確。<br>(B) 他原本想完成首次橫越，但船受困，沒有成功。<br>(C) 五個月是在浮冰上，不是在 Elephant Island。<br>(D) 是 Shackleton 帶五人一起求援，不是他派五人自己去。<br>所以能由明確日期確認的答案是 A。"
     },
     {
       "no": 38,
@@ -819,7 +819,7 @@ window.BANK.push({
       },
       "image": "img/115/q38.png",
       "imageAlt": "四幅南極航線圖：A 從 South Georgia 順時針繞 Weddell Sea 到 Elephant Island；B 由 South Georgia 逆時針繞行；C 由 South Georgia 沿 Weddell Sea 東側南下後折返；D 由 South Georgia 向西南抵 Elephant Island 再向南。",
-      "explain": "船自 South Georgia 向南進入 Weddell Sea，受冰流推向北方，最後人員前往 Elephant Island，再折返 South Georgia 求援；圖 C 符合。"
+      "explain": "<b>解題關鍵：</b>依文章追蹤地名與方向：Endurance 離開 South Georgia 往南極，困在 Weddell Sea 的浮冰後隨冰往北；隊員搭救生艇到 Elephant Island，Shackleton 再往 South Georgia 求援。<br>圖 C 按照「South Georgia → Weddell Sea 受困漂移 → Elephant Island → South Georgia」畫出正確路線。其他圖若把起點、漂流方向或求援終點顛倒，就和文章時間順序不符。"
     },
     {
       "no": 39,
@@ -838,7 +838,7 @@ window.BANK.push({
         "C": "What is the world’s most famous spiral staircase?",
         "D": "Why is the spiral staircase popular in modern times?"
       },
-      "explain": "末段說古典設計的持久吸引力使旋轉樓梯至今仍受歡迎，因此文章能回答 D。"
+      "explain": "<b>解題關鍵：</b>最後一句直接說旋轉樓梯的古典設計具有長久吸引力，所以現代豪宅、辦公室和公共建築仍想採用。<br>(A) 文章提到早期記載與現存最老樓梯，沒有確定「第一座」在哪。<br>(B) 沒有提第一位設計者。<br>(C) 沒有比較世界上哪座最有名。<br>(D) 可以回答：因為古典設計歷久不衰。"
     },
     {
       "no": 40,
@@ -857,7 +857,7 @@ window.BANK.push({
         "C": "Attackers.",
         "D": "Defenders."
       },
-      "explain": "defenders could retreat up them 中，能沿著往上退的是 stairs。"
+      "explain": "<b>解題關鍵：</b>先找代名詞 them 前面的複數名詞。句子說守軍熟悉 stair pattern，could retreat up them，能「沿著往上撤退」的東西就是樓梯。<br>(A) Stairs 正確。<br>(B) confines 是狹小空間，不能自然說 retreat up confines。<br>(C) attackers 是人，守軍不會沿著攻擊者往上。<br>(D) defenders 就是動作主詞，也不會指自己。<br>完整句意：守軍熟悉階梯，可以迅速沿樓梯向上撤退。"
     },
     {
       "no": 41,
@@ -876,7 +876,7 @@ window.BANK.push({
         "C": "iron → marble → wood → glass",
         "D": "marble → wood → stone → concrete"
       },
-      "explain": "文章依序提到古羅馬石材、維多利亞時代鑄鐵、20 世紀鋼材、近代玻璃，選 A。"
+      "explain": "<b>解題關鍵：</b>第二段提到西元 113 年的樓梯以 stone and marble 製成；末段再依序說維多利亞時代用 cast iron、20 世紀後半用 steel、近年甚至用 glass。<br>(A) stone → iron → steel → glass，完全符合。<br>(B) 把 wood 插入錯誤時間；(C) 和 (D) 都把古老與現代材料次序顛倒。<br>作答時把每個材料旁的年代畫線，就能排出 A。"
     },
     {
       "no": 42,
@@ -895,7 +895,7 @@ window.BANK.push({
         "C": "The uneven steps made it easier to ascend than descend the stairs.",
         "D": "The staircase was dark enough for defenders to hide from attackers."
       },
-      "explain": "順時針向上的設計讓進攻者右手貼近中央，難以揮劍，因而有利熟悉地形的守軍，選 B。"
+      "explain": "<b>解題關鍵：</b>第三段說樓梯順時針向上，往上攻的人的右手會貼近中央柱，難以揮劍；住在城堡的守軍則熟悉樓梯。由此可推知設計有利慣用右手的守軍。<br>(A) 文中說守軍能快速撤退，與此相反。<br>(B) 是由設計線索合理推出。<br>(C) 不平階梯讓攻擊者更易跌倒，不是更易上樓。<br>(D) 昏暗使攻擊者受阻，沒有說守軍用來躲藏。"
     },
     {
       "no": 43,
@@ -914,7 +914,7 @@ window.BANK.push({
         "C": "How map orientation evolved over time.",
         "D": "Why maps were important during the age of exploration."
       },
-      "explain": "文章依時序說明地圖頂端曾朝東、朝南、朝北，到 GPS 動態朝向，主旨是地圖方位的演變。"
+      "explain": "<b>解題關鍵：</b>各段依時間介紹古代地圖朝東、埃及與阿拉伯地圖朝南、歐洲探險時代改為朝北，以及現在 GPS 朝行進方向，所以核心是方位如何改變。<br>(A) Orient 只是東向地圖的一個細節。<br>(B) GPS 只在末段出現。<br>(C) 地圖方位隨時間演變，涵蓋全文。<br>(D) 探險時代只是其中一段。"
     },
     {
       "no": 44,
@@ -933,7 +933,7 @@ window.BANK.push({
         "C": "Ancient India.",
         "D": "East-orientation of maps."
       },
-      "explain": "Though there is no physical evidence to support this 的 this 指前句「古印度地圖朝東」。"
+      "explain": "<b>解題關鍵：</b>代名詞 this 通常回指前一句完整想法。前句說 ancient India 的地圖 most likely oriented to the east，接著才說沒有實物證據支持「這件事」。<br>(A) dakshina 是後面用來支持推測的語言證據。<br>(B) physical evidence 是句中說「沒有」的證據本身。<br>(C) India 是地點，不是要被支持的主張。<br>(D) 地圖朝東的推測正確。"
     },
     {
       "no": 45,
@@ -952,7 +952,7 @@ window.BANK.push({
         "C": "A critical decision.",
         "D": "An advanced system."
       },
-      "explain": "作者把北上方視為歷史中的短暫現象，a blip 即 temporary state。"
+      "explain": "<b>解題關鍵：</b>作者先說古代地圖不一定朝北，現在 GPS 又會動態轉向，所以「北方固定在上」可能只是漫長歷史中的短暫狀態。<br>(A) a temporary state：暫時的狀態，最符合 a blip。<br>(B) urgent need 是迫切需求；(C) critical decision 是關鍵決定；(D) advanced system 是先進系統，都沒有「短暫小變化」的意思。<br>句意：北方在上的做法也許不是永遠的規則。"
     },
     {
       "no": 46,
@@ -971,7 +971,7 @@ window.BANK.push({
         "C": "South was placed at the top of maps in the pre-Biblical era.",
         "D": "Old Islamic maps put south at the top for religious purposes."
       },
-      "explain": "早期穆斯林位於麥加北方，南上方的地圖讓信徒仰望聖城，屬宗教因素，選 D。"
+      "explain": "<b>解題關鍵：</b>第三段直接說早期穆斯林住在麥加北方，把南方畫在上面，就能呈現信徒向上仰望聖城，因此出於宗教考量。<br>(A) 北極星是航海定位工具，不是終點。<br>(B) GPS 會依行進路線動態改變，不是固定方向。<br>(C) 聖經前時代是東方在上，不是南方。<br>(D) 符合原文對伊斯蘭地圖的說明。"
     },
     {
       "no": 49,
@@ -992,7 +992,7 @@ window.BANK.push({
         "E": "Beyond World",
         "F": "The Pinery"
       },
-      "explain": "環保再生商品到 A、十九世紀古董到 D、原住民工藝品到 E，因此答案為 A、D、E。",
+      "explain": "<b>解題關鍵：</b>每項紀念品都要對照店家介紹，不能只看店名。<br>(A) Oh Eco 販售環保商品，因此 recycled plastic sunglasses 可在這裡找，符合。<br>(B) After Work 是啤酒與披薩店，不符合。<br>(C) Aroma Paradise 賣客製香氛，不符合。<br>(D) Something Different 是古董店，19 世紀油燈屬古董，符合。<br>(E) Beyond World 販售原住民在地工藝，木珠項鍊符合。<br>(F) The Pinery 是餐廳，不符合。<br>答案為 A、D、E。",
       "multi": true
     }
   ]
@@ -1060,64 +1060,64 @@ window.BANK.push({
       }
     },
     questions: [
-      make(1, "C1", ["語境搭配"], "詞彙題", "C", "If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.", { A: "border", B: "timer", C: "container", D: "marker" }, { explain: "能放在漏水水龍頭下收集水的是 container（容器）。" }),
-      make(2, "C1", ["語境搭配"], "詞彙題", "A", "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.", { A: "produce", B: "fashion", C: "brand", D: "trend" }, { explain: "farmers’ market 提供的是當季新鮮農產品 produce。" }),
-      make(3, "C1", ["詞義辨析"], "詞彙題", "A", "As the years have passed by, many of my childhood memories are already ______; I can no longer recall clearly what happened back then.", { A: "blurring", B: "trimming", C: "draining", D: "glaring" }, { explain: "無法清楚回想，表示記憶正變得模糊 blurring。" }),
-      make(4, "C1", ["詞義辨析"], "詞彙題", "C", "Racist remarks are by nature ______ and hurtful, and should be avoided on all occasions.", { A: "excessive", B: "furious", C: "offensive", D: "stubborn" }, { explain: "種族歧視言論具有冒犯性 offensive，並會傷人。" }),
-      make(5, "C1", ["語境搭配"], "詞彙題", "C", "Not satisfied with the first ______ of her essay, Mary revised it several times before turning it in to the teacher.", { A: "text", B: "brush", C: "draft", D: "plot" }, { explain: "在繳交前多次修改的是文章初稿 draft。" }),
-      make(6, "C1", ["詞義辨析"], "詞彙題", "D", "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.", { A: "casual", B: "fragile", C: "remote", D: "vacant" }, { explain: "荒屋多年無人居住，應為 left vacant（空置）。" }),
-      make(7, "C1", ["語境搭配"], "詞彙題", "D", "The high school student showed ______ courage when she helped the old man escape from the fire.", { A: "gigantic", B: "exclusive", C: "multiple", D: "enormous" }, { explain: "enormous courage 表示極大的勇氣，搭配自然。" }),
-      make(8, "C1", ["詞義辨析"], "詞彙題", "A", "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.", { A: "halted", B: "hatched", C: "possessed", D: "reinforced" }, { explain: "資源不足時，計畫常被中止 halted 或延後。" }),
-      make(9, "C1", ["語境搭配"], "詞彙題", "B", "Despite his busy schedule, the President ______ the school’s graduation ceremony with his presence and a heartwarming speech.", { A: "praised", B: "graced", C: "addressed", D: "credited" }, { explain: "grace an occasion with one’s presence 表示親臨使場合增光。" }),
-      make(10, "C1", ["詞義辨析"], "詞彙題", "A", "The manager of the company was sued for ______ abusing his colleagues, calling them “hopeless losers.”", { A: "verbally", B: "dominantly", C: "legitimately", D: "relevantly" }, { explain: "以侮辱性言語辱罵同事屬 verbally abusing。" }),
+      make(1, "C1", ["語境搭配"], "詞彙題", "C", "If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.", { A: "border", B: "timer", C: "container", D: "marker" }, { explain: "<b>解題關鍵：</b>under a leaking faucet 和 water collected 表示要在漏水的水龍頭下「接水」。<br>(A) border：邊界，不能裝水。<br>(B) timer：計時器，只能計時。<br>(C) container：容器，可以盛接漏水，正確。<br>(D) marker：記號筆或標記物，也不能裝水。<br>句意：把容器放在漏水水龍頭下，24 小時後會發現收集到很多水。" }),
+      make(2, "C1", ["語境搭配"], "詞彙題", "A", "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.", { A: "produce", B: "fashion", C: "brand", D: "trend" }, { explain: "<b>解題關鍵：</b>farmers’ market（農夫市集）販售的是 fresh seasonal「新鮮當季」農產品。<br>(A) produce：農產品，符合。<br>(B) fashion：時尚；(C) brand：品牌；(D) trend：趨勢，三者都不是農夫種出的食物。<br>句意：當地農夫市集提供各種新鮮當季農產品，所以很受社區居民歡迎。" }),
+      make(3, "C1", ["詞義辨析"], "詞彙題", "A", "As the years have passed by, many of my childhood memories are already ______; I can no longer recall clearly what happened back then.", { A: "blurring", B: "trimming", C: "draining", D: "glaring" }, { explain: "<b>解題關鍵：</b>分號後明說 can no longer recall clearly（已無法清楚回想），所以記憶正在變模糊。<br>(A) blurring：變模糊，正確。<br>(B) trimming：修剪；(C) draining：排出、耗盡；(D) glaring：發出刺眼光線或怒視，都不能形容記憶逐漸不清。<br>句意：多年過去，許多童年記憶已經模糊了。" }),
+      make(4, "C1", ["詞義辨析"], "詞彙題", "C", "Racist remarks are by nature ______ and hurtful, and should be avoided on all occasions.", { A: "excessive", B: "furious", C: "offensive", D: "stubborn" }, { explain: "<b>解題關鍵：</b>racist remarks 是種族歧視言論，and hurtful 表示它會冒犯、傷害別人。<br>(A) excessive：過度的；(B) furious：暴怒的；(C) offensive：冒犯人的，正確；(D) stubborn：固執的，通常形容人。<br>句意：種族歧視言論本來就具有冒犯性又傷人，任何場合都應避免。" }),
+      make(5, "C1", ["語境搭配"], "詞彙題", "C", "Not satisfied with the first ______ of her essay, Mary revised it several times before turning it in to the teacher.", { A: "text", B: "brush", C: "draft", D: "plot" }, { explain: "<b>解題關鍵：</b>revised it several times before turning it in 表示 Mary 在繳交前反覆修改，最初版本就是初稿。<br>(A) text：文字或文本；(B) brush：刷子；(C) draft：草稿、初稿，正確；(D) plot：情節，不能概括整篇作文的第一版。<br>句意：Mary 不滿意作文初稿，所以修改數次才交給老師。" }),
+      make(6, "C1", ["詞義辨析"], "詞彙題", "D", "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.", { A: "casual", B: "fragile", C: "remote", D: "vacant" }, { explain: "<b>解題關鍵：</b>deserted house、厚灰塵和潮濕木頭味，都表示房子多年沒人住。<br>(A) casual：隨意的；(B) fragile：易碎的；(C) remote：偏遠的，不能直接說 left remote；(D) vacant：空著無人使用，left vacant 是自然搭配。<br>句意：房子空置多年，因此滿是灰塵與霉舊氣味。" }),
+      make(7, "C1", ["語境搭配"], "詞彙題", "D", "The high school student showed ______ courage when she helped the old man escape from the fire.", { A: "gigantic", B: "exclusive", C: "multiple", D: "enormous" }, { explain: "<b>解題關鍵：</b>學生冒險幫老人逃離火場，展現的是「極大的勇氣」。<br>(A) gigantic：巨大的，多形容實體大小；(B) exclusive：獨有的、排外的；(C) multiple：多個的；(D) enormous：極大的，可自然搭配 courage。<br>句意：這名高中生救老人逃出火場，展現出極大的勇氣。" }),
+      make(8, "C1", ["詞義辨析"], "詞彙題", "A", "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.", { A: "halted", B: "hatched", C: "possessed", D: "reinforced" }, { explain: "<b>解題關鍵：</b>經濟困難又缺少資源時，公共計畫可能被延後，or 前面應是相近結果「停止」。<br>(A) halted：中止，正確；(B) hatched：孵化或策畫；(C) possessed：擁有；(D) reinforced：加強，後三者都不符合缺資源造成的結果。<br>句意：經濟不景氣時，公費計畫常被中止或延後。" }),
+      make(9, "C1", ["語境搭配"], "詞彙題", "B", "Despite his busy schedule, the President ______ the school’s graduation ceremony with his presence and a heartwarming speech.", { A: "praised", B: "graced", C: "addressed", D: "credited" }, { explain: "<b>解題關鍵：</b>with his presence 是固定搭配線索，表示總統親自出席，讓典禮增光。<br>(A) praised：稱讚；(B) graced：使增光，grace an occasion with one’s presence 正確；(C) addressed：向……演說，不能接 with his presence；(D) credited：把功勞歸給。<br>句意：總統雖忙，仍親臨畢業典禮並致詞，使活動增色。" }),
+      make(10, "C1", ["詞義辨析"], "詞彙題", "A", "The manager of the company was sued for ______ abusing his colleagues, calling them “hopeless losers.”", { A: "verbally", B: "dominantly", C: "legitimately", D: "relevantly" }, { explain: "<b>解題關鍵：</b>calling them “hopeless losers” 是用言語羞辱同事，所以空格要表示「口頭上」。<br>(A) verbally：口頭上，verbally abuse 是言語霸凌；(B) dominantly：支配地；(C) legitimately：合法地；(D) relevantly：相關地，都不能說明辱罵方式。<br>句意：經理因用言語辱罵同事而遭起訴。" }),
 
-      make(11, "C2", ["時態語意"], "綜合測驗", "B", "that ______ rapidly around the world.", { A: "had spread", B: "would spread", C: "had been spreading", D: "would have spread" }, { group: "G1", explain: "敘述當時尚未發生、後來會擴散的事，用過去觀點的未來式 would spread。" }),
-      make(12, "C2", ["語境選詞"], "綜合測驗", "B", "With their plan ______ by the rain,", { A: "facilitated", B: "disrupted", C: "disclosed", D: "fulfilled" }, { group: "G1", explain: "大雨使原訂花園討論無法進行，因此計畫被 disrupted。" }),
-      make(13, "C2", ["邏輯關係"], "綜合測驗", "A", "so the insights and ideas might ______ and deepen.", { A: "circulate", B: "emphasize", C: "recover", D: "preserve" }, { group: "G1", explain: "換桌讓想法在參與者間流通 circulate 並深化。" }),
-      make(14, "C2", ["語境搭配"], "綜合測驗", "C", "the innovative discussion process ______ a new form of collective effort", { A: "made up for", B: "kept track of", C: "gave rise to", D: "looked out for" }, { group: "G1", explain: "討論過程「促成」新形式，使用 gave rise to。" }),
-      make(15, "C2", ["邏輯關係"], "綜合測驗", "D", "The World Café was ______ created.", { A: "still", B: "also", C: "further", D: "thus" }, { group: "G1", explain: "前文描述其形成過程，此處以 thus 表示結果。" }),
-      make(16, "C2", ["語境搭配"], "綜合測驗", "D", "It can ______ suddenly,", { A: "crash", B: "flush", C: "burst", D: "strike" }, { group: "G2", explain: "疾病或不適突然發作可用 strike suddenly。" }),
-      make(17, "C2", ["語境選詞"], "綜合測驗", "C", "when the signals your brain receives from your eyes, ears, and body ______.", { A: "are not regular", B: "can hardly move", C: "do not match", D: "are rarely cued" }, { group: "G2", explain: "後文說各部位傳來 conflicting information，故訊號 do not match。" }),
-      make(18, "C2", ["篇章指涉"], "綜合測驗", "C", "One part of your balance-sensing system detects that your body is moving, but the other parts ______.", { A: "aren’t", B: "won’t", C: "don’t", D: "haven’t" }, { group: "G2", explain: "省略重複動詞 detects，助動詞應用 don’t。" }),
-      make(19, "C2", ["語境搭配"], "綜合測驗", "B", "You can take some ______ to help avoid the discomfort.", { A: "special opportunities", B: "preventive measures", C: "potential risks", D: "significant advantages" }, { group: "G2", explain: "後文列出預防暈動症的方法，故為 preventive measures。" }),
-      make(20, "C2", ["邏輯關係"], "綜合測驗", "A", "Looking out into the distance from the vehicle can help ______.", { A: "as well", B: "by far", C: "at least", D: "after all" }, { group: "G2", explain: "此法是另一項也有幫助的措施，使用 as well。" }),
+      make(11, "C2", ["時態語意"], "綜合測驗", "B", "that ______ rapidly around the world.", { A: "had spread", B: "would spread", C: "had been spreading", D: "would have spread" }, { group: "G1", explain: "<b>解題關鍵：</b>文章站在當時回看一個後來發生的結果，所以用「過去觀點的未來」would spread。<br>(A) had spread 與 (C) had been spreading 都表示當時之前已擴散；(D) would have spread 常接未實現的假設；(B) 表示之後將迅速傳遍世界，時間最合。<br>句意：他們當時還不知道，這個方法後來會迅速傳到世界各地。" }),
+      make(12, "C2", ["語境選詞"], "綜合測驗", "B", "With their plan ______ by the rain,", { A: "facilitated", B: "disrupted", C: "disclosed", D: "fulfilled" }, { group: "G1", explain: "<b>解題關鍵：</b>雨使原訂活動不能照計畫進行，With + plan + 過去分詞表示計畫「被」影響。<br>(A) facilitated：被促進；(B) disrupted：被打亂，正確；(C) disclosed：被公開；(D) fulfilled：被實現，後三者不是下雨造成的情況。<br>句意：由於計畫被雨打亂，他們只好改變討論方式。" }),
+      make(13, "C2", ["邏輯關係"], "綜合測驗", "A", "so the insights and ideas might ______ and deepen.", { A: "circulate", B: "emphasize", C: "recover", D: "preserve" }, { group: "G1", explain: "<b>解題關鍵：</b>參與者換桌分享，讓想法在不同人之間移動並變得更深入。<br>(A) circulate：流通，正確；(B) emphasize：強調，需要人來強調；(C) recover：恢復；(D) preserve：保存，都不能表達想法傳到各桌。<br>句意：換桌使見解和點子能夠流通並深化。" }),
+      make(14, "C2", ["語境搭配"], "綜合測驗", "C", "the innovative discussion process ______ a new form of collective effort", { A: "made up for", B: "kept track of", C: "gave rise to", D: "looked out for" }, { group: "G1", explain: "<b>解題關鍵：</b>創新的討論過程帶來一種新的合作形式，空格要表示「產生、促成」。<br>(A) made up for：彌補；(B) kept track of：追蹤；(C) gave rise to：促成、引起，正確；(D) looked out for：留意。<br>句意：這個討論過程促成了新的集體合作方式。" }),
+      make(15, "C2", ["邏輯關係"], "綜合測驗", "D", "The World Café was ______ created.", { A: "still", B: "also", C: "further", D: "thus" }, { group: "G1", explain: "<b>解題關鍵：</b>前文交代雨打亂計畫後，大家改用換桌討論，這一連串事情「因此」創造了 World Café。<br>(A) still：仍然；(B) also：也；(C) further：進一步；(D) thus：因此，能表示結果。<br>句意：World Café 這種討論形式就這樣被創造出來。" }),
+      make(16, "C2", ["語境搭配"], "綜合測驗", "D", "It can ______ suddenly,", { A: "crash", B: "flush", C: "burst", D: "strike" }, { group: "G2", explain: "<b>解題關鍵：</b>It 指暈動症等不適，句子要說症狀可能突然「襲來、發作」。<br>(A) crash：撞擊；(B) flush：沖洗；(C) burst：爆裂；(D) strike：突然侵襲，疾病或災害都可作主詞，最合。<br>句意：這種不舒服可能會突然發作。" }),
+      make(17, "C2", ["語境選詞"], "綜合測驗", "C", "when the signals your brain receives from your eyes, ears, and body ______.", { A: "are not regular", B: "can hardly move", C: "do not match", D: "are rarely cued" }, { group: "G2", explain: "<b>解題關鍵：</b>後文說身體的一部分感到移動，其他部分卻沒有，表示眼、耳、身體送來的訊號彼此不一致。<br>(A) are not regular 只是不規律；(B) 訊號不能說幾乎不移動；(C) do not match：不相符，正確；(D) are rarely cued 語意不合。<br>句意：當大腦收到互不相符的訊號，就可能暈車。" }),
+      make(18, "C2", ["篇章指涉"], "綜合測驗", "C", "One part of your balance-sensing system detects that your body is moving, but the other parts ______.", { A: "aren’t", B: "won’t", C: "don’t", D: "haven’t" }, { group: "G2", explain: "<b>解題關鍵：</b>but 連接相反訊息：平衡系統的一部分 detects 身體在動，其他部分卻「沒有偵測到」。後半省略重複的 detect；前句為一般現在式，複數主詞 the other parts 要用 don’t 代替 don’t detect。<br>(A) aren’t 是 are not，只能代替 be 動詞；前面主要動詞是 detects，不適合。<br>(B) won’t 是 will not，表示未來不會偵測，但全文在說一般會發生的暈動症，不適合。<br>(C) don’t 是 do not，能代替一般現在式 don’t detect，時態與主詞都適合。<br>(D) haven’t 是 have not，需搭配過去分詞形成完成式；前句沒有完成式，不適合。<br>句意：系統一部分感到身體在移動，其他部分卻沒有。" }),
+      make(19, "C2", ["語境搭配"], "綜合測驗", "B", "You can take some ______ to help avoid the discomfort.", { A: "special opportunities", B: "preventive measures", C: "potential risks", D: "significant advantages" }, { group: "G2", explain: "<b>解題關鍵：</b>help avoid 和後文列出的方法，都表示可以先採取「預防措施」。<br>(A) special opportunities：特殊機會；(B) preventive measures：預防措施，take measures 是固定搭配；(C) potential risks：潛在風險；(D) significant advantages：重大優點。<br>句意：你可以採取一些預防措施來避免不適。" }),
+      make(20, "C2", ["邏輯關係"], "綜合測驗", "A", "Looking out into the distance from the vehicle can help ______.", { A: "as well", B: "by far", C: "at least", D: "after all" }, { group: "G2", explain: "<b>解題關鍵：</b>前文已列一項預防方法，此句再補充「看向車外遠處也有幫助」。<br>(A) as well：也，放句尾最自然；(B) by far：遠遠地、到目前為止；(C) at least：至少；(D) after all：畢竟，都沒有並列另一方法的作用。<br>句意：從車內望向遠方也能減輕不適。" }),
 
       ...[
-        [21, "I", "is ______ for its intricate architecture", "noted for 表示「以……聞名」。"],
-        [22, "A", "there is documented ______ to the ringing of bells", "documented reference to 表示有文獻提及。"],
-        [23, "B", "The 10 bells vary in size, each ______ a name.", "獨立分詞結構 each bearing a name 表示各有名稱。"],
-        [24, "F", "the only one of the whole group that ______ the French Revolution", "其餘被熔掉，只有 Emmanuel survived。"],
-        [25, "D", "Emmanuel, which ______ its renowned, excellent sound", "未被替換的鐘保留 retained 其音色。"],
-        [26, "C", "the bells have become a ______ part of life in Paris", "長年融入巴黎生活，故為 familiar part。"],
-        [27, "E", "to call the ______ to prayer", "the faithful 可指信眾。"],
-        [28, "G", "rung in times of ______ and of mourning", "與 mourning 對照的是 celebration。"],
-        [29, "J", "the bells fell ______", "火災後鐘聲沉寂，fell silent。"],
-        [30, "H", "a complex and time-consuming process of ______", "建築火災後經歷修復 restoration。"]
+        [21, "I", "is ______ for its intricate architecture", "<b>解題關鍵：</b>空格前是 is、後有 for，需用形容詞組成 be noted for「以……聞名」。<br>(I) noted 正確，說明聖母院以精細建築聞名；(C) familiar 雖是形容詞，但要說 familiar to 人，不接 for 表示聞名。其他選項詞性或搭配不合。"],
+        [22, "A", "there is documented ______ to the ringing of bells", "<b>解題關鍵：</b>documented 後需要名詞，且後接 to。<br>(A) reference 可組成 reference to「對……的記載／提及」，正確；(G) celebration 和 (H) restoration 雖是名詞，但不能表示文獻記錄。<br>句意：文獻中有鐘聲響起的記載。"],
+        [23, "B", "The 10 bells vary in size, each ______ a name.", "<b>解題關鍵：</b>逗號後的 each 指每一口鐘，後面要補「各自有一個名字」。<br>(B) bearing 是 bear「帶有」的 ing 形，each bearing a name 表示各有名稱；(D) retained 是保留，時態和意思都不合。"],
+        [24, "F", "the only one of the whole group that ______ the French Revolution", "<b>解題關鍵：</b>文章說其他鐘在法國大革命時被熔掉，只有 Emmanuel 留到後來。<br>(F) survived：倖存、撐過，正確；(D) retained 要接受詞，不能單獨說 retained the Revolution。<br>句意：它是整組鐘中唯一度過法國大革命的一口。"],
+        [25, "D", "Emmanuel, which ______ its renowned, excellent sound", "<b>解題關鍵：</b>Emmanuel 沒被熔掉，因此仍「保有」著名的好音色。<br>(D) retained：保留，後可直接接受詞 sound；(F) survived 是倖存，不能說 survived its sound；(I) noted 要搭配 be noted for。"],
+        [26, "C", "the bells have become a ______ part of life in Paris", "<b>解題關鍵：</b>鐘聲長年用於祈禱、慶祝與哀悼，巴黎人很熟悉。空格要形容 part。<br>(C) familiar：熟悉的，a familiar part of life 是自然搭配；(E) faithful 在此多指忠實的，不合。"],
+        [27, "E", "to call the ______ to prayer", "<b>解題關鍵：</b>call 後需要指「前來禱告的人」。<br>(E) the faithful 可當名詞，指信眾；(C) the familiar 不是這種固定稱呼；(G) celebration 是活動，不會被召來祈禱。<br>句意：鐘聲召集信眾祈禱。"],
+        [28, "G", "rung in times of ______ and of mourning", "<b>解題關鍵：</b>and 連接兩個名詞，mourning 是哀悼；文章表示鐘聲在喜事和喪事都會響，所以前面應是相對的「慶祝」。<br>(G) celebration 正確；(H) restoration 是修復，不能和 mourning 形成喜悲對照。"],
+        [29, "J", "the bells fell ______", "<b>解題關鍵：</b>大火後鐘無法響起，fell 後接形容詞表示「陷入某狀態」。<br>(J) silent：沉默無聲，fell silent 是固定搭配；(C) familiar、(E) faithful 都無法說明火災造成的結果。"],
+        [30, "H", "a complex and time-consuming process of ______", "<b>解題關鍵：</b>大火毀損聖母院，後續需要複雜又耗時的「修復過程」。<br>(H) restoration：修復，正確；(G) celebration 是慶祝；(A) reference 是提及，都不符合火災後的工程。"]
       ].map(([no, answer, stem, explain]) => make(no, "C2", ["文意選填"], "文意選填", answer, stem, clozeOptions, { group: "G3", explain })),
 
       ...[
-        [31, "D", "Originated in Japan, these hotels were initially meant for business professionals to stay close to populated business districts without spending a lot. ______", "D 承接起源，說明今日仍在大城市商業中心提供平價住宿。"],
-        [32, "C", "The walls of each capsule may be made of wood, metal or any rigid material, but are often fiberglass or plastic. ______ Each capsule is equipped with a comfortable mattress...", "C 的 chambers 緊接 capsule 外觀，並交代上下堆疊配置。"],
-        [33, "A", "Pod hotels are also seen in Europe and North America, especially in big cities like New York, London, and Paris. ______ Instead of the traditional bare pod-sized style, new chains now feature interior design...", "後文列出新式設計，A 的 innovation 能自然引出。"],
-        [34, "B", "Some hotels may not provide air conditioning in the capsules, leading to poor air flow. ______ Also, you may have to share common facilities...", "此段列缺點，B 的隔音不佳與前後並列。"]
+        [31, "D", "Originated in Japan, these hotels were initially meant for business professionals to stay close to populated business districts without spending a lot. ______", "<b>解題關鍵：</b>前句談膠囊旅館最初在日本服務商務人士，下一段才介紹房間結構；空格應先交代今日用途。<br>(D) Today 承接 initially，並延續「大城市商業區的便宜過夜住宿」。<br>(A) 談創新，應接新式設計段；(B) 是缺點；(C) 是房間排列，皆不適合此處。"],
+        [32, "C", "The walls of each capsule may be made of wood, metal or any rigid material, but are often fiberglass or plastic. ______ Each capsule is equipped with a comfortable mattress...", "<b>解題關鍵：</b>前後都在介紹 capsule 的外觀和內部設備，中間應補它們如何排列。<br>(C) chambers 回指膠囊房，說明兩層並排、上層用梯子，銜接最順。<br>(D) 談全球用途、(A) 談創新、(B) 談噪音，會打斷房間結構介紹。"],
+        [33, "A", "Pod hotels are also seen in Europe and North America, especially in big cities like New York, London, and Paris. ______ Instead of the traditional bare pod-sized style, new chains now feature interior design...", "<b>解題關鍵：</b>後句的 Instead of traditional... new chains... 表示接下來要談新設計。<br>(A) innovation「創新」正好引出現代膠囊旅館的改變。<br>(B) 是隔音缺點；(C) 是堆疊構造；(D) 是用途概述，都無法引出 interior design。"],
+        [34, "B", "Some hotels may not provide air conditioning in the capsules, leading to poor air flow. ______ Also, you may have to share common facilities...", "<b>解題關鍵：</b>本段連續列膠囊旅館缺點：空氣不流通、空格、共用設施。<br>(B) 薄塑膠牆會傳來鄰房打呼聲，是另一項缺點，和 Also 並列自然。<br>(A) 是創新優點；(C) 是配置；(D) 是今日用途，皆破壞缺點清單。"]
       ].map(([no, answer, stem, explain]) => make(no, "C3", ["篇章結構"], "篇章結構", answer, stem, structureOptions, { group: "G4", explain })),
 
-      make(35, "C4", ["主旨判讀"], "閱讀測驗", "A", "What is this passage mainly about?", { A: "The evolution of traffic control systems.", B: "The inventors of traffic lights in history.", C: "The functions of different traffic signals.", D: "The development of modern transportation." }, { group: "G5", explain: "文章依時間介紹交通號誌從機械臂、三色燈到未來系統的演變。" }),
-      make(36, "C5", ["圖文整合"], "閱讀測驗", "C", "Which of the following pictures shows Knight’s proposed traffic signal?", { A: "", B: "", C: "", D: "" }, { group: "G5", image: "img/114/q36.png", imageAlt: "四幅交通號誌圖：A 為柱頂雙圓燈箱；B 為柱上兩支斜向橫臂；C 為柱頂燈箱加兩支可動翼板；D 為柱上方寫有 STOP、GO 的方形箱體。", explain: "Knight 的設計有可水平或下壓 45 度的活動臂，夜間另加紅綠燈；C 圖符合。" }),
-      make(37, "C4", ["細節檢索"], "閱讀測驗", "D", "Which of the following statements is true, according to the passage?", { A: "Knight was injured in the explosion of his traffic light.", B: "Potts’ traffic light was the first one to appear in the USA.", C: "The first traffic signal originated from the idea of a traffic director.", D: "Future vehicles may not need traffic lights to cross an intersection." }, { group: "G5", explain: "末段指出自駕車可能使交通號誌不再必要，故 D 正確。" }),
-      make(38, "C4", ["篇章理解"], "閱讀測驗", "C", "Here is a sentence: “This design was adopted in later traffic light designs across the world.” Which paragraph is most suitable to have it as the final sentence?", { A: "Paragraph 1.", B: "Paragraph 2.", C: "Paragraph 3.", D: "Paragraph 4." }, { group: "G5", explain: "第三段介紹 Potts 的三色系統；This design 正好指代該設計並補充其後續影響。" }),
+      make(35, "C4", ["主旨判讀"], "閱讀測驗", "A", "What is this passage mainly about?", { A: "The evolution of traffic control systems.", B: "The inventors of traffic lights in history.", C: "The functions of different traffic signals.", D: "The development of modern transportation." }, { group: "G5", explain: "<b>解題關鍵：</b>文章依時間介紹交通控制從機械臂、紅綠燈、三色燈到未來自駕系統的變化。<br>(A) 交通控制系統的演進，涵蓋全文。<br>(B) 發明者只是演進中的人物；(C) 並非只比較號誌功能；(D) 範圍太大，文章沒有談所有交通工具。<br>主旨題要選能包住每一段的 A。" }),
+      make(36, "C5", ["圖文整合"], "閱讀測驗", "C", "Which of the following pictures shows Knight’s proposed traffic signal?", { A: "", B: "", C: "", D: "" }, { group: "G5", image: "img/114/q36.png", imageAlt: "四幅交通號誌圖：A 為柱頂雙圓燈箱；B 為柱上兩支斜向橫臂；C 為柱頂燈箱加兩支可動翼板；D 為柱上方寫有 STOP、GO 的方形箱體。", explain: "<b>解題關鍵：</b>原文給兩個外觀線索：白天有可以水平伸展或向下 45 度的活動臂，夜間另有紅綠燈。<br>圖 C 同時畫出柱頂燈箱和兩支可動翼板，因此符合。A 只有圓燈、B 只有斜臂、D 是寫 STOP／GO 的箱體，都少了 Knight 設計的組合。<br>圖文題要逐一把文字特徵對上圖形。" }),
+      make(37, "C4", ["細節檢索"], "閱讀測驗", "D", "Which of the following statements is true, according to the passage?", { A: "Knight was injured in the explosion of his traffic light.", B: "Potts’ traffic light was the first one to appear in the USA.", C: "The first traffic signal originated from the idea of a traffic director.", D: "Future vehicles may not need traffic lights to cross an intersection." }, { group: "G5", explain: "<b>解題關鍵：</b>末段指出未來車輛能彼此通訊，過路口可能不再需要號誌。<br>(D) 符合。<br>(A) 爆炸中受傷的是操作警察，不是 Knight；(B) Potts 的並非美國第一個號誌；(C) 最早設計取自鐵路號誌概念，不是交通指揮員。<br>因此只有 D 沒有偷換人物或先後順序。" }),
+      make(38, "C4", ["篇章理解"], "閱讀測驗", "C", "Here is a sentence: “This design was adopted in later traffic light designs across the world.” Which paragraph is most suitable to have it as the final sentence?", { A: "Paragraph 1.", B: "Paragraph 2.", C: "Paragraph 3.", D: "Paragraph 4." }, { group: "G5", explain: "<b>解題關鍵：</b>插入句的 This design 必須緊接一項具體設計，而且 adopted in later traffic light designs 表示它成為後來全球號誌的基礎。第三段結尾正介紹 Potts 在紅、綠之外加入黃色的三色系統。<br>(A) 第一段只提出「誰發明交通號誌」的問題與 Knight 背景，尚未說明可被沿用的完整設計，不適合。<br>(B) 第二段談 Knight 的機械臂、紅綠燈及倫敦事故；該系統很快被停用，與後來全球沿用不合。<br>(C) 第三段最後說 Potts 的紅黃綠系統加入「小心通行」訊號，This design 指涉清楚，適合。<br>(D) 第四段想像自駕車時代不再需要交通號誌，與後來採用某號誌設計的句意相反。<br>所以答案選 (C)。" }),
 
-      make(39, "C4", ["推論判讀"], "閱讀測驗", "A", "What field of study does the research mentioned in the passage most likely belong to?", { A: "Psychology.", B: "Education.", C: "Philosophy.", D: "Communication." }, { group: "G6", explain: "研究聚焦恐怖片對情緒、焦慮、創傷與行為的影響，屬心理學。" }),
-      make(40, "C4", ["語境推義"], "閱讀測驗", "B", "What does the author mean by “learning vicariously” in the second paragraph?", { A: "Making inquiries without reservation.", B: "Gaining knowledge through observation.", C: "Acquiring insights by face-to-face interaction.", D: "Obtaining information from personal experience." }, { group: "G6", explain: "觀眾透過角色與情節間接學習，即由觀察獲得知識。" }),
-      make(41, "C4", ["推論判讀"], "閱讀測驗", "D", "Which of the following statements about horror movies can be inferred from the passage?", { A: "Most horror movie lovers are prone to aggressive behavior.", B: "There are far more benefits to horror movies than disadvantages.", C: "COVID-19 was an important source of inspiration for horror movies.", D: "Watching horror movies may have a long-term effect on personality." }, { group: "G6", explain: "兒童觀看後可能在成年時焦慮且對暴力麻木，顯示可能有長期人格影響。" }),
-      make(42, "C4", ["篇章理解"], "閱讀測驗", "B", "How does the author develop the ideas in this passage?", { A: "By defining and illustrating a concept.", B: "By showing opposing views of an issue.", C: "By presenting cause and effect of a problem.", D: "By providing steps for settling a disagreement." }, { group: "G6", explain: "文章先列恐怖片的益處，再列負面影響，呈現議題的相對觀點。" }),
+      make(39, "C4", ["推論判讀"], "閱讀測驗", "A", "What field of study does the research mentioned in the passage most likely belong to?", { A: "Psychology.", B: "Education.", C: "Philosophy.", D: "Communication." }, { group: "G6", explain: "<b>解題關鍵：</b>研究內容是恐怖片如何影響恐懼、焦慮、創傷、睡眠與攻擊行為，都是人的心理與行為。<br>(A) Psychology 心理學，最符合。<br>(B) 教育研究學習制度；(C) 哲學研究觀念與價值；(D) 傳播學雖可能研究媒體，但此文焦點是觀眾心理反應。<br>由研究問題而非「電影」這個表面字判斷。" }),
+      make(40, "C4", ["語境推義"], "閱讀測驗", "B", "What does the author mean by “learning vicariously” in the second paragraph?", { A: "Making inquiries without reservation.", B: "Gaining knowledge through observation.", C: "Acquiring insights by face-to-face interaction.", D: "Obtaining information from personal experience." }, { group: "G6", explain: "<b>解題關鍵：</b>後文解釋觀眾跟著角色、在腦中演練情節，從電影看到角色如何面對威脅；自己並沒有真的遇到危險。<br>(B) 透過觀察取得知識，正確。<br>(A) 是自由提問；(C) 是面對面互動；(D) 是親身經驗，都不是觀看他人經歷的間接學習。<br>vicariously 可理解成「藉由別人的經驗間接地」。" }),
+      make(41, "C4", ["推論判讀"], "閱讀測驗", "D", "Which of the following statements about horror movies can be inferred from the passage?", { A: "Most horror movie lovers are prone to aggressive behavior.", B: "There are far more benefits to horror movies than disadvantages.", C: "COVID-19 was an important source of inspiration for horror movies.", D: "Watching horror movies may have a long-term effect on personality." }, { group: "G6", explain: "<b>解題關鍵：</b>末段說 14 歲以下兒童看恐怖片，長大後較可能焦慮，也可能對真實暴力變麻木，能合理推出長期影響。<br>(D) 正確。<br>(A) 把部分兒童誇大成多數愛好者；(B) 文章平列利弊，沒比較多寡；(C) 疫情期間觀看增加，不等於疫情啟發電影。<br>推論仍須有原文線索，不能自行擴大。" }),
+      make(42, "C4", ["篇章理解"], "閱讀測驗", "B", "How does the author develop the ideas in this passage?", { A: "By defining and illustrating a concept.", B: "By showing opposing views of an issue.", C: "By presenting cause and effect of a problem.", D: "By providing steps for settling a disagreement." }, { group: "G6", explain: "<b>解題關鍵：</b>第二段以 One benefit、Secondly、In addition 列恐怖片好處；第三段用 However 轉折，列焦慮、創傷、失眠等壞處。<br>(B) 展示同一議題的正反面，正確。<br>(A) 不是只定義概念；(C) 沒有單一問題的因果鏈；(D) 沒提供解決爭論步驟。<br>注意 However 是文章架構的重要線索。" }),
 
-      make(43, "C4", ["篇章理解"], "閱讀測驗", "C", "What is the main purpose of the second paragraph in the passage?", { A: "To discuss the content of alcoholic drinks in ancient Europe.", B: "To highlight the French impact on Russians’ drinking habits.", C: "To argue against the assumption that Russians are born drinkers.", D: "To link Russians’ vodka consumption to their adoption of Christianity." }, { group: "G7", explain: "第二段以古代俄羅斯少飲酒、伏特加源自外地反駁俄國人天生嗜酒的假設。" }),
-      make(44, "C4", ["細節檢索"], "閱讀測驗", "A", "Which of the following is true about vodka production?", { A: "Vodka production in Russia started in the 15th century.", B: "The first vodka made from wheat was imported from France.", C: "Germany was the biggest vodka producer in medieval Europe.", D: "Russian people were encouraged to make their own vodka in the 19th century." }, { group: "G7", explain: "文中明載 first Russian-made vodka appeared in the 15th century。" }),
-      make(45, "C4", ["指涉判讀"], "閱讀測驗", "D", "What does “This” in the fourth paragraph refer to?", { A: "The alcohol.", B: "The government.", C: "The illegal production.", D: "The state monopoly." }, { group: "G7", explain: "This 承接前句政府建立的 state monopoly，該制度為國庫帶來收益。" }),
-      make(46, "C4", ["篇章理解"], "閱讀測驗", "A", "How does the author conclude the passage in the last paragraph?", { A: "By providing further facts.", B: "By summarizing the main ideas.", C: "By raising a new problem.", D: "By making a future prediction." }, { group: "G7", explain: "末段補充反酒運動、政策及現今人均消費排名等事實作結。" }),
+      make(43, "C4", ["篇章理解"], "閱讀測驗", "C", "What is the main purpose of the second paragraph in the passage?", { A: "To discuss the content of alcoholic drinks in ancient Europe.", B: "To highlight the French impact on Russians’ drinking habits.", C: "To argue against the assumption that Russians are born drinkers.", D: "To link Russians’ vodka consumption to their adoption of Christianity." }, { group: "G7", explain: "<b>解題關鍵：</b>第二段指出古代俄羅斯人少喝酒，伏特加技術也來自外地，用歷史證據反駁「俄國人天生愛喝酒」。<br>(C) 正確。<br>(A) 酒精成分只是細節；(B) 重點不是法國影響；(D) 基督教資料是用來證明當時少飲酒，不是解釋後來伏特加消費。<br>段落目的要看所有例子共同支持哪個主張。" }),
+      make(44, "C4", ["細節檢索"], "閱讀測驗", "A", "Which of the following is true about vodka production?", { A: "Vodka production in Russia started in the 15th century.", B: "The first vodka made from wheat was imported from France.", C: "Germany was the biggest vodka producer in medieval Europe.", D: "Russian people were encouraged to make their own vodka in the 19th century." }, { group: "G7", explain: "<b>解題關鍵：</b>原文直接寫 first Russian-made vodka appeared in the 15th century。<br>(A) 俄羅斯在 15 世紀開始生產，符合。<br>(B) 外來酒的原料與來源被混在一起；(C) 文中沒有說德國產量最大；(D) 19 世紀政府建立壟斷，並非鼓勵民間自製。<br>細節題要核對國家、年代與政策三項資料。" }),
+      make(45, "C4", ["指涉判讀"], "閱讀測驗", "D", "What does “This” in the fourth paragraph refer to?", { A: "The alcohol.", B: "The government.", C: "The illegal production.", D: "The state monopoly." }, { group: "G7", explain: "<b>解題關鍵：</b>找 This 前一句最近的完整概念：政府建立 state monopoly（國家壟斷），下一句說「這」為國庫帶來收入，因此指制度。<br>(D) 正確。<br>(A) 酒本身不是新措施；(B) 政府是執行者；(C) 非法生產反而是壟斷要控制的事。<br>代名詞不只看最近名詞，也要確認後句意思說得通。" }),
+      make(46, "C4", ["篇章理解"], "閱讀測驗", "A", "How does the author conclude the passage in the last paragraph?", { A: "By providing further facts.", B: "By summarizing the main ideas.", C: "By raising a new problem.", D: "By making a future prediction." }, { group: "G7", explain: "<b>解題關鍵：</b>最後一段繼續補充反酒運動、政府政策和現代人均消費排名，都是新的歷史或統計事實。<br>(A) 提供更多事實，正確。<br>(B) 沒有重述全文重點；(C) 沒提出待解決的新問題；(D) 說的是現況，不是預測未來。<br>判斷結尾方式要看作者實際新增的是資料、問題還是預測。" }),
 
-      make(49, "C5", ["多文本整合"], "混合題", "C,D,G,I", "From (A) to (J) in the above forum discussion, which ONES show a positive attitude toward zoos?", { A: "Amy", B: "Ben", C: "Cathy", D: "Daniel", E: "Eddie", F: "Frank", G: "George", H: "Henry", I: "Irene", J: "Jack" }, { group: "G8", multi: true, explain: "C 肯定動物園參訪、D 肯定保育配對、G 肯定教育作用、I 肯定培養同理心，皆呈正向態度。" })
+      make(49, "C5", ["多文本整合"], "混合題", "C,D,G,I", "From (A) to (J) in the above forum discussion, which ONES show a positive attitude toward zoos?", { A: "Amy", B: "Ben", C: "Cathy", D: "Daniel", E: "Eddie", F: "Frank", G: "George", H: "Henry", I: "Irene", J: "Jack" }, { group: "G8", multi: true, explain: "<b>解題關鍵：</b>逐則找明確支持動物園的理由。<br>(C) Cathy 說參觀是健康的家庭活動，正向。<br>(D) Daniel 肯定動物園幫瀕危動物找到伴侶，正向。<br>(G) George 肯定教育作用，正向。<br>(I) Irene 說近看動物能培養同理心，正向。<br>(A)(B)(E)(H) 反對或質疑；(F) 只是說既然存在就應改善；(J) 中立談現實。<br>答案為 C、D、G、I。" })
     ]
   });
 })();
@@ -1174,7 +1174,7 @@ window.BANK.push({
       "answer": "B",
       "stem": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
       "options": {"A": "spicy", "B": "slender", "C": "slight", "D": "slippery"},
-      "explain": "運動與健康飲食能維持的是 slender figure，意為「苗條的身材」。"
+      "explain": "<b>解題關鍵：</b>句中說「規律運動、維持健康飲食」，目的是擁有苗條的身材；slender figure 是常見搭配。<br>(A) spicy：辛辣的，通常形容食物，不形容身材。<br>(B) slender：苗條的、纖細的，和 figure「身材」搭配最自然。<br>(C) slight：輕微的、少量的，也可指人瘦小，但 slight figure 不符合這裡追求健康體態的語氣。<br>(D) slippery：滑溜的，形容表面或道路，不能形容身材。<br>把答案放回去：想擁有「苗條的身材」，就應規律運動並保持健康飲食。"
     },
     {
       "no": 2,
@@ -1185,7 +1185,7 @@ window.BANK.push({
       "answer": "A",
       "stem": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
       "options": {"A": "emerging", "B": "flashing", "C": "rushing", "D": "floating"},
-      "explain": "太陽從雲海中「升起、出現」可用 emerge from；原句是 with the sun emerging from... 的「with＋名詞＋V-ing」附帶狀況結構。"
+      "explain": "<b>解題關鍵：</b>線索是 sun 與 from a sea of clouds：遊客到阿里山看的是太陽從雲海中慢慢「出現」。<br>(A) emerging：出現、浮現；emerge from 表示「從……中出現」，搭配正確。<br>(B) flashing：閃爍或快速掠過，不能表達日出過程。<br>(C) rushing：急速衝出，語氣太急，不合太陽升起。<br>(D) floating：漂浮；太陽不是從雲海中漂流出來。<br>把答案放回去：觀看太陽從雲海中升起，是到阿里山必做的活動。"
     },
     {
       "no": 3,
@@ -1196,7 +1196,7 @@ window.BANK.push({
       "answer": "B",
       "stem": "Do you know what time the next bus is ______? I’ve been waiting here for more than 30 minutes.",
       "options": {"A": "apt", "B": "due", "C": "bound", "D": "docked"},
-      "explain": "be due 表示「預定到達」，符合詢問下一班公車何時來。"
+      "explain": "<b>解題關鍵：</b>說話者已等了三十多分鐘，正在問下一班公車「預定何時到」。be due 可表示交通工具預定到達。<br>(A) apt：傾向於、很可能，常用 be apt to 加動詞，不能直接表示班次時間。<br>(B) due：預定到達的；What time is the bus due? 是自然問法。<br>(C) bound：前往某地的，須說 be bound for＋地點，不表示何時抵達。<br>(D) docked：靠碼頭的，多用於船，不用於公車。<br>把答案放回去：下一班公車預定幾點到？我已經等很久了。"
     },
     {
       "no": 4,
@@ -1207,7 +1207,7 @@ window.BANK.push({
       "answer": "B",
       "stem": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.",
       "options": {"A": "density", "B": "humidity", "C": "circulation", "D": "atmosphere"},
-      "explain": "high humidity 是「高溼度」，會使人感到又熱又黏。"
+      "explain": "<b>解題關鍵：</b>hot and sticky「又熱又黏」是空氣中水氣很多的感受，因此要選 humidity。high humidity 是「高溼度」。<br>(A) density：密度，high density 指物質或人口密集，不能直接說明黏熱。<br>(B) humidity：溼度；和 roasting heat 一起造成悶熱黏膩，符合句意。<br>(C) circulation：循環、流通；air circulation 是空氣流通，但題目沒有這個搭配。<br>(D) atmosphere：氣氛或大氣，high atmosphere 不是自然說法。<br>把答案放回去：酷熱加上高溼度，讓我怎麼降溫都覺得又熱又黏。"
     },
     {
       "no": 5,
@@ -1218,7 +1218,7 @@ window.BANK.push({
       "answer": "D",
       "stem": "Artwork created by truly great artists such as Picasso and Monet will no doubt ______ the test of time.",
       "options": {"A": "stay", "B": "take", "C": "serve", "D": "stand"},
-      "explain": "stand the test of time 是固定搭配，表示「經得起時間考驗」。"
+      "explain": "<b>解題關鍵：</b>Picasso、Monet 都是偉大藝術家，作品多年後仍有價值。stand the test of time 是固定搭配，表示「經得起時間考驗」。<br>(A) stay：停留，不能說 stay the test。<br>(B) take：接受、拿取；take a test 是「參加測驗」，不是作品歷久不衰。<br>(C) serve：服務、擔任；serve the test 不是此處搭配。<br>(D) stand：承受、經得起；完整搭配正確。<br>把答案放回去：真正偉大藝術家的作品，無疑能經得起時間考驗。"
     },
     {
       "no": 6,
@@ -1229,7 +1229,7 @@ window.BANK.push({
       "answer": "C",
       "stem": "In some countries, military service is ______ for men only; women do not have to serve in the military.",
       "options": {"A": "forceful", "B": "realistic", "C": "compulsory", "D": "distinctive"},
-      "explain": "與女性不必服役對比，男性的兵役是 compulsory「義務性的」。"
+      "explain": "<b>解題關鍵：</b>分號後說 women do not have to serve「女性不必服役」，反推前面男性是「必須」服役。<br>(A) forceful：強而有力的，形容語氣或個性，不表示法律要求。<br>(B) realistic：實際的、符合現實的，和服役義務無關。<br>(C) compulsory：強制的、義務性的，compulsory military service 就是「義務役」。<br>(D) distinctive：有特色的、與眾不同的，不表示必須。<br>把答案放回去：有些國家只有男性必須服兵役，女性不必。"
     },
     {
       "no": 7,
@@ -1240,7 +1240,7 @@ window.BANK.push({
       "answer": "D",
       "stem": "The team complained that its leader always took the ______ for all the hard work done by the team members.",
       "options": {"A": "advantage", "B": "revenge", "C": "remedy", "D": "credit"},
-      "explain": "take the credit for 表示「把……的功勞歸給自己」。"
+      "explain": "<b>解題關鍵：</b>隊員抱怨領隊把大家辛苦工作的成果都算在自己身上。take the credit for 是固定搭配，表示「把……的功勞歸給自己」。<br>(A) advantage：優勢；take advantage of 才是「利用」，此處少了 of 且意思不合。<br>(B) revenge：報復；take revenge on 是向某人報復。<br>(C) remedy：補救方法，不能說 take the remedy for hard work。<br>(D) credit：功勞、肯定，搭配與語意都正確。<br>把答案放回去：領隊總把隊員努力的功勞據為己有，所以大家不滿。"
     },
     {
       "no": 8,
@@ -1251,7 +1251,7 @@ window.BANK.push({
       "answer": "C",
       "stem": "Located at the center of the city, the business hotel ______ not only good service but also convenient public transport.",
       "options": {"A": "proposes", "B": "contains", "C": "promises", "D": "confirms"},
-      "explain": "飯店的地點與服務「可望帶來」良好體驗，promises 最合語意。"
+      "explain": "<b>解題關鍵：</b>這句在介紹市中心飯店的優點：它「保證能提供／可望帶來」好服務和方便交通。promise 在此不是口頭承諾，而是表示某事物具有帶來好結果的條件。<br>(A) proposes：提議，主詞通常是人或組織，不能說飯店提議服務。<br>(B) contains：包含，用來說容器裡有什麼，不適合抽象的服務與交通便利。<br>(C) promises：保證、可望提供，最合介紹飯店優勢的語氣。<br>(D) confirms：證實，需要先有待證實的事情。<br>把答案放回去：這家飯店可望同時提供好服務與便利交通。"
     },
     {
       "no": 9,
@@ -1262,7 +1262,7 @@ window.BANK.push({
       "answer": "A",
       "stem": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
       "options": {"A": "appeal", "B": "approach", "C": "operation", "D": "observation"},
-      "explain": "make an appeal for... 表示「呼籲……」，此處為呼籲大眾捐血。"
+      "explain": "<b>解題關鍵：</b>血液庫存降到危急低點，因此醫院要公開「呼籲」民眾捐血。make an appeal for 是「為……發出呼籲」。<br>(A) appeal：呼籲、請求，和 make、for 搭配完整。<br>(B) approach：方法或接近；make an approach 常指接洽，不是公開求援。<br>(C) operation：手術、運作，make an operation 也不是自然搭配。<br>(D) observation：觀察；make an observation 是提出觀察，不會促請捐血。<br>把答案放回去：因血量嚴重不足，許多醫院正呼籲大眾捐血。"
     },
     {
       "no": 10,
@@ -1273,7 +1273,7 @@ window.BANK.push({
       "answer": "B",
       "stem": "David felt disappointed when he found out that he could not choose his study partners, but would be ______ placed in a study group.",
       "options": {"A": "eligibly", "B": "randomly", "C": "apparently", "D": "consequently"},
-      "explain": "不能選擇夥伴，表示會被 randomly「隨機地」分組。"
+      "explain": "<b>解題關鍵：</b>David 不能自己選學伴，表示分組不是依他的意願，而是「隨機」安排。<br>(A) eligibly：符合資格地，題目沒談資格條件。<br>(B) randomly：隨機地；be randomly placed in a group 表示被隨機分到一組。<br>(C) apparently：看來、顯然地，只表示表面判斷，不說明如何分組。<br>(D) consequently：因此，表示結果關係，但 placed 前需要描述安排方式的副詞。<br>把答案放回去：David 因不能選學伴，得知自己會被隨機分組而失望。"
     },
     {
       "no": 11,
@@ -1285,7 +1285,7 @@ window.BANK.push({
       "group": "G1",
       "stem": "Choose the best answer for blank 11.",
       "options": {"A": "call for", "B": "pose as", "C": "attend to", "D": "engage in"},
-      "explain": "神祕客要「假扮成」一般顧客，pose as 符合語意。"
+      "explain": "<b>解題關鍵：</b>神祕客不能讓店家知道身分，所以要「假扮成」一般顧客購物、用餐或詢問。<br>(A) call for：要求、需要，不能接 regular customers 表示假扮。<br>(B) pose as：假扮成，完整意思是神祕客裝作普通顧客，正確。<br>(C) attend to：照顧、處理，主詞會是服務顧客的人。<br>(D) engage in：從事，後面通常接活動，不接人的身分。<br>把答案放回去：神祕客假裝成一般顧客，暗中評估商店服務。"
     },
     {
       "no": 12,
@@ -1297,7 +1297,7 @@ window.BANK.push({
       "group": "G1",
       "stem": "Choose the best answer for blank 12.",
       "options": {"A": "in that", "B": "with which", "C": "for that", "D": "to which"},
-      "explain": "be assigned to a store，介系詞 to 提前形成 stores to which they are assigned。"
+      "explain": "<b>解題關鍵：</b>固定搭配是 be assigned to a store「被指派到某商店」。空格位於 stores 後，要把介系詞 to 放在關係代名詞 which 前。<br>(A) in that：表示「因為」，不能連接被指派的店家。<br>(B) with which：會變成 assigned with，不是正確搭配。<br>(C) for that：that 前不能這樣放介系詞，且 assigned for 意思也不同。<br>(D) to which：等於 the stores that they are assigned to，句型與搭配都正確。<br>把答案放回去：他們會評分並回報自己被派去的商店。"
     },
     {
       "no": 13,
@@ -1309,7 +1309,7 @@ window.BANK.push({
       "group": "G1",
       "stem": "Choose the best answer for blank 13.",
       "options": {"A": "keen competitions", "B": "financial hardship", "C": "racial conflicts", "D": "personal bias"},
-      "explain": "依標準程序與檢核表是為了避免主觀的 personal bias。"
+      "explain": "<b>解題關鍵：</b>神祕客要照標準流程和同一張檢核表，目的是讓評分一致，避免個人喜好影響結果。<br>(A) keen competitions：激烈競爭，檢核表不能避免市場競爭。<br>(B) financial hardship：財務困難，與觀察程序無直接關係。<br>(C) racial conflicts：種族衝突，文章沒有相關線索。<br>(D) personal bias：個人偏見；標準化步驟能減少主觀判斷，正確。<br>把答案放回去：評估者遵守標準程序，是為了避免個人偏見。"
     },
     {
       "no": 14,
@@ -1321,7 +1321,7 @@ window.BANK.push({
       "group": "G1",
       "stem": "Choose the best answer for blank 14.",
       "options": {"A": "difficult", "B": "potential", "C": "constant", "D": "anonymous"},
-      "explain": "無故與店員爭論，是假扮成 difficult customers「難纏的顧客」。"
+      "explain": "<b>解題關鍵：</b>後面舉例說他們會無故和店員爭論，這是在扮演「難應付的」顧客，測試服務人員反應。<br>(A) difficult：難應付的、難纏的，能直接形容這類顧客。<br>(B) potential：潛在的，沒有表達故意找麻煩。<br>(C) constant：持續不斷的，不能說明顧客行為。<br>(D) anonymous：匿名的；神祕客確實不公開身分，但後面的 arguing 線索要的是難纏。<br>把答案放回去：他們有時假扮難纏顧客，無故與店員爭論。"
     },
     {
       "no": 15,
@@ -1333,7 +1333,7 @@ window.BANK.push({
       "group": "G1",
       "stem": "Choose the best answer for blank 15.",
       "options": {"A": "distribution", "B": "expectation", "C": "improvement", "D": "management"},
-      "explain": "蒐集資料可找出需要 improvement「改善」的部分，進而提升品質。"
+      "explain": "<b>解題關鍵：</b>後面說 thereby help enhance the quality「進而協助提升品質」，所以先找出的是「需要改善的地方」。areas for improvement 是常見搭配。<br>(A) distribution：分配、配送，文章不是找商品配送區域。<br>(B) expectation：期待，areas for expectation 不是自然搭配。<br>(C) improvement：改善；找出可改善處，才能提升產品與服務，正確。<br>(D) management：管理，範圍太廣，也接不上後面的改善成果。<br>把答案放回去：神祕客用資料找出可改善處，幫助商家提升品質。"
     },
     {
       "no": 16,
@@ -1345,7 +1345,7 @@ window.BANK.push({
       "group": "G2",
       "stem": "Choose the best answer for blank 16.",
       "options": {"A": "must be using", "B": "could have used", "C": "had hardly used", "D": "were mostly using"},
-      "explain": "鬧鐘當時已被發明，所以工人「本來可以使用」，用 could have used。"
+      "explain": "<b>解題關鍵：</b>前句問以前如何準時上班；這裡說十九世紀中葉已有可調鬧鐘，所以工人「本來可以使用」，但下一句馬上補充它昂貴又不可靠。<br>(A) must be using：一定正在使用，時態是現在進行，和過去歷史不合。<br>(B) could have used：當時本來可以使用，正好引出「可是實際有困難」。<br>(C) had hardly used：幾乎沒用過，需要另一個過去時間點作比較。<br>(D) were mostly using：大多正在使用，和後文仍依賴人形鬧鐘矛盾。<br>把答案放回去：鬧鐘雖已發明，工人理論上可用，但價格與可靠度成了阻礙。"
     },
     {
       "no": 17,
@@ -1357,7 +1357,7 @@ window.BANK.push({
       "group": "G2",
       "stem": "Choose the best answer for blank 17.",
       "options": {"A": "Aimed at", "B": "Trained for", "C": "Equipped with", "D": "Exhausted by"},
-      "explain": "人形鬧鐘「配備」棍子或吹豆器，應為 Equipped with。"
+      "explain": "<b>解題關鍵：</b>人形鬧鐘帶著棍子或吹豆器上街敲窗叫醒客人。Equipped with 表示「配備著……」，放句首描述他們帶的工具。<br>(A) Aimed at：瞄準、以……為目標，後面不會接工具本身。<br>(B) Trained for：為……受訓，棍子不是訓練目的。<br>(C) Equipped with：配備、帶有，與 sticks or pea shooters 搭配正確。<br>(D) Exhausted by：被……弄得筋疲力盡，工具不會造成此處結果。<br>把答案放回去：他們帶著棍子或吹豆器，沿街叫醒付費客人。"
     },
     {
       "no": 18,
@@ -1369,7 +1369,7 @@ window.BANK.push({
       "group": "G2",
       "stem": "Choose the best answer for blank 18.",
       "options": {"A": "familiar presences", "B": "distant memories", "C": "vague images", "D": "public eyesores"},
-      "explain": "他們每天出現在大小街巷，因此成為 familiar presences「熟悉的身影」。"
+      "explain": "<b>解題關鍵：</b>下一句說每天早晨，人們都能在大街小巷看見敲窗人；經常出現的人自然成為「熟悉的身影」。<br>(A) familiar presences：熟悉的存在／身影，與每日可見的描述完全相接。<br>(B) distant memories：遙遠回憶，但當時這份工作仍在進行。<br>(C) vague images：模糊形象，文章反而具體描述他們。<br>(D) public eyesores：公共場所的礙眼物，文章沒有說大家厭惡他們。<br>把答案放回去：敲窗人在英國各地成為大家熟悉的身影。"
     },
     {
       "no": 19,
@@ -1381,7 +1381,7 @@ window.BANK.push({
       "group": "G2",
       "stem": "Choose the best answer for blank 19.",
       "options": {"A": "remained", "B": "dismissed", "C": "revised", "D": "declined"},
-      "explain": "鬧鐘愈普及便宜，人形鬧鐘的做法因而 declined「式微」。"
+      "explain": "<b>解題關鍵：</b>as 表示「隨著」；當鬧鐘愈普及、愈便宜，人們對敲窗人的需要就減少，因此這種做法「衰退」。<br>(A) remained：維持不變，與科技取代舊工作不合。<br>(B) dismissed：被解雇或不予考慮，通常要有受詞或被動形式。<br>(C) revised：修訂，做法不是被改寫。<br>(D) declined：衰退、減少，能表達使用人形鬧鐘的人變少。<br>把答案放回去：隨著鬧鐘普及又便宜，敲窗叫醒人的行業逐漸式微。"
     },
     {
       "no": 20,
@@ -1393,7 +1393,7 @@ window.BANK.push({
       "group": "G2",
       "stem": "Choose the best answer for blank 20.",
       "options": {"A": "forget", "B": "change", "C": "match", "D": "regret"},
-      "explain": "現代裝置雖方便，卻無法 match「比得上」人形鬧鐘的個人關照。"
+      "explain": "<b>解題關鍵：</b>However 帶出對比：手機與鬧鐘雖方便，卻無法「比得上」真人親自確認客人醒來的關照。<br>(A) forget：忘記，裝置不能「忘記個人關照」並非比較。<br>(B) change：改變，文章沒有要改變敲窗聲。<br>(C) match：比得上、匹敵，正好比較科技與真人服務。<br>(D) regret：後悔，主詞是鬧鐘和手機，語意不通。<br>把答案放回去：現代裝置較方便，但比不上真人帶來的個人關照。"
     },
     {
       "no": 21,
@@ -1405,7 +1405,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 21.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "departed loved ones 指「已逝的摯愛」，與海嘯中死亡的人相呼應。"
+      "explain": "<b>解題關鍵：</b>後面直接說 loved ones who died in the tsunami，空格要形容「已經過世的」親人。<br>(E) departed 可委婉表示「已逝的」，departed loved ones 搭配自然。passed on 雖也可指過世，但這裡空格在名詞前，要用形容詞；sorrow、hope、bridge 等詞性或意思都不合。<br>把答案放回去：風之電話讓家人和在海嘯中離世的摯愛說話。"
     },
     {
       "no": 22,
@@ -1417,7 +1417,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 22.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "fateful day 指造成重大後果的「命運攸關的一天」，此處即海嘯發生之日。"
+      "explain": "<b>解題關鍵：</b>that day 指造成一萬八千人死亡的海嘯當天，是改變許多人命運、帶來重大後果的一天。<br>(I) fateful：影響命運的、造成重大後果的，可放在 day 前。departed 是已逝的，manageable 是可處理的；其餘多是名詞或片語，不能直接形容 day。<br>把答案放回去：人們來說出在那個改變命運的災難日來不及說的話。"
     },
     {
       "no": 23,
@@ -1429,7 +1429,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 23.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "想法由佐佐木提出、產生，brought forth 最合語意。"
+      "explain": "<b>解題關鍵：</b>句子用被動 was first ______ by，表示風之電話的「點子最初由佐佐木提出」。<br>(J) brought forth：提出、產生，能用被動 be brought forth by 接提出者。passed on 是傳遞，housed 是容納；bridge、sorrow 等名詞不能放在 was first 後表動作。<br>把答案放回去：風之電話的構想最早由日本庭園設計師佐佐木提出。"
     },
     {
       "no": 24,
@@ -1441,7 +1441,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 24.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "表哥死亡使他悲傷，因此需要走過 sorrow。"
+      "explain": "<b>解題關鍵：</b>前面說佐佐木正在 grieving over the death of his cousin「為表哥過世而悲傷」，所以他需要一個空間走過這份悲痛。<br>(C) sorrow：悲傷，是名詞，能放在 the 後。hope 是希望，與 grieving 方向相反；mechanism 是機制、bridge 是橋，都不是他正在經歷的情緒。<br>把答案放回去：他需要私人空間，幫助自己度過失去親人的悲傷。"
     },
     {
       "no": 25,
@@ -1453,7 +1453,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 25.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "電話亭裡「容納、放置」一具舊式電話，housed 符合句構。"
+      "explain": "<b>解題關鍵：</b>主詞是 The booth，受詞是 an old dial phone，空格需要過去式動詞，表示亭子裡「放著、容納」一具舊電話。<br>(G) housed：容納、安置，詞性和意思都正確。brought forth 是提出，passed on 是傳遞，都不能描述電話亭裡有什麼；其他選項也不是可直接接受詞的過去式動詞。<br>把答案放回去：這座電話亭裡只放著一具沒有接通線路的舊式電話。"
     },
     {
       "no": 26,
@@ -1465,7 +1465,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 26.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "想法無法透過一般電話線「傳遞」，passed on 合適。"
+      "explain": "<b>解題關鍵：</b>空格前是 couldn’t be，後面是 through a regular phone line，表示他的思念「無法透過一般電話線傳送」。<br>(A) passed on：傳遞；be passed on through 表示「經由……被傳送」。housed 是被容納，brought forth 是被提出，都接不上電話線的用途。<br>把答案放回去：因為思念無法由普通電話線傳遞，他希望讓風把它帶走。"
     },
     {
       "no": 27,
@@ -1477,7 +1477,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 27.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "風之電話讓哀傷的歷程較能承受、處理，故選 manageable。"
+      "explain": "<b>解題關鍵：</b>風之電話讓佐佐木能說出思念，因此 grieving process「悲傷的歷程」變得比較能面對、處理。more 後需要可比較的形容詞。<br>(H) manageable：可應付、可處理的，符合情緒得到舒緩的結果。fateful 是影響命運的，不表示比較好承受；其他選項的詞性也不能接在 renders...more 後。<br>把答案放回去：這場單向對話讓他的哀傷變得較能承受。"
     },
     {
       "no": 28,
@@ -1489,7 +1489,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 28.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "電話亭連結生者與死者，因而成為兩者之間的 bridge。"
+      "explain": "<b>解題關鍵：</b>前文反覆說人們透過電話對逝者說話，所以電話亭像是連接 the living and the dead「生者與死者」的東西。<br>(B) bridge：橋梁；a bridge between A and B 是「A 與 B 之間的橋梁」。mechanism 雖是名詞，卻只表示運作機制；sorrow、hope 都不能表達連結兩方。<br>把答案放回去：風之電話已成為生者與死者之間的一座橋。"
     },
     {
       "no": 29,
@@ -1501,7 +1501,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 29.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "grieving 是因應失去摯愛的一種自然機制，mechanism 符合。"
+      "explain": "<b>解題關鍵：</b>句型是 a natural ______ for coping with loss，空格要名詞，表示悲傷是人面對失去時的一種自然「機制」。<br>(F) mechanism：機制、作用方式，和 for coping with 接得自然。sorrow 是悲傷本身，會讓句子變成「悲傷是自然悲傷」而重複；bridge 則沒有兩端可連接。<br>把答案放回去：哀悼是人們因應失去摯愛的一種自然機制。"
     },
     {
       "no": 30,
@@ -1513,7 +1513,7 @@ window.BANK.push({
       "group": "G3",
       "stem": "Choose the best word for blank 30.",
       "options": {"A": "passed on", "B": "bridge", "C": "sorrow", "D": "hope", "E": "departed", "F": "mechanism", "G": "housed", "H": "manageable", "I": "fateful", "J": "brought forth"},
-      "explain": "相信訊息能抵達逝者，代表 hope 始終存在。"
+      "explain": "<b>解題關鍵：</b>冒號後解釋他們相信訊息會以某種方式到達逝者；這份相信代表「希望」一直都在。<br>(D) hope：希望，能作不可數名詞放在主詞位置。sorrow 是悲傷，但後面的 believe 顯示的是正向盼望；bridge 與 mechanism 也不能表示相信訊息能抵達。<br>把答案放回去：對使用風之電話的人而言，希望始終存在。"
     },
     {
       "no": 31,
@@ -1525,7 +1525,7 @@ window.BANK.push({
       "group": "G4",
       "stem": "Choose the most suitable sentence for blank 31.",
       "options": {"A": "For example, an injured runner might end up cycling and swimming instead of running.", "B": "Over time, researchers have come to realize the importance of exercising when injured.", "C": "Many suggest that most patients can continue with the sport they love.", "D": "This seems to run counter to the common practice."},
-      "explain": "前文說受傷仍跑步，後文說一般會等疼痛消失，D 的 this 承接並點出反常。"
+      "explain": "<b>解題關鍵：</b>空格前是醫師背傷後仍出去跑步；空格後卻說一般人會被建議等疼痛消失再運動，兩者相反。<br>(D) This seems to run counter to the common practice. 的 This 指受傷仍跑步，run counter to 是「與……相反」，正好接出反差。<br>(A) 是交叉訓練例子，應放在提到改做其他運動後；(B) 是研究觀念變化；(C) 是專家的普遍建議，都需要後文先提供主題。"
     },
     {
       "no": 32,
@@ -1537,7 +1537,7 @@ window.BANK.push({
       "group": "G4",
       "stem": "Choose the most suitable sentence for blank 32.",
       "options": {"A": "For example, an injured runner might end up cycling and swimming instead of running.", "B": "Over time, researchers have come to realize the importance of exercising when injured.", "C": "Many suggest that most patients can continue with the sport they love.", "D": "This seems to run counter to the common practice."},
-      "explain": "後句的 They 指前句提出建議的專家；C 先交代多數人可繼續原本運動。"
+      "explain": "<b>解題關鍵：</b>前句說不同專家的具體建議會不同，空格後的 They nevertheless caution that a cutback may be necessary 表示「這些專家仍提醒可能要減量」。<br>(C) 先說許多專家認為多數患者可繼續喜愛的運動，They 才有清楚指向；nevertheless 再補上「但仍要減量」。<br>(A) 是後面的交叉訓練例子；(B) 適合作全段研究結論；(D) 已用於前段指出反常。"
     },
     {
       "no": 33,
@@ -1549,7 +1549,7 @@ window.BANK.push({
       "group": "G4",
       "stem": "Choose the most suitable sentence for blank 33.",
       "options": {"A": "For example, an injured runner might end up cycling and swimming instead of running.", "B": "Over time, researchers have come to realize the importance of exercising when injured.", "C": "Many suggest that most patients can continue with the sport they love.", "D": "This seems to run counter to the common practice."},
-      "explain": "前文談 cross-train，A 以受傷跑者改騎車、游泳具體舉例。"
+      "explain": "<b>解題關鍵：</b>空格前說有些患者須暫時做主要運動之外的運動，也就是 cross-train「交叉訓練」。空格後再談另一些專家主張一直交叉訓練。<br>(A) 用跑者改騎車、游泳作具體例子，正好說明 cross-train。<br>(B) 是研究觀念的總結；(C) 談可繼續原運動；(D) 談違反慣例，都無法充當例子。"
     },
     {
       "no": 34,
@@ -1561,7 +1561,7 @@ window.BANK.push({
       "group": "G4",
       "stem": "Choose the most suitable sentence for blank 34.",
       "options": {"A": "For example, an injured runner might end up cycling and swimming instead of running.", "B": "Over time, researchers have come to realize the importance of exercising when injured.", "C": "Many suggest that most patients can continue with the sport they love.", "D": "This seems to run counter to the common practice."},
-      "explain": "後句 Thus 引出愈來愈多病人被建議保持活動，B 的研究認知變化正是原因。"
+      "explain": "<b>解題關鍵：</b>上一段總結適度運動能加快復原；空格後用 Thus「因此」說愈來愈多患者被建議保持活動，所以空格要先交代研究觀念的改變。<br>(B) 表示研究者逐漸了解受傷時運動的重要性，能成為後句結果的原因。<br>(A) 是例子、(C) 是單一建議、(D) 是前段的反差，都不能統整研究發展。"
     },
     {
       "no": 35,
@@ -1575,7 +1575,7 @@ window.BANK.push({
       "options": {"A": "", "B": "", "C": "", "D": ""},
       "image": "img/113/q35.png",
       "imageAlt": "四幅扣件圖片：A 為金屬按扣；B 為兩片魔鬼氈；C 為兩端掛鉤的彈力繩；D 為布料上的鉤眼扣。",
-      "explain": "文中發明是由 hooks 與 loops 相互黏合的 Velcro，圖 B 顯示魔鬼氈。"
+      "explain": "<b>解題關鍵：</b>第二段說發明由許多 small hooks「小鉤子」勾住布料的 loops「小圈圈」，也就是一面鉤、一面圈的魔鬼氈。<br>(B) 圖呈現兩片可黏合又可拉開的鉤環帶，符合文中 fastener。<br>其他圖若沒有「鉤面＋圈面」的構造，就不是 de Mestral 仿照刺果所發明的 Velcro。判斷重點不是外觀顏色，而是是否有可反覆黏合的兩面。"
     },
     {
       "no": 36,
@@ -1587,7 +1587,7 @@ window.BANK.push({
       "group": "G5",
       "stem": "What does the author mean by “a lightbulb moment” in the first paragraph?",
       "options": {"A": "A blessing in disguise.", "B": "A happy ending.", "C": "An unpredictable future.", "D": "A sudden inspiration."},
-      "explain": "他觀察沾在衣物上的刺果後立刻想到發明方向，意指「靈光乍現」。"
+      "explain": "<b>解題關鍵：</b>de Mestral 看見刺果黏在狗毛和褲子上，立刻拿顯微鏡研究，接著想到仿造鉤圈結構；因此 lightbulb moment 是突然想到好點子的「靈光乍現」。<br>(A) 因禍得福是壞事帶來好結果，不是突然有想法；(B) 美好結局尚未發生；(C) 不可預測的未來不是靈感；(D) sudden inspiration「突然的靈感」完全符合事件順序。"
     },
     {
       "no": 37,
@@ -1599,7 +1599,7 @@ window.BANK.push({
       "group": "G5",
       "stem": "Which of the following statements about Velcro is true?",
       "options": {"A": "It has been a market favorite since its first appearance.", "B": "Cotton was not durable enough to be used as its materials.", "C": "It was given a French name because it was first produced in France.", "D": "The design was intended to look as shiny and smooth as velvet."},
-      "explain": "文中指出 cotton 太柔軟，無法承受反覆開合，因此 B 正確。"
+      "explain": "<b>解題關鍵：</b>第三段直接說 cotton proved too soft and could not withstand repeated openings and closures，棉太軟，無法承受反覆開合。<br>(A) 錯：起初市場表現不好；(B) 將原文 could not withstand 改寫為 not durable enough，正確；(C) 名稱來自兩個法文字根，不代表在法國首產；(D) velvet 只是名稱來源之一，設計重點是鉤圈，不是光滑外觀。"
     },
     {
       "no": 38,
@@ -1611,7 +1611,7 @@ window.BANK.push({
       "group": "G5",
       "stem": "Which of the following fields is NOT mentioned for Velcro uses in the passage?",
       "options": {"A": "Civil engineering.", "B": "Aerospace industry.", "C": "Medical technology.", "D": "Sports and recreation."},
-      "explain": "文中提到運動器材、NASA 與醫療用途，未提 civil engineering。"
+      "explain": "<b>解題關鍵：</b>這是 NOT mentioned 題，要逐項回文章找用途。<br>(A) civil engineering「土木工程」全文沒有提到，因此是答案。<br>(B) NASA 把魔鬼氈用在太空設備，屬航太；(C) 人工心臟移植用它固定裝置，屬醫療；(D) 初期用於 athletic equipment，屬運動休閒。<br>三個領域都有原文證據，只有土木工程沒有。"
     },
     {
       "no": 39,
@@ -1623,7 +1623,7 @@ window.BANK.push({
       "group": "G6",
       "stem": "What can we learn from the passage?",
       "options": {"A": "How national parks around the world were established.", "B": "How Yellowstone’s natural features were formed.", "C": "Why Moran’s family moved to the United States.", "D": "Why Moran started painting Yellowstone."},
-      "explain": "文章說明 Moran 讀到 Langford 的描述後受到吸引，並親赴黃石作畫，故選 D。"
+      "explain": "<b>解題關鍵：</b>第二段說 Moran 為文章配圖時，被 Langford 描述的奇景吸引，eager to see this odd territory for himself；接著他加入黃石考察並畫下風景。<br>(D) 正確回答他為何開始畫黃石：描述引發他的興趣並促使親訪。<br>(A) 文章只談美國；(B) 不解釋地形成因；(C) 只說全家從英國移居，沒交代理由。"
     },
     {
       "no": 40,
@@ -1635,7 +1635,7 @@ window.BANK.push({
       "group": "G6",
       "stem": "Why does the author use “the blackened heart” in paragraph 2 to describe Moran’s hometown?",
       "options": {"A": "The place was severely polluted.", "B": "The town was filled with darkened holes.", "C": "There were many evil-hearted industry owners.", "D": "The laborers mostly wore dark and dirty uniforms."},
-      "explain": "後文以骯髒街道與河水解釋 blackened，指工業革命造成的嚴重汙染。"
+      "explain": "<b>解題關鍵：</b>blackened heart 後有冒號解釋：主街黑暗難看，河流像一串髒水；這些都是工業革命造成的汙染景象。<br>(A) severely polluted「嚴重汙染」統整兩個證據，正確。<br>(B) 文中說的是 unattractive hole，比喻街道，不是很多洞；(C) 沒批評老闆邪惡；(D) 也沒描述工人制服。不要只看到 black 就選有 dark 的選項。"
     },
     {
       "no": 41,
@@ -1647,7 +1647,7 @@ window.BANK.push({
       "group": "G6",
       "stem": "Which of the following statements is true about the Yellowstone National Park?",
       "options": {"A": "Its establishment was proposed by Langford.", "B": "Americans knew little about its beauty before the 1870s.", "C": "The government project was started due to its rich natural resources.", "D": "It was the only national park established because of Moran’s works."},
-      "explain": "Moran 的畫作首次把黃石壯麗景觀帶到大眾眼前，表示 1870 年代前鮮少人了解其美。"
+      "explain": "<b>解題關鍵：</b>第一段說 Moran 的畫把壯麗景觀帶到美國人眼前；末段又說在他之前，大眾把黃石想成可怕荒地。<br>(B) 因此可知 1870 年代前，美國人不太了解黃石的美。<br>(A) Langford 寫文章但沒提議設園；(C) 考察不是因自然資源；(D) 文末說他還畫了其他後來成為公園或紀念地的區域，不能說黃石是唯一。這題要比較畫作出現前後的大眾印象。"
     },
     {
       "no": 42,
@@ -1659,7 +1659,7 @@ window.BANK.push({
       "group": "G6",
       "stem": "What can be inferred from the passage?",
       "options": {"A": "Scribner’s Monthly was a magazine promoting national parks.", "B": "Moran had visited Yellowstone before he started painting its landscapes.", "C": "Color photos were not common when Moran started painting Yellowstone.", "D": "Watercolor was the most popular form of landscape painting in the 19th century."},
-      "explain": "文章特別稱 Moran 水彩為該地最早的彩色呈現，並與 Jackson 照片並列，可推知彩色照片當時不普及。"
+      "explain": "<b>解題關鍵：</b>第三段把 Moran 的水彩稱為 the first color renderings，並另外提 Jackson’s photos。既然要靠水彩提供最早彩色樣貌，可合理推測當時照片多半不能呈現彩色。<br>(C) 是由兩項線索推出的合理推論。<br>(A) 雜誌是請他配圖，未說推廣國家公園；(B) 他是考察時才親眼看見，不是先去過；(D) 文章沒比較水彩是否最流行。"
     },
     {
       "no": 43,
@@ -1671,7 +1671,7 @@ window.BANK.push({
       "group": "G7",
       "stem": "What is the primary goal of 100% Fish?",
       "options": {"A": "To advance ocean technology.", "B": "To reduce food crises worldwide.", "C": "To enhance cross-industry cooperation.", "D": "To make the most of marine resources."},
-      "explain": "計畫核心是充分利用捕獲的每一條魚，亦即使海洋資源發揮最大效益。"
+      "explain": "<b>解題關鍵：</b>第二段直接說計畫 aims to encourage full utilization of each fish caught，目標是完整利用每條捕獲的魚。<br>(D) make the most of marine resources「充分利用海洋資源」正是同義改寫。<br>(A) 醫療技術只是成果之一；(B) 糧食危機是減少浪費的背景；(C) 跨產業合作是達成目標的方法，不是最主要目的。"
     },
     {
       "no": 44,
@@ -1683,7 +1683,7 @@ window.BANK.push({
       "group": "G7",
       "stem": "What does “this pioneering procedure” in the second paragraph refer to?",
       "options": {"A": "100% Fish’s mission.", "B": "Oddsson’s skin transplant.", "C": "A fundamental change in seafood business.", "D": "A new approach to protect the environment."},
-      "explain": "this procedure 回指前句所述 Oddsson 的魚皮移植手術。"
+      "explain": "<b>解題關鍵：</b>指示詞 this 通常回指前面最近提到的具體事情。第一段最後寫 transplanting codfish skins onto human bodies，第二段開頭稱 Oddsson’s fish skin transplantation 是醫療科技成就，接著才說 this pioneering procedure。<br>(B) Oddsson’s skin transplant 正是回指內容。<br>(A)(C)(D) 都是較大的任務、改變或環保方向，不是 procedure「醫療處置」。"
     },
     {
       "no": 45,
@@ -1695,7 +1695,7 @@ window.BANK.push({
       "group": "G7",
       "stem": "Which of the following is true according to the passage?",
       "options": {"A": "Iceland has increased their fish catch by 30% in the last 20 years.", "B": "Petur Oddsson was an important member of the Icelandic project.", "C": "Cross-field collaboration has proved to be very fruitful for 100% Fish.", "D": "100% Fish is a big international enterprise marketing seafood products."},
-      "explain": "最後一段說跨產業分享知識促成多種創新產品，證明合作成果豐碩。"
+      "explain": "<b>解題關鍵：</b>末段說漁業、學界、新創和研發團隊分享知識，因而改善處理流程並創造多種產品，這是合作有成果的明確證據。<br>(C) fruitful「成果豐碩」符合。<br>(A) 文章說價值多 30%，不是漁獲量增 30%；(B) Oddsson 是受惠病人，不是計畫成員；(D) 100% Fish 是推動資源效率的計畫，不是販售海產的國際企業。"
     },
     {
       "no": 46,
@@ -1707,7 +1707,7 @@ window.BANK.push({
       "group": "G7",
       "stem": "Here is a sentence: “Almost nothing of a fish is left for the trash bin.” Which paragraph is most suitable to have it as the final sentence?",
       "options": {"A": "Paragraph 1.", "B": "Paragraph 2.", "C": "Paragraph 3.", "D": "Paragraph 4."},
-      "explain": "第三段列舉魚皮、魚頭、魚骨與其他殘料的用途，最適合以幾乎零廢棄作總結。"
+      "explain": "<b>解題關鍵：</b>插入句意為「一條魚幾乎沒有任何部分會被丟進垃圾桶」，最適合放在列舉魚皮、魚頭、魚骨及其他剩料用途的段落後，作為「接近零浪費」的總結。<br>(A) 第一段只用 Oddsson 的魚皮移植介紹醫療發明，沒有說明整條魚各部位如何利用，不適合。<br>(B) 第二段介紹 100% Fish 計畫的目標與減少浪費的重要性，尚未提供足以支持「幾乎都不丟」的成果，不適合。<br>(C) 第三段說使用率由 60% 提高到近 95%，再列各部位製成的產品，插入句能完整收束本段，適合。<br>(D) 第四段談跨產業合作及資源效率，主題已轉向成功方法與國際價值，不適合。<br>所以答案選 (C)。"
     },
     {
       "no": 49,
@@ -1720,7 +1720,7 @@ window.BANK.push({
       "group": "G8",
       "stem": "From (A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.",
       "options": {"A": "They have special strategies to locate food sources.", "B": "They have complex interactions led by a leader.", "C": "They share information with their group members.", "D": "They establish rules to stay away from enemies.", "E": "They change their nesting sites from time to time.", "F": "They show behavior governed by a unique system of communication."},
-      "explain": "兩者都會在群體內傳遞資訊，且其集體行為都由特有的溝通系統所調節；只有螞蟻明確描述尋找食物路徑。"
+      "explain": "<b>解題關鍵：</b>題目要找 jackdaws 與 turtle ants「兩者都符合」的敘述，須分開核對兩段。<br>(A) 只有螞蟻找食物路徑；(B) 兩者都沒有領袖帶領；(C) 正確：鳥從同伴取得資訊，螞蟻用費洛蒙留資訊；(D) 只有鳥談逃避掠食者；(E) 未說兩者更換巢址；(F) 正確：鳥靠群體距離資訊，螞蟻靠化學路徑，行為都受特有溝通系統調節。<br>因此共同特徵是 C、F。"
     }
   ]
 });
@@ -1765,57 +1765,57 @@ window.BANK.push({
   };
 
   const questions = [
-    { no: 1, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "A", stem: "The bus driver often complains about chewing gum found under passenger seats because it is ______ and very hard to remove.", options: { A: "sticky", B: "greasy", C: "clumsy", D: "mighty" }, explain: "口香糖難以移除，是因為具有黏性的 sticky。" },
-    { no: 2, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "C", stem: "Jesse is a talented model. He can easily adopt an elegant ______ for a camera shoot.", options: { A: "clap", B: "toss", C: "pose", D: "snap" }, explain: "模特兒面對鏡頭會擺出姿勢，adopt a pose 符合語境。" },
-    { no: 3, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "C", stem: "In order to draw her family tree, Mary tried to trace her ______ back to their arrival in North America.", options: { A: "siblings", B: "commuters", C: "ancestors", D: "instructors" }, explain: "追溯家族抵達北美的歷史，對象應是祖先 ancestors。" },
-    { no: 4, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "B", stem: "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.", options: { A: "blank", B: "bare", C: "hollow", D: "queer" }, explain: "存貨幾乎售罄，所以貨架幾乎空無一物，bare 最恰當。" },
-    { no: 5, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "D", stem: "Even though Jack said “Sorry!” to me in person, I did not feel any ______ in his apology.", options: { A: "liability", B: "generosity", C: "integrity", D: "sincerity" }, explain: "雖當面道歉，說話者卻感受不到歉意中的真誠 sincerity。" },
-    { no: 6, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "D", stem: "My grandfather has astonishing powers of ______. He can still vividly describe his first day at school as a child.", options: { A: "resolve", B: "fraction", C: "privilege", D: "recall" }, explain: "仍能清楚描述童年往事，顯示有驚人的回憶能力 powers of recall。" },
-    { no: 7, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "B", stem: "Recent research has found lots of evidence to ______ the drug company’s claims about its “miracle” tablets for curing cancer.", options: { A: "provoke", B: "counter", C: "expose", D: "convert" }, explain: "證據用來反駁藥廠宣稱，counter 表示反駁、抵銷。" },
-    { no: 8, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "A", stem: "Corrupt officials and misguided policies have ______ the country’s economy and burdened its people with enormous foreign debts.", options: { A: "crippled", B: "accelerated", C: "rendered", D: "ventured" }, explain: "貪腐與錯誤政策使經濟癱瘓，crippled 符合負面結果。" },
-    { no: 9, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "A", stem: "As a record number of fans showed up for the baseball final, the highways around the stadium were ______ with traffic all day.", options: { A: "choked", B: "disturbed", C: "enclosed", D: "injected" }, explain: "大量球迷造成道路壅塞；be choked with traffic 是固定搭配。" },
-    { no: 10, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "D", stem: "Studies show that the ______ unbiased media are in fact often deeply influenced by political ideology.", options: { A: "undoubtedly", B: "roughly", C: "understandably", D: "supposedly" }, explain: "媒體只是「據稱」公正，實際卻受政治意識影響，supposedly 帶出反差。" },
+    { no: 1, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "A", stem: "The bus driver often complains about chewing gum found under passenger seats because it is ______ and very hard to remove.", options: { A: "sticky", B: "greasy", C: "clumsy", D: "mighty" }, explain: "<b>解題關鍵：</b>口香糖黏在座位下又 very hard to remove「很難清除」，最直接的原因是它有黏性。<br>(A) sticky：黏的，能形容口香糖，正確。<br>(B) greasy：油膩的，常形容食物或表面有油，不是口香糖難撕的主要特性。<br>(C) clumsy：笨拙的，形容人或動作。<br>(D) mighty：強大的，不能形容口香糖。<br>把答案放回去：司機抱怨座位下的口香糖很黏、難以清除。" },
+    { no: 2, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "C", stem: "Jesse is a talented model. He can easily adopt an elegant ______ for a camera shoot.", options: { A: "clap", B: "toss", C: "pose", D: "snap" }, explain: "<b>解題關鍵：</b>主角是 model，情境是 camera shoot「拍攝」，模特兒會擺出優雅姿勢。adopt a pose 是「採取／擺出姿勢」。<br>(A) clap：拍手；(B) toss：拋、甩的動作；(C) pose：姿勢，和 elegant、adopt 搭配正確；(D) snap：啪的一聲或快照，不是身體姿勢。<br>把答案放回去：Jesse 很會在鏡頭前擺出優雅姿勢。" },
+    { no: 3, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "C", stem: "In order to draw her family tree, Mary tried to trace her ______ back to their arrival in North America.", options: { A: "siblings", B: "commuters", C: "ancestors", D: "instructors" }, explain: "<b>解題關鍵：</b>family tree 是家族譜系，trace...back to 表示「往回追溯到」，因此要追的是早期抵達北美的祖先。<br>(A) siblings：兄弟姊妹，和 Mary 同一代，無法一路追溯家族歷史。<br>(B) commuters：通勤者；(C) ancestors：祖先，正確；(D) instructors：指導者、教師。<br>把答案放回去：Mary 為了畫家族樹，追查祖先抵達北美的歷史。" },
+    { no: 4, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "B", stem: "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.", options: { A: "blank", B: "bare", C: "hollow", D: "queer" }, explain: "<b>解題關鍵：</b>stock nearly gone 表示存貨幾乎沒了，所以貨架上幾乎沒有商品。<br>(A) blank：空白的，常指紙張、螢幕或表情。<br>(B) bare：空無一物的、光禿的，bare shelves 是自然搭配。<br>(C) hollow：中空的，形容物體內部；(D) queer：奇怪的，不能表示售罄。<br>把答案放回去：颱風警報後，Nancy 發現貨架幾乎被掃空。" },
+    { no: 5, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "D", stem: "Even though Jack said “Sorry!” to me in person, I did not feel any ______ in his apology.", options: { A: "liability", B: "generosity", C: "integrity", D: "sincerity" }, explain: "<b>解題關鍵：</b>Even though 表示「雖然……卻……」；Jack 雖親口道歉，說話者仍感受不到真正的歉意。<br>(A) liability：責任或負債；(B) generosity：慷慨；(C) integrity：正直、誠信，指整體品格；(D) sincerity：真誠，最適合形容 apology。<br>把答案放回去：Jack 雖說了對不起，但他的道歉讓人感受不到真心。" },
+    { no: 6, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "D", stem: "My grandfather has astonishing powers of ______. He can still vividly describe his first day at school as a child.", options: { A: "resolve", B: "fraction", C: "privilege", D: "recall" }, explain: "<b>解題關鍵：</b>祖父仍能 vividly describe「生動描述」童年第一天上學，表示記憶力很好。powers of recall 是「回憶能力」。<br>(A) resolve：決心；(B) fraction：一小部分、分數；(C) privilege：特權；(D) recall：回想、記憶，與後句證據相符。<br>把答案放回去：祖父有驚人的記憶力，仍清楚記得童年往事。" },
+    { no: 7, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "B", stem: "Recent research has found lots of evidence to ______ the drug company’s claims about its “miracle” tablets for curing cancer.", options: { A: "provoke", B: "counter", C: "expose", D: "convert" }, explain: "<b>解題關鍵：</b>引號中的 “miracle” 暗示對神奇抗癌藥宣稱抱持懷疑；研究證據的作用是「反駁」宣稱。<br>(A) provoke：引發、激怒；(B) counter：反駁、對抗，能直接接受詞 claims；(C) expose：揭露，通常揭露騙局或祕密，不能直接表達用證據反駁一項說法；(D) convert：轉變。<br>把答案放回去：研究找到許多證據反駁藥廠的宣稱。" },
+    { no: 8, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "A", stem: "Corrupt officials and misguided policies have ______ the country’s economy and burdened its people with enormous foreign debts.", options: { A: "crippled", B: "accelerated", C: "rendered", D: "ventured" }, explain: "<b>解題關鍵：</b>貪腐官員、錯誤政策和龐大外債都是負面線索，表示經濟遭到嚴重破壞。<br>(A) crippled：使癱瘓、重創，符合 economy。<br>(B) accelerated：加速，未說加速什麼；(C) rendered：使成為，通常要再接形容詞，如 rendered it useless；(D) ventured：冒險前往或大膽提出，不合經濟受害。<br>把答案放回去：貪腐與錯誤政策重創國家經濟。" },
+    { no: 9, cat: "C1", tags: ["語境搭配"], lang: "單題", textType: "詞彙題", answer: "A", stem: "As a record number of fans showed up for the baseball final, the highways around the stadium were ______ with traffic all day.", options: { A: "choked", B: "disturbed", C: "enclosed", D: "injected" }, explain: "<b>解題關鍵：</b>a record number of fans 表示球迷人數破紀錄，道路因此塞滿車流。be choked with traffic 是「交通壅塞」。<br>(A) choked：被塞住的，搭配正確；(B) disturbed：受打擾，不能表示道路塞車；(C) enclosed：被圍住；(D) injected：被注入，多用液體或藥物。<br>把答案放回去：大量球迷到場，使球場周邊公路整天壅塞。" },
+    { no: 10, cat: "C1", tags: ["詞義辨析"], lang: "單題", textType: "詞彙題", answer: "D", stem: "Studies show that the ______ unbiased media are in fact often deeply influenced by political ideology.", options: { A: "undoubtedly", B: "roughly", C: "understandably", D: "supposedly" }, explain: "<b>解題關鍵：</b>unbiased「公正無偏見」和 in fact deeply influenced「事實上深受影響」形成反差，所以前面只是「據稱」公正。<br>(A) undoubtedly：無疑地，會和後文矛盾；(B) roughly：大約地；(C) understandably：可以理解地；(D) supposedly：據說、被認為，帶有實情可能不同的語氣。<br>把答案放回去：那些號稱公正的媒體，其實常受政治理念影響。" },
 
-    { no: 11, cat: "C2", tags: ["邏輯關係"], lang: "題組", textType: "綜合測驗", answer: "C", group: "G1", stem: "It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, ______, touches the neighboring tree.", options: { A: "in no time", B: "by all means", C: "but not quite", D: "and pretty much" }, explain: "樹冠幾乎接觸卻仍留下縫隙，but not quite 表達「但還沒有完全」。" },
-    { no: 12, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "D", group: "G1", stem: "Scientists have been discussing crown shyness since the 1920s, proposing ______ explanations for the phenomenon.", options: { A: "universal", B: "productive", C: "conventional", D: "multiple" }, explain: "下文提出不只一種成因，因此是 multiple explanations。" },
-    { no: 13, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "B", group: "G1", stem: "Other scientists suggest that plants, like animals, ______ resources—nutrients, water, space, and light.", options: { A: "get over", B: "compete for", C: "give way to", D: "make up for" }, explain: "森林中的植物會爭奪養分、水、空間與光線，compete for 符合語意。" },
-    { no: 14, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "B", group: "G1", stem: "Gaps in the treetops resulting from crown shyness may allow trees to increase their ______ light and enhance photosynthesis.", options: { A: "reliance on", B: "exposure to", C: "sensitivity to", D: "reflection on" }, explain: "樹冠縫隙能增加樹木接觸光線的程度，exposure to light 最合理。" },
-    { no: 15, cat: "C2", tags: ["轉承語"], lang: "題組", textType: "綜合測驗", answer: "C", group: "G1", stem: "______ decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.", options: { A: "For", B: "Besides", C: "Despite", D: "Concerning" }, explain: "研究數十年仍無共識，前後是讓步關係，使用 Despite。" },
-    { no: 16, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "B", group: "G2", stem: "Scientists tried to overcome the force of gravity so that a rocket could shoot ______ Earth’s pull in order to land humans on the moon.", options: { A: "back to", B: "free of", C: "long before", D: "straight on" }, explain: "火箭必須掙脫地球引力，shoot free of Earth’s pull 符合語境。" },
-    { no: 17, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "A", group: "G2", stem: "Today, they are more interested in how reduced gravity affects the astronauts’ ______ condition.", options: { A: "physical", B: "perceptual", C: "mental", D: "external" }, explain: "下文談體液移動及身體症狀，故為 physical condition。" },
-    { no: 18, cat: "C2", tags: ["時態語意"], lang: "題組", textType: "綜合測驗", answer: "A", group: "G2", stem: "However, with the absence of gravity in the outer space, our body fluids ______, shifting toward the upper body and the head.", options: { A: "redistribute", B: "redistributed", C: "redistributing", D: "being redistributed" }, explain: "主詞 fluids 主動發生重新分布，句子敘述一般現象，故用現在式 redistribute。" },
-    { no: 19, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "C", group: "G2", stem: "This “Charlie Brown effect” will be more ______ when the astronauts go on their Mars missions, which will take about three years to complete.", options: { A: "contagious", B: "unusual", C: "severe", D: "aggressive" }, explain: "火星任務時間較長，症狀會更嚴重，severe 最恰當。" },
-    { no: 20, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "D", group: "G2", stem: "Moreover, the effect is often ______ space motion sickness, headaches, and nausea.", options: { A: "varied with", B: "brought about", C: "transferred from", D: "accompanied by" }, explain: "該效應常伴隨暈動病、頭痛與噁心，be accompanied by 符合句型。" },
+    { no: 11, cat: "C2", tags: ["邏輯關係"], lang: "題組", textType: "綜合測驗", answer: "C", group: "G1", stem: "It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, ______, touches the neighboring tree.", options: { A: "in no time", B: "by all means", C: "but not quite", D: "and pretty much" }, explain: "<b>解題關鍵：</b>crown shyness 指樹冠彼此靠近卻留下細縫；almost「幾乎」後要補充「但還沒有完全碰到」。<br>(A) in no time：立刻；(B) by all means：務必、當然；(C) but not quite：但還不完全，和 almost 形成自然補充；(D) and pretty much：而且幾乎，會變成重複且暗示碰到了。<br>把答案放回去：每根樹枝幾乎碰到鄰樹，卻仍差一點。" },
+    { no: 12, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "D", group: "G1", stem: "Scientists have been discussing crown shyness since the 1920s, proposing ______ explanations for the phenomenon.", options: { A: "universal", B: "productive", C: "conventional", D: "multiple" }, explain: "<b>解題關鍵：</b>下文依序列出避免病蟲害、枝葉碰撞及爭奪資源等不同說法，因此科學家提出的是「多種」解釋。<br>(A) universal：普遍適用的，不代表數量；(B) productive：有生產力的；(C) conventional：傳統的，文章沒有新舊對比；(D) multiple：多種的，能統整後面的數個理論。<br>把答案放回去：科學家多年來提出多種樹冠羞避的解釋。" },
+    { no: 13, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "B", group: "G1", stem: "Other scientists suggest that plants, like animals, ______ resources—nutrients, water, space, and light.", options: { A: "get over", B: "compete for", C: "give way to", D: "make up for" }, explain: "<b>解題關鍵：</b>養分、水、空間和光線都是有限資源，植物像動物一樣會彼此「爭奪」。<br>(A) get over：克服；(B) compete for：爭取、競爭，後接想取得的資源，正確；(C) give way to：讓位給、屈服於；(D) make up for：彌補。<br>把答案放回去：有些科學家認為植物會爭奪養分、水、空間與陽光。" },
+    { no: 14, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "B", group: "G1", stem: "Gaps in the treetops resulting from crown shyness may allow trees to increase their ______ light and enhance photosynthesis.", options: { A: "reliance on", B: "exposure to", C: "sensitivity to", D: "reflection on" }, explain: "<b>解題關鍵：</b>樹冠留出縫隙，更多光能照到葉片，才會 enhance photosynthesis「增強光合作用」。<br>(A) reliance on：依賴，樹本來就需要光，縫隙增加的是接觸量；(B) exposure to：接觸、暴露於，increase exposure to light 搭配正確；(C) sensitivity to：對光敏感度；(D) reflection on：對……的反思，意思不合。<br>把答案放回去：縫隙增加樹木接觸光線的機會。" },
+    { no: 15, cat: "C2", tags: ["轉承語"], lang: "題組", textType: "綜合測驗", answer: "C", group: "G1", stem: "______ decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.", options: { A: "For", B: "Besides", C: "Despite", D: "Concerning" }, explain: "<b>解題關鍵：</b>研究了數十年，照理應有答案，但後面卻說仍沒有共識，前後是「雖然……仍然……」的轉折。<br>(A) For：持續、為了；(B) Besides：除了、此外；(C) Despite：儘管，後面可直接接名詞 decades of investigation；(D) Concerning：關於，沒有讓步意思。<br>把答案放回去：儘管調查數十年，成因仍無共識。" },
+    { no: 16, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "B", group: "G2", stem: "Scientists tried to overcome the force of gravity so that a rocket could shoot ______ Earth’s pull in order to land humans on the moon.", options: { A: "back to", B: "free of", C: "long before", D: "straight on" }, explain: "<b>解題關鍵：</b>overcome gravity 表示克服重力；火箭要到月球，就得「脫離」地球引力。<br>(A) back to：回到；(B) free of：擺脫、不受……影響，shoot free of Earth’s pull 符合；(C) long before：早在……之前，是時間用語；(D) straight on：一直向前，沒有離開引力的意思。<br>把答案放回去：科學家設法讓火箭脫離地球引力。" },
+    { no: 17, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "A", group: "G2", stem: "Today, they are more interested in how reduced gravity affects the astronauts’ ______ condition.", options: { A: "physical", B: "perceptual", C: "mental", D: "external" }, explain: "<b>解題關鍵：</b>下一句開始談 body fluids 移動，之後還有頭部腫脹、頭痛、噁心，都是「身體狀況」。<br>(A) physical：身體的，physical condition 搭配正確；(B) perceptual：知覺的，文章沒談感官判斷；(C) mental：心理的，沒有情緒或思考線索；(D) external：外部的，不能自然表示太空人的健康。<br>把答案放回去：研究關心低重力如何影響太空人的身體狀況。" },
+    { no: 18, cat: "C2", tags: ["時態語意"], lang: "題組", textType: "綜合測驗", answer: "A", group: "G2", stem: "However, with the absence of gravity in the outer space, our body fluids ______, shifting toward the upper body and the head.", options: { A: "redistribute", B: "redistributed", C: "redistributing", D: "being redistributed" }, explain: "<b>解題關鍵：</b>主詞 our body fluids 後面需要主要動詞；文章在說無重力下的一般現象，要用現在式。體液自己重新分布，語意是主動。<br>(A) redistribute：現在式複數動詞，正確；(B) redistributed：過去式，不合一般事實；(C) redistributing：只有 V-ing，句子缺主要動詞；(D) being redistributed：也缺主要動詞，且改成被動。<br>把答案放回去：沒有重力時，體液會重新分布到上半身和頭部。" },
+    { no: 19, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "C", group: "G2", stem: "This “Charlie Brown effect” will be more ______ when the astronauts go on their Mars missions, which will take about three years to complete.", options: { A: "contagious", B: "unusual", C: "severe", D: "aggressive" }, explain: "<b>解題關鍵：</b>火星任務約三年，比短期太空任務久，因此體液移到頭部造成的效應會更「嚴重」。<br>(A) contagious：會傳染的，這不是疾病傳染；(B) unusual：不尋常的，時間長短不表示更罕見；(C) severe：嚴重的，可形容症狀或影響；(D) aggressive：具侵略性的，常形容人、行為或疾病擴散。<br>把答案放回去：長期火星任務會讓這種效應更嚴重。" },
+    { no: 20, cat: "C2", tags: ["語境選詞"], lang: "題組", textType: "綜合測驗", answer: "D", group: "G2", stem: "Moreover, the effect is often ______ space motion sickness, headaches, and nausea.", options: { A: "varied with", B: "brought about", C: "transferred from", D: "accompanied by" }, explain: "<b>解題關鍵：</b>後面列出暈動病、頭痛與噁心，都是和 Charlie Brown effect 一起出現的症狀。<br>(A) varied with：隨……變化，意思不合；(B) brought about：造成，但 be brought about 後要用 by 表示原因；(C) transferred from：從……轉移；(D) accompanied by：伴隨著，句型與語意都完整。<br>把答案放回去：這種效應常伴隨太空暈動病、頭痛和噁心。" },
 
-    { no: 21, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "J", group: "G3", stem: "Yet, is water always the healthiest drink we can ______?", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "reach for a drink 表示伸手取用飲料，符合「我們可選擇飲用」的語境。" },
-    { no: 22, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "B", group: "G3", stem: "Obviously, a physically ______ person with an outdoor job under the sun will need to drink more fluid.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "戶外工作且活動量大的「physically active person」需要更多水分。" },
-    { no: 23, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "G", group: "G3", stem: "To ______ things out, the body will get rid of water by producing urine.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "even things out 表示使水與鹽的失衡恢復均衡。" },
-    { no: 24, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "F", group: "G3", stem: "For this reason, milk can actually be more ______ than drinking water.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "牛奶能同時補充鹽與水分，所以可能比只喝水更有效，選 effective。" },
-    { no: 25, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "A", group: "G3", stem: "Milk naturally contains salt and lactose, a sugar which the human body needs in small amounts to help stimulate water ______.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "stimulate water absorption 指促進水分吸收。" },
-    { no: 26, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "H", group: "G3", stem: "Coconut water is also more functional than water at restoring and maintaining a normal fluid ______ after exercise.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "fluid status 指身體的體液狀態，與 restoring and maintaining 搭配。" },
-    { no: 27, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "E", group: "G3", stem: "For the average person, however, water remains a very good ______ for keeping hydrated.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "water remains a good option 表示水仍是維持水分的好選擇。" },
-    { no: 28, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "C", group: "G3", stem: "There must already have been significant changes in your body for it to eventually ______ your consciousness.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "身體變化最終「警示」意識，alert 可直接接受詞 consciousness。" },
-    { no: 29, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "I", group: "G3", stem: "Drinking a lot of liquid in one go can cause more water to ______ the body quickly and come out as urine.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "水很快穿過身體並成為尿液，pass through 符合動作。" },
-    { no: 30, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "D", group: "G3", stem: "To ______ this, you need to drink water throughout the day to maintain your hydration levels.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "為了對抗一次大量飲水迅速排出的情況，應分散於整日飲用，故選 combat。" },
+    { no: 21, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "J", group: "G3", stem: "Yet, is water always the healthiest drink we can ______?", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>can 後需要原形動詞或動詞片語；句子問「水是否永遠是我們會拿來喝的最健康飲料」。<br>(J) reach for：伸手拿、選用，reach for a drink 是自然搭配。pass through 雖是動詞片語，主詞會變成「我們穿過飲料」，意思不通；combat、alert 也無法和 drink 形成此意，其他選項多為名詞或形容詞。<br>把答案放回去：水總是我們最健康的飲料選擇嗎？" },
+    { no: 22, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "B", group: "G3", stem: "Obviously, a physically ______ person with an outdoor job under the sun will need to drink more fluid.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>physically 後要接形容詞修飾 person；又因為這個人在戶外工作、容易流汗，所以是活動量大的。<br>(B) active：活躍的，physically active person 指身體活動量大的人。alert 也可作形容詞，但指「警覺的」，不能解釋為何需要更多水；effective 是有效的，也不形容人的活動量。<br>把答案放回去：在太陽下做戶外工作的活躍者，需要補充更多水分。" },
+    { no: 23, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "G", group: "G3", stem: "To ______ things out, the body will get rid of water by producing urine.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>To 後要接原形動詞；前文談水與鹽的平衡，後面說身體排尿去除水分，目的是讓狀況恢復均衡。<br>(G) even：作動詞表示使平衡，even things out 是「使情況平均、平衡」。combat 需要接要對抗的事物；alert 是提醒；reach for 與 pass through 都無法接 things out 形成正確片語。<br>把答案放回去：為了恢復平衡，身體會藉由排尿去除水分。" },
+    { no: 24, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "F", group: "G3", stem: "For this reason, milk can actually be more ______ than drinking water.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>more...than 是比較級結構，空格需要可比較的形容詞。前文說只喝水可能使水分排出，接著將牛奶和水比較。<br>(F) effective：有效的，more effective than 表示牛奶補水可能更有效。active 是活躍的、alert 是警覺的，都不能描述飲料補充水分的效果；absorption、option、status 是名詞。<br>把答案放回去：基於上述原因，牛奶補水可能比水更有效。" },
+    { no: 25, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "A", group: "G3", stem: "Milk naturally contains salt and lactose, a sugar which the human body needs in small amounts to help stimulate water ______.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>stimulate 後需要名詞作受詞；鹽和乳糖能幫身體把水留住，意思是促進水分「吸收」。<br>(A) absorption：吸收，water absorption 是自然名詞搭配。status 雖是名詞，但 stimulate water status 不通；option 也不能被「促進」。active、effective 是形容詞，pass through、reach for 是動詞片語，詞性不合。<br>把答案放回去：牛奶中的少量糖分能幫助促進水分吸收。" },
+    { no: 26, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "H", group: "G3", stem: "Coconut water is also more functional than water at restoring and maintaining a normal fluid ______ after exercise.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>normal fluid ______ 中，空格要名詞；restore and maintain 表示運動後「恢復並維持」正常的體液狀態。<br>(H) status：狀態，fluid status 是身體水分狀況。absorption 是吸收過程，不能說維持一個 normal absorption；option 是選擇，也不合。其他形容詞、動詞片語無法放在 fluid 後作名詞中心。<br>把答案放回去：椰子水有助恢復並維持正常體液狀態。" },
+    { no: 27, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "E", group: "G3", stem: "For the average person, however, water remains a very good ______ for keeping hydrated.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>a very good 後需接單數名詞；however 把重點轉回一般人：即使牛奶、椰子水有優點，水仍是維持水分的好「選擇」。<br>(E) option：選項、選擇，a good option for 是自然搭配。absorption 和 status 雖是名詞，卻不能說水「是一個吸收／狀態」；effective 是形容詞，前面已有 good。<br>把答案放回去：不過對一般人來說，水仍是補充水分的好選擇。" },
+    { no: 28, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "C", group: "G3", stem: "There must already have been significant changes in your body for it to eventually ______ your consciousness.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>to 後要原形動詞；it 指身體內的變化，consciousness 指人的意識。口渴被意識到以前，身體變化已大到能「提醒」你。<br>(C) alert：警示、使注意，可直接接 consciousness。combat 是對抗，身體變化不是對抗意識；pass through 是穿過，reach for 是伸手拿，皆不合。<br>把答案放回去：身體已有明顯變化，最後才讓你的意識發出警覺。" },
+    { no: 29, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "I", group: "G3", stem: "Drinking a lot of liquid in one go can cause more water to ______ the body quickly and come out as urine.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>cause water to 後要原形動詞；後面 come out as urine 表示水很快經過身體後排出。<br>(I) pass through：穿過、通過，pass through the body 與 quickly、come out 完整相接。reach for 的主詞通常是人，水不會伸手拿身體；combat、alert 雖是動詞，也不能描述水的移動。<br>把答案放回去：一次喝太多，更多水會快速通過身體並成為尿液。" },
+    { no: 30, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer: "D", group: "G3", stem: "To ______ this, you need to drink water throughout the day to maintain your hydration levels.", options: { A: "absorption", B: "active", C: "alert", D: "combat", E: "option", F: "effective", G: "even", H: "status", I: "pass through", J: "reach for" }, explain: "<b>解題關鍵：</b>this 回指前句「一次喝很多水，水分很快排出」的問題；To 後要動詞，表示為了對付這種狀況。<br>(D) combat：對抗、改善問題，能直接接 this。alert 是提醒，pass through 是穿過，reach for 是拿取，都無法表達解決前述問題；其他選項詞性不合。<br>把答案放回去：為避免水分一下就排出，應整天分次喝水。" },
 
-    { no: 31, cat: "C3", tags: ["篇章結構"], lang: "題組", textType: "篇章結構", answer: "C", group: "G4", stem: "Choose the sentence that best fits blank 31.", options: { A: "This consistency serves as a proof that synesthesia is real.", B: "Meanwhile, environmental influences seem to shape a person’s synesthesia.", C: "People with synesthesia used to be accused of making their experiences up.", D: "Some studies even show that people may all be synesthetic to some degree." }, explain: "後句以 however 轉折，說科學家後來發現穩定證據；前文應先說患者曾被指為捏造經驗。" },
-    { no: 32, cat: "C3", tags: ["篇章結構"], lang: "題組", textType: "篇章結構", answer: "A", group: "G4", stem: "Choose the sentence that best fits blank 32.", options: { A: "This consistency serves as a proof that synesthesia is real.", B: "Meanwhile, environmental influences seem to shape a person’s synesthesia.", C: "People with synesthesia used to be accused of making their experiences up.", D: "Some studies even show that people may all be synesthetic to some degree." }, explain: "前句強調跨時測試答案一致，This consistency 正好承接並說明其證據意義。" },
-    { no: 33, cat: "C3", tags: ["篇章結構"], lang: "題組", textType: "篇章結構", answer: "B", group: "G4", stem: "Choose the sentence that best fits blank 33.", options: { A: "This consistency serves as a proof that synesthesia is real.", B: "Meanwhile, environmental influences seem to shape a person’s synesthesia.", C: "People with synesthesia used to be accused of making their experiences up.", D: "Some studies even show that people may all be synesthetic to some degree." }, explain: "段首先談遺傳，空格後以童年味道與早期音樂訓練舉例，故轉談環境影響。" },
-    { no: 34, cat: "C3", tags: ["篇章結構"], lang: "題組", textType: "篇章結構", answer: "D", group: "G4", stem: "Choose the sentence that best fits blank 34.", options: { A: "This consistency serves as a proof that synesthesia is real.", B: "Meanwhile, environmental influences seem to shape a person’s synesthesia.", C: "People with synesthesia used to be accused of making their experiences up.", D: "Some studies even show that people may all be synesthetic to some degree." }, explain: "後文舉多數人將低音與暗色連結的例子，支持人人可能都具有某種程度聯覺。" },
+    { no: 31, cat: "C3", tags: ["篇章結構"], lang: "題組", textType: "篇章結構", answer: "C", group: "G4", stem: "Choose the sentence that best fits blank 31.", options: { A: "This consistency serves as a proof that synesthesia is real.", B: "Meanwhile, environmental influences seem to shape a person’s synesthesia.", C: "People with synesthesia used to be accused of making their experiences up.", D: "Some studies even show that people may all be synesthetic to some degree." }, explain: "<b>解題關鍵：</b>空格後用 However 轉折，說科學家後來找到證據；因此空格前要先交代過去人們不相信聯覺。<br>(C) 說聯覺者曾被指控「捏造經驗」，正好和後面的科學證據相反。<br>(A) 的 This consistency 要等前文出現「每次回答一致」；(B) 應接遺傳因素後；(D) 應接人人可能有聯覺的例子前。正確句讓 However 的轉折最清楚。" },
+    { no: 32, cat: "C3", tags: ["篇章結構"], lang: "題組", textType: "篇章結構", answer: "A", group: "G4", stem: "Choose the sentence that best fits blank 32.", options: { A: "This consistency serves as a proof that synesthesia is real.", B: "Meanwhile, environmental influences seem to shape a person’s synesthesia.", C: "People with synesthesia used to be accused of making their experiences up.", D: "Some studies even show that people may all be synesthetic to some degree." }, explain: "<b>解題關鍵：</b>空格前描述同一位聯覺者隔很久再測，顏色與字母等配對仍相同；空格需要總結「這種一致性」代表什麼。<br>(A) 的 This consistency 精準回指前句結果，並說這證明聯覺真實存在。<br>(B) 轉談環境，不能回收測驗；(C) 是歷史上的質疑；(D) 是擴大到所有人的研究。指示詞 This 必須有清楚前文對象。" },
+    { no: 33, cat: "C3", tags: ["篇章結構"], lang: "題組", textType: "篇章結構", answer: "B", group: "G4", stem: "Choose the sentence that best fits blank 33.", options: { A: "This consistency serves as a proof that synesthesia is real.", B: "Meanwhile, environmental influences seem to shape a person’s synesthesia.", C: "People with synesthesia used to be accused of making their experiences up.", D: "Some studies even show that people may all be synesthetic to some degree." }, explain: "<b>解題關鍵：</b>本段先談聯覺可能與遺傳有關；空格後卻舉童年食物味道、早期音樂訓練等生活經驗，主題轉向環境。<br>(B) Meanwhile 表示「另一方面」，environmental influences 正好統整後面的例子。<br>(A) 回指測驗一致；(C) 談過去被質疑；(D) 談人人可能具有，三者都不能連接「遺傳因素」與「生活經驗」兩部分。" },
+    { no: 34, cat: "C3", tags: ["篇章結構"], lang: "題組", textType: "篇章結構", answer: "D", group: "G4", stem: "Choose the sentence that best fits blank 34.", options: { A: "This consistency serves as a proof that synesthesia is real.", B: "Meanwhile, environmental influences seem to shape a person’s synesthesia.", C: "People with synesthesia used to be accused of making their experiences up.", D: "Some studies even show that people may all be synesthetic to some degree." }, explain: "<b>解題關鍵：</b>空格後說多數人會把低音和暗色、高音和亮色連在一起，這是一般人也可能有輕微聯覺的例子。<br>(D) 先提出「每個人某種程度上都可能有聯覺」，後句才能用例子支持。<br>(A) 需要前文的 consistency；(B) 是環境因素；(C) 是過去受到的質疑。先總說研究發現，再舉普遍配對的例子，段落最完整。" },
 
-    { no: 35, cat: "C4", tags: ["主旨判讀"], lang: "題組", textType: "閱讀測驗", answer: "A", group: "G5", stem: "What question does the passage answer?", options: { A: "How was the word “hula-hooping” derived?", B: "Why did Wham-O start making hula hoops?", C: "Where did Hawaiian hula dancing come from?", D: "What was the favorite toy of ancient Egyptian kids?" }, explain: "全文追溯呼拉圈歷史，且第二段明確解釋 hula 與 hoop 如何組成名稱。" },
-    { no: 36, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G5", stem: "Which of the following statements is true about use of the hoop in history?", options: { A: "The British used it for medical purposes.", B: "Native Americans used it to train animals.", C: "Ancient Greeks used it as a tool for workout.", D: "Hawaiian dancers used it to represent the circle of life." }, explain: "第一段指出古希臘的圈除玩具外也作為 exercise devices。" },
-    { no: 37, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "D", group: "G5", stem: "Which of the following is NOT mentioned as a way of enjoying hula hoop fun?", options: { A: "Striking.", B: "Twirling.", C: "Spinning.", D: "Kicking." }, explain: "文中提到 striking、twirled 與 spun，沒有提到 kicking。" },
-    { no: 38, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G5", stem: "According to the passage, what materials have been used for making hoops?", options: { A: "reed, grapevine, bamboo, plastic", B: "reed, grapevine, plastic, metal", C: "reed, bamboo, plastic, animal skin", D: "grapevine, plastic, metal, animal skin" }, explain: "文中依序提到 grapevine、metal、reed 與 plastic，未提 bamboo 或 animal skin。" },
-    { no: 39, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "A", group: "G6", stem: "Why do farmers in Assam dig trenches in tea gardens?", options: { A: "To protect tea trees.", B: "To trap elephants.", C: "To expand tea farms.", D: "To mark boundaries of tea gardens." }, explain: "農民挖排水溝是為避免積水傷害茶樹 shrubs，因此是保護茶樹。" },
-    { no: 40, cat: "C4", tags: ["篇章理解"], lang: "題組", textType: "閱讀測驗", answer: "D", group: "G6", stem: "Why are baby elephants easily injured in the Assam tea gardens according to the passage?", options: { A: "They cannot find a safe shelter when climbing out of the trenches.", B: "They cannot locate the landmarks while trying to navigate forests.", C: "They are trapped by the sharp branches of the tea trees.", D: "They have difficulties moving around the uneven fields." }, explain: "幼象不習慣 rough ground，容易掉進溝裡，對應在不平整田地移動有困難。" },
-    { no: 41, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G6", stem: "Which of the following statements about elephants and the tea gardens is true according to the passage?", options: { A: "The elephants use the trenches to roam around the tea gardens.", B: "The fast growth of the tea gardens destroys the elephants’ food source.", C: "Elephants are unwilling to leave their injured members behind in the tea gardens.", D: "Pregnant elephants avoid delivering babies in the tea gardens for fear of being disturbed." }, explain: "文中說象群不願留下生病或垂死同伴，會在受困幼象旁停留。" },
-    { no: 42, cat: "C4", tags: ["指涉判讀"], lang: "題組", textType: "閱讀測驗", answer: "D", group: "G6", stem: "What does “it” in the last paragraph refer to?", options: { A: "To certify elephant-friendly trenches and organizations.", B: "To reward tea growers for protecting the environment.", C: "To encourage consumers to choose high-quality brands.", D: "To create a win-win situation for elephants and tea farms." }, explain: "it 承接前句問句，指讓大象與繁榮茶業共存，也就是創造雙贏。" },
-    { no: 43, cat: "C4", tags: ["資訊排序"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G7", stem: "Which of the following is true about the earliest traders in Zanzibar?", options: { A: "The earliest traders arrived around 900 AD.", B: "Most of the earliest merchants came from Africa.", C: "Asian merchants arrived centuries before the African settlers.", D: "Traders from Persia settled down permanently around 1000 AD." }, explain: "文中指出亞洲商人比約西元 1000 年抵達的非洲永久移民早 900 年到訪。" },
-    { no: 44, cat: "C5", tags: ["圖文整合"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G7", stem: "According to the passage, where is Zanzibar most likely located on the following map?", options: { A: "A", B: "B", C: "C", D: "D" }, image: "img/112/q44.png", imageAlt: "世界地圖標示四個位置：A 在地中海西側，B 在非洲東岸外海，C 在南亞東側，D 在非洲東南端外海。", explain: "桑吉巴位於坦尚尼亞外海、印度洋上，地圖中符合的是非洲東岸的 B。" },
-    { no: 45, cat: "C4", tags: ["推論判讀"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G7", stem: "Which of the following can be inferred from the passage about Zanzibar?", options: { A: "For centuries, Zanzibar has been a heaven for beach lovers.", B: "Cloves, vanilla, and cinnamon are common spices in Zanzibar.", C: "Besides spices, Zanzibar is well known for a great variety of jewelry.", D: "Vasco da Gama was Zanzibar’s first foreign ruler during the Age of Exploration." }, explain: "末段描述丁香、香草與肉桂香氣瀰漫，可推知這些香料在當地常見。" },
-    { no: 46, cat: "C4", tags: ["指涉判讀"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G7", stem: "Which set of words is used in the passage to refer to Zanzibar?", options: { A: "islands, settlements, posts, crossroads", B: "islands, posts, jewels, destination", C: "archipelago, islands, jewels, destination", D: "archipelago, settlements, paths, islands" }, explain: "文中以 archipelago、islands、jewels 及 destination 指稱桑吉巴；settlements、posts 指波斯人建物。" },
-    { no: 49, cat: "C5", tags: ["多文本整合"], lang: "題組", textType: "混合題", answer: "D,F", group: "G8", multi: true, stem: "From (A) to (H) in the above chatroom discussions, which ones show that GreenBurger can be a choice for the chatroom participants themselves only under certain circumstances?", options: { A: "Olivia", B: "Smith", C: "Mika", D: "Thomas", E: "Rico", F: "Linda", G: "Ablo", H: "Alexander" }, explain: "Thomas 只願偶爾換口味時選擇；Linda 覺得口味可以但期待價格下降，兩者都設下特定條件。" }
+    { no: 35, cat: "C4", tags: ["主旨判讀"], lang: "題組", textType: "閱讀測驗", answer: "A", group: "G5", stem: "What question does the passage answer?", options: { A: "How was the word “hula-hooping” derived?", B: "Why did Wham-O start making hula hoops?", C: "Where did Hawaiian hula dancing come from?", D: "What was the favorite toy of ancient Egyptian kids?" }, explain: "<b>解題關鍵：</b>文章從古代的 hoop 談到英國水手看見夏威夷 hula 舞，再說 hula 與 hoop 合成名稱，重點能回答名稱如何產生。<br>(A) 符合第二段的字源說明；(B) 只提 Wham-O 推出塑膠圈，未說公司動機；(C) 沒追溯 hula 舞起源；(D) 只說古埃及兒童玩圈，未比較最愛玩具。<br>因此文章能回答 hula-hooping 一詞如何形成。" },
+    { no: 36, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G5", stem: "Which of the following statements is true about use of the hoop in history?", options: { A: "The British used it for medical purposes.", B: "Native Americans used it to train animals.", C: "Ancient Greeks used it as a tool for workout.", D: "Hawaiian dancers used it to represent the circle of life." }, explain: "<b>解題關鍵：</b>第一段直接說古希臘人不只把圈當玩具，也 used them as exercise devices「當作運動器材」。<br>(C) tool for workout 是同義改寫，正確。<br>(A) 英國段落談水手命名，不是醫療；(B) 美洲原住民用圈表現故事或象徵，不是訓練動物；(D) 文章說圓形象徵生命循環的是原住民使用方式，並非夏威夷舞者。要注意選項會把族群與用途對調。" },
+    { no: 37, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "D", group: "G5", stem: "Which of the following is NOT mentioned as a way of enjoying hula hoop fun?", options: { A: "Striking.", B: "Twirling.", C: "Spinning.", D: "Kicking." }, explain: "<b>解題關鍵：</b>這是 NOT mentioned 題，要把四個動作逐一回原文定位。<br>(A) striking：古代兒童用棍子敲圈讓它滾；(B) twirling：原文提到把圈旋轉；(C) spinning：也提到讓圈在身體周圍轉動；(D) kicking：踢圈，全文沒有出現，所以是答案。<br>不要因為 kicking 似乎也能玩圈就選別項；題目問的是文章「有沒有提到」，不是現實中能不能做到。" },
+    { no: 38, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G5", stem: "According to the passage, what materials have been used for making hoops?", options: { A: "reed, grapevine, bamboo, plastic", B: "reed, grapevine, plastic, metal", C: "reed, bamboo, plastic, animal skin", D: "grapevine, plastic, metal, animal skin" }, explain: "<b>解題關鍵：</b>把材料逐一圈出：古代有 dried grapevines，希臘與羅馬也用 metal，其他文化用 reeds，現代 Wham-O 製作 plastic hoops。<br>(B) 同時包含 reed、grapevine、plastic、metal，四項都有原文證據。<br>(A)(C) 的 bamboo 未提；(C)(D) 的 animal skin 也未提。這類題可先排除含文章外材料的選項，再確認剩下每一項都出現。" },
+    { no: 39, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "A", group: "G6", stem: "Why do farmers in Assam dig trenches in tea gardens?", options: { A: "To protect tea trees.", B: "To trap elephants.", C: "To expand tea farms.", D: "To mark boundaries of tea gardens." }, explain: "<b>解題關鍵：</b>文章說茶園容易積水，而 waterlogging can damage tea shrubs，因此農民挖 trenches 排水。<br>(A) protect tea trees 是「避免積水傷害茶樹」的同義整理，正確。<br>(B) 大象掉入溝渠是意外問題，不是挖溝目的；(C) 未說為擴張茶園；(D) 也未說用來畫界線。原因題要找 because／to 等目的線索，不要把後來的副作用誤當原始目的。" },
+    { no: 40, cat: "C4", tags: ["篇章理解"], lang: "題組", textType: "閱讀測驗", answer: "D", group: "G6", stem: "Why are baby elephants easily injured in the Assam tea gardens according to the passage?", options: { A: "They cannot find a safe shelter when climbing out of the trenches.", B: "They cannot locate the landmarks while trying to navigate forests.", C: "They are trapped by the sharp branches of the tea trees.", D: "They have difficulties moving around the uneven fields." }, explain: "<b>解題關鍵：</b>相關段落指出幼象較不習慣 rough ground「崎嶇地面」，容易跌進茶園溝渠並受傷。<br>(D) uneven fields 是 rough ground 的同義改寫，表示牠們難以在不平地面移動。<br>(A) 沒談找庇護所；(B) 沒談地標迷路；(C) 傷害來自跌入溝渠，不是被茶樹尖枝纏住。答案要抓造成跌落的地形原因。" },
+    { no: 41, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G6", stem: "Which of the following statements about elephants and the tea gardens is true according to the passage?", options: { A: "The elephants use the trenches to roam around the tea gardens.", B: "The fast growth of the tea gardens destroys the elephants’ food source.", C: "Elephants are unwilling to leave their injured members behind in the tea gardens.", D: "Pregnant elephants avoid delivering babies in the tea gardens for fear of being disturbed." }, explain: "<b>解題關鍵：</b>文章明說象群不願 leave a sick or dying member behind，幼象受困時，其他大象會留在旁邊。<br>(C) 幾乎是原文同義改寫，正確。<br>(A) 溝渠阻礙而非幫助移動；(B) 沒說茶園破壞食物來源；(D) 沒說懷孕母象因怕干擾而避開生產。判斷 true 題時，以文中直接說明為準，不能補上合理但未提的動物行為。" },
+    { no: 42, cat: "C4", tags: ["指涉判讀"], lang: "題組", textType: "閱讀測驗", answer: "D", group: "G6", stem: "What does “it” in the last paragraph refer to?", options: { A: "To certify elephant-friendly trenches and organizations.", B: "To reward tea growers for protecting the environment.", C: "To encourage consumers to choose high-quality brands.", D: "To create a win-win situation for elephants and tea farms." }, explain: "<b>解題關鍵：</b>找 it 前最近的完整想法：讓大象安全通過，同時不傷害蓬勃的茶產業，也就是兩者共存。後文說認證與消費選擇可 make it happen，表示它們是達成此目標的方法。<br>(D) 「為大象與茶園創造雙贏」統整目標，正確。<br>(A)(B)(C) 都是可能採取的做法或其中一方的利益，不是 it 所指的整體結果。指涉題要分清楚「目標」與「達成目標的方法」。" },
+    { no: 43, cat: "C4", tags: ["資訊排序"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G7", stem: "Which of the following is true about the earliest traders in Zanzibar?", options: { A: "The earliest traders arrived around 900 AD.", B: "Most of the earliest merchants came from Africa.", C: "Asian merchants arrived centuries before the African settlers.", D: "Traders from Persia settled down permanently around 1000 AD." }, explain: "<b>解題關鍵：</b>文章時間線是：亞洲商人早在約西元 100 年來訪；約九百年後，非洲移民才永久定居。<br>(C) 亞洲商人比非洲定居者早數百年，符合時間線。<br>(A) 把「相差九百年」誤當抵達年份；(B) 最早商人來自亞洲；(D) 波斯商人建立貿易據點，但文中永久定居的是非洲移民。這題要分清 visit、trade post 與 settle permanently。" },
+    { no: 44, cat: "C5", tags: ["圖文整合"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G7", stem: "According to the passage, where is Zanzibar most likely located on the following map?", options: { A: "A", B: "B", C: "C", D: "D" }, image: "img/112/q44.png", imageAlt: "世界地圖標示四個位置：A 在地中海西側，B 在非洲東岸外海，C 在南亞東側，D 在非洲東南端外海。", explain: "<b>解題關鍵：</b>文章提供兩個定位線索：Zanzibar 是印度洋上的群島，位於 Tanzania「坦尚尼亞」外海；坦尚尼亞在非洲東岸。<br>(B) 標在非洲東岸外海，符合兩個線索。<br>(A) 在地中海西側；(C) 靠近南亞東側；(D) 位於非洲更南端外海，都不在坦尚尼亞近海。圖文題先用大洲與海洋定位，再比對鄰近國家，可避免只憑島嶼外形猜。" },
+    { no: 45, cat: "C4", tags: ["推論判讀"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G7", stem: "Which of the following can be inferred from the passage about Zanzibar?", options: { A: "For centuries, Zanzibar has been a heaven for beach lovers.", B: "Cloves, vanilla, and cinnamon are common spices in Zanzibar.", C: "Besides spices, Zanzibar is well known for a great variety of jewelry.", D: "Vasco da Gama was Zanzibar’s first foreign ruler during the Age of Exploration." }, explain: "<b>解題關鍵：</b>末段描寫島上空氣充滿 cloves、vanilla、cinnamon 的香氣，能合理推出這些香料在當地很常見。<br>(B) 是由氣味線索得出的合理推論。<br>(A) 文章說現今是海灘目的地，未說數百年來都是；(C) jewels 是把群島比喻成珠寶，不是販售珠寶；(D) Vasco da Gama 曾到訪，但文章沒有說他是第一位外國統治者。推論不能超過原文證據。" },
+    { no: 46, cat: "C4", tags: ["指涉判讀"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G7", stem: "Which set of words is used in the passage to refer to Zanzibar?", options: { A: "islands, settlements, posts, crossroads", B: "islands, posts, jewels, destination", C: "archipelago, islands, jewels, destination", D: "archipelago, settlements, paths, islands" }, explain: "<b>解題關鍵：</b>這題要逐字檢查是否都能代稱 Zanzibar。文章開頭稱它 tropical archipelago，接著用 destination、islands 回指，結尾又把群島比喻為 jewels on the Indian Ocean。<br>(A) islands 與 crossroads 可指 Zanzibar，但 settlements、posts 是波斯商人建立的聚落和貿易據點，整組不合。<br>(B) islands、jewels、destination 都可指 Zanzibar，但 posts 只指貿易據點，因此不合。<br>(C) archipelago、islands、jewels、destination 四字都用來稱呼或代指 Zanzibar，適合。<br>(D) archipelago、islands 正確，但 settlements 是聚落，paths 是宗教或航路的路徑，不能指整個 Zanzibar。<br>所以答案選 (C)。" },
+    { no: 49, cat: "C5", tags: ["多文本整合"], lang: "題組", textType: "混合題", answer: "D,F", group: "G8", multi: true, stem: "From (A) to (H) in the above chatroom discussions, which ones show that GreenBurger can be a choice for the chatroom participants themselves only under certain circumstances?", options: { A: "Olivia", B: "Smith", C: "Mika", D: "Thomas", E: "Rico", F: "Linda", G: "Ablo", H: "Alexander" }, explain: "<b>解題關鍵：</b>題目鎖定兩點：本人會選 GreenBurger，而且「只有在特定條件下」才選，不能把替別人考量或完全拒絕算進來。<br>(D) Thomas 表示只有偶爾想換口味時才會選，條件明確；(F) Linda 覺得味道可以，但要價格下降才願意選，也有條件。<br>Olivia、Smith、Mika、Rico、Ablo、Alexander 的留言不是同時符合「自己會選」與「設下條件」兩項。每位都要獨立檢查，故答案為 D、F。" }
   ];
 
   window.BANK = window.BANK || [];
@@ -1877,65 +1877,65 @@ window.BANK = window.BANK || [];
   });
 
   const questions = [
-    q(1,"C1","語境搭配","詞彙題","單題","B","When Jeffery doesn’t feel like cooking, he often orders pizza online and has it ______ to his house.",{A:"advanced",B:"delivered",C:"offered",D:"stretched"},"have something delivered 表示請人把物品送達，符合線上訂披薩的情境。"),
-    q(2,"C1","詞義辨析","詞彙題","單題","A","Jane is the best ______ I have ever had. I cannot imagine running my office without her help.",{A:"assistant",B:"influence",C:"contribution",D:"politician"},"能協助管理辦公室的人是 assistant（助理）。"),
-    q(3,"C1","語境搭配","詞彙題","單題","C","The temple celebrated Mazu Festival by hosting ten days of lion dances, Taiwanese operas, and traditional hand ______ shows.",{A:"chat",B:"quiz",C:"puppet",D:"variety"},"hand puppet show 是「掌中戲／布袋戲」，與傳統廟會表演相符。"),
-    q(4,"C1","語境搭配","詞彙題","單題","A","The new vaccine was banned by the Food and Drug Administration due to its ______ fatal side effects.",{A:"potentially",B:"delicately",C:"ambiguously",D:"optionally"},"potentially fatal 表示「可能致命的」，能說明禁用原因。"),
-    q(5,"C1","語境搭配","詞彙題","單題","A","______ the photos with dates and keywords help you sort them easily in your file.",{A:"Tagging",B:"Flocking",C:"Rolling",D:"Snapping"},"tag photos with dates and keywords 是替照片加標籤，方便分類。"),
-    q(6,"C1","詞義辨析","詞彙題","單題","C","An ______ person is usually pleasant and easy to get along with, but don’t expect that he or she will always say “yes” to everything.",{A:"enormous",B:"intimate",C:"agreeable",D:"ultimate"},"agreeable 可形容和善、容易相處的人。"),
-    q(7,"C1","語境搭配","詞彙題","單題","B","Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",{A:"identical",B:"visible",C:"available",D:"remarkable"},"barely visible 意為「幾乎看不見」；藏在巷弄深處的入口不易被路人看見。"),
-    q(8,"C1","語境搭配","詞彙題","單題","D","The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",{A:"moderate",B:"absolute",C:"promising",D:"eventual"},"eventual cost 指最後實際形成的費用，與原始預算形成對比。"),
-    q(9,"C1","語境搭配","詞彙題","單題","D","After watching a TV program on natural history, Adam decided to go on a ______ for dinosaur fossils in South Dakota.",{A:"trial",B:"route",C:"strike",D:"quest"},"go on a quest for 指展開搜尋或追尋，符合尋找化石。"),
-    q(10,"C1","語境搭配","詞彙題","單題","B","With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",{A:"bounces",B:"blushes",C:"polishes",D:"transfers"},"粉紅花海讓山谷像新娘般 blushes（泛紅）。"),
+    q(1,"C1","語境搭配","詞彙題","單題","B","When Jeffery doesn’t feel like cooking, he often orders pizza online and has it ______ to his house.",{A:"advanced",B:"delivered",C:"offered",D:"stretched"},"<b>解題關鍵：</b>前面說 Jeffery 在網路上訂披薩，後面又有 to his house，所以空格要表達「被送到家」。have + 物品 + 過去分詞，表示請別人把事情做好。<br>(A) advanced：被推進；不能表示把披薩送到某地。<br>(B) delivered：被配送；have it delivered 正是「請人把它送來」。<br>(C) offered：被提供；只表示有人提出或給予，沒有運送的意思。<br>(D) stretched：被拉長；和披薩到家的情境無關。<br>把答案放回去：他不想煮飯時，就上網訂披薩並請人送到家。"),
+    q(2,"C1","詞義辨析","詞彙題","單題","A","Jane is the best ______ I have ever had. I cannot imagine running my office without her help.",{A:"assistant",B:"influence",C:"contribution",D:"politician"},"<b>解題關鍵：</b>without her help 說 Jane 會幫忙，而 running my office 表示她協助處理辦公室工作，因此空格要放「助理」這種人。<br>(A) assistant：助理；是能實際協助辦公室運作的人。<br>(B) influence：影響力；不是一個協助工作的人。<br>(C) contribution：貢獻；可以說她有貢獻，卻不能說 Jane 是一個 contribution。<br>(D) politician：政治人物；題目沒有政治線索。<br>把答案放回去：Jane 是我遇過最好的助理，沒有她我無法想像怎麼經營辦公室。"),
+    q(3,"C1","語境搭配","詞彙題","單題","C","The temple celebrated Mazu Festival by hosting ten days of lion dances, Taiwanese operas, and traditional hand ______ shows.",{A:"chat",B:"quiz",C:"puppet",D:"variety"},"<b>解題關鍵：</b>lion dances、Taiwanese operas 都是廟會傳統表演；hand puppet show 是固定說法，指用手操控偶的布袋戲。<br>(A) chat：聊天；hand chat 不是表演名稱。<br>(B) quiz：問答測驗；雖可辦 quiz show，但不能和 hand 組成此處的傳統表演。<br>(C) puppet：戲偶；hand puppet shows 正好是掌中戲。<br>(D) variety：綜藝；variety show 可用，但 hand variety show 不成立。<br>把答案放回去：寺廟以舞獅、歌仔戲和傳統布袋戲慶祝媽祖節。"),
+    q(4,"C1","語境搭配","詞彙題","單題","A","The new vaccine was banned by the Food and Drug Administration due to its ______ fatal side effects.",{A:"potentially",B:"delicately",C:"ambiguously",D:"optionally"},"<b>解題關鍵：</b>疫苗被禁止的原因是副作用可能造成死亡；potentially fatal 是常見搭配，意思是「可能致命」。<br>(A) potentially：可能地；說明危險雖不一定發生，但有致命風險。<br>(B) delicately：精細地、脆弱地；不能修飾 fatal 來說風險。<br>(C) ambiguously：模稜兩可地；描述說法不清楚，不是副作用的嚴重程度。<br>(D) optionally：可選擇地；死亡副作用不是讓人選擇的。<br>把答案放回去：食藥機關因這款疫苗有可能致命的副作用而禁用它。"),
+    q(5,"C1","語境搭配","詞彙題","單題","A","______ the photos with dates and keywords help you sort them easily in your file.",{A:"Tagging",B:"Flocking",C:"Rolling",D:"Snapping"},"<b>解題關鍵：</b>dates and keywords 是整理照片時加上的「標籤」，而後面的 sort them easily 說明這個動作能幫助分類。<br>(A) Tagging：加標籤；tag A with B 就是用 B 標記 A。<br>(B) Flocking：成群聚集；通常形容鳥或人聚在一起，不能接日期與關鍵字。<br>(C) Rolling：滾動、捲起；不會讓照片依關鍵字分類。<br>(D) Snapping：快速拍照；可能和 photos 有關，但 snapping photos 是拍照片，不是替照片加日期標記。<br>把答案放回去：替照片加上日期和關鍵字標籤，能讓你容易分類。"),
+    q(6,"C1","詞義辨析","詞彙題","單題","C","An ______ person is usually pleasant and easy to get along with, but don’t expect that he or she will always say “yes” to everything.",{A:"enormous",B:"intimate",C:"agreeable",D:"ultimate"},"<b>解題關鍵：</b>pleasant and easy to get along with 直接解釋這種人「友善、好相處」；後面的 but 提醒好相處不等於凡事答應。<br>(A) enormous：巨大的；通常形容尺寸或數量，不形容個性好相處。<br>(B) intimate：親密的；說的是關係很近，不一定個性隨和。<br>(C) agreeable：和善、討人喜歡的；完全對應 pleasant 與 easy to get along with。<br>(D) ultimate：最終的、極致的；不是人的個性。<br>把答案放回去：和善的人通常容易相處，但不代表他什麼都說好。"),
+    q(7,"C1","語境搭配","詞彙題","單題","B","Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",{A:"identical",B:"visible",C:"available",D:"remarkable"},"<b>解題關鍵：</b>入口藏在小巷深處，barely 表示「幾乎不」，所以路人應該是幾乎「看不見」入口。<br>(A) identical：完全相同的；要有兩個東西相比，這句沒有比較對象。<br>(B) visible：看得見的；barely visible 合起來就是「幾乎看不見」。<br>(C) available：可取得、可使用的；餐廳可能有空位，但入口不是「可取得」。<br>(D) remarkable：引人注目的；若很引人注目，就和 hidden、barely 的線索相反。<br>把答案放回去：餐廳入口藏在小巷裡，路人幾乎看不到。"),
+    q(8,"C1","語境搭配","詞彙題","單題","D","The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",{A:"moderate",B:"absolute",C:"promising",D:"eventual"},"<b>解題關鍵：</b>but 把 original budget「原先預算」和後來真正形成的費用作對比；空格要有「最後的」意思。<br>(A) moderate：適中的；沒有交代費用適中，且比預算高五成也不是此句重點。<br>(B) absolute：絕對的；不表示旅行結束後的實際結果。<br>(C) promising：有希望的；通常形容人或發展前景，不能合理形容花費。<br>(D) eventual：最後的、最終的；eventual cost 正好和 original budget 相對。<br>把答案放回去：原預算五千元，但最後費用可能高出五成。"),
+    q(9,"C1","語境搭配","詞彙題","單題","D","After watching a TV program on natural history, Adam decided to go on a ______ for dinosaur fossils in South Dakota.",{A:"trial",B:"route",C:"strike",D:"quest"},"<b>解題關鍵：</b>for dinosaur fossils 表示 Adam 要去尋找化石；go on a quest for 是「展開追尋」的固定用法。<br>(A) trial：試驗、審判；go on trial 是受審，不能接 for fossils 表示尋找。<br>(B) route：路線；可以沿著路線走，但 go on a route for 不是尋找的搭配。<br>(C) strike：罷工、打擊；go on strike 是罷工，和化石無關。<br>(D) quest：探索、追尋；能表達為了找到化石而出發。<br>把答案放回去：看完自然史節目後，他決定前往南達科他州尋找恐龍化石。"),
+    q(10,"C1","語境搭配","詞彙題","單題","B","With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",{A:"bounces",B:"blushes",C:"polishes",D:"transfers"},"<b>解題關鍵：</b>pink cherry blossoms 和 like a young bride 形成畫面：粉紅花朵讓山谷像新娘害羞時臉紅。<br>(A) bounces：彈跳；山谷不會因花開而跳動。<br>(B) blushes：臉紅、泛紅；把山谷擬人化，正好呼應粉紅色與新娘。<br>(C) polishes：擦亮；通常要有人擦某物，山谷也不是被擦亮。<br>(D) transfers：轉移；需要交代轉移什麼或到哪裡，語意不完整。<br>把答案放回去：櫻花盛開時，山谷在春日陽光下像年輕新娘般泛紅。"),
 
-    q(11,"C2","語境選詞","綜合測驗","題組","A","Choose the best answer for blank 11.",{A:"initiated",B:"represented",C:"acknowledged",D:"manipulated"},"此概念由 Richard Booth 開創，initiated 最恰當。",{group:"G1"}),
-    q(12,"C2","時態語意","綜合測驗","題組","D","Choose the best answer for blank 12.",{A:"spring",B:"sprang",C:"had sprung",D:"have been springing"},"Since the 1970s 搭配現在完成進行式 have been springing，表示持續出現。",{group:"G1"}),
-    q(13,"C2","主旨連貫","綜合測驗","題組","C","Choose the best answer for blank 13.",{A:"form",B:"count",C:"end",D:"matter"},"相同點到書店數量為止，that’s where the similarities end。",{group:"G1"}),
-    q(14,"C2","語境選詞","綜合測驗","題組","B","Choose the best answer for blank 14.",{A:"trends",B:"releases",C:"agendas",D:"announcements"},"作者在講座討論最新出版品，latest releases 最合語境。",{group:"G1"}),
-    q(15,"C2","主旨連貫","綜合測驗","題組","D","Choose the best answer for blank 15.",{A:"get their worldwide fame",B:"conform to the new mode",C:"make their visitors satisfied",D:"keep the printed word alive"},"下文強調保存實體書，因此是 keep the printed word alive。",{group:"G1"}),
+    q(11,"C2","語境選詞","綜合測驗","題組","A","Choose the best answer for blank 11.",{A:"initiated",B:"represented",C:"acknowledged",D:"manipulated"},"<b>解題關鍵：</b>後面說 Richard Booth 開了第一家二手書店，許多居民跟進，表示「書城」概念由他開創。<br>(A) initiated：發起、開創，符合。<br>(B) represented：代表，沒有開始某概念的意思。<br>(C) acknowledged：承認，文中不是說他承認此概念。<br>(D) manipulated：操控，語氣負面且不合事件。<br>完整句意：這個概念由 Richard Booth 開創。",{group:"G1"}),
+    q(12,"C2","時態語意","綜合測驗","題組","D","Choose the best answer for blank 12.",{A:"spring",B:"sprang",C:"had sprung",D:"have been springing"},"<b>解題關鍵：</b>Since the 1970s 表示「從 1970 年代到現在」，而 all over the world 說書城持續在各地出現。<br>(A) spring：現在簡單式，缺少從過去延續至今的訊息。<br>(B) sprang：過去式，只說過去某時發生。<br>(C) had sprung：過去完成式，需要另一個過去時間點作比較。<br>(D) have been springing：現在完成進行式，表示一路持續出現。",{group:"G1"}),
+    q(13,"C2","主旨連貫","綜合測驗","題組","C","Choose the best answer for blank 13.",{A:"form",B:"count",C:"end",D:"matter"},"<b>解題關鍵：</b>前句說所有書城都有許多書店，後句立刻說每座城各有特色，所以作者的意思是「共同點到這裡就結束」。<br>(A) form：形成，similarities form 會變成共同點在此形成，方向不對。<br>(B) count：計算，不合搭配。<br>(C) end：結束，that’s where ... end 是「到此為止」。<br>(D) matter：重要，不能接 where 表達界線。",{group:"G1"}),
+    q(14,"C2","語境選詞","綜合測驗","題組","B","Choose the best answer for blank 14.",{A:"trends",B:"releases",C:"agendas",D:"announcements"},"<b>解題關鍵：</b>月度書談邀請 authors「作者」討論 their latest ______，最合理的是作者最新出版的作品。<br>(A) trends：趨勢，不是作者所擁有的作品。<br>(B) releases：新發行作品，latest releases 是「最新出版品」。<br>(C) agendas：議程，通常是會議要討論的事項。<br>(D) announcements：公告，作者也可能發布消息，但書城活動更直接談新書。",{group:"G1"}),
+    q(15,"C2","主旨連貫","綜合測驗","題組","D","Choose the best answer for blank 15.",{A:"get their worldwide fame",B:"conform to the new mode",C:"make their visitors satisfied",D:"keep the printed word alive"},"<b>解題關鍵：</b>下文連續寫書的觸感、氣味、重量與歷史，最後說要保存 physical book，因此書城的重要任務是讓紙本書繼續存在。<br>(A) 獲得全球名聲：文章沒有談名氣。<br>(B) 順應新模式：反而是在數位閱讀下保存傳統。<br>(C) 讓訪客滿意：不是本段重點。<br>(D) keep the printed word alive：保存紙本閱讀，和後文完全呼應。",{group:"G1"}),
 
-    q(16,"C2","語境搭配","綜合測驗","題組","D","Choose the best answer for blank 16.",{A:"contrary to",B:"except for",C:"more of",D:"other than"},"窗戶採圓角是出於美觀以外的理由，other than aesthetics。",{group:"G2"}),
-    q(17,"C2","時態語意","綜合測驗","題組","A","Choose the best answer for blank 17.",{A:"used to be",B:"were to be",C:"would have been",D:"must have been"},"描述早期飛機窗過去常是方形，used to be 正確。",{group:"G2"}),
-    q(18,"C2","語境選詞","綜合測驗","題組","D","Choose the best answer for blank 18.",{A:"disguised",B:"understood",C:"confronted",D:"intensified"},"高空壓差使應力問題加劇，故選 intensified。",{group:"G2"}),
-    q(19,"C2","語境搭配","綜合測驗","題組","C","Choose the best answer for blank 19.",{A:"cause conflict",B:"rebuild strength",C:"spell disaster",D:"endure shock"},"方形窗角反覆受壓可能釀成災難，spell disaster。",{group:"G2"}),
-    q(20,"C2","語境選詞","綜合測驗","題組","A","Choose the best answer for blank 20.",{A:"tolerate",B:"improve",C:"justify",D:"obtain"},"圓形結構能承受內外極端壓差，tolerate 符合。",{group:"G2"}),
+    q(16,"C2","語境搭配","綜合測驗","題組","D","Choose the best answer for blank 16.",{A:"contrary to",B:"except for",C:"more of",D:"other than"},"<b>解題關鍵：</b>but actually 轉折：圓窗雖然好看，設計它真正是為了安全等「美觀以外」的理由。<br>(A) contrary to：與美觀相反，不是說圓窗不好看。<br>(B) except for：除了美觀之外沒有別的，會和後文相反。<br>(C) more of：更多的，後面接名詞時無法表達排除。<br>(D) other than：除了……之外，reasons other than aesthetics 正確。",{group:"G2"}),
+    q(17,"C2","時態語意","綜合測驗","題組","A","Choose the best answer for blank 17.",{A:"used to be",B:"were to be",C:"would have been",D:"must have been"},"<b>解題關鍵：</b>In the early days 和後來改用圓窗形成今昔對比，空格要說「過去是方形，現在不是」。<br>(A) used to be：過去曾經是，最符合。<br>(B) were to be：預定要成為，不是描述舊狀態。<br>(C) would have been：本來會是，常用於未成真的假設。<br>(D) must have been：一定曾是，表示推測；文章是在陳述歷史事實。",{group:"G2"}),
+    q(18,"C2","語境選詞","綜合測驗","題組","D","Choose the best answer for blank 18.",{A:"disguised",B:"understood",C:"confronted",D:"intensified"},"<b>解題關鍵：</b>後面解釋飛得越高，機內外壓力差越大，added stress 使問題更加嚴重。<br>(A) disguised：被掩飾，壓差不是把問題藏起來。<br>(B) understood：被理解，和壓力增加無因果。<br>(C) confronted：被面對，通常由人面對問題。<br>(D) intensified：被加劇，正好呼應 increases 與 added stress。<br>完整句意：飛機在高空時，這個問題會加劇。",{group:"G2"}),
+    q(19,"C2","語境搭配","綜合測驗","題組","C","Choose the best answer for blank 19.",{A:"cause conflict",B:"rebuild strength",C:"spell disaster",D:"endure shock"},"<b>解題關鍵：</b>方形窗角是應力集中的弱點；在高空反覆加壓後，結果可能是裂開、飛機解體，也就是「釀成災難」。<br>(A) cause conflict：引起衝突，通常是人際或意見衝突。<br>(B) rebuild strength：重建強度，和弱點受壓相反。<br>(C) spell disaster：意味著／導致災難，符合後果。<br>(D) endure shock：承受衝擊；主詞 corners 若真能承受，就不會造成安全問題。",{group:"G2"}),
+    q(20,"C2","語境選詞","綜合測驗","題組","A","Choose the best answer for blank 20.",{A:"tolerate",B:"improve",C:"justify",D:"obtain"},"<b>解題關鍵：</b>前面說圓形更強、不易變形，因此能「承受」機內外的極端壓力差。<br>(A) tolerate：忍受、承受，和 stronger、resist deformation 呼應。<br>(B) improve：改善；圓窗不是改善壓力差本身。<br>(C) justify：證明……合理；結構不能證明壓差合理。<br>(D) obtain：取得；壓力差不是要取得的物品。<br>完整句意：圓形結構能承受飛機內外極大的壓力差。",{group:"G2"}),
 
     ...[
-      [21,"C","危險動作對一般演員而言太 risky。"],
-      [22,"I","特技工作因實際需求 necessity 而逐漸出現。"],
-      [23,"F","當時沒有受過專業訓練的 professional 工作人員。"],
-      [24,"H","未受訓者只好在正式拍攝時首次 tried out 動作。"],
-      [25,"D","錯誤讓部分人付出生命代價，cost some their lives。"],
-      [26,"G","動作連續劇的需求促成 called for 專職特技人員。"],
-      [27,"J","牛仔的馬術讓他們找到特技人的新 career。"],
-      [28,"E","1960、70 年代 witnessed（見證）現代特技技術發展。"],
-      [29,"A","現今已 possible 不用真人也創造逼真場景。"],
-      [30,"B","真實特技帶來刺激感 sensation。"],
+      [21,"C","<b>解題關鍵：</b>前文說特技人做 dangerous acts，後面舉高處跳下、撞車與武器打鬥；空格要形容這些動作對一般演員「太危險」。risky（危險的）可接在 too 後。possible 是可能的、professional 是專業的，都沒有危險意思；demanding 雖可指費力，但不足以呼應受傷風險。"],
+      [22,"I","<b>解題關鍵：</b>下一句說演員自己拍危險場面而受傷，因此電影業「需要」別人代演，特技工作才慢慢出現。necessity 是「必要、需求」，out of necessity 表示出於需要。career 是職業結果，不是出現原因；sensation 是感受；cost 是代價，均接不起後文因果。"],
+      [23,"F","<b>解題關鍵：</b>後文說製作人隨便找夠瘋狂或走投無路的人，而且 These people were not trained，反推出當時沒有「專業的」工作人員。professional 修飾 crew members。fanatic 是狂熱者，possible 是可能的，current 是目前的，都不能表達受過訓練。"],
+      [24,"H","<b>解題關鍵：</b>These people were not trained，因此他們在 actual shooting 正式拍攝時才第一次試那些動作。try out 是「試做、試驗」，過去式 tried out 與 often 搭配。called for 是需要，point to 是指出，abide by 是遵守，都不能表達第一次做特技。"],
+      [25,"D","<b>解題關鍵：</b>which 指前面的 mistakes；後面接 some their lives，固定用法 cost someone one's life 是「使某人喪命」。cost 的過去式仍是 cost。means 是方法，soreness 是痠痛，witnessed 是見證，都無法形成此句的動詞與受詞結構。"],
+      [26,"G","<b>解題關鍵：</b>觀眾開始喜愛動作連續劇，需求增加，所以電影「需要」專職特技人員。call for 是「需要、要求」，過去式 called for 配合 developed。tried out 是試做，point to 是指出，make time 是撥時間，都不能說明需求帶來人力。"],
+      [27,"J","<b>解題關鍵：</b>許多牛仔有高超馬術，因此找到 as a stunt person 的新「職業」。career 是長期職涯，a new career as... 搭配完整。necessity 是必要性，sensation 是感覺，means 是方法；這些都不能指一份新工作。"],
+      [28,"E","<b>解題關鍵：</b>主詞 The 1960s and '70s 是年代，受詞是 technology 的發展；英文常用某年代 witnessed... 表示「那個年代見證了／出現了某發展」。witnessed 可把年代和事件連起來。possible、current 是形容詞；cost 放入會變成年代付出發展代價，語意不合。"],
+      [29,"A","<b>解題關鍵：</b>without using real stunt people 表示 CGI 能不用真人創造逼真場景，所以 it is now possible to... 是「現在有可能做到」。possible 可放在 be 後。professional、risky、demanding 雖也是形容詞，分別是專業、危險、費力，都無法接 to create 表達科技能力。"],
+      [30,"B","<b>解題關鍵：</b>and 連接 realism「真實感」與 thrilling ______，兩者都是觀眾從真人特技得到的感受。sensation 是「感受、刺激」，thrilling sensation 是刺激感。soreness 是痠痛，necessity 是必要性，cost 是代價，都不是作者所說真人特技吸引觀眾的優點。"],
     ].map(([no,answer,explain]) => q(no,"C2","文意選填","文意選填","題組",answer,`Choose the best answer for blank ${no}.`,napOptions,explain,{group:"G3"})),
 
     ...[
-      [31,"D","先交代盂蘭盆節源自中國鬼節並演變為團聚時刻，接續節期介紹。"],
-      [32,"A","迎魂火之後，掃墓祭祖與供品的內容銜接自然。"],
-      [33,"C","此段先說送祖靈離開，再接放水燈與祭品。"],
-      [34,"B","前文描述盆舞活動，B 說明這些活動常舉辦的場所。"],
+      [31,"D","<b>解題關鍵：</b>前句定義 Obon 是祭祀亡靈的日本節日，後句轉入節期與家人團聚；中間需補「祭祖節日如何成為團聚時刻」。<br>(A) 不適合：掃墓是節日期間的具體活動，放在開頭會太早進入細節。<br>(B) 不適合：Such festive activities 沒有前文活動可回指。<br>(C) 不適合：Obon concludes 是節日結束，放在開頭會打亂時間。<br>(D) 適合：先交代源自中國鬼節並演變成 family reunion，順接前後。"],
+      [32,"A","<b>解題關鍵：</b>本段按慶祝流程排列：先點 mukaebi 迎接祖靈，空格後再說在家中祭壇與寺廟供奉食物。<br>(A) 適合：掃墓、清墳和祭祖同屬迎接祖靈後的祭祀活動，銜接自然。<br>(B) 不適合：Such festive activities 應回指後段盆舞，而非迎魂火。<br>(C) 不適合：送祖靈離開是節慶結束，不能放在迎接之後立刻結束。<br>(D) 不適合：節日起源適合首段，會打斷此段儀式流程。"],
+      [33,"C","<b>解題關鍵：</b>上一段已說迎接祖靈，本段空格後的水燈與供品則要陪祖先回安息處，因此空格需先交代節慶結束與送靈。<br>(A) 不適合：掃墓是迎接後的祭祀，不足以引出「回去」。<br>(B) 不適合：活動場所在後面的盆舞內容才有回指對象。<br>(C) 適合：Obon concludes、okuribi see spirits off，和後句送祖先回去一致。<br>(D) 不適合：節日起源應在首段，不應插入送靈流程。"],
+      [34,"B","<b>解題關鍵：</b>空格前完整描述 bon-odori 的鼓、舞台、服裝和繞台舞蹈；空格後則補充盆舞從祭亡者演變成夏祭象徵。<br>(A) 不適合：掃墓祭祖是前段儀式，不是盆舞場所。<br>(B) 適合：Such festive activities 回指剛描述的盆舞，並補充常在公園、寺廟等公共場所舉行。<br>(C) 不適合：送靈火與前面的水燈更相連。<br>(D) 不適合：節日起源放此處會突然跳離盆舞主題。"],
     ].map(([no,answer,explain]) => q(no,"C3","篇章結構","篇章結構","題組",answer,`Choose the sentence that best fits blank ${no}.`,structureOptions,explain,{group:"G4"})),
 
-    q(35,"C5","圖文整合","閱讀測驗","題組","B","Which of the following pictures best represents the image of a typical Maasai warrior?",{A:"",B:"",C:"",D:""},"文中典型 Maasai 戰士披 shúkà，並持長矛與盾牌；圖 B 符合。",{group:"G5",image:"img/111/q35.png",imageAlt:"四幅人物圖：A 蹲姿持弓箭；B 披長布、持長矛與圓盾；C 裸上身、持短矛與長橢圓盾；D 裸上身、持細長矛。"}),
-    q(36,"C4","細節檢索","閱讀測驗","題組","A","What can we learn from the passage about the Maasai people?",{A:"They have been urged by governments to leave behind their traditions.",B:"They resist foreign influence because they were enslaved in the past.",C:"A boy has to kill a lion by himself before becoming an adult.",D:"A Maasai woman is usually good at beadwork and farming."},"文章明說肯亞與坦尚尼亞政府曾敦促他們採取現代生活方式，故 A 正確。",{group:"G5"}),
-    q(37,"C4","細節檢索","閱讀測驗","題組","C","Which of the following is true about Maasai clothing and beadwork?",{A:"Striped and patterned cloth is preferred by young adults.",B:"Young men cannot wear black until they become warriors.",C:"Colorful glass jewelry became popular after the 19th century.",D:"The color of the shúkà represented one’s importance in the tribe."},"十九世紀與歐洲人交易後，彩色玻璃珠取代天然材料，故 C。",{group:"G5"}),
-    q(38,"C4","篇章理解","閱讀測驗","題組","C","Why does the author quote Blixen’s comment at the end of the third paragraph?",{A:"To explain how Maasai warriors hunt for deer in the wild.",B:"To exemplify the types of weapons used by Maasai warriors.",C:"To emphasize that weapons are an inseparable part of a Maasai warrior’s outfit.",D:"To show the similarities between the behavior of a Maasai warrior and that of a male deer."},"引文把武器與裝飾比作雄鹿的角，強調它們是戰士形象不可分的一部分。",{group:"G5"}),
+    q(35,"C5","圖文整合","閱讀測驗","題組","B","Which of the following pictures best represents the image of a typical Maasai warrior?",{A:"",B:"",C:"",D:""},"<b>解題關鍵：</b>第三段給了三個外觀線索：shúkà 是包在身上的一大片布；戰士很少沒有 spear 與 shield；典型顏色是紅色。圖 B 同時畫出披布、長矛和盾牌，符合最多線索。A 多了弓箭且沒有披布；C、D 雖有矛，但服裝不像 wrapped fabric，D 也缺盾。圖像題不要只憑「像非洲戰士」，要逐項核對裝備。",{group:"G5",image:"img/111/q35.png",imageAlt:"四幅人物圖：A 蹲姿持弓箭；B 披長布、持長矛與圓盾；C 裸上身、持短矛與長橢圓盾；D 裸上身、持細長矛。"}),
+    q(36,"C4","細節檢索","閱讀測驗","題組","A","What can we learn from the passage about the Maasai people?",{A:"They have been urged by governments to leave behind their traditions.",B:"They resist foreign influence because they were enslaved in the past.",C:"A boy has to kill a lion by himself before becoming an adult.",D:"A Maasai woman is usually good at beadwork and farming."},"<b>解題關鍵：</b>第二段說肯亞與坦尚尼亞政府 urged 他們 adopt a more modern lifestyle。<br>(A) 適合：政府確實勸他們採現代生活，也就是放下部分傳統。<br>(B) 不適合：文中只說他們抵抗奴役，沒有說曾被奴役，也沒有建立「因此排外」的因果。<br>(C) 不適合：獵獅是 up until recently 取得 warrior status 的舊方式，不是現在每個男孩成年都必須做。<br>(D) 不適合：女性製作珠飾有證據，但 farming 完全沒提。<br>答案是直接符合原文的 A。",{group:"G5"}),
+    q(37,"C4","細節檢索","閱讀測驗","題組","C","Which of the following is true about Maasai clothing and beadwork?",{A:"Striped and patterned cloth is preferred by young adults.",B:"Young men cannot wear black until they become warriors.",C:"Colorful glass jewelry became popular after the 19th century.",D:"The color of the shúkà represented one’s importance in the tribe."},"<b>解題關鍵：</b>第四段說十九世紀與歐洲人交易後，天然珠飾材料被 colorful glass beads 取代。<br>(A) 不適合：偏好格紋、條紋、圖案布的是 women，選項偷換成 young adults。<br>(B) 不適合：年輕男子在割禮後穿黑色數月，並非成為戰士前禁止穿黑。<br>(C) 適合：十九世紀後彩色玻璃珠取代天然材料，製成的飾品因而普及。<br>(D) 不適合：顏色代表和平、土地、團結等意義，不代表族中地位。<br>要小心人物與意義被選項偷換。",{group:"G5"}),
+    q(38,"C4","篇章理解","閱讀測驗","題組","C","Why does the author quote Blixen’s comment at the end of the third paragraph?",{A:"To explain how Maasai warriors hunt for deer in the wild.",B:"To exemplify the types of weapons used by Maasai warriors.",C:"To emphasize that weapons are an inseparable part of a Maasai warrior’s outfit.",D:"To show the similarities between the behavior of a Maasai warrior and that of a male deer."},"<b>解題關鍵：</b>引文說 Maasai 的武器與裝飾就像雄鹿的角，是其形象與存在的一部分，重點在「不可分」。<br>(A) 不適合：stag 只用於比喻，文章沒說戰士獵鹿。<br>(B) 不適合：引文沒有列出矛、盾等武器種類，前句才有列舉。<br>(C) 適合：比喻強調武器是戰士穿著與身分不可分割的一部分。<br>(D) 不適合：比較的是裝備和鹿角的重要性，不是戰士與雄鹿的行為。<br>引用題要解讀比喻作用，而非只找共同出現的名詞。",{group:"G5"}),
 
-    q(39,"C4","細節檢索","閱讀測驗","題組","D","Which of the following aspects about hard hats is NOT discussed in the passage?",{A:"Their functions.",B:"Their appearances.",C:"Their materials.",D:"Their limitations."},"文章談功能、材質與外觀配件，未討論安全帽的限制。",{group:"G6"}),
-    q(40,"C4","資訊排序","閱讀測驗","題組","A","In what order did the following protective hats appear? a. fiberglass hats; b. hats with see-through shields; c. hats with canvas and leather; d. hats with tar over them",{A:"d → c → a → b",B:"c → d → b → a",C:"c → b → a → d",D:"d → c → b → a"},"依文中年代：煤焦油帽、帆布皮革帽、玻璃纖維帽、透明面罩配件，順序 d→c→a→b。",{group:"G6"}),
-    q(41,"C4","細節檢索","閱讀測驗","題組","B","According to the passage, which of the following statements is true about the hard hat?",{A:"Global sales have doubled every ten years.",B:"The inspiration came from the inventor’s wartime experience.",C:"It was standard equipment for construction workers in the 1920s.",D:"Different colors are used in different industries to signal the roles of people on site."},"Bullard 在第一次世界大戰見到金屬頭盔的救命效果，因而獲得發明靈感。",{group:"G6"}),
-    q(42,"C4","指涉判讀","閱讀測驗","題組","B","Which of the following words are used in the passage to refer to the hard hat? a. tool; b. code; c. device; d. helmet; e. accessory; f. headgear",{A:"a, b, d, e",B:"a, c, d, f",C:"c, d, e, f",D:"a, d, e, f"},"文中以 helmet、headgear、tool、device 指稱安全帽；code 與 accessory 並非同義指稱。",{group:"G6"}),
+    q(39,"C4","細節檢索","閱讀測驗","題組","D","Which of the following aspects about hard hats is NOT discussed in the passage?",{A:"Their functions.",B:"Their appearances.",C:"Their materials.",D:"Their limitations."},"<b>解題關鍵：</b>這是 NOT 題，需找全文沒有討論的安全帽面向。<br>(A) 有討論：首段說用來保護頭部免受落物傷害，這是 functions。<br>(B) 有討論：通風款、透明面罩、不同顏色都涉及 appearances。<br>(C) 有討論：文章列帆布、皮革、鋁、玻璃纖維與熱塑膠等 materials。<br>(D) 未討論：全文沒有說安全帽有哪些缺點、限制或不能防護的情況。<br>文章談工地危險不等於談安全帽本身的限制，因此答案是 D。",{group:"G6"}),
+    q(40,"C4","資訊排序","閱讀測驗","題組","A","In what order did the following protective hats appear? a. fiberglass hats; b. hats with see-through shields; c. hats with canvas and leather; d. hats with tar over them",{A:"d → c → a → b",B:"c → d → b → a",C:"c → b → a → d",D:"d → c → b → a"},"<b>解題關鍵：</b>依時間詞定位：戰前先有煤焦油帽 d；1919 年出現帆布皮革帽 c；後來材料演進到玻璃纖維 a；recently 才加透明面罩 b。<br>(A) 適合：d→c→a→b，完全符合年代。<br>(B) 不適合：把 c 放到 d 前，也把最近的 b 放到 a 前。<br>(C) 不適合：以 c 開頭，且把最早的 d 放最後。<br>(D) 不適合：前兩項正確，但把 b、a 的先後顛倒。<br>排序題應靠 Before the war、1919、evolving、Recently 作答。",{group:"G6"}),
+    q(41,"C4","細節檢索","閱讀測驗","題組","B","According to the passage, which of the following statements is true about the hard hat?",{A:"Global sales have doubled every ten years.",B:"The inspiration came from the inventor’s wartime experience.",C:"It was standard equipment for construction workers in the 1920s.",D:"Different colors are used in different industries to signal the roles of people on site."},"<b>解題關鍵：</b>第二段說 Bullard 在第一次世界大戰看見金屬頭盔救命，回國後才設計工地護頭裝置。<br>(A) 不適合：只有 2016 與 2025 銷售預測，沒說每十年倍增。<br>(B) 適合：發明靈感直接來自他的 wartime experience。<br>(C) 不適合：1931、1933 的大型工程才規定配戴，不能推成 1920 年代已是標準裝備。<br>(D) 不適合：顏色是在同一工地辨識不同職務，不是不同產業各有顏色。<br>時間與範圍都不能自行擴大。",{group:"G6"}),
+    q(42,"C4","指涉判讀","閱讀測驗","題組","B","Which of the following words are used in the passage to refer to the hard hat? a. tool; b. code; c. device; d. helmet; e. accessory; f. headgear",{A:"a, b, d, e",B:"a, c, d, f",C:"c, d, e, f",D:"a, d, e, f"},"<b>解題關鍵：</b>直接指安全帽本體的詞有 safety tool、head protection device、helmet、headgear，即 a、c、d、f。code 是顏色規則；accessory 是附加在帽上的配件。<br>(A) 不適合：含 code、accessory，漏 device、headgear。<br>(B) 適合：a、c、d、f 全是本體稱呼。<br>(C) 不適合：把 accessory 當帽子，且漏 tool。<br>(D) 不適合：同樣混入 accessory，漏 device。<br>指涉題要區分「安全帽」和「安全帽上的配件」。",{group:"G6"}),
 
-    q(43,"C4","主旨判讀","閱讀測驗","題組","D","What can we learn about zebrafish from the passage?",{A:"How they should be studied in labs.",B:"Where they derive their regenerative ability.",C:"Why they share humans’ genetic code.",D:"What they may offer in medical advancements."},"全文聚焦斑馬魚再生能力可能帶來的人類醫療應用，故 D。",{group:"G7"}),
-    q(44,"C4","細節檢索","閱讀測驗","題組","C","Which of the following statements is true regarding GABA in zebrafish?",{A:"Increasing GABA level facilitates neuron activities.",B:"There is a high level of GABA in the brain of zebrafish.",C:"Lowering GABA levels in the brain can stimulate retina regrowth.",D:"GABA contains chemical elements that trigger the growth of neurons."},"研究發現降低 GABA 濃度會觸發視網膜再生。",{group:"G7"}),
-    q(45,"C4","語境推義","閱讀測驗","題組","A","Which of the following is closest in meaning to “replicated” in the third paragraph?",{A:"Reproduced.",B:"Reassembled.",C:"Recycled.",D:"Restored."},"replicate 在此是重現同一再生過程，最接近 reproduced。",{group:"G7"}),
-    q(46,"C4","推論判讀","閱讀測驗","題組","D","According to the passage, which of the following is an opinion, but NOT a fact?",{A:"Humans and zebrafish have 70 percent of genes in common.",B:"Zebrafish can quickly recover vision after damage to the retina.",C:"Scientists are testing if the GABA theory works on mice as it does on zebrafish.",D:"Understanding regeneration in zebrafish may allow humans to regrow their organs."},"D 是對未來人類器官再生可能性的推測；其餘皆為文章陳述的研究事實。",{group:"G7"}),
+    q(43,"C4","主旨判讀","閱讀測驗","題組","D","What can we learn about zebrafish from the passage?",{A:"How they should be studied in labs.",B:"Where they derive their regenerative ability.",C:"Why they share humans’ genetic code.",D:"What they may offer in medical advancements."},"<b>解題關鍵：</b>全文從斑馬魚再生器官，談到與人類基因、視網膜相似，最後指向治療失明等可能醫療應用。<br>(A) 不適合：文章沒有教實驗室應如何飼養或研究斑馬魚。<br>(B) 不適合：科學家正在探索再生機制，尚未找出能力究竟源自哪裡。<br>(C) 不適合：只提供共享基因比例，沒有解釋為何共享。<br>(D) 適合：各段共同說明斑馬魚可能帶來的 medical advancements。<br>主旨不能只抓 GABA 一個研究細節。",{group:"G7"}),
+    q(44,"C4","細節檢索","閱讀測驗","題組","C","Which of the following statements is true regarding GABA in zebrafish?",{A:"Increasing GABA level facilitates neuron activities.",B:"There is a high level of GABA in the brain of zebrafish.",C:"Lowering GABA levels in the brain can stimulate retina regrowth.",D:"GABA contains chemical elements that trigger the growth of neurons."},"<b>解題關鍵：</b>第四段直接對比：降低 GABA 會 trigger retina regeneration；高濃度則 suppress 再生。<br>(A) 不適合：GABA 會降低神經元活動，不是提高濃度就促進活動。<br>(B) 不適合：文章沒有說斑馬魚腦中平常維持高 GABA。<br>(C) 適合：lowering GABA levels 能刺激視網膜重新生長。<br>(D) 不適合：GABA 是化學傳訊物，文中沒說它含有會直接促進神經生長的元素。<br>答案要依高低濃度造成的相反效果判斷。",{group:"G7"}),
+    q(45,"C4","語境推義","閱讀測驗","題組","A","Which of the following is closest in meaning to “replicated” in the third paragraph?",{A:"Reproduced.",B:"Reassembled.",C:"Recycled.",D:"Restored."},"<b>解題關鍵：</b>If the process can be replicated in humans 指「若斑馬魚的再生過程能在人類身上重現」，受詞是 process。<br>(A) 適合：reproduced 有複製、重現相同過程之意。<br>(B) 不適合：reassembled 是把拆散的零件重新組裝。<br>(C) 不適合：recycled 是回收材料再利用。<br>(D) 不適合：restored 是把受損物恢復原狀；雖和視力恢復相關，但不是複製一套生物過程。<br>常見誤選 D 是只看結果，忽略 replicated 修飾的是 process。",{group:"G7"}),
+    q(46,"C4","推論判讀","閱讀測驗","題組","D","According to the passage, which of the following is an opinion, but NOT a fact?",{A:"Humans and zebrafish have 70 percent of genes in common.",B:"Zebrafish can quickly recover vision after damage to the retina.",C:"Scientists are testing if the GABA theory works on mice as it does on zebrafish.",D:"Understanding regeneration in zebrafish may allow humans to regrow their organs."},"<b>解題關鍵：</b>找 may、hope、if 等尚未證實語氣；D 是未來可能性，其他選項都是已觀察或正在進行的研究事實。<br>(A) 是事實：70% 是文章引用的研究數據。<br>(B) 是事實：受損後三到四週恢復視力是觀察結果。<br>(C) 是事實：團隊已開始在老鼠身上測試；即使尚未成功，「正在測試」仍可確認。<br>(D) 是意見／期待：人類未來也許能再生器官，尚未被證實。<br>因此題目要選 D。",{group:"G7"}),
 
-    q(49,"C5","多文本整合","混合題","題組","C,D","請從下列 (A) 到 (F) 中，選出對 Yusra Mardini 和 Popole Misenga 都正確的選項。",{A:"Being an Olympic medalist.",B:"Growing up in an orphanage.",C:"Joining the Olympic Games more than once.",D:"Leaving his/her hometown because of war.",E:"Showing talent in sports after going to a foreign country.",F:"Traveling through several countries before securing protection."},"兩人都在 2016、2021 參加奧運，也都因戰爭離開家鄉；故選 C、D。",{group:"G8",multi:true}),
+    q(49,"C5","多文本整合","混合題","題組","C,D","請從下列 (A) 到 (F) 中，選出對 Yusra Mardini 和 Popole Misenga 都正確的選項。",{A:"Being an Olympic medalist.",B:"Growing up in an orphanage.",C:"Joining the Olympic Games more than once.",D:"Leaving his/her hometown because of war.",E:"Showing talent in sports after going to a foreign country.",F:"Traveling through several countries before securing protection."},"<b>解題關鍵：</b>題目問「兩人共同」，每個選項都要在兩篇找到證據。<br>(A) 不符合：只說參賽，沒說兩人得牌。<br>(B) 不符合：Popole 住過兒童中心，Yusra 沒有。<br>(C) 符合：兩人都參加 2016 與 2021 奧運。<br>(D) 符合：兩人都因內戰離開家鄉。<br>(E) 不符合：兩人在出國前就已練游泳／柔道。<br>(F) 不符合：Yusra 經多國逃難；Popole 的敘述沒有跨數國。故選 C、D。",{group:"G8",multi:true}),
   ];
 
   window.BANK.push({
@@ -1997,65 +1997,65 @@ window.BANK = window.BANK || [];
   const R = (no, answer, group, stem, options, explain, tag = "細節檢索", extra = {}) => ({ no, cat: extra.cat || "C4", tags: [tag], lang: "題組", textType: "閱讀測驗", answer, group, stem, options, explain, ...extra });
 
   const questions = [
-    V(1, "C", "Tom is really a naughty boy. He likes to ______ and play jokes on his younger sister when their parents are not around.", { A: "alert", B: "spare", C: "tease", D: "oppose" }, "愛惡作劇的孩子會戲弄妹妹，tease 符合語境。"),
-    V(2, "C", "Elderly shoppers in this store are advised to take the elevator rather than the ______, which may move too fast for them to keep their balance.", { A: "airway", B: "operator", C: "escalator", D: "instrument" }, "會持續移動並可能讓長者失去平衡的是 escalator。"),
-    V(3, "A", "Upon hearing its master’s call, the dog wagged its tail, and followed her out of the room ______.", { A: "obediently", B: "apparently", C: "logically", D: "thoroughly" }, "狗聽到主人呼喚後跟隨離開，動作是 obediently。"),
-    V(4, "A", "Since many of our house plants are from humid jungle environments, they need ______ air to keep them green and healthy.", { A: "moist", B: "stale", C: "crisp", D: "fertile" }, "來自潮溼叢林的植物需要 moist air。"),
-    V(5, "D", "The skydiver managed to land safely after jumping out of the aircraft, even though her ______ failed to open in midair.", { A: "glimpse", B: "latitude", C: "segment", D: "parachute" }, "跳傘者在空中應打開的是 parachute。"),
-    V(6, "D", "The invention of the steam engine, which was used to power heavy machines, brought about a ______ change in society.", { A: "persuasive", B: "harmonious", C: "conventional", D: "revolutionary" }, "蒸汽機帶來社會革命性改變，選 revolutionary。"),
-    V(7, "B", "To encourage classroom ______, the teacher divided the class into groups and asked them to solve a problem together with their partners.", { A: "operation", B: "interaction", C: "adjustment", D: "explanation" }, "分組合作旨在促進課堂互動 interaction。"),
-    V(8, "D", "Lisa ______ onto the ground and injured her ankle while she was playing basketball yesterday.", { A: "buried", B: "punched", C: "scattered", D: "tumbled" }, "跌倒在地並扭傷腳踝，tumbled 符合語意。"),
-    V(9, "A", "Hundreds of residents received free testing ______ from the city government to find out if their water contained any harmful chemicals.", { A: "kits", B: "trials", C: "zones", D: "proofs" }, "檢測水質所領取的是 testing kits。"),
-    V(10, "C", "The 2011 Nobel Peace Prize was awarded ______ to three women for the efforts they made in fighting for women’s rights.", { A: "actively", B: "earnestly", C: "jointly", D: "naturally" }, "獎項共同頒給三人，jointly 最恰當。"),
-    V(11, "B", "The company is ______ and making great profits under the wise leadership of the chief executive officer.", { A: "applauding", B: "flourishing", C: "circulating", D: "exceeding" }, "公司獲利豐厚，表示正蓬勃發展 flourishing。"),
-    V(12, "A", "It is absolutely ______ to waste your money on an expensive car when you cannot even get a driver’s license.", { A: "absurd", B: "cautious", C: "vigorous", D: "obstinate" }, "沒有駕照卻買昂貴汽車是荒謬的 absurd。"),
-    V(13, "A", "The problem of illegal drug use is very complex and cannot be traced to merely one ______ reason.", { A: "singular", B: "countable", C: "favorable", D: "defensive" }, "複雜問題不能只歸因於單一原因，singular 符合語意。"),
-    V(14, "C", "The non-profit organization has ______ $1 million over five years to finance the construction of the medical center.", { A: "equipped", B: "resolved", C: "committed", D: "associated" }, "commit money to a project 表示承諾投入資金。"),
-    V(15, "B", "One week after the typhoon, some bridges were finally opened and bus service ______ in the country’s most severely damaged areas.", { A: "departed", B: "resumed", C: "transported", D: "corresponded" }, "橋梁重開後公車服務恢復，選 resumed。"),
+    V(1, "C", "Tom is really a naughty boy. He likes to ______ and play jokes on his younger sister when their parents are not around.", { A: "alert", B: "spare", C: "tease", D: "oppose" }, "<b>解題關鍵：</b>naughty 與 play jokes on 都指出 Tom 會捉弄妹妹。<br>(A) alert：警告；不是惡作劇。<br>(B) spare：饒過；與捉弄相反。<br>(C) tease：戲弄，和 play jokes on 同義。<br>(D) oppose：反對；要有反對的主張或對象。<br>完整句意：父母不在時，他喜歡戲弄妹妹、對她惡作劇。"),
+    V(2, "C", "Elderly shoppers in this store are advised to take the elevator rather than the ______, which may move too fast for them to keep their balance.", { A: "airway", B: "operator", C: "escalator", D: "instrument" }, "<b>解題關鍵：</b>要和 elevator 比較，而且會移動得太快使長者站不穩，答案是手扶梯。<br>(A) airway：呼吸道／航線。<br>(B) operator：操作員。<br>(C) escalator：手扶梯，符合。<br>(D) instrument：儀器。<br>後三個錯項中，只有 escalator 是商店內可載人移動的設備。"),
+    V(3, "A", "Upon hearing its master’s call, the dog wagged its tail, and followed her out of the room ______.", { A: "obediently", B: "apparently", C: "logically", D: "thoroughly" }, "<b>解題關鍵：</b>狗聽到主人叫就搖尾巴並跟出去，動作表現「服從」。<br>(A) obediently：順從地，符合。<br>(B) apparently：顯然地，只表示看來如此。<br>(C) logically：合乎邏輯地，不形容狗聽命。<br>(D) thoroughly：徹底地，不能自然修飾 follow。<br>完整句意：狗聽見主人呼喚，便乖乖跟她離開。"),
+    V(4, "A", "Since many of our house plants are from humid jungle environments, they need ______ air to keep them green and healthy.", { A: "moist", B: "stale", C: "crisp", D: "fertile" }, "<b>解題關鍵：</b>Since 說明原因：植物來自 humid 潮溼叢林，所以需要含水氣的空氣。<br>(A) moist：潮溼的，呼應 humid。<br>(B) stale：不新鮮的。<br>(C) crisp：清新乾爽的，方向相反。<br>(D) fertile：肥沃的，通常形容土壤而非空氣。<br>把答案放回去：這些植物需要潮溼空氣才能健康。"),
+    V(5, "D", "The skydiver managed to land safely after jumping out of the aircraft, even though her ______ failed to open in midair.", { A: "glimpse", B: "latitude", C: "segment", D: "parachute" }, "<b>解題關鍵：</b>skydiver 從飛機跳下，正常應在 midair 打開降落傘。<br>(A) glimpse：一瞥，不能打開。<br>(B) latitude：緯度。<br>(C) segment：部分、片段。<br>(D) parachute：降落傘，open in midair 搭配合理。<br>even though 表示意外：雖然降落傘沒開，她仍安全落地。"),
+    V(6, "D", "The invention of the steam engine, which was used to power heavy machines, brought about a ______ change in society.", { A: "persuasive", B: "harmonious", C: "conventional", D: "revolutionary" }, "<b>解題關鍵：</b>蒸汽機能驅動重型機械，帶來社會巨大而根本的改變。<br>(A) persuasive：有說服力的，形容論點。<br>(B) harmonious：和諧的，沒有和諧線索。<br>(C) conventional：傳統的，與新發明方向相反。<br>(D) revolutionary：革命性的，符合重大變革。"),
+    V(7, "B", "To encourage classroom ______, the teacher divided the class into groups and asked them to solve a problem together with their partners.", { A: "operation", B: "interaction", C: "adjustment", D: "explanation" }, "<b>解題關鍵：</b>分組並和 partners 一起解題，是為了讓學生彼此交流。<br>(A) operation：操作／運作。<br>(B) interaction：互動，符合合作情境。<br>(C) adjustment：調整，未說要改變什麼。<br>(D) explanation：解釋，雖可能發生，但分組的整體目的較廣，是互動。"),
+    V(8, "D", "Lisa ______ onto the ground and injured her ankle while she was playing basketball yesterday.", { A: "buried", B: "punched", C: "scattered", D: "tumbled" }, "<b>解題關鍵：</b>onto the ground 加上 injured her ankle，表示 Lisa 打球時跌倒。<br>(A) buried：埋葬，需接受詞。<br>(B) punched：揮拳打，也需有被打對象。<br>(C) scattered：使散開。<br>(D) tumbled：跌倒、翻滾，tumbled onto the ground 搭配完整。"),
+    V(9, "A", "Hundreds of residents received free testing ______ from the city government to find out if their water contained any harmful chemicals.", { A: "kits", B: "trials", C: "zones", D: "proofs" }, "<b>解題關鍵：</b>居民「領取」物品來檢測水中化學物，所以是檢測套組。<br>(A) kits：成套工具，testing kits 正確。<br>(B) trials：試驗，不是可領取的用品。<br>(C) zones：區域。<br>(D) proofs：證明，不能用來實際驗水。<br>完整句意：市府免費發檢測套組供居民驗水。"),
+    V(10, "C", "The 2011 Nobel Peace Prize was awarded ______ to three women for the efforts they made in fighting for women’s rights.", { A: "actively", B: "earnestly", C: "jointly", D: "naturally" }, "<b>解題關鍵：</b>獎項頒給 three women，不是一人獨得，因此是「共同獲獎」。<br>(A) actively：積極地，不能說積極地頒給。<br>(B) earnestly：認真地。<br>(C) jointly：共同地，符合三人共享。<br>(D) naturally：自然地，沒有因果必然線索。"),
+    V(11, "B", "The company is ______ and making great profits under the wise leadership of the chief executive officer.", { A: "applauding", B: "flourishing", C: "circulating", D: "exceeding" }, "<b>解題關鍵：</b>making great profits 是公司發展良好的直接證據。<br>(A) applauding：鼓掌，主詞通常是人。<br>(B) flourishing：蓬勃發展，符合獲利。<br>(C) circulating：流通，不能單獨形容公司成功。<br>(D) exceeding：超過，後面要接被超過的數值或對象。"),
+    V(12, "A", "It is absolutely ______ to waste your money on an expensive car when you cannot even get a driver’s license.", { A: "absurd", B: "cautious", C: "vigorous", D: "obstinate" }, "<b>解題關鍵：</b>連駕照都拿不到卻買昂貴車，前後不合理。<br>(A) absurd：荒謬的，符合。<br>(B) cautious：謹慎的，買不能開的車並非謹慎。<br>(C) vigorous：精力充沛的，常形容人或活動。<br>(D) obstinate：固執的，要有不聽勸的線索；本句重點是不合理。"),
+    V(13, "A", "The problem of illegal drug use is very complex and cannot be traced to merely one ______ reason.", { A: "singular", B: "countable", C: "favorable", D: "defensive" }, "<b>解題關鍵：</b>very complex 與 merely one 對比：複雜問題不能只歸因於單一原因。<br>(A) singular：單一的，符合。<br>(B) countable：可數的，是文法分類而非原因數量。<br>(C) favorable：有利的。<br>(D) defensive：防禦性的。<br>one 已提示數量，但仍需 singular 強調唯一。"),
+    V(14, "C", "The non-profit organization has ______ $1 million over five years to finance the construction of the medical center.", { A: "equipped", B: "resolved", C: "committed", D: "associated" }, "<b>解題關鍵：</b>組織把一百萬美元投入醫療中心工程；commit money to 是「承諾投入資金」。<br>(A) equipped：配備，常用 equip A with B。<br>(B) resolved：解決／下定決心，不能直接接金額。<br>(C) committed：承諾投入，符合。<br>(D) associated：聯想、關聯，不能表示撥款。"),
+    V(15, "B", "One week after the typhoon, some bridges were finally opened and bus service ______ in the country’s most severely damaged areas.", { A: "departed", B: "resumed", C: "transported", D: "corresponded" }, "<b>解題關鍵：</b>颱風後橋梁 finally opened，交通因此重新開始。<br>(A) departed：出發，通常主詞是車或人。<br>(B) resumed：恢復，bus service resumed 正確。<br>(C) transported：運送，需接受詞且通常用被動。<br>(D) corresponded：符合／通信，與服務重啟無關。"),
 
-    C(16, "D", "G1", "A visit to a major European city just would not be the same ______ encountering them.", { A: "as", B: "for", C: "though", D: "without" }, "少了遇見街鴿，城市之旅就不一樣；without 符合句意。", "邏輯關係"),
-    C(17, "C", "G1", "In Barcelona, however, the birds are now threatening to ______ the city’s historic center.", { A: "set up", B: "hang on", C: "take over", D: "break down" }, "鴿群大量占據歷史中心，take over 最恰當。"),
-    C(18, "B", "G1", "The city council originally proposed ______ the pigeon population by gathering the birds and shooting them.", { A: "counting", B: "reducing", C: "displaying", D: "maintaining" }, "捕捉並射殺的目的在減少族群，選 reducing。"),
-    C(19, "D", "G1", "The government was finally persuaded to consider another ______ effective method: giving the pigeons birth control.", { A: "nearly", B: "shortly", C: "precisely", D: "similarly" }, "避孕與撲殺同樣能降低族群，故為 similarly effective。"),
-    C(20, "B", "G1", "The pills were placed in 40 bird feeders ______ throughout the city.", { A: "installing", B: "installed", C: "to install", D: "having installed" }, "feeders 與 install 是被動關係，用過去分詞 installed 修飾。", "時態語意"),
-    C(21, "C", "G2", "The odds of being hit by lightning are 1 in 3,000, ______ the probability of being struck seven different times.", { A: "if it isn’t", B: "as you can see", C: "not to mention", D: "with regard to" }, "一次已罕見，更不用說七次，not to mention 表遞進。", "轉承語"),
-    C(22, "C", "G2", "Over his 36-year career, Sullivan was struck by lightning seven times—and ______ each shock!", { A: "piloted", B: "rejected", C: "survived", D: "tracked" }, "他遭雷擊七次仍活著，survived each shock。"),
-    C(23, "A", "G2", "But after strike four, Sullivan became ______ death and took precautions during lightning strikes.", { A: "fearful of", B: "critical of", C: "doubtful about", D: "positive about" }, "四次雷擊後他開始畏懼死亡，fearful of death。"),
-    C(24, "A", "G2", "Sullivan, while surveying a campground, felt that a cloud was ______ him.", { A: "coming after", B: "getting over", C: "holding on to", D: "watching out for" }, "雲似乎追著他而來，coming after him 符合語意。"),
-    C(25, "D", "G2", "“If he was, the first bolt ______ enough.”", { A: "was", B: "had been", C: "would be", D: "would have been" }, "這是與過去事實相反的假設結果，用 would have been。", "時態語意"),
-    C(26, "A", "G3", "Some mountain ranges of South America, Africa, and Indonesia are also ______ glaciers and ice sheets.", { A: "home to", B: "covers of", C: "roofs over", D: "room for" }, "be home to 表示是冰河與冰原的所在地。"),
-    C(27, "C", "G3", "Rising temperatures are posing an ______ threat to the last tropical glaciers in Indonesia’s Papua region.", { A: "occasional", B: "elaborate", C: "immediate", D: "offensive" }, "冰河預計十年內消失，威脅是迫在眉睫的 immediate。"),
-    C(28, "C", "G3", "______ already shrunk by 85% to a mere 0.5 square kilometers, Papua’s glaciers will completely disappear within a decade.", { A: "Have", B: "Had", C: "Having", D: "Having been" }, "glaciers 主動 shrink，完成式分詞構句用 Having shrunk。", "時態語意"),
-    C(29, "A", "G3", "The disappearance of the glaciers will also leave a significant ______ impact.", { A: "cultural", B: "moral", C: "political", D: "environmental" }, "下文說冰河是原住民神聖象徵，故影響屬文化層面。"),
-    C(30, "D", "G3", "Papua’s glaciers are only the “first to go” if greenhouse gases are ______ and temperatures continue rising.", { A: "kept balanced", B: "made released", C: "seen dismissed", D: "left unchecked" }, "若溫室氣體未受控制，冰河將消失，left unchecked 符合語意。"),
+    C(16, "D", "G1", "A visit to a major European city just would not be the same ______ encountering them.", { A: "as", B: "for", C: "though", D: "without" }, "<b>解題關鍵：</b>them 指街鴿；作者說歐洲城市之旅若「沒有遇到牠們」就不一樣。<br>(A) as：如同；(B) for：為了／因為；(C) though：雖然，都接不起 encountering 的條件。<br>(D) without：沒有，without + V-ing 正確。", "邏輯關係"),
+    C(17, "C", "G1", "In Barcelona, however, the birds are now threatening to ______ the city’s historic center.", { A: "set up", B: "hang on", C: "take over", D: "break down" }, "<b>解題關鍵：</b>however 後談鴿子數量成為問題，威脅要「占據」市中心。<br>(A) set up：建立；(B) hang on：撐住；(C) take over：接管、占據，符合；(D) break down：故障、分解。鴿群不是建立或破壞一座中心，而是大量占滿它。"),
+    C(18, "B", "G1", "The city council originally proposed ______ the pigeon population by gathering the birds and shooting them.", { A: "counting", B: "reducing", C: "displaying", D: "maintaining" }, "<b>解題關鍵：</b>gathering and shooting 會使鴿子變少，所以目的是 reducing population。<br>(A) counting：計算，不需射殺。<br>(B) reducing：減少，符合。<br>(C) displaying：展示。<br>(D) maintaining：維持，和射殺造成減少相反。"),
+    C(19, "D", "G1", "The government was finally persuaded to consider another ______ effective method: giving the pigeons birth control.", { A: "nearly", B: "shortly", C: "precisely", D: "similarly" }, "<b>解題關鍵：</b>another method 是用避孕取代射殺，兩者都能降低族群，因此是「同樣有效」。<br>(A) nearly：幾乎；(B) shortly：不久地；(C) precisely：精確地；(D) similarly：相似地、同樣地，similarly effective 符合比較。"),
+    C(20, "B", "G1", "The pills were placed in 40 bird feeders ______ throughout the city.", { A: "installing", B: "installed", C: "to install", D: "having installed" }, "<b>解題關鍵：</b>feeders 是「被安裝」在城市各處，完整意思是 feeders which were installed，省略後用過去分詞 installed。<br>(A) installing 表主動，彷彿餵食器去安裝；(B) installed 正確；(C) to install 表目的／未來；(D) having installed 也表主動完成。", "時態語意"),
+    C(21, "C", "G2", "The odds of being hit by lightning are 1 in 3,000, ______ the probability of being struck seven different times.", { A: "if it isn’t", B: "as you can see", C: "not to mention", D: "with regard to" }, "<b>解題關鍵：</b>被雷擊一次已只有三千分之一，七次更難想像。<br>(A) if it isn't：如果不是；(B) as you can see：如你所見；(C) not to mention：更不用說，符合由少到更誇張；(D) with regard to：關於，沒有遞進語氣。", "轉承語"),
+    C(22, "C", "G2", "Over his 36-year career, Sullivan was struck by lightning seven times—and ______ each shock!", { A: "piloted", B: "rejected", C: "survived", D: "tracked" }, "<b>解題關鍵：</b>他被雷擊七次還能有 36 年職涯，表示每次都活下來。<br>(A) piloted：駕駛；(B) rejected：拒絕；(C) survived：從……倖存，survived each shock 正確；(D) tracked：追蹤。感嘆號也強調這個驚人結果。"),
+    C(23, "A", "G2", "But after strike four, Sullivan became ______ death and took precautions during lightning strikes.", { A: "fearful of", B: "critical of", C: "doubtful about", D: "positive about" }, "<b>解題關鍵：</b>雷擊四次後他開始採取 precautions 防範，表示害怕死亡。<br>(A) fearful of：害怕，符合。<br>(B) critical of：批評；(C) doubtful about：懷疑；(D) positive about：樂觀看待。後三者都不能自然解釋他為何加強防備。"),
+    C(24, "A", "G2", "Sullivan, while surveying a campground, felt that a cloud was ______ him.", { A: "coming after", B: "getting over", C: "holding on to", D: "watching out for" }, "<b>解題關鍵：</b>故事說他看到雲跟著移動，像在追他。<br>(A) coming after：追趕，符合。<br>(B) getting over：克服；(C) holding on to：緊抓；(D) watching out for：小心提防。雲不會克服、抓住或保護他，coming after 才有威脅感。"),
+    C(25, "D", "G2", "“If he was, the first bolt ______ enough.”", { A: "was", B: "had been", C: "would be", D: "would have been" }, "<b>解題關鍵：</b>前文假設神真的想懲罰 Sullivan，但事實上雷第一次沒有殺死他。這是和「過去事實相反」的假設，結果用 would have + 過去分詞。<br>(A) was、(B) had been、(C) would be 都少了過去未實現結果；(D) would have been 正確。", "時態語意"),
+    C(26, "A", "G3", "Some mountain ranges of South America, Africa, and Indonesia are also ______ glaciers and ice sheets.", { A: "home to", B: "covers of", C: "roofs over", D: "room for" }, "<b>解題關鍵：</b>句意是這些山脈也是冰河所在地。<br>(A) be home to：是……的所在地，正確。<br>(B) covers of、(C) roofs over 都不是此意的自然搭配。<br>(D) room for 是「有容納空間」，需說 have room for，不能接在 are 後。"),
+    C(27, "C", "G3", "Rising temperatures are posing an ______ threat to the last tropical glaciers in Indonesia’s Papua region.", { A: "occasional", B: "elaborate", C: "immediate", D: "offensive" }, "<b>解題關鍵：</b>後句說冰河十年內會消失，威脅已迫在眼前。<br>(A) occasional：偶爾的；(B) elaborate：精巧複雜的；(C) immediate：立即、迫切的，符合；(D) offensive：冒犯的／攻擊性的。只有 C 能形容時間急迫。"),
+    C(28, "C", "G3", "______ already shrunk by 85% to a mere 0.5 square kilometers, Papua’s glaciers will completely disappear within a decade.", { A: "Have", B: "Had", C: "Having", D: "Having been" }, "<b>解題關鍵：</b>冰河「自己縮小」85%，是主動，且縮小先於將來消失，所以用 Having shrunk 表示「已經縮小之後」。<br>(A) Have、(B) Had 會形成完整動詞，卻缺主詞；(C) Having 正確；(D) Having been shrunk 是被動，彷彿有人把冰河縮小。", "時態語意"),
+    C(29, "A", "G3", "The disappearance of the glaciers will also leave a significant ______ impact.", { A: "cultural", B: "moral", C: "political", D: "environmental" }, "<b>解題關鍵：</b>下一句說冰河是當地原住民的 sacred symbol，消失會影響信仰與傳統，因此是文化影響。<br>(A) cultural：文化的，符合。<br>(B) moral：道德的；(C) political：政治的；(D) environmental：環境的雖看似合理，但本段線索特別談文化象徵。"),
+    C(30, "D", "G3", "Papua’s glaciers are only the “first to go” if greenhouse gases are ______ and temperatures continue rising.", { A: "kept balanced", B: "made released", C: "seen dismissed", D: "left unchecked" }, "<b>解題關鍵：</b>if 後列出冰河繼續消失的條件：溫室氣體不受管制、氣溫持續上升。<br>(A) kept balanced：保持平衡，會減少危機。<br>(B) made released、(C) seen dismissed 都是錯誤搭配。<br>(D) left unchecked：任其不受控制，符合。"),
 
-    F(31, "J", "Research shows that ______ amounts of exercise—even just 15 minutes a day—helps ease depression.", "15 分鐘即有幫助，表示適量、少量的 modest amounts。"),
-    F(32, "G", "You don’t have to be a fitness ______ to do it.", "fitness fanatic 指對健身極度熱衷的人。"),
-    F(33, "F", "Make “start slow and have fun” a motto to ______.", "abide by a motto 表示遵循座右銘。"),
-    F(34, "H", "In fact, ______ health studies prove that exercise doesn’t have to hurt to be effective.", "current health studies 指目前的健康研究。"),
-    F(35, "D", "You might ______ that if working out doesn’t give you pain, it isn’t working.", "argue 後可接 that 子句，表示有人可能主張此觀點。"),
-    F(36, "E", "According to fitness trainers, physically ______ exercises may make you breathe heavily.", "會讓人喘氣、肌肉痠痛的是 physically demanding exercises。"),
-    F(37, "C", "In fact, if it is, it may ______ an injury or muscle strain.", "疼痛可能指向受傷或拉傷，point to 符合語意。"),
-    F(38, "B", "Many great forms of exercise get results without the ______ or discomfort some people associate with exercise.", "與 discomfort 並列的是 soreness。"),
-    F(39, "A", "Even short periods of low-impact exercise serve as a powerful ______ to improve your health.", "a means to do something 表示達成目標的方法。"),
-    F(40, "I", "No matter how busy you are, try to ______ for exercise every day.", "make time for exercise 表示撥出時間運動。"),
+    F(31, "J", "Research shows that ______ amounts of exercise—even just 15 minutes a day—helps ease depression.", "<b>解題關鍵：</b>破折號後 even just 15 minutes 解釋運動量不必大，因此選 modest「不多的、適量的」。demanding 是費力的，和短時間不一定費力不同；current 修飾研究；soreness、means 是名詞但不能表示數量。modest amounts of exercise 是自然搭配。"),
+    F(32, "G", "You don’t have to be a fitness ______ to do it.", "<b>解題關鍵：</b>You don't have to 表示不必是非常熱愛健身的人也能運動。fitness fanatic 是「健身狂熱者」，fanatic 可指對某事極度投入的人。means 是方法，soreness 是痠痛；current、modest 是形容詞，均不能放在 a fitness 後指一種人。"),
+    F(33, "F", "Make “start slow and have fun” a motto to ______.", "<b>解題關鍵：</b>motto 是座右銘，應該「遵守、奉行」。abide by 是遵守，motto to abide by 搭配完整。argue 是主張，point to 是指向，make time 是撥時間；它們都不能表達照著原則行動。注意 abide 一定要和 by 一起使用。"),
+    F(34, "H", "In fact, ______ health studies prove that exercise doesn’t have to hurt to be effective.", "<b>解題關鍵：</b>空格修飾 health studies，需要形容詞；句意是「目前的健康研究」證明運動不必痛才有效。current 正確。modest 通常形容數量；demanding 形容費力的活動；其餘多為名詞或動詞，詞性也不合。"),
+    F(35, "D", "You might ______ that if working out doesn’t give you pain, it isn’t working.", "<b>解題關鍵：</b>空格後接 that 子句，內容是一個人可能提出的看法：「不痛就沒效」。argue that 是「主張……」，正確。point to 後接名詞，abide by 是遵守，make time 後接 for；這些搭配都不能直接帶 that 子句。"),
+    F(36, "E", "According to fitness trainers, physically ______ exercises may make you breathe heavily.", "<b>解題關鍵：</b>會讓人喘得很厲害的運動，在身體上很「費力」。physically demanding 是固定而自然的說法。modest 是適量、不大的，和 heavily 線索不合；current 是目前的；soreness 是名詞，不能直接修飾 exercises。"),
+    F(37, "C", "In fact, if it is, it may ______ an injury or muscle strain.", "<b>解題關鍵：</b>it 指前句的 pain；疼痛可能「表示」受傷或肌肉拉傷。point to 是「顯示、指向」，正確。argue 是提出論點，abide by 是遵守，make time 是騰出時間，都不能說明疼痛是傷害的警訊。"),
+    F(38, "B", "Many great forms of exercise get results without the ______ or discomfort some people associate with exercise.", "<b>解題關鍵：</b>or 連接意思相近的名詞，discomfort 是不舒服，空格應是運動後的「痠痛」soreness。means、fanatic 也可作名詞，但分別是方法、狂熱者，語意不合；demanding 是形容詞，詞性不合。"),
+    F(39, "A", "Even short periods of low-impact exercise serve as a powerful ______ to improve your health.", "<b>解題關鍵：</b>serve as a... 後要名詞，後面的 to improve 表示用途；a means to do 是「做某事的方法」。因此 means 正確。soreness 是痠痛，fanatic 是狂熱者；current、modest 是形容詞，不能成為改善健康的方法。"),
+    F(40, "I", "No matter how busy you are, try to ______ for exercise every day.", "<b>解題關鍵：</b>No matter how busy 說即使忙也要「撥出時間」。make time for 是固定搭配，後面正好已有 for exercise。abide by 是遵守，point to 是指出，argue 是主張；若放入都不能和 for exercise 組成合理意思。"),
 
-    R(41, "B", "G5", "What is the purpose of this passage?", { A: "To argue for the benefits of nopales.", B: "To introduce a new source of energy.", C: "To predict the future agriculture policy of Mexico.", D: "To change people’s ideas about energy consumption." }, "文章介紹利用仙人掌外皮製造生質能源的新方案。", "主旨判讀"),
-    R(42, "D", "G5", "Which of the following is NOT mentioned as a function of the prickly pear?", { A: "For treating illnesses.", B: "For personal hygiene.", C: "For food and beverage.", D: "For gardening and landscaping." }, "文中提到食用、飲用、藥品與洗髮精，未提園藝造景。"),
-    R(43, "D", "G5", "Which of the following statements about the prickly pear cactus is true?", { A: "Its soft inner part is often discarded.", B: "It was not discovered until the modern era.", C: "It turns into 200,000 tons of waste in Mexico each year.", D: "It appears in a prominent place on Mexico’s national flag." }, "首段明說仙人掌占據墨西哥國旗的重要位置。"),
-    R(44, "B", "G5", "What advantage does the prickly pear cactus have over other biofuel crops?", { A: "It generates more energy.", B: "It will not influence food prices.", C: "It may replace feed for livestock.", D: "It can increase global food production." }, "只使用廢棄外皮，果肉仍供食用，因此不會推高食物價格。"),
-    R(45, "A", "G6", "How is the information in the passage organized?", { A: "In order of time.", B: "By cause and effect.", C: "In order of importance.", D: "By definition and illustration." }, "文章從西元前、伊斯蘭與中世紀一路寫到一戰，按時間排序。", "資訊排序"),
-    R(46, "B", "G6", "Which of the following statements is true about the earliest travel document?", { A: "It was issued by the king of Judah.", B: "It was given to an official of Persia.", C: "It appeared more than three thousand years ago.", D: "It served to invite people to travel beyond the river." }, "最早記載中，波斯王給官員 Nehemiah 一封安全通行信。"),
-    R(47, "C", "G6", "When did the term “passport” start being used?", { A: "In about 450 B.C.", B: "During World War I.", C: "In the 16th century.", D: "During King Henry V’s reign." }, "十五世紀文獻後約一世紀才出現 passport 一詞，即十六世紀。"),
-    R(48, "D", "G6", "Which of the following is NOT mentioned in the passage as a form of passport?", { A: "A letter.", B: "A receipt.", C: "A proof of identity.", D: "A list of seaports." }, "文中提及信件、收據及身分證明，沒有以港口清單作護照。"),
-    R(49, "D", "G7", "Which of the following is the closest illustration of Benjamin Franklin’s invention?", { A: "", B: "", C: "", D: "" }, "文中描述不同大小玻璃半球套在水平鐵桿上，由踏板轉動；圖 D 最相符。", "圖文整合", { cat: "C5", image: "img/110/q49.png", imageAlt: "四幅樂器圖片：A 為成排玻璃杯，B 為吊鐘，C 為大型機械樂器，D 為裝有水平玻璃圓盤與踏板的樂器。" }),
-    R(50, "D", "G7", "Which of the following statements is true about how the glass armonica works?", { A: "Water has to be poured into the glass hemispheres.", B: "Colored paint makes it sound better and last longer.", C: "An iron rod is used to strike the thicker glass hemispheres.", D: "The performer’s fingers have to be slightly wet when playing it." }, "Franklin 會把手指弄溼，再貼住旋轉玻璃半球的邊緣演奏。"),
-    R(51, "C", "G7", "According to the passage, why did the glass armonica lose its popularity?", { A: "The skill of playing the glass armonica was very hard to master.", B: "Famous musicians like Beethoven had problems composing for it.", C: "Concert halls became too big for its music to be heard by the audience.", D: "Reviewers in that time indicated that it was clumsy and not fashionable." }, "十九世紀音樂廳變大，未擴音的樂器聲音無法讓觀眾聽見。"),
-    R(52, "B", "G7", "What does the highlighted “they” in the second paragraph refer to?", { A: "Iron rods.", B: "Hemispheres.", C: "Colored notes.", D: "Musical pitches." }, "they 承接前句的 glass hemispheres，指這些半球可依大小套合。", "指涉判讀"),
-    R(53, "B", "G8", "What is the passage mainly about?", { A: "The new addition to Morgan’s Wonderland.", B: "The establishment and features of a special theme park.", C: "The advanced technological devices in Morgan’s Wonderland.", D: "The needs of people who suffer from physical and mental disabilities." }, "全文介紹樂園的成立緣由與無障礙設施特色。", "主旨判讀"),
-    R(54, "A", "G8", "What does “ultra-accessible” in the second paragraph imply?", { A: "It’s easy for all visitors to use the facilities.", B: "Admission is free for people young and old.", C: "Wheelchairs are provided for every featured attraction.", D: "Morgan’s Wonderland is situated in a convenient location." }, "後文強調不同年齡與能力者都能安全遊玩，故指設施人人容易使用。", "語境推義"),
-    R(55, "C", "G8", "Which of the following is NOT mentioned as a fun activity in the park?", { A: "Fishing.", B: "Driving.", C: "Hiking.", D: "Picnicking." }, "文中有釣魚、駕駛與野餐，未提健行。"),
-    R(56, "D", "G8", "Which of the following statements is true about Morgan’s Wonderland?", { A: "Waterproof chairs enable visitors to roam all over the park.", B: "Morgan’s Inspiration Island includes 25 acres of attractions.", C: "The success of the park is exactly what Morgan intended to achieve.", D: "GPS bands allow visitors to enjoy the convenience of the electronic devices." }, "GPS 手環能追蹤彼此、參與電子活動並接收照片，D 符合。")
+    R(41, "B", "G5", "What is the purpose of this passage?", { A: "To argue for the benefits of nopales.", B: "To introduce a new source of energy.", C: "To predict the future agriculture policy of Mexico.", D: "To change people’s ideas about energy consumption." }, "<b>解題關鍵：</b>各段從仙人掌的傳統用途，推進到把廢棄外皮製成生質氣體，核心是在介紹新能源。<br>(A) 不適合：文章不是全面主張 nopales 的所有好處，食用與藥用只是背景。<br>(B) 適合：主要篇幅說明廢棄外皮如何成為 biofuel，正是新能量來源。<br>(C) 不適合：沒有預測墨西哥政府未來會採取何種農業政策。<br>(D) 不適合：作者沒有勸讀者改變用能觀念，而是介紹一項技術。<br>主旨題要選能涵蓋各段的 B。", "主旨判讀"),
+    R(42, "D", "G5", "Which of the following is NOT mentioned as a function of the prickly pear?", { A: "For treating illnesses.", B: "For personal hygiene.", C: "For food and beverage.", D: "For gardening and landscaping." }, "<b>解題關鍵：</b>這是 NOT 題，要逐項回原文確認，而不能用「仙人掌可能可以」的常識補答案。<br>(A) 有提到：文中說可用於 medicine，對應治療疾病。<br>(B) 有提到：文中列出 shampoo，屬個人清潔用途。<br>(C) 有提到：可作食物與飲料，是文章明列的傳統用途。<br>(D) 未提到：全文沒有說用於 gardening 或 landscaping，因此是答案。<br>植物能造景不代表文章說過，應選 D。"),
+    R(43, "D", "G5", "Which of the following statements about the prickly pear cactus is true?", { A: "Its soft inner part is often discarded.", B: "It was not discovered until the modern era.", C: "It turns into 200,000 tons of waste in Mexico each year.", D: "It appears in a prominent place on Mexico’s national flag." }, "<b>解題關鍵：</b>首段直接說仙人掌位在墨西哥國旗中央，是國家象徵。<br>(A) 不適合：被丟棄的是 tough outer skin「堅硬外皮」，不是 soft inner part。<br>(B) 不適合：它長久以來就是國家象徵，並非現代才被發現。<br>(C) 不適合：二十萬噸是每月加工量，且其中約一半成為外皮廢料；選項把數量、時間與廢棄比例都改掉。<br>(D) 適合：appears prominently on the flag 與原文國旗中央完全相符。"),
+    R(44, "B", "G5", "What advantage does the prickly pear cactus have over other biofuel crops?", { A: "It generates more energy.", B: "It will not influence food prices.", C: "It may replace feed for livestock.", D: "It can increase global food production." }, "<b>解題關鍵：</b>末段比較一般生質燃料作物會占用可食部分、推高食價；本方案只使用原本丟棄的仙人掌外皮。<br>(A) 不適合：文中沒有數據比較哪種作物產生更多能源。<br>(B) 適合：果肉仍可供人食用，不會和糧食市場競爭，因而不影響食物價格。<br>(C) 不適合：沒有說仙人掌可以取代牲畜飼料。<br>(D) 不適合：避免推高價格不等於提高全球食物產量。<br>比較題要抓文章明說的食價優勢。"),
+    R(45, "A", "G6", "How is the information in the passage organized?", { A: "In order of time.", B: "By cause and effect.", C: "In order of importance.", D: "By definition and illustration." }, "<b>解題關鍵：</b>時間標記依序為 around 450 B.C.、伊斯蘭時期、中世紀、Henry V 時代、再一世紀後、第一次世界大戰。<br>(A) 適合：全文由古至今介紹旅行文件演變。<br>(B) 不適合：各段不是圍繞單一原因與結果。<br>(C) 不適合：作者沒有先講最重要或最後講最重要，也沒評比重要程度。<br>(D) 不適合：雖有解釋與例子，但全文主要骨架不是「定義後舉例」。<br>依明確年代排序，答案是 A。", "資訊排序"),
+    R(46, "B", "G6", "Which of the following statements is true about the earliest travel document?", { A: "It was issued by the king of Judah.", B: "It was given to an official of Persia.", C: "It appeared more than three thousand years ago.", D: "It served to invite people to travel beyond the river." }, "<b>解題關鍵：</b>最早記載約西元前 450 年，波斯王把安全通行信交給官員 Nehemiah。<br>(A) 不適合：發信者是 Persian king，不是 king of Judah。<br>(B) 適合：Nehemiah 是波斯官員，文件確實交給他。<br>(C) 不適合：西元前 450 年距今不到三千年，選項誇大年代。<br>(D) 不適合：文件用來請沿途統治者准許 safe passage，不是邀請大家越河旅行。<br>常見誤選 D 是看到 beyond the river，卻忽略 allow him safely pass 的用途。"),
+    R(47, "C", "G6", "When did the term “passport” start being used?", { A: "In about 450 B.C.", B: "During World War I.", C: "In the 16th century.", D: "During King Henry V’s reign." }, "<b>解題關鍵：</b>原文說 passport 一詞在 King Henry V 文件出現後 about a century 才開始使用；Henry V 屬十五世紀，所以答案是十六世紀。<br>(A) 不適合：西元前 450 年是最早旅行文件，不是 passport 這個詞。<br>(B) 不適合：一戰期間是現代護照制度普及。<br>(C) 適合：十五世紀再過約一百年就是十六世紀。<br>(D) 不適合：Henry V 時代已有相關文件，但當時尚未使用此名稱。<br>題目問的是 term，而不是文件最早出現時間。"),
+    R(48, "D", "G6", "Which of the following is NOT mentioned in the passage as a form of passport?", { A: "A letter.", B: "A receipt.", C: "A proof of identity.", D: "A list of seaports." }, "<b>解題關鍵：</b>這是 NOT 題，要分清楚「曾作旅行文件的形式」和 passport 一詞可能的字源。<br>(A) 有提到：最早旅行文件是一封 letter。<br>(B) 有提到：伊斯蘭時期的 tax receipt 可作通行證明。<br>(C) 有提到：後來護照成為 proof of identity。<br>(D) 未提到：seaport 只和 passport 一詞的來源解釋有關，文章沒說「港口清單」曾當護照。<br>因此未作為護照形式的是 D。"),
+    R(49, "D", "G7", "Which of the following is the closest illustration of Benjamin Franklin’s invention?", { A: "", B: "", C: "", D: "" }, "<b>解題關鍵：</b>核對四個外觀線索：37 個不同大小的玻璃半球、由大到小套在鐵桿上、像紡車的裝置、用腳踏控制旋轉。D 同時有水平排列玻璃圓盤與踏板。A 只是分開的玻璃杯；B 是吊鐘；C 外型不符。圖像題要按文字逐項排除。", "圖文整合", { cat: "C5", image: "img/110/q49.png", imageAlt: "四幅樂器圖片：A 為成排玻璃杯，B 為吊鐘，C 為大型機械樂器，D 為裝有水平玻璃圓盤與踏板的樂器。" }),
+    R(50, "D", "G7", "Which of the following statements is true about how the glass armonica works?", { A: "Water has to be poured into the glass hemispheres.", B: "Colored paint makes it sound better and last longer.", C: "An iron rod is used to strike the thicker glass hemispheres.", D: "The performer’s fingers have to be slightly wet when playing it." }, "<b>解題關鍵：</b>第二段描述 Franklin 弄溼手指，再貼住旋轉玻璃半球的邊緣發聲。<br>(A) 不適合：水只用來 moisten fingers，沒有倒入玻璃半球。<br>(B) 不適合：彩色油漆用來 identify notes，方便辨音，不會改善音色或耐用度。<br>(C) 不適合：鐵桿穿過半球、帶動整組旋轉，不是拿來敲擊玻璃。<br>(D) 適合：手指須 slightly wet，正好對應 moistened his fingers。<br>要依每個零件的功能逐一比對。"),
+    R(51, "C", "G7", "According to the passage, why did the glass armonica lose its popularity?", { A: "The skill of playing the glass armonica was very hard to master.", B: "Famous musicians like Beethoven had problems composing for it.", C: "Concert halls became too big for its music to be heard by the audience.", D: "Reviewers in that time indicated that it was clumsy and not fashionable." }, "<b>解題關鍵：</b>末段說音樂移入更大的音樂廳，而玻璃琴沒有擴音便聽不見，這才是沒落原因。<br>(A) 不適合：Franklin 能熟練演奏，文章也沒說技巧太難。<br>(B) 不適合：Mozart 與 Beethoven 都曾為它作曲，沒有說作曲遇到困難。<br>(C) 適合：concert halls 變大，音量不足以讓觀眾聽見。<br>(D) 不適合：樂評稱聲音 wonderful，只抱怨聽不到，沒有說笨重或不時髦。<br>常見誤選 D 是把「流行改變」自行補成樂器過時。"),
+    R(52, "B", "G7", "What does the highlighted “they” in the second paragraph refer to?", { A: "Iron rods.", B: "Hemispheres.", C: "Colored notes.", D: "Musical pitches." }, "<b>解題關鍵：</b>they 所在句說「使它們可以由大到小套在一起」，需找前文能被套合的複數實體。<br>(A) 不適合：iron rod 在原句是單數，而且是穿過半球的支架。<br>(B) 適合：前文的 glass hemispheres 是複數，正是依大小套在一起的物件。<br>(C) 不適合：colored notes 是用顏色標示的音符概念，不能實際套合。<br>(D) 不適合：musical pitches 是音高，也不是物體。<br>因此 they 回指 hemispheres。", "指涉判讀"),
+    R(53, "B", "G8", "What is the passage mainly about?", { A: "The new addition to Morgan’s Wonderland.", B: "The establishment and features of a special theme park.", C: "The advanced technological devices in Morgan’s Wonderland.", D: "The needs of people who suffer from physical and mental disabilities." }, "<b>解題關鍵：</b>全文先交代建園緣由，再介紹票價、無障礙遊具、GPS 手環及水上園區等特色。<br>(A) 不適合：new addition 只涵蓋第四段 Morgan’s Inspiration Island。<br>(B) 適合：同時包含樂園成立背景與多項特殊設施，涵蓋全文。<br>(C) 不適合：GPS 等科技只是眾多特色之一。<br>(D) 不適合：文章沒有全面分析身心障礙者需求，而是在介紹回應需求的樂園。<br>主旨應選範圍完整的 B。", "主旨判讀"),
+    R(54, "A", "G8", "What does “ultra-accessible” in the second paragraph imply?", { A: "It’s easy for all visitors to use the facilities.", B: "Admission is free for people young and old.", C: "Wheelchairs are provided for every featured attraction.", D: "Morgan’s Wonderland is situated in a convenient location." }, "<b>解題關鍵：</b>後文解釋不同年齡與能力者能一起安全遊玩，且全園與遊具都考量輪椅使用，因此 accessible 指設施容易使用。<br>(A) 適合：all visitors 都能方便使用設施，符合上下文。<br>(B) 不適合：只有 guests with special needs 免費，一般民眾只是折價。<br>(C) 不適合：遊具能容納輪椅，不等於每項設施都提供輪椅。<br>(D) 不適合：文中沒談交通位置是否便利。<br>常見誤選 D 是把 accessible 只理解為「地點好到達」。", "語境推義"),
+    R(55, "C", "G8", "Which of the following is NOT mentioned as a fun activity in the park?", { A: "Fishing.", B: "Driving.", C: "Hiking.", D: "Picnicking." }, "<b>解題關鍵：</b>這是 NOT 題，需逐項找活動名稱，不能因園區有 25 acres 就自行推測。<br>(A) 有提到：catch-and-release fishing lake 可釣魚。<br>(B) 有提到：Off-Road Adventure 可測試 driving skills。<br>(C) 未提到：全文沒有 hiking、步道或健行活動，因此是答案。<br>(D) 有提到：園區各處設有 picnic areas，可野餐。<br>三項都有直接文字證據，只有 C 是生活常識可能有、文章卻沒說的活動。"),
+    R(56, "D", "G8", "Which of the following statements is true about Morgan’s Wonderland?", { A: "Waterproof chairs enable visitors to roam all over the park.", B: "Morgan’s Inspiration Island includes 25 acres of attractions.", C: "The success of the park is exactly what Morgan intended to achieve.", D: "GPS bands allow visitors to enjoy the convenience of the electronic devices." }, "<b>解題關鍵：</b>第三段說 GPS 手環可追蹤同行者、參與電子活動，並在掃描後把照片寄到信箱。<br>(A) 不適合：防水椅只供 splash park 使用，不是讓人走遍整座樂園。<br>(B) 不適合：25 acres 描述原本 Morgan’s Wonderland 的整體設施，不是新水上園區。<br>(C) 不適合：父親說成果 beyond anything imagined，並非 exactly 預期。<br>(D) 適合：GPS bands 確實讓訪客使用多種電子便利功能。<br>選項常把範圍或語氣偷換，D 才忠於原文。")
   ];
 
   window.BANK = window.BANK || [];
@@ -2067,62 +2067,62 @@ window.BANK = window.BANK || [];
 // 題目與答案均取自大學入學考試中心官方試卷及答案。
 (() => {
   const explanations = {
-    1: "reach the conclusion that... 是「得出……的結論」，符合全班討論後決定去花蓮的語境。",
-    2: "Jane 上學期差點被當，這次卻考近滿分，因此讓老師感到驚訝 amazed。",
-    3: "吸塵器故障後送回檢查維修的對象是 manufacturer「製造商」。",
-    4: "金融危機造成出口額下降 40%，decreased 表示「減少、下降」。",
-    5: "洋芋片久放未密封會失去酥脆口感，crispy 表示「酥脆的」。",
-    6: "為紀念捨身救學生的老師而建造的是 monument「紀念碑」。",
-    7: "課堂要求學生背誦名家詩作，recite 表示「背誦、朗誦」。",
-    8: "房屋屬於某人的法律權利是 ownership「所有權」，proof of ownership 即所有權證明。",
-    9: "cradle 可比喻事物的發源地；雅典因早期發展民主制度而被稱為民主的搖籃。",
-    10: "含量超過法規允許的標準應用 permissible「可允許的」，permissible level 指容許量。",
-    11: "傑出的比賽表現消除了外界對 Jack 能力的疑慮，erase doubts 是自然搭配。",
-    12: "模仿外國人的口音來嘲笑對方屬於霸凌，mock 表示「嘲弄」。",
-    13: "Mary 減重後，先前緊身的牛仔褲已變得鬆垮；formerly 表示「從前、先前」。",
-    14: "酒駕事故用來凸顯上路時保持清醒的重要，sober 表示「未醉的、清醒的」。",
-    15: "缺乏足夠科學證據的主張仍可爭議，disputable 表示「有爭議的」。",
-    16: "Over the centuries 表示從過去延續至今，且刺青是「被使用」，故用現在完成式被動 have been used。",
-    17: "傳統指甲花藝術如今被當代藝術家賦予新的用途，application 在此表示「應用方式」。",
-    18: "cope with the loss of... 表示「因應、面對……的失去」，符合癌症治療後掉髮的處境。",
-    19: "指甲花冠取代患者若沒有它便會使用的帽子與假髮；otherwise 表示「否則、在其他情況下」。",
-    20: "指甲花冠讓患者重拾自信與美感，因此建立的是更正向的 positive self-image。",
-    21: "前句說人打噴嚏會散播疾病，接著說植物也有相似問題，similar 承接兩者的類比。",
-    22: "研究者觀察水滴是為了尋找其他傳播途徑，in a search for 表示「為了尋找」。",
-    23: "植物像打噴嚏般把帶菌小水滴噴出，shoot out 表示「噴射出去」。",
-    24: "allow＋受詞＋to V 是固定結構，故為 allowed the water to jump into the air。",
-    25: "並非所有植物都會「打噴嚏」，這種能力只見於疏水葉片；be unique to 表示「為……所特有」。",
-    26: "旅遊公司推出活動的目的是鼓勵人們一月度假，encourage＋受詞＋to V 符合句型與語意。",
-    27: "商家把飲料、衣服宣傳成對抗 Blue Monday 的方法，remedy 表示「補救方法、解方」。",
-    28: "科學家說沒有證據，但 Blue Monday 的觀念仍持續流傳，And yet 表示「然而、儘管如此」。",
-    29: "節後失落感是人們一月心情低落的原因，owing to 表示「由於」。",
-    30: "把憂鬱症的複雜議題拆解成簡單易懂的說法，break down...into... 符合語意。",
-    31: "單側酒窩相較於雙側較少見，因此選 rare「罕見的」。",
-    32: "部分文化偏愛酒窩，是因為它被視為 attractiveness「吸引力、美貌」的象徵。",
-    33: "後文指出酒窩源自較短的臉部肌肉，因此此處稱為 genetic flaw「遺傳缺陷」。",
-    34: "句意談酒窩從父母傳給子女，transfer 表示「傳遞」。",
-    35: "若父母都沒有酒窩基因，子女便不會呈現此特徵；exhibit 表示「顯現」。",
-    36: "部分酒窩因臉上有過多脂肪而形成，presence of... 表示「……的存在」。",
-    37: "嬰兒肥使臉頰圓胖，chubby cheeks 是「胖嘟嘟的臉頰」。",
-    38: "嬰兒長大、脂肪減少後酒窩可能逐漸消失，fade 表示「逐漸淡去」。",
-    39: "此處指天生沒有自然酒窩的人，natural 與後文以化妝或手術製造酒窩相對。",
-    40: "方法從簡單的化妝到劇烈的手術都有，range from A to B 表示「範圍從 A 到 B」。",
-    41: "圖中鞋帶位於第二、第三趾之間；文章指出這是 Roman sandals 的特徵，因此選 D。",
-    42: "第一段明說名稱來自涼鞋拍打腳步時發出的聲音，因此選 A。",
-    43: "第三、四段指出現代夾腳拖源自日本草履，返美士兵將草履帶回美國後持續發展，因此選 D。",
-    44: "末段提到足部傷害、公共場合是否合宜及塑膠污染，沒有提到產品品質差，因此 NOT 題選 B。",
-    45: "全文說明 marine pilot 的工作、必要知識、挑戰與責任，主旨是介紹一項特殊職業，選 A。",
-    46: "第三段說潮汐、海流與風向都會影響進港，marine pilot 必須掌握天候與現場條件，因此選 C。",
-    47: "第一段說一般船長把船開到港外等待，marine pilot 此時登船接手；故 a crucial time 指船正等待進港時，選 D。",
-    48: "末段重述這份工作需要專業、快速判斷、風險管理及保護船港環境，是總結全文重點，選 C。",
-    49: "三段依序談橄欖油等級、包裝保存及評鑑方法，核心皆是橄欖油品質，選 D。",
-    50: "第一段指出 extra virgin 酸度低於 1%，virgin 則低於 2%，所以前者酸度較低，選 D。",
-    51: "橄欖油應避光、避熱、避溼並減少接觸氧氣；密封玻璃瓶放在廚櫃最符合這些條件，選 C。",
-    52: "末段指出 IOC 正蒐集意見改進測試方法、提升結果準確性並重新界定名稱，也就是改善橄欖油分級方式，選 B。",
-    53: "第三段說鹿為補充飲食所需的鐵，會舔食車輪摩擦鐵軌產生的鐵屑，因此選 B。",
-    54: "文章提過閃紅燈、獅子臉與播放犬吠聲，唯獨沒有使用「會發出噪音的鐵軌」，NOT 題選 C。",
-    55: "新裝置播放鹿的警戒聲與犬吠，使鹿驚慌逃離，正符合選項 A。",
-    56: "tons of onrushing rolling stock 指數噸重且快速駛近的列車，強調鹿在鐵軌上面臨的危險，選 D。"
+    1: "<b>解題關鍵：</b>全班討論好幾個小時後，終於「做出決定」，固定搭配是 reach the conclusion that...（得到……的結論）。<br>(A) balance 是「平衡」，不能表示討論結果。<br>(B) conclusion 是「結論」，最符合語意。<br>(C) definition 是「定義」，不是全班的決定。<br>(D) harmony 是「和諧」，也不能接 that 子句表示結論。<br>把答案放回去：我們最後得到結論，畢業旅行要去花蓮。",
+    2: "<b>解題關鍵：</b>分號後說 Jane 上學期差點不及格，這次卻考了接近滿分，老師當然會感到「驚訝」。<br>(A) bored 是「使感到無聊」，成績進步不是無聊的事。<br>(B) amazed 是「使大為驚訝」，符合前後反差。<br>(C) charmed 是「使著迷、討喜」，重點不是魅力。<br>(D) informed 是「通知」，不能表達老師的感受。<br>把答案放回去：Jane 接近滿分的成績讓老師大吃一驚。",
+    3: "<b>解題關鍵：</b>吸塵器壞了，要送回能夠檢查和維修產品的單位，也就是製造商。<br>(A) lecturer 是「講師」，不負責家電維修。<br>(B) publisher 是「出版商」，處理書刊。<br>(C) researcher 是「研究人員」，不是產品售後單位。<br>(D) manufacturer 是「製造商」，最合理。<br>把答案放回去：我們把吸塵器送回製造商檢修。",
+    4: "<b>解題關鍵：</b>後面有 the largest drop（最大跌幅），可知出口額是「下降」百分之四十。<br>(A) flattered 是「奉承／使高興」，不能形容數字變化。<br>(B) transformed 是「轉變」，沒有說變成什麼。<br>(C) relieved 是「減輕／使放心」，不搭配出口額。<br>(D) decreased 是「減少、下降」，與 drop 呼應。<br>把答案放回去：上個月出口額下降了四成。",
+    5: "<b>解題關鍵：</b>洋芋片放在桌上很久又沒有密封，已不再新鮮，也不再有原本「酥脆」的口感。<br>(A) solid 是「固體的／堅固的」，不是洋芋片理想口感。<br>(B) crispy 是「酥脆的」，最合適。<br>(C) original 是「原來的」，不能和 taste fresh 並列描述口感。<br>(D) smooth 是「平滑的」，不符合洋芋片特色。<br>把答案放回去：洋芋片已不再新鮮酥脆。",
+    6: "<b>解題關鍵：</b>in memory of 是「為了紀念」。鎮民要紀念捨身救學生的老師，會建紀念碑。<br>(A) monument 是「紀念碑」，符合 built 和紀念用途。<br>(B) refugee 是「難民」，是人，不是建築物。<br>(C) souvenir 是「紀念品」，通常是購買的小物。<br>(D) firecracker 是「鞭炮」，不能長久紀念人物。<br>把答案放回去：鎮民建了一座紀念碑來紀念這位老師。",
+    7: "<b>解題關鍵：</b>課堂內容是名家詩作，學生被要求做的事應是「背誦、朗誦」詩。<br>(A) construct 是「建造」，不能搭配 poems。<br>(B) expose 是「使接觸／揭露」，句型也不合。<br>(C) recite 是「背誦、朗誦」，可直接接 poems。<br>(D) install 是「安裝」，用於設備或軟體。<br>把答案放回去：學生必須背誦名家詩作。",
+    8: "<b>解題關鍵：</b>Mr. Tang 說房子屬於他，卻拿不出能證明「所有權」的文件。proof of ownership 是常見搭配。<br>(A) convention 是「慣例／大會」。<br>(B) relationship 是「關係」。<br>(C) insurance 是「保險」。<br>(D) ownership 是「所有權」，能證明房子在法律上屬於誰。<br>把答案放回去：他沒有提出任何所有權證明。",
+    9: "<b>解題關鍵：</b>雅典很早就發展民主制度，所以被比喻成民主誕生、發展的地方。cradle 除了「搖籃」，也可比喻「發源地」。<br>(A) mission 是「任務」。<br>(B) target 是「目標」。<br>(C) cradle 是「搖籃、發源地」，最符合。<br>(D) milestone 是「里程碑」，指重要階段，不是起源地。<br>把答案放回去：雅典常被稱為民主的搖籃。",
+    10: "<b>解題關鍵：</b>糖果含有過量人工成分，因此超過法規「允許的」標準。far beyond 表示「遠遠超過」。<br>(A) abundant 是「豐富的」。<br>(B) immense 是「巨大的」。<br>(C) permissible 是「可允許的」，permissible level 就是容許量。<br>(D) descriptive 是「描述性的」。<br>把答案放回去：成分超過容許量，所以不能販售。",
+    11: "<b>解題關鍵：</b>Jack 表現傑出，使大家原本對他能力的懷疑消失。erase doubts 是「消除疑慮」。<br>(A) erased 是「抹去、消除」，最自然。<br>(B) canceled 是「取消」，通常接活動、訂單。<br>(C) overlooked 是「忽略」，疑慮仍存在。<br>(D) replaced 是「取代」，還要說被什麼取代。<br>把答案放回去：他的表現消除了所有疑慮。",
+    12: "<b>解題關鍵：</b>後句說任何人都不該因發音而被嘲笑，因此空格就是「模仿口音來嘲弄」。<br>(A) mock 是「嘲弄、取笑」，與 be laughed at 呼應。<br>(B) sneak 是「偷偷行動」。<br>(C) prompt 是「促使／提示」。<br>(D) glare 是「怒視」，通常接 at。<br>把答案放回去：嘲笑外國人的口音是一種霸凌。",
+    13: "<b>解題關鍵：</b>Mary 瘦了十公斤，所以「以前」貼身的牛仔褲，現在已鬆到掛在臀部。<br>(A) barely 是「幾乎不」。<br>(B) evenly 是「均勻地」。<br>(C) currently 是「目前」，會和 now 矛盾。<br>(D) formerly 是「以前、先前」，形成時間對比。<br>把答案放回去：她以前很緊的牛仔褲現在變鬆了。",
+    14: "<b>解題關鍵：</b>警察展示酒駕事故照片，目的是提醒大家開車時不要喝醉，也就是保持清醒。<br>(A) sober 是「未醉的、清醒的」，符合 drunk driving。<br>(B) majestic 是「雄偉的」。<br>(C) vigorous 是「精力旺盛的」。<br>(D) noticeable 是「引人注意的」。<br>把答案放回去：這些照片強調清醒上路的重要。",
+    15: "<b>解題關鍵：</b>後半句說沒有足夠科學證據支持，表示這個主張仍可被質疑、爭論。<br>(A) creative 是「有創意的」。<br>(B) disputable 是「有爭議、可質疑的」，最符合。<br>(C) circular 是「圓形的／循環的」。<br>(D) magnificent 是「壯麗的」。<br>把答案放回去：巧克力能防心臟病的說法仍有爭議。",
+    16: "<b>解題關鍵：</b>Over the centuries 表示「數百年來」，動作從過去延續到現在；刺青是「被使用」，所以要用現在完成式的被動語態 have been used。<br>(A) were being used 是過去某時正在被使用，沒有延續到現在。<br>(B) have been used 正確。<br>(C) will be used 是未來。<br>(D) had to be used 是「不得不被使用」，文意沒有強迫。<br>把答案放回去：數百年來，指甲花刺青一直用於婚禮與節慶。",
+    17: "<b>解題關鍵：</b>前文說古老藝術，後文說當代藝術家把它拿來幫助癌症患者，表示它找到新的「用途」。<br>(A) competition 是「競爭」。<br>(B) application 是「應用、用途」，最符合。<br>(C) investigation 是「調查」。<br>(D) participation 是「參與」。<br>關鍵句意思：這門古老藝術在現代藝術家手中有了新用途。",
+    18: "<b>解題關鍵：</b>癌症治療後掉髮是患者需要面對的困境。cope with 是「設法面對、處理」。<br>(A) carry away 是「帶走」。<br>(B) build on 是「在……基礎上發展」。<br>(C) cope with 是「因應、面對」，最合理。<br>(D) get off 是「下車／脫離」。<br>把答案放回去：彩繪花冠幫助她們面對失去頭髮的難過。",
+    19: "<b>解題關鍵：</b>有了指甲花冠，就可以替代患者「若沒有花冠時會使用」的帽子和假髮。otherwise 在此是「在其他情況下、否則」。<br>(A) moreover 是「而且」，不能修飾 use。<br>(B) altogether 是「完全地」。<br>(C) namely 是「也就是」。<br>(D) otherwise 正確，補出假設情況。<br>關鍵句意思：花冠取代了患者原本會戴的帽子與假髮。",
+    20: "<b>解題關鍵：</b>文章說花冠讓患者再次感到自信與美麗，因此建立的是更正向的自我形象。<br>(A) positive 是「正向的」，與 confident and beautiful 呼應。<br>(B) general 是「一般的」。<br>(C) flexible 是「有彈性的」。<br>(D) considerate 是「體貼的」，通常形容人。<br>把答案放回去：花冠幫助患者建立更正向的自我形象。",
+    21: "<b>解題關鍵：</b>上一句說人打噴嚏的水滴會傳病，下一句說植物的小水滴也會傳病，兩者是「相似的」問題。<br>(A) similar 是「相似的」，承接類比。<br>(B) miserable 是「悲慘的」。<br>(C) realistic 是「實際的」。<br>(D) temporary 是「暫時的」。<br>把答案放回去：植物也有類似的傳病問題。",
+    22: "<b>解題關鍵：</b>科學家已知風雨會傳播細菌，接著觀察水滴，目的是「尋找」其他傳播途徑。<br>(A) As a result of 是「由於」，會把尋找誤寫成原因。<br>(B) In a search for 是「為了尋找」，正確。<br>(C) With a view to 後面要接 V-ing。<br>(D) To the extent of 是「到……程度」。<br>關鍵句意思：為尋找其他途徑，研究者觀察受感染葉片上的水滴。",
+    23: "<b>解題關鍵：</b>植物像「打噴嚏」一樣把含病菌的小水滴往外噴。<br>(A) shoot out 是「噴射出去」，最符合動作。<br>(B) hold on 是「抓住／等一下」。<br>(C) come across 是「偶然遇見」。<br>(D) give up 是「放棄」。<br>把答案放回去：生病的植物會把帶菌水滴噴出去，傳給附近植物。",
+    24: "<b>解題關鍵：</b>allow 的句型是 allow＋人／物＋to V，意思是「讓某人或某物做……」。此處 water 是受詞，後面要接 to jump。<br>(A) jump 少了 to。<br>(B) to jump 符合固定句型。<br>(C) jumping 不是此句型。<br>(D) jumped 是過去式／過去分詞。<br>把答案放回去：這股能量讓水跳到空中。",
+    25: "<b>解題關鍵：</b>前句 However 和 not all plants 說明不是所有植物都會，只有疏水葉片才有這種能力。be unique to 是「為……所特有」。<br>(A) curious 是「好奇的」。<br>(B) relative 是「相對的／親屬」。<br>(C) unique 是「獨有的」，正確。<br>(D) primitive 是「原始的」。<br>把答案放回去：這種能力是疏水葉片植物所特有的。",
+    26: "<b>解題關鍵：</b>旅遊公司想讓更多人在一月度假，是「鼓勵」而不是命令。句型 encourage＋人＋to V 表示「鼓勵某人做……」。<br>(A) increase 是「增加」，不能直接接人＋to V。<br>(B) require 是「要求」，語氣太強。<br>(C) command 是「命令」，不合促銷。<br>(D) encourage 正確。<br>把答案放回去：公司想鼓勵人們一月去度假。",
+    27: "<b>解題關鍵：</b>商家把飲料和衣服宣傳成能「打敗 Blue Monday」的方法，也就是解方。<br>(A) disguise 是「偽裝」。<br>(B) merit 是「優點」。<br>(C) remedy 是「補救方法、解方」，最符合。<br>(D) ceremony 是「典禮」。<br>把答案放回去：各種商品被宣傳成改善低落心情的解方。",
+    28: "<b>解題關鍵：</b>前句說科學家認為沒有證據，後句卻說這觀念仍流傳，前後是轉折。<br>(A) If so 是「若是如此」，不是轉折。<br>(B) And yet 是「然而、儘管如此」，最符合。<br>(C) On that 不是此處可用的連接語。<br>(D) With this 是「有了這個」。<br>把答案放回去：雖然沒有證據，Blue Monday 的觀念仍然存在。",
+    29: "<b>解題關鍵：</b>post-holiday discontent（假期後的不滿與失落）是人們一月心情低落的「原因」。<br>(A) as for 是「至於」。<br>(B) owing to 是「由於」，後接名詞，正確。<br>(C) in spite of 是「儘管」，會變成相反關係。<br>(D) with respect to 是「關於」。<br>把答案放回去：人們因假期後的失落而心情低落。",
+    30: "<b>解題關鍵：</b>後面有 into something simple，表示把複雜議題「拆解成」簡單內容。break down A into B 就是「把 A 拆解成 B」。<br>(A) breaks down 正確。<br>(B) mixes up 是「混淆」。<br>(C) tears off 是「撕下」。<br>(D) results in 是「導致」，不能再接 into。<br>把答案放回去：這個說法把複雜的憂鬱議題簡化了。",
+    31: "<b>解題關鍵：</b>前句說酒窩通常出現在兩邊，只有單邊酒窩相對少見；空格要形容 phenomenon（現象）。<br>rare 是「罕見的」，正好表達單邊酒窩不常見。natural「自然的」不能表示出現頻率；chubby「胖嘟嘟的」通常形容臉頰；其他名詞或動詞也不能直接修飾 phenomenon。<br>把答案放回去：單邊酒窩是相對罕見的現象。",
+    32: "<b>解題關鍵：</b>前句說某些文化偏愛酒窩，原因是酒窩被認為是美貌的象徵；a sign of 後面需要名詞。<br>attractiveness 是「吸引力、美貌」，詞性和語意都符合。presence 是「存在」，transfer 是「傳遞」，都不能說明人們為何偏愛；rare、natural 等形容詞也不能直接放在 of 後。<br>把答案放回去：酒窩被認為是吸引力的象徵。",
+    33: "<b>解題關鍵：</b>後面 caused by shortened facial muscles 說明酒窩由較短的臉部肌肉造成，空格需要一個名詞。<br>flaw 是「缺陷」，genetic flaw 指「遺傳上的小缺陷」，符合文章解釋。presence 是「存在」，attractiveness 是「吸引力」，都無法接 caused by 說明這種構造；其他選項詞性也不合。<br>把答案放回去：多數酒窩其實是一種遺傳缺陷。",
+    34: "<b>解題關鍵：</b>from parents to children 明確表示酒窩由父母傳給孩子，the 後、of 前需要名詞。<br>transfer 是「傳遞」，the transfer of dimples 是「酒窩的遺傳」。presence 是「存在」、attractiveness 是「吸引力」都不符合親子傳遞；exhibit 是動詞，詞性不合。<br>把答案放回去：酒窩從父母傳給孩子可能只需一個基因。",
+    35: "<b>解題關鍵：</b>若父母都沒有酒窩基因，孩子就不會「顯現」這項特徵；will not 後要接原形動詞。<br>exhibit 作動詞是「展現、顯現」，exhibit the trait 搭配正確。transfer 是「傳遞」，主詞應是父母或基因；fade 是「淡去」，表示原本有酒窩，與本句不同。<br>把答案放回去：孩子不會顯現酒窩這項特徵。",
+    36: "<b>解題關鍵：</b>這段改談非遺傳酒窩，說它們可能因臉上「有」過多脂肪而出現；the 後、of 前需要名詞。<br>presence 是「存在」，the presence of excessive fat 就是「過多脂肪的存在」。attractiveness 與 transfer 都不合因果；chubby 是形容詞，不能放在此結構。<br>把答案放回去：有些酒窩是因臉上有過多脂肪而形成。",
+    37: "<b>解題關鍵：</b>例子談嬰兒肥，空格要形容 cheeks（臉頰），意思是圓胖的。<br>chubby 是「胖嘟嘟的」，chubby cheeks 是自然搭配。natural 是「自然的」，雖可修飾臉頰，但不能呼應下一句 lose their baby fat；rare 只表示少見。<br>把答案放回去：許多嬰兒胖嘟嘟的臉頰上有酒窩。",
+    38: "<b>解題關鍵：</b>孩子長大後嬰兒肥消失，這類酒窩也可能隨時間逐漸不見；may 後要接原形動詞。<br>fade 是「逐漸淡去、消失」，符合 with time。exhibit 是「顯現」，方向相反；transfer 是「傳遞」，沒有親子關係。<br>把答案放回去：隨著嬰兒肥減少，酒窩也可能慢慢消失。",
+    39: "<b>解題關鍵：</b>後面說可用化妝或手術「創造」酒窩，因此前面是在說天生沒有「自然酒窩」的人；空格要形容 dimples。<br>natural 是「自然形成的」，與人為製造相對。rare 只表示罕見，chubby 通常形容臉頰，不形容酒窩；其他選項詞性不合。<br>把答案放回去：天生沒有自然酒窩的人也能用不同方法製造酒窩。",
+    40: "<b>解題關鍵：</b>句中 from a simple step...to a drastic one 已給出「從 A 到 B」的範圍結構。<br>range from A to B 表示「範圍從 A 到 B」，所以選 range。transfer 是「傳遞」、exhibit 是「顯現」、fade 是「淡去」，都不能和 from...to... 組成這個意思。<br>把答案放回去：方法從簡單的化妝到較激烈的手術都有。",
+    41: "<b>解題關鍵：</b>第二段是定位處：希臘鞋帶在第一、二趾間；羅馬鞋帶在第二、三趾間；美索不達米亞在第三、四趾間；印度則在第一、二趾間有一個凸鈕。圖中鞋帶位於第二、三趾之間。<br>(A) 印度不符圖示。(B) 希臘位置不同。(C) 美索不達米亞位置更往外。(D) 羅馬完全符合。<br>因此這雙鞋最可能由羅馬文化創造。",
+    42: "<b>解題關鍵：</b>第一段最後直接說，名稱來自涼鞋拍打走路的腳時所發出的聲音。<br>(A) 因為聲音，符合原文。<br>(B) 設計會變化是後來的發展，不是名稱來源。<br>(C) 結構簡單是特色，但原文沒說因此命名。<br>(D) 方便穿著解釋流行原因，不是名稱。<br>所以 flip-flop 是模仿走路時的啪嗒聲。",
+    43: "<b>解題關鍵：</b>第三段說現代夾腳拖源自日本草履，第四段又說美軍從日本帶回美國，之後才重新設計。<br>(A) 不是源自印度。(B) 鮮豔顏色是後來加上的，並非最初喜愛原因。(C) 橡膠是在二戰後取代稻草。(D) 完整符合兩段發展順序。<br>因此選美軍帶回的日本草履後來發展成現代夾腳拖。",
+    44: "<b>解題關鍵：</b>這是 NOT 題，要找「末段沒有提到」的疑慮。末段列出足部受傷、在街上露腳是否合宜，以及塑膠垃圾污染。<br>(A) Personal health 對應 foot injuries。(B) Poor quality 沒有提到，是答案。(C) Social appropriateness 對應 suitability。(D) Marine pollution 對應塑膠進入海洋。<br>作答 NOT 題時，要逐項回原文核對。",
+    45: "<b>解題關鍵：</b>四段都圍繞 marine pilot：第一段介紹工作，第二、三段說所需知識與挑戰，末段說能力和責任。<br>(A)「一種特殊職業」能包住全文。(B) 航運貿易只在開頭當背景。(C) 安全靠港指南只是部分內容。(D) 海洋環境保護只在末句出現。<br>所以全文主旨是介紹領港員這項特殊職業。",
+    46: "<b>解題關鍵：</b>第三段是定位處：潮汐、海流與風都會改變船的方向和靠港策略，因此領港員必須掌握天候及現場狀況。<br>(A) 船的價值沒提到。(B) 貨物內容只說有些可能危險，不是必備知識。(C) 天候狀況符合風與潮汐。(D) 海洋生物多樣性不是靠港判斷重點。<br>所以選 C。",
+    47: "<b>解題關鍵：</b>第一段先說一般船長把船開到港外，等待進港；最後一段說領港員在這個關鍵時刻登船控制船隻。這是由前後文合理推出。<br>(A) hit a flat 不是船隻用語，原文也沒提。(B) 水道淺是一般風險。(C) 並非已發生撞船。(D) 正是等待進港時。<br>所以 a crucial time 指船在港外等待進港的時刻。",
+    48: "<b>解題關鍵：</b>末段沒有再換新主題，而是把前文的專業知識、快速判斷、風險管理和保護責任集中說一次。<br>(A) 不是增加全新細節。(B) 沒有預測未來。(C) 是總結主要重點。(D) 沒有向一般民眾提出建議。<br>因此作者用摘要全文重點的方式收尾。",
+    49: "<b>解題關鍵：</b>第一段談等級與酸度，第二段談包裝保存如何影響油品，第三段談評鑑方法；三段共同關心的是「品質」。<br>(A) 味道只屬評鑑的一部分。(B) 貿易只在末句提到。(C) 推廣不是全文焦點。(D) 品質能統整各段。<br>所以主旨是橄欖油的品質。",
+    50: "<b>解題關鍵：</b>第一段直接比較：extra virgin 酸度低於 1%，virgin 低於 2%。<br>(A) extra virgin 仍有 pleasant bitter flavor，不是沒有苦味。(B) 經過精煉的是 pure olive oil。(C) 文中沒有說它要混合多種油。(D) 酸度比 virgin 低，符合數字。<br>所以選 D。",
+    51: "<b>解題關鍵：</b>第二段說橄欖油要避光、保持 16–18°C，並避免水氣和氧氣。<br>(A) 塑膠、潮溼都不合。(B) 透明瓶靠爐火，有光又有熱。(C) 密封玻璃瓶放廚櫃，可隔絕氧氣與光線，最合理。(D) 雖密封，明亮窗邊仍有光與熱。<br>所以最佳保存方式是 C。",
+    52: "<b>解題關鍵：</b>末段說 IOC 正蒐集意見，以改進測試方法、提高結果準確度，並重新界定油品名稱。這些都在改善「如何分級」。<br>(A) 沒說要訓練更多品油師。(B) 符合測試與重新分類。(C) 沒談提高產量。(D) 產業連結不是主要行動。<br>所以 IOC 正設法改善橄欖油分級方式。",
+    53: "<b>解題關鍵：</b>第三段直接說鹿需要飲食中的鐵，會舔車輪摩擦鐵軌形成的鐵屑。<br>(A) 沒提交配。(B) 鐵是牠們需要的營養，符合原文。(C) 鹿的噴鼻聲是警報，不是來鐵軌的原因。(D) 沒說磨角。<br>所以鹿被鐵軌吸引，是為補充鐵質。",
+    54: "<b>解題關鍵：</b>這是 NOT 題。文章提到過去使用閃紅燈和獅子臉，也介紹新裝置播放鹿聲與狗吠。<br>(A) flashing lights 有提到。(B) barking speakers 就是新裝置。(C) noisy train tracks 完全沒出現，是答案。(D) lion face paintings 有提到。<br>逐項核對後，未使用的是會發出噪音的鐵軌。",
+    55: "<b>解題關鍵：</b>第四段說新裝置先播鹿的警戒聲，再播狗吠，鹿會 panic and flee rapidly（驚慌並迅速逃走）。<br>(A) 裝置促使鹿逃跑，符合。(B) 沒有居民抱怨，反而規劃避開住宅區。(C) 45% 是目擊減少，不是延誤比例。(D) 裝置使鹿離開，不是吸引鹿。<br>所以選 A。",
+    56: "<b>解題關鍵：</b>rolling stock 指鐵路上的列車；tons of、onrushing 都在強調列車又重、又快速衝來，對鐵軌上的鹿非常危險。<br>(A) 不只是鐵材料重量。(B) 不是狗的殘酷。(C) 沒有鹿與其他動物交戰。(D)「快速移動列車的危險」最完整。<br>這句是用較強烈的文字描述鹿面對列車的致命風險。"
   };
   const q = (no, cat, tags, textType, answer, stem, options, group, image) => ({
     no, cat, tags, lang: group ? "題組" : "單題", textType, answer, stem, options,
@@ -2291,337 +2291,337 @@ window.BANK.push({
       "no": 1, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "Bobby cared a lot about his _____ at home and asked his parents not to go through his things without his permission.",
       "options": {"A": "discipline", "B": "facility", "C": "privacy", "D": "representation"},
-      "explain": "不希望父母未經允許翻動物品，表示 Bobby 在意 privacy「隱私」。"
+      "explain": "<b>解題關鍵：</b>後半句說 Bobby 不希望父母「未經允許翻動他的東西」，這是在保護個人空間與私人物品。<br>(A) discipline：紀律，通常指遵守規定，和不讓別人翻東西無關。<br>(B) facility：設施，常指建築或設備，不是個人權利。<br>(C) privacy：隱私；care about his privacy 正好解釋他為何要求父母先取得同意。<br>(D) representation：代表、呈現，放入句中語意不通。<br>把答案放回去：Bobby 很在意自己在家中的隱私。"
     },
     {
       "no": 2, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The new manager is a real gentleman. He is kind and humble, totally different from the former manager, who was _____ and bossy.",
       "options": {"A": "eager", "B": "liberal", "C": "mean", "D": "inferior"},
-      "explain": "與 kind and humble 相反，前任經理是 mean「刻薄的」且專橫。"
+      "explain": "<b>解題關鍵：</b>totally different from 表示「與……完全不同」。新經理 kind and humble（友善又謙虛），前經理除了 bossy（愛使喚人）之外，還要填一個負面的相反特質。<br>(A) eager：渴望的，沒有和友善形成相反。<br>(B) liberal：開明的、自由派的，並非此處負面性格。<br>(C) mean：刻薄的；和 kind 相反，也能和 bossy 並列。<br>(D) inferior：較差的、低等的，通常比較品質或地位，不直接形容待人刻薄。<br>整句是：前任經理既刻薄又專橫。"
     },
     {
       "no": 3, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
       "options": {"A": "conveyed", "B": "associated", "C": "interpreted", "D": "predicted"},
-      "explain": "氣象局預測颱風會帶來風雨，應選 predicted。"
+      "explain": "<b>解題關鍵：</b>主詞是 weather bureau（氣象局），後面內容是颱風「將會」帶來強風豪雨，表示在事情發生前作預測。<br>(A) conveyed：傳達，通常是傳達訊息，但沒有預先判斷未來的意思。<br>(B) associated：使有關聯，常用 associate A with B，結構也不合。<br>(C) interpreted：解讀、詮釋，是說明既有資料的意思。<br>(D) predicted：預測；predict that... 可接預測內容，最符合氣象局的工作。<br>整句是：氣象局預測颱風將帶來強風豪雨。"
     },
     {
       "no": 4, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Different airlines have different _____ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
       "options": {"A": "landmarks", "B": "restrictions", "C": "percentages", "D": "circumstances"},
-      "explain": "航空公司對手提行李有不同 restrictions「限制」。"
+      "explain": "<b>解題關鍵：</b>後半句舉例說許多國際航空公司把手提行李「限制在 7 公斤」，所以空格要填各公司不同的限制規定。<br>(A) landmarks：地標，和行李重量無關。<br>(B) restrictions：限制；different restrictions for carry-on luggage 表示對手提行李有不同限制。<br>(C) percentages：百分比，但 7 kilograms 是重量，不是百分比。<br>(D) circumstances：情況、環境，不能表示航空公司的重量規定。<br>把答案放回去：不同航空公司對手提行李有不同限制。"
     },
     {
       "no": 5, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Many people were happy that the government had finally _____ Children’s Day as a national holiday.",
       "options": {"A": "appointed", "B": "declared", "C": "performed", "D": "involved"},
-      "explain": "declare A as B 表示「宣布 A 為 B」，符合宣布兒童節為國定假日。"
+      "explain": "<b>解題關鍵：</b>句型是「政府終於＿＿兒童節為國定假日」，需要能和 as 搭配、表示正式宣布的動詞。<br>(A) appointed：任命，通常任命某人擔任職位，不能任命一個節日。<br>(B) declared：宣布；declare A as B 表示「宣布 A 為 B」，結構與語意都完整。<br>(C) performed：表演、執行，不能表示訂定國定假日。<br>(D) involved：涉及、包含，常用 be involved in，和 as 不合。<br>整句是：政府終於宣布兒童節為國定假日。"
     },
     {
       "no": 6, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
       "options": {"A": "advised", "B": "occupied", "C": "proposed", "D": "recognized"},
-      "explain": "提出開十間新店的計畫，應用 proposed a plan。"
+      "explain": "<b>解題關鍵：</b>Michelle 為了讓公司成為市場領導者，主動提出今年開十家店的計畫；英文常說 propose a plan。<br>(A) advised：建議，通常是 advise 人 to do，不能直接表示擬定計畫。<br>(B) occupied：占據、使忙碌，和 plan 無合理搭配。<br>(C) proposed：提出；proposed a plan 正是「提出一項計畫」。<br>(D) recognized：認出、認可，表示看出某事，不是提出新方案。<br>把答案放回去：Michelle 提出一項在全國開十家新店的計畫。"
     },
     {
       "no": 7, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Silence in some way is as _____ as speech. It can be used to show, for example, disagreement or lack of interest.",
       "options": {"A": "sociable", "B": "expressive", "C": "reasonable", "D": "objective"},
-      "explain": "沉默也能表達不同意或沒興趣，因此和言語同樣 expressive。"
+      "explain": "<b>解題關鍵：</b>後一句說沉默可以顯示不同意或缺乏興趣，可見沉默也能「傳達意思」，和說話一樣有表達力。<br>(A) sociable：好交際的，通常形容人，不形容沉默。<br>(B) expressive：有表達力的；能用沉默表達態度，完全符合。<br>(C) reasonable：合理的，後文不是在判斷沉默是否合理。<br>(D) objective：客觀的，也和顯示情緒或態度無關。<br>整句是：在某種程度上，沉默和言語一樣具有表達力。"
     },
     {
       "no": 8, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "This TV program is designed for children, _____ for those under five. It contains no violence or strong language.",
       "options": {"A": "particularly", "B": "sensibly", "C": "moderately", "D": "considerably"},
-      "explain": "節目為兒童設計，「尤其」適合五歲以下，選 particularly。"
+      "explain": "<b>解題關鍵：</b>前面先說節目為 children 設計，後面再把範圍縮小到 under five，意思是「尤其是五歲以下的孩子」。<br>(A) particularly：尤其、特別是，用來突出其中一群人。<br>(B) sensibly：明智地，形容做事方式，不表示縮小對象。<br>(C) moderately：適度地，常修飾程度。<br>(D) considerably：相當地、大幅地，也不能接 for those 表示「尤其」。<br>整句是：這個節目是為兒童設計的，尤其適合五歲以下兒童。"
     },
     {
       "no": 9, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "Tommy, please put away the toys in the box, or you might _____ on them and hurt yourself.",
       "options": {"A": "stumble", "B": "graze", "C": "navigate", "D": "dwell"},
-      "explain": "玩具不收好可能 stumble on them「被它們絆倒」。"
+      "explain": "<b>解題關鍵：</b>媽媽要 Tommy 收玩具，否則可能踩到玩具而受傷；空格後的 on them 提示固定說法 stumble on/over something「被某物絆到」。<br>(A) stumble：絆倒、踉蹌，最符合地上的玩具造成危險。<br>(B) graze：擦傷或吃草，不能說 graze on toys 表示絆倒。<br>(C) navigate：導航、穿越，需要的是移動路線，不是意外受傷。<br>(D) dwell：居住或詳述，dwell on 是反覆想某事。<br>整句是：不收玩具，你可能被它們絆倒而受傷。"
     },
     {
       "no": 10, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "The _____ costume party, held every September, is one of the biggest events of the school year.",
       "options": {"A": "initial", "B": "annual", "C": "evident", "D": "occasional"},
-      "explain": "每年九月舉行，表示是 annual「一年一度的」派對。"
+      "explain": "<b>解題關鍵：</b>held every September 直接說「每年九月舉行」，因此是固定一年一次的活動。<br>(A) initial：最初的、第一個的，無法表達每年舉辦。<br>(B) annual：一年一度的；annual costume party 與 every September 完全呼應。<br>(C) evident：明顯的，不能用來表示活動頻率。<br>(D) occasional：偶爾的，不定期發生，和每年固定一次不同。<br>把答案放回去：一年一度的變裝派對是學年中最大的活動之一。"
     },
     {
       "no": 11, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
       "options": {"A": "factors", "B": "outcomes", "C": "missions", "D": "identities"},
-      "explain": "態度與人格是影響面試決定的重要 factors「因素」。"
+      "explain": "<b>解題關鍵：</b>空格後有 that influence the decision，表示態度與人格是「會影響決定的事物」。<br>(A) factors：因素；important factors that influence... 是自然搭配。<br>(B) outcomes：結果，是決定之後產生的，不是造成決定的原因。<br>(C) missions：任務，態度與人格不是面試任務。<br>(D) identities：身分，雖與人有關，但不能表示影響面試官的條件。<br>整句是：面試時，態度與人格通常是影響面試官決定的重要因素。"
     },
     {
       "no": 12, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader’s eyes.",
       "options": {"A": "distantly", "B": "meaningfully", "C": "cheerfully", "D": "vividly"},
-      "explain": "場景栩栩如生，表示描寫得 vividly「生動地」。"
+      "explain": "<b>解題關鍵：</b>後面說 scene seems to come alive（景象彷彿活在眼前），可知書中的描寫非常生動。<br>(A) distantly：遙遠地、冷淡地，不會讓畫面活起來。<br>(B) meaningfully：有意義地，重點不是意義深刻。<br>(C) cheerfully：愉快地，通常形容人的語氣或動作。<br>(D) vividly：生動地、鮮明地；能讓讀者清楚想像雪山。<br>整句是：書中把覆雪的山描寫得非常生動。"
     },
     {
       "no": 13, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
       "options": {"A": "napping", "B": "scooping", "C": "flipping", "D": "chirping"},
-      "explain": "鳥兒愉快地 chirping「啁啾」，與花開景象相呼應。"
+      "explain": "<b>解題關鍵：</b>句中是花朵盛開、鳥兒愉快地＿＿，描述健行時的自然景色；鳥發出啁啾聲用 chirp。<br>(A) napping：打盹，雖可形容動物，但和 merrily 的熱鬧景象不合。<br>(B) scooping：舀取，需有被舀的東西。<br>(C) flipping：翻轉、快速翻動，沒有交代翻什麼。<br>(D) chirping：啁啾、吱吱叫，是鳥類發聲的動詞。<br>整句是：王家人在花開鳥鳴的環境中愉快健行。"
     },
     {
       "no": 14, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "It is essential for us to maintain constant _____ with our friends to ensure that we have someone to talk to in times of need.",
       "options": {"A": "benefit", "B": "contact", "C": "gesture", "D": "favor"},
-      "explain": "maintain contact with 是「與……保持聯絡」。"
+      "explain": "<b>解題關鍵：</b>後面說有需要時能找到朋友談話，所以平時要和朋友「保持聯絡」。固定搭配是 maintain contact with someone。<br>(A) benefit：好處，maintain benefit with 不是自然搭配。<br>(B) contact：聯絡；maintain constant contact with 表示持續保持聯絡。<br>(C) gesture：姿勢、表示，不能表示長期聯繫。<br>(D) favor：幫忙、恩惠，maintain favor with 也不符合此句。<br>整句是：我們必須和朋友持續保持聯絡，才能在需要時有人可談。"
     },
     {
       "no": 15, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
       "options": {"A": "causal", "B": "durable", "C": "manual", "D": "violent"},
-      "explain": "建築、採果屬於 manual labor「體力勞動」。"
+      "explain": "<b>解題關鍵：</b>後面舉 house construction 和 fruit picking 為例，這些工作主要靠雙手與體力完成，固定說法是 manual labor。<br>(A) causal：因果的，不能形容勞力工作。<br>(B) durable：耐用的，通常形容物品。<br>(C) manual：手工的、體力的；manual labor jobs 指勞力工作。<br>(D) violent：暴力的，建築與採果並非因暴力而分類。<br>整句是：年輕世代對工廠及建築、採果等勞力工作較沒興趣。"
     },
     {
       "no": 16, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G1",
       "stem": "Choose the best answer for blank 16.",
       "options": {"A": "leads to", "B": "brings out", "C": "stems from", "D": "comes across"},
-      "explain": "有人認為愚人節「源自」採用新曆，stem from 符合。"
+      "explain": "<b>解題關鍵：</b>前句談愚人節起源不明，some...others, however... 接著列出兩種起源說法，所以空格要表示「源自採用新曆」。<br>(A) leads to：導致，方向是原因造成結果；此句要從節日回推來源。<br>(B) brings out：使顯現、帶出，不表示起源。<br>(C) stems from：源自；it stems from the adoption... 表示它起源於採用新曆。<br>(D) comes across：偶然遇見或給人某種印象，語意不合。<br>整句是：另一些人認為愚人節源自新曆的採用。"
     },
     {
       "no": 17, "cat": "C2", "tags": ["時態語意"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 17.",
       "options": {"A": "continue", "B": "continuing", "C": "to continue", "D": "continued"},
-      "explain": "全文敘述過去事件，主詞 many people 後用過去式 continued。"
+      "explain": "<b>解題關鍵：</b>本段敘述 1582 年改曆後發生的事，ordered、called、began 都是過去式；主詞 many people 後也需要完整的過去式動詞。<br>(A) continue：現在式，時間不一致。<br>(B) continuing：V-ing 不能單獨作本句主要動詞。<br>(C) to continue：不定詞，前面沒有能帶它的主要動詞。<br>(D) continued：過去式，可直接接 to celebrate。<br>整句是：許多人仍繼續在四月一日慶祝新年。"
     },
     {
       "no": 18, "cat": "C2", "tags": ["轉承語"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G1",
       "stem": "Choose the best answer for blank 18.",
       "options": {"A": "Precisely", "B": "Eventually", "C": "Additionally", "D": "Literally"},
-      "explain": "惡作劇習俗後來逐漸傳遍各地，Eventually 表示「最終」。"
+      "explain": "<b>解題關鍵：</b>前文先說人們開始捉弄仍在四月一日過新年的人，後文說這項做法傳到歐洲及世界各地，是一段時間後的發展結果。<br>(A) Precisely：精確地，不能表示時間演變。<br>(B) Eventually：最後、終於；適合接習俗逐漸傳開的結果。<br>(C) Additionally：此外，用來補充同層資訊，不強調後來的結果。<br>(D) Literally：照字面地，語意無關。<br>整句是：最後，這項習俗傳遍歐洲及世界其他地方。"
     },
     {
       "no": 19, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G1",
       "stem": "Choose the best answer for blank 19.",
       "options": {"A": "come to an end", "B": "go to great lengths", "C": "put in service", "D": "hold in store"},
-      "explain": "go to great lengths to 表示「不遺餘力地」製造精心騙局。"
+      "explain": "<b>解題關鍵：</b>空格後是 to create elaborate hoaxes（製造精心設計的騙局），表示人們為了騙人會花很多心力。<br>(A) come to an end：結束，不能接 to 表示努力做事。<br>(B) go to great lengths：不辭辛勞、不遺餘力；go to great lengths to do 是固定用法。<br>(C) put in service：投入使用，主詞通常是設備。<br>(D) hold in store：預備著、即將發生，結構和文意都不合。<br>整句是：人們常不遺餘力製造精巧騙局。"
     },
     {
       "no": 20, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G1",
       "stem": "Choose the best answer for blank 20.",
       "options": {"A": "fictional", "B": "essential", "C": "ancient", "D": "subjective"},
-      "explain": "為愚弄觀眾而製作的是 fictional「虛構的」報導。"
+      "explain": "<b>解題關鍵：</b>目的明寫 in order to fool their audiences，且後面舉 BBC 假報導「樹上長義大利麵」為例，所以報導內容是編造的。<br>(A) fictional：虛構的，符合為愚弄觀眾而製作的假消息。<br>(B) essential：必要的，不能解釋為何觀眾受騙。<br>(C) ancient：古代的，和四月一日假報導無關。<br>(D) subjective：主觀的，主觀不等於捏造。<br>整句是：媒體製作虛構報導來愚弄觀眾。"
     },
     {
       "no": 21, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G2",
       "stem": "Choose the best answer for blank 21.",
       "options": {"A": "bring along", "B": "turn out", "C": "account for", "D": "serve as"},
-      "explain": "鳳梨葉可 serve as「充當」皮革替代品。"
+      "explain": "<b>解題關鍵：</b>後文說鳳梨葉纖維能製成像皮革一樣的材料，因此葉子可以「充當皮革的替代品」。<br>(A) bring along：隨身帶來，主詞鳳梨葉不合。<br>(B) turn out：結果是或生產，不能直接接 a substitute 表示用途。<br>(C) account for：解釋、占比例，不表示替代。<br>(D) serve as：擔任、充當；serve as a substitute for 是完整搭配。<br>整句是：鳳梨葉可以充當皮革的替代材料。"
     },
     {
       "no": 22, "cat": "C2", "tags": ["時態語意"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 22.",
       "options": {"A": "wove", "B": "weaving", "C": "woven", "D": "to weave"},
-      "explain": "shirt 與 weave 是被動關係，應用過去分詞 woven 作後位修飾。"
+      "explain": "<b>解題關鍵：</b>設計師看到一件傳統襯衫，襯衫是「由鳳梨葉纖維編織而成」，不是襯衫自己去編織。空格是縮短的被動修飾語。<br>(A) wove：過去式，需要主詞，不可直接放在 shirt 後修飾。<br>(B) weaving：表示主動「正在編織」，襯衫不能執行動作。<br>(C) woven：weave 的過去分詞，表示「被編織的」。<br>(D) to weave：表示目的或尚未做的動作，不合。<br>整句是：她觀察到一件用鳳梨葉纖維編成的襯衫。"
     },
     {
       "no": 23, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 23.",
       "options": {"A": "else", "B": "those", "C": "other", "D": "such"},
-      "explain": "修飾複數名詞 textile products，應用 other。"
+      "explain": "<b>解題關鍵：</b>前面已列 bags、shoes，後面要接「其他紡織品」；空格直接放在複數名詞 textile products 前，要用形容詞 other。<br>(A) else：其他，通常放在不定代名詞後，如 something else，不能放名詞前。<br>(B) those：那些，是代名詞，後面不能再直接接 products。<br>(C) other：其他的，可修飾複數名詞。<br>(D) such：這樣的，通常呼應前文類型，這裡需要補充其他產品。<br>整句是：材料可用來製作包包、鞋子及其他紡織產品。"
     },
     {
       "no": 24, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G2",
       "stem": "Choose the best answer for blank 24.",
       "options": {"A": "advantages", "B": "considerations", "C": "opportunities", "D": "responsibilities"},
-      "explain": "較少化學品與較低碳足跡都是環境 advantages。"
+      "explain": "<b>解題關鍵：</b>後面列出較少化學品、較安全、較小碳足跡，都是這種環保皮革比真皮和合成皮革更好的地方。<br>(A) advantages：優點；clear advantages for the environment 符合後面的好處。<br>(B) considerations：考量事項，沒有表達「比較好」。<br>(C) opportunities：機會，後文不是新機會。<br>(D) responsibilities：責任，材料本身沒有責任。<br>整句是：和其他皮革相比，這種材料對環境有明確優勢。"
     },
     {
       "no": 25, "cat": "C2", "tags": ["邏輯關係"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G2",
       "stem": "Choose the best answer for blank 25.",
       "options": {"A": "Due to", "B": "Nothing but", "C": "In contrast to", "D": "On behalf of"},
-      "explain": "低成本是材料已被採用的原因，應選 Due to。"
+      "explain": "<b>解題關鍵：</b>空格後是名詞片語 its low cost，後面說材料已被許多時尚公司採用；低成本正是被採用的原因。<br>(A) Due to：由於，後接名詞，可清楚表達原因。<br>(B) Nothing but：只不過、只有，語意不成因果。<br>(C) In contrast to：和……相反，文中沒有拿低成本與另一成本對比。<br>(D) On behalf of：代表，通常代表某人或組織。<br>整句是：由於成本低，這種創新材料已被許多公司使用。"
     },
     {
       "no": 26, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
       "stem": "Choose the best answer for blank 26.",
       "options": {"A": "beyond", "B": "into", "C": "from", "D": "with"},
-      "explain": "攝影機與觀看系統被 built into「內建於」眼鏡。"
+      "explain": "<b>解題關鍵：</b>後文說眼鏡上的攝影機拍下食物影像，可知攝影機與觀看系統是「裝進」這副眼鏡裡。固定搭配 be built into 表示內建於。<br>(A) beyond：超越、在更遠處，不表示安裝位置。<br>(B) into：進入、成為其中一部分；built into these glasses 正確。<br>(C) from：從……建造，會表示材料來源。<br>(D) with：和……一起，built with 通常接建材或工具。<br>整句是：攝影機和觀看系統被內建在眼鏡中。"
     },
     {
       "no": 27, "cat": "C2", "tags": ["篇章指涉"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
       "stem": "Choose the best answer for blank 27.",
       "options": {"A": "this", "B": "that", "C": "some", "D": "other"},
-      "explain": "為避免重複 the size，以 that 代替單數名詞 size。"
+      "explain": "<b>解題關鍵：</b>句子比較兩個 size：食物的大小被放大，而手的大小維持正常。英文為避免重複單數名詞 the size，用 that 代替。<br>(A) this：這個，通常直接指近處事物，不能自然代替前述名詞作比較。<br>(B) that：可代替前面提過的單數名詞，that of their hand 就是 the size of their hand。<br>(C) some：一些，數量與單數 size 不合。<br>(D) other：其他的，後面還需接名詞。<br>整句是：食物影像變大，但手的大小仍正常。"
     },
     {
       "no": 28, "cat": "C2", "tags": ["邏輯關係"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G3",
       "stem": "Choose the best answer for blank 28.",
       "options": {"A": "beforehand", "B": "likewise", "C": "instead", "D": "therefore"},
-      "explain": "食物影像被放大是大腦誤以為吃得更多的原因，therefore 表結果。"
+      "explain": "<b>解題關鍵：</b>前文說眼鏡把食物影像放大，手卻維持正常；後句是這個視覺效果造成的結果：大腦以為吃得比較多。<br>(A) beforehand：事先，表示時間，不表因果。<br>(B) likewise：同樣地，前面沒有另一個相同結果。<br>(C) instead：反而、取而代之，沒有二選一替代。<br>(D) therefore：因此，清楚連接原因與結果。<br>整句是：因此，大腦被騙，以為自己吃得比實際更多。"
     },
     {
       "no": 29, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G3",
       "stem": "Choose the best answer for blank 29.",
       "options": {"A": "prettier", "B": "larger", "C": "healthier", "D": "tastier"},
-      "explain": "氣味裝置使普通點心嚐起來比實際更美味；tasty 的比較級是 tastier。"
+      "explain": "<b>解題關鍵：</b>這個裝置使用 scent bottles（氣味瓶），例子說有人把普通點心誤以為巧克力口味，所以被改變的是味覺感受。than 提示要用比較級。<br>(A) prettier：更漂亮，氣味不是改變外觀。<br>(B) larger：更大，放大食物是上一個眼鏡功能。<br>(C) healthier：更健康，香味不會改變營養。<br>(D) tastier：更美味，是 tasty 的比較級。<br>整句是：裝置讓普通點心感覺比實際更好吃。"
     },
     {
       "no": 30, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
       "stem": "Choose the best answer for blank 30.",
       "options": {"A": "impress", "B": "release", "C": "bother", "D": "attract"},
-      "explain": "裝置可設定為 release「釋放」使用者喜愛的氣味。"
+      "explain": "<b>解題關鍵：</b>裝置使用 scent bottles，後文說八成受試者被 smell 騙到，所以它要做的是把喜愛的味道「釋放」出來。<br>(A) impress：使留下深刻印象，不能說裝置 impress a flavor。<br>(B) release：釋放；release one’s favorite flavor 表示放出喜歡的香味。<br>(C) bother：打擾，味道不是被打擾的對象。<br>(D) attract：吸引，通常吸引人或注意力，不能表示產生氣味。<br>整句是：裝置可設定成釋放使用者最喜歡的味道。"
     },
     {
       "no": 31, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "G", "group": "G4",
       "stem": "Choose the best word for blank 31.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "父親總晚一個月送花，因此 ruined「毀了」結婚紀念日慶祝。"
+      "explain": "<b>解題關鍵：</b>空格需要過去式動詞；父親把 5 月 26 日記成 6 月 25 日，花總晚一個月送到，結果自然是把紀念日慶祝「搞砸」。<br>選 G ruined（毀掉、搞砸），ruined their anniversary celebration 搭配完整。purchases、requests 是名詞，trusted、revealed 雖可作動詞，卻和「晚送花」的結果不合。<br>整句是：這常常搞砸他們的結婚紀念日慶祝。"
     },
     {
       "no": 32, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "E", "group": "G4",
       "stem": "Choose the best word for blank 32.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "insist on going 表示父親「堅持」要去市場。"
+      "explain": "<b>解題關鍵：</b>空格後有 on going，固定搭配 insist on V-ing 表示「堅持做某事」。母親很少叫父親去買菜，但父親若堅持去，她就一定讓他帶清單。<br>選 E insisted（堅持）。其他選項中，ignored 是忽視、trusted 是信任、revealed 是揭露，都不能接 on going 表達堅持。<br>整句是：每當父親堅持要去，母親就確定他帶著購物清單。"
     },
     {
       "no": 33, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "F", "group": "G4",
       "stem": "Choose the best word for blank 33.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "出門時父親確實把清單準備好，had the list ready。"
+      "explain": "<b>解題關鍵：</b>句型 had the list ___ 需要能說明清單狀態的形容詞；後面說他離開市場後才又找到清單，可知出門時清單本來確實「準備好了」。<br>選 F ready，have something ready 表示「把某物準備妥當」。obvious 是明顯的，little 是少量的，都無法交代清單已備妥。<br>整句是：他離家去市場時，確實已把清單準備好。"
     },
     {
       "no": 34, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "B", "group": "G4",
       "stem": "Choose the best word for blank 34.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "在市場依記憶買回的是 purchases「購買的東西」。"
+      "explain": "<b>解題關鍵：</b>空格前有 the，後面是 that he made，且場景在市場買東西，因此需要複數名詞表示「買下的物品」。<br>選 B purchases，make purchases 是「購買東西」。requests 雖也是複數名詞，但 requests 是母親的要求，正好在下一句出現；此處談父親實際買回什麼。<br>整句是：他買的東西主要依靠自己對清單的記憶。"
     },
     {
       "no": 35, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "D", "group": "G4",
       "stem": "Choose the best word for blank 35.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "買回物品通常與母親的 requests「要求」不同。"
+      "explain": "<b>解題關鍵：</b>父親忘了購物清單，只靠記憶採買，因此 items（買回的物品）通常和母親原本要他買的內容不同。空格要用名詞。<br>選 D requests（要求、所求的東西），Mom’s requests 就是母親交代的採買需求。purchases 是父親實際買的物品，已用在前一句，兩者形成對比。<br>整句是：那些物品通常和母親的要求不一樣。"
     },
     {
       "no": 36, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "C", "group": "G4",
       "stem": "Choose the best word for blank 36.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "be trusted with secrets 表示「被託付祕密」。"
+      "explain": "<b>解題關鍵：</b>空格前是 was、後面是 with many secrets，固定搭配 be trusted with something 表示「被信任而託付某事」。大家相信父親記不住，所以放心告訴他祕密。<br>選 C trusted。revealed 是「被揭露」，若祕密已被揭露，就不會是父親因健忘得到的好處；insisted 也不能接 with secrets。<br>整句是：他被家人與社區的人託付許多祕密。"
     },
     {
       "no": 37, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "H", "group": "G4",
       "stem": "Choose the best word for blank 37.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "能聽到每個人的私事成了父親的 privilege「特殊待遇」。"
+      "explain": "<b>解題關鍵：</b>the ___ of hearing 需要名詞；前一句說健忘帶給父親一些 advantages，能聽大家的私事就是一項特別的權利或待遇。<br>選 H privilege（特權、難得的待遇），the privilege of V-ing 是「有做某事的特殊機會」。purchases、requests 雖是名詞，但和 hearing private matters 無法搭配。<br>整句是：他享有聽見每個人私事的特殊待遇。"
     },
     {
       "no": 38, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "J", "group": "G4",
       "stem": "Choose the best word for blank 38.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "大家願意說祕密的原因很 obvious：父親不會記得。"
+      "explain": "<b>解題關鍵：</b>冒號後直接說明原因：大家以為父親不會記得任何祕密。空格放在 was 後，需要形容詞表示這個理由「很明白」。<br>選 J obvious（明顯的、很清楚的）。ready 雖也是形容詞，但 reason was ready 語意不通；little 可表示少量，也不能形容原因。<br>整句是：理由很明白——大家認為父親根本不會記得。"
     },
     {
       "no": 39, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "I", "group": "G4",
       "stem": "Choose the best word for blank 39.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "鄰居相信家庭祕密永不會被 revealed「洩露」。"
+      "explain": "<b>解題關鍵：</b>空格前是 would never be，需接過去分詞形成被動；鄰居敢說家中祕密，是因相信祕密不會被說出去。<br>選 I revealed（揭露、洩露），be revealed 表示「被公開」。trusted 也可作過去分詞，但 secrets are trusted 語意不自然；人可以 be trusted with secrets。<br>整句是：他們相信家中的祕密永遠不會被洩露。"
     },
     {
       "no": 40, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "A", "group": "G4",
       "stem": "Choose the best word for blank 40.",
       "options": {"A": "little", "B": "purchases", "C": "trusted", "D": "requests", "E": "insisted", "F": "ready", "G": "ruined", "H": "privilege", "I": "revealed", "J": "obvious"},
-      "explain": "care little about 表示父親「幾乎不在意」誰做了什麼。"
+      "explain": "<b>解題關鍵：</b>前文說鄰居判斷正確，因為父親不會洩密；空格位於 cared ___ about，固定說法 care little about 表示「不太在意」。<br>選 A little。這裡 little 是副詞，修飾 cared；不是「小的」。若選 obvious、ready 等形容詞，無法放在 cared 與 about 中間。<br>整句是：父親幾乎不在意誰對誰做了什麼。"
     },
     {
       "no": 41, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G5",
       "stem": "What is the job of an angelfish in the sea?",
       "options": {"A": "Being a cleaner for other fish.", "B": "Being a bodyguard for other fish.", "C": "Being a gardener for roots and plants.", "D": "Being a caretaker for sponge and algae."},
-      "explain": "第二段指出多數神仙魚會替其他魚清除死組織，扮演 cleaner。"
+      "explain": "<b>解題關鍵：</b>定位第二段：Most of them act as cleaners for other fish and pick dead tissue from their bodies，明說牠們替其他魚清除死組織。<br>(A) 當清潔者：符合原文，是正解。<br>(B) 當保鑣：第三段只有群體中的雄魚保護雌魚，不是一般神仙魚的工作。<br>(C) 當園丁：根和植物只是牠們躲藏的環境。<br>(D) 照顧海綿與藻類：兩者是牠們的食物，不是照顧對象。<br>所以神仙魚在海中的「職業」是替其他魚清潔身體。"
     },
     {
       "no": 42, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G5",
       "stem": "Which of the following statements is true about the color of angelfish?",
       "options": {"A": "Female angelfish are blue in color.", "B": "The colors of the fish become less bright at night.", "C": "Male angelfish do not have black stripes on them.", "D": "The adult fish and the young ones have the same colors."},
-      "explain": "文中明說神仙魚夜間不活躍時，顏色可能變淡，故 B 正確。"
+      "explain": "<b>解題關鍵：</b>定位第一段：At night...their colors may become pale，夜晚不活動時，顏色可能變淡。<br>(A) 雌魚是藍色：第三段說雌魚是黃色。<br>(B) 夜晚顏色較不鮮亮：pale 正是較淡，符合原文。<br>(C) 雄魚沒有黑條紋：變性完成時黑條紋出現，不能這樣說。<br>(D) 成魚幼魚同色：第一段明說 young ones are differently colored。<br>因此只有 B 與文章的顏色描述一致。"
     },
     {
       "no": 43, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G5",
       "stem": "According to the passage, what triggers the gender change in the blackspot angelfish?",
       "options": {"A": "Dangers to the group.", "B": "Changes in the fish’s diet.", "C": "The birth of young angelfish.", "D": "The death of the male fish in a group."},
-      "explain": "群體中的雄魚死亡後，最大雌魚才開始變性，故觸發因素是雄魚死亡。"
+      "explain": "<b>解題關鍵：</b>定位第三段：When the male dies, the group needs a new “security guard.” This is when the largest female...begins to change。雄魚死亡後，最大雌魚才開始改變。<br>(A) 群體有危險：文章沒有說危險會直接觸發變性。<br>(B) 飲食改變：海綿與藻類是食物，但和變性無關。<br>(C) 幼魚出生：未提。<br>(D) 雄魚死亡：與原文時間及原因都吻合。<br>所以觸發點是群體中原本的雄魚死亡。"
     },
     {
       "no": 44, "cat": "C4", "tags": ["資訊排序"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G5",
       "stem": "Which of the following describes the order of changes in the features of a blackspot angelfish during gender change?",
       "options": {"A": "Size → behavior → color → stripes.", "B": "Color → size → behavior → stripes.", "C": "Size → color → behavior → stripes.", "D": "Color → behavior → size → stripes."},
-      "explain": "文章順序是體型變大、由黃轉藍、行為改變，最後出現黑色條紋。"
+      "explain": "<b>解題關鍵：</b>定位第三段連續的時間詞：先 begins to grow larger in size；一週後 starts changing color；接著 behavior...changes；兩週後 black stripes appear。<br>(A) 把行為放在顏色前，與原文不符。<br>(B) 一開始就寫顏色改變，錯。<br>(C) 體型→顏色→行為→條紋，完全符合原文。<br>(D) 同樣把顏色放在體型前。<br>排序題要沿著文章的動作出現順序讀，因此選 C。"
     },
     {
       "no": 45, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G6",
       "stem": "Which of the following is the best title for this passage?",
       "options": {"A": "Totem Poles, the Legends of Aboriginal Peoples", "B": "Totem Poles: Their Functions", "C": "Totem Poles, Symbols of Historical Resistance", "D": "Totem Poles: Their Designs"},
-      "explain": "文章主要依類型介紹圖騰柱的不同用途，最佳標題是 Their Functions。"
+      "explain": "<b>解題關鍵：</b>第一段說圖騰柱能說家族故事；第二至四段分別介紹 welcome、house、memorial、mortuary、shame poles 各自放在哪裡、做什麼，重點是不同功能。<br>(A) 傳說：文章不是講傳說故事。<br>(B) 圖騰柱的功能：涵蓋全文，是正解。<br>(C) 歷史抵抗：最後只簡短提殖民威脅，範圍太窄。<br>(D) 設計：雖提雕刻與顏色，但不是各段主軸。<br>最佳標題要涵蓋最多段落，因此選 B。"
     },
     {
       "no": 46, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G6",
       "stem": "How is the information about totem poles organized in Paragraphs 2 to 4?",
       "options": {"A": "In order of importance.", "B": "In order of time.", "C": "By cause and effect.", "D": "By classification."},
-      "explain": "第 2–4 段分別介紹 welcome、house、memorial、mortuary、shame poles，是分類組織。"
+      "explain": "<b>解題關鍵：</b>第二段介紹 welcome poles 與 house poles，第三段介紹 memorial 與 mortuary poles，第四段介紹 shame pole；作者依種類一一說明。<br>(A) 重要性順序：沒有說哪一種最重要。<br>(B) 時間順序：不是從古到今排列。<br>(C) 因果：各段不是前因造成後果。<br>(D) 分類：把圖騰柱分成不同類別，再說各自用途，符合。<br>所以第 2–4 段採用「分類說明」。"
     },
     {
       "no": 47, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G6",
       "stem": "Which of the following is located at the edge of a body of water?",
       "options": {"A": "The house pole.", "B": "The shame pole.", "C": "The memorial pole.", "D": "The welcome pole."},
-      "explain": "welcome poles 設於村落 beachfronts，位在水域邊緣。"
+      "explain": "<b>解題關鍵：</b>定位第二段：Welcome poles were traditionally placed on village beachfronts，beachfronts 就是靠海或水邊的地方，用來迎接乘獨木舟來訪的人。<br>(A) house pole：放在酋長家中。<br>(B) shame pole：文章只說用來羞辱犯錯的酋長，未說在水邊。<br>(C) memorial pole：立在房屋前。<br>(D) welcome pole：設在村落海濱，符合水域邊緣。<br>題目的 edge of a body of water 對應 beachfront。"
     },
     {
       "no": 48, "cat": "C4", "tags": ["語境推義"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G6",
       "stem": "Which is closest in meaning to the word “encroachment” in the last paragraph?",
       "options": {"A": "Invasion.", "B": "Appointment.", "C": "Objection.", "D": "Enrichment."},
-      "explain": "殖民勢力對文化與政治的 encroachment 指「侵入、侵占」，最接近 invasion。"
+      "explain": "<b>解題關鍵：</b>末段說即使面對殖民勢力對文化與政治造成的 threats，圖騰柱雕刻仍存續；encroachment 因而是負面的「逐步侵入、侵占」。<br>(A) invasion：入侵，意思最接近。<br>(B) appointment：任命，與殖民威脅無關。<br>(C) objection：反對，只是表達不同意，程度與語意不合。<br>(D) enrichment：豐富、增益，是正面意思，與 threats 相反。<br>利用 threats 和 despite 可判斷這是負面侵入。"
     },
     {
       "no": 49, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G7",
       "stem": "According to the passage, which of the following is true about an earworm?",
       "options": {"A": "It is a creature living inside our ears.", "B": "It is a tune memorized in a personal way.", "C": "It is a melody repeating in our heads.", "D": "It is a commercial recalled through lyrics."},
-      "explain": "earworm 是在腦中反覆播放、揮之不去的旋律。"
+      "explain": "<b>解題關鍵：</b>定位第一段：Sometimes a tune...plays, and replays, in a never-ending loop，並說耳朵沒聽見，腦中仍繼續播放。<br>(A) 耳內生物：earworm 是比喻名稱，不是真的蟲。<br>(B) 用個人方式記住的曲子：原文重點是自動反覆，不是記憶方式。<br>(C) 腦中重複的旋律：完整符合。<br>(D) 由歌詞想起的廣告：廣告歌只是可能例子，不是定義。<br>所以 earworm 指腦中不停重播的旋律。"
     },
     {
       "no": 50, "cat": "C4", "tags": ["語境推義"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G7",
       "stem": "Which of the following best defines “subject” in the first paragraph?",
       "options": {"A": "A kind of mental disease.", "B": "A course being taken.", "C": "A participant in an experiment.", "D": "A matter being studied."},
-      "explain": "subject 是科學家探索的現象，意為「被研究的議題」。"
+      "explain": "<b>解題關鍵：</b>原句 This interesting phenomenon becomes a subject explored by many scientists，subject 後面被 scientists explored，表示科學家研究的「主題、事情」。<br>(A) 心理疾病：文章把它稱為有趣現象，未說是疾病。<br>(B) 修習的科目：雖然 subject 可指科目，但此處不是上課。<br>(C) 實驗受試者：通常指人，但前面的 phenomenon 是現象。<br>(D) 被研究的事情：最符合 explored 的語境。<br>同一個字要依前後文選意思，此處選 D。"
     },
     {
       "no": 51, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G7",
       "stem": "Which of the following is NOT mentioned as a feature that would trigger earworms?",
       "options": {"A": "Tunes repeatedly encountered.", "B": "Melodies with smooth rhythms.", "C": "Fragments of songs recently heard.", "D": "Words similar to the lyrics of a song."},
-      "explain": "文中提到重複接觸、最近聽到片段、相似字詞，未提 smooth rhythms。"
+      "explain": "<b>解題關鍵：</b>題目問 NOT mentioned，要找唯一沒出現的特徵。第二段提 recent or repeated exposure，也提 song fragments，以及和歌詞相似的 phrase。<br>(A) 反覆遇到的曲調：對應 repeated exposure，有提。<br>(B) 節奏流暢的旋律：文章說 simple, upbeat melody，沒有說 smooth rhythms。<br>(C) 最近聽到的歌曲片段：對應 recent exposure to a small part，有提。<br>(D) 與歌詞相似的字詞：對應 word associations，有提。<br>所以答案是 B。"
     },
     {
       "no": 52, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G7",
       "stem": "What is the third paragraph mainly about?",
       "options": {"A": "Why people find earworms annoying.", "B": "How people react to earworms.", "C": "What people use to kill earworms.", "D": "When people start to notice earworms."},
-      "explain": "第三段比較人們對耳蟲的感受與因應方式，主旨是人們如何反應。"
+      "explain": "<b>解題關鍵：</b>第三段先說多數人覺得耳蟲愉快或中性，再說正面感受者會放著不管，負面感受者會唱歌、說話或祈禱來應對；整段都在談人的反應。<br>(A) 為何覺得煩：只提感受，沒有分析原因。<br>(B) 人如何反應：同時涵蓋感受與因應方式，是正解。<br>(C) 用什麼殺死耳蟲：earworm 不是真的蟲。<br>(D) 何時注意到：第三段沒有談時間。<br>主旨要涵蓋整段，選 B。"
     },
     {
       "no": 53, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G8",
       "stem": "What is this passage mainly about?",
       "options": {"A": "Steps to get rid of bedbugs.", "B": "Ways to use foggers correctly.", "C": "The ineffectiveness of bug bombs.", "D": "The problems caused by insects."},
-      "explain": "全文說明 bug bombs 難以消滅床蝨且帶來風險，核心是其無效性。"
+      "explain": "<b>解題關鍵：</b>第一段說蟲會躲起來，第二段實驗發現 foggers 幾乎沒有效果，第三段再說有火災與有毒殘留風險；全文都在提醒 bug bombs 不好用。<br>(A) 消滅床蝨步驟：文章沒有教步驟。<br>(B) 正確使用方式：重點是不要依賴它，不是操作教學。<br>(C) bug bombs 無效：涵蓋實驗與作者警告，是正解。<br>(D) 昆蟲造成的問題：太廣，文章焦點是 foggers。<br>因此主旨選 C。"
     },
     {
       "no": 54, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G8",
       "stem": "How do bedbugs react to foggers?",
       "options": {"A": "They remain motionless.", "B": "They retreat to safe places.", "C": "They stop biting people.", "D": "They escape into another house."},
-      "explain": "床蝨偵測到煙霧後會躲入牆壁或其他藏身處。"
+      "explain": "<b>解題關鍵：</b>定位第一段：Once the pests detect the chemical fog...they’ll hide themselves in walls or other hideaways。也就是床蝨察覺煙霧後會退到安全藏身處。<br>(A) 保持不動：原文說會躲藏，不是不動。<br>(B) 退到安全處：符合 walls or other hideaways。<br>(C) 停止叮人：沒有提。<br>(D) 逃到另一棟房子：原文只說躲在原屋牆壁等處。<br>所以選 B，關鍵動詞是 hide。"
     },
     {
       "no": 55, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G8",
       "stem": "According to the passage, which of the following statements about foggers is true?",
       "options": {"A": "They can cause a fire.", "B": "They do not stay on furniture.", "C": "They can kill most insects.", "D": "They do not contain chemicals."},
-      "explain": "bug bombs 的氣體高度易燃，使用不當可能造成火災或爆炸。"
+      "explain": "<b>解題關鍵：</b>定位第三段：the gases...are highly flammable and thus pose a serious risk of fire or explosion，明說氣體易燃，可能引起火災或爆炸。<br>(A) 可能造成火災：符合原文。<br>(B) 不會留在家具上：原文說 every surface，包括 furniture，都會覆上農藥。<br>(C) 能殺死多數昆蟲：實驗顯示幾乎無效。<br>(D) 不含化學物：文中多次說 chemical、pesticide。<br>因此只有 A 正確。"
     },
     {
       "no": 56, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G8",
       "stem": "What does the author advise people to do with bedbug problems?",
       "options": {"A": "Choose the right fogger.", "B": "Clean the house regularly.", "C": "Close the doors when using pesticides.", "D": "Consult a pest-control expert."},
-      "explain": "末句建議把問題交給 professionals，也就是諮詢害蟲防治專家。"
+      "explain": "<b>解題關鍵：</b>定位全文最後一句：it is suggested that people leave the problem to the professionals，意思是把床蝨問題交給專業人員處理。<br>(A) 選對 fogger：作者說 fogger 應是最後手段，並非建議。<br>(B) 定期清潔：文章沒有提出。<br>(C) 使用農藥時關門：未提，且不能解決毒性與火災風險。<br>(D) 諮詢害蟲防治專家：professionals 在此就是專業除蟲人員。<br>所以作者建議尋求專家協助。"
     }
   ]
 });
@@ -2631,62 +2631,62 @@ window.BANK.push({
 // 題目與答案取自大學入學考試中心官方試題、答案。
 (function () {
   const explanations = {
-    1: "芒果在臺灣主要於七月達到最甜的盛產期，seasonal fruit 指「季節性水果」。",
-    2: "寫學期報告與口頭報告是大學生常見的課程要求，course requirements 搭配自然。",
-    3: "努力實現夢想應用 fulfill one’s dreams，fulfill 表示「實現、完成」。",
-    4: "承諾從未付諸行動，表示這些話空洞不實；hollow promises 是「空洞的承諾」。",
-    5: "打網球造成腳踝受傷且仍疼痛，twist one’s ankle 表示「扭傷腳踝」。",
-    6: "男女對婚姻意義有不同看法，beliefs 表示「信念、觀念」。",
-    7: "同樣工作卻給更短期限，顯示新經理要求很高；demanding 表示「要求嚴格的」。",
-    8: "孩子失蹤時夫妻焦急尋找，anxiously 表示「焦慮地」。",
-    9: "得獎者演講後被索取簽名的粉絲包圍，be surrounded by 是「被……包圍」。",
-    10: "面試者要讓面試官對自己的能力留下好印象，impress 表示「使留下深刻印象」。",
-    11: "草地被一大片雪覆蓋可說 a blanket of snow，以「毯子」比喻覆蓋層。",
-    12: "書頁邊緣可供寫筆記的空白處是 margins「頁邊空白」。",
-    13: "遲交作業會以低分作為處罰，penalty 表示「懲罰」。",
-    14: "研究在醫院中被執行，conduct a study 是「進行研究」，此處用被動 have been conducted。",
-    15: "火勢猛烈且蔓延迅速，並已造成三十人死亡，massive firestorm 表示「大規模火災」。",
-    16: "文章否定創造力只屬於少數天才，指出它更像人類天賦；less A than B 表示「與其說是 A，不如說是 B」。",
-    17: "暫時離開問題可能激發頓悟時刻，spark 在此表示「引發、激起」。",
-    18: "公司鼓勵員工參加放鬆活動，take part in 表示「參與」。",
-    19: "the mind turns inward 描述一種心智狀態，where 引導關係副詞子句，意為「在此狀態中」潛意識可整理線索。",
-    20: "突破常出現在人們跨出慣常作息或專業領域時，venture beyond 表示「冒險超越」。",
-    21: "吸油特性對衛生未必好，對環境卻有益，While 在此引導讓步對比，表示「雖然」。",
-    22: "人髮供應無限且可重複取得，被稱為終極可再生資源 renewable resource。",
-    23: "收集頭髮與動物毛是為了清理每年發生的漏油，clean up after 表示「在……之後清理」。",
-    24: "water 是被污染的，需用過去分詞 polluted 作形容詞修飾 waters。",
-    25: "沙龍與牧場剪下後不再需要的毛髮可回收利用，unneeded 表示「不需要的」。",
-    26: "know 後的名詞子句缺少 dreaming of 的受詞，what 同時作連接詞與介系詞 of 的受詞。",
-    27: "清醒夢仍發生於睡眠中，因此人的身體是 asleep「睡著的」，與 daydream 時身體清醒形成對比。",
-    28: "後文說清醒夢還能運用大腦潛能，故不只是清楚的夢；more than 表示「不只是」。",
-    29: "後句換句話重述清醒夢能運用沉睡時的大腦潛能，In other words 表示「換言之」。",
-    30: "夢中可成為超級英雄，不受現實身分限制；regardless of 表示「不論、不管」。",
-    31: "關於幸運餅乾起源有多個彼此競爭、尚未證實的說法，competing stories 指「相互競逐的說法」。",
-    32: "trace A back to B 表示「把 A 追溯至 B」，此說把起源追溯到十三、十四世紀中國。",
-    33: "藏在月餅中的紙條記載推翻蒙古人的秘密計畫，secret plans 符合革命需保密的語境。",
-    34: "革命最後促成明朝建立，表示行動成功，successful 最符合結果。",
-    35: "此處把今日所知的幸運餅乾稱為 treats「點心、甜食」。",
-    36: "前文列出多個起源說法，another account 表示「另一種說法」。",
-    37: "每塊餅乾裡面都裝有一張聖經勵志語紙條，contained 表示「包含」。",
-    38: "較廣為接受的說法認為幸運餅乾在 1907 或 1914 年首次出現，appeared 符合語意。",
-    39: "將配方加甜是為迎合美國人的口味，tastes 在此指「口味、喜好」。",
-    40: "中餐館把感謝紙條換成占卜籤語，replace A with B 表示「以 B 取代 A」。",
-    41: "全文依序說明白宮的興建、開放傳統與名稱演變，主旨是白宮歷史，選 D。",
-    42: "this practice 承接 Jefferson 開創、Lincoln 延續的總統就職開放參觀活動；人潮過大促成管制，因此選 A。",
-    43: "第一段指出 Washington 宣布聯邦政府所在地、主持籌備並監督房屋興建，因此由他發起，選 C。",
-    44: "設計師 James Hoban 是愛爾蘭出生的建築師，不是美國總統，所以 NOT 題選 B。",
-    45: "文章從傳播與症狀談到 2012 年疫情，再分析氣候、經濟與政府作為等有利病毒蔓延的條件，選 C。",
-    46: "第一段說症狀通常在蚊子叮咬後 3 至 14 天出現，也就是兩週內，選 A。",
-    47: "第二段明說 Dallas 宣布緊急狀態，並以空中噴灑農藥消滅蚊子，選 A。",
-    48: "第三段指出異常溫和的冬季讓更多蚊子存活，是 2012 年疫情嚴重的原因之一，選 D。",
-    49: "Saudi Arabia 水資源有限，且與臺灣淡水充足形成對比，因此 arid 是「乾燥的」，選 C。",
-    50: "第二段強調海水淡化需要大量能源、技術昂貴，核心是淡化成本高，選 A。",
-    51: "第三段說海洋生物可能被吸入淡化廠，殺死幼魚與浮游生物並擾亂食物鏈，選 B。",
-    52: "作者雖列出成本與環境障礙，末段仍說研究競賽已展開且不斷有可望成功的新成果，態度偏樂觀 hopeful，選 D。",
-    53: "全文不只談搖籃曲哄睡，也說它能療癒嬰兒並讓母親抒發恐懼，最適合的標題是「搖籃曲的功能」，選 B。",
-    54: "dark undertones 指歌詞表面之下帶有陰暗含意或訊息，messages 最接近，選 D。",
-    55: "第二段直接以研究結果 Research has shown 支持搖籃曲能安撫、甚至幫助療癒嬰兒，選 A。",
-    56: "搖籃曲的聲音與旋律安撫嬰兒，歌詞則讓母親表達焦慮並成為她的療癒，因此同時安慰兩者，選 C。"
+    1: "<b>解題關鍵：</b>後半句說臺灣芒果大多在七月最甜，表示它有特定盛產季節。<br>(A) mature「成熟的」未說季節；(B) usual「平常的」；(C) seasonal「季節性的」最符合；(D) particular「特定的」不能說明七月盛產。<br>把答案放回去：芒果在臺灣是季節性水果。",
+    2: "<b>解題關鍵：</b>學期報告和口頭報告都是大學生修課時被要求完成的事項。<br>(A) requirements「要求」可組成 course requirements；(B) techniques「技巧」；(C) situations「情況」；(D) principles「原則」都不是課程指定作業。<br>把答案放回去：這兩項是典型的課程要求。",
+    3: "<b>解題關鍵：</b>努力工作的目的是讓夢想成真，固定搭配 fulfill one’s dreams 是「實現某人的夢想」。<br>(A) distribute「分配」；(B) fulfill「實現」正確；(C) convince「說服」要接人；(D) monitor「監控」。<br>把答案放回去：年輕時努力實現夢想，年老時才不會遺憾。",
+    4: "<b>解題關鍵：</b>never make efforts to keep them 說承諾從未付諸行動，因此這些話只是空洞承諾。<br>(A) chilly「寒冷的」；(B) liberal「開放的」；(C) hollow「空洞不實的」正確；(D) definite「明確的」。<br>把答案放回去：一直開空頭支票，就不會有人信任你。",
+    5: "<b>解題關鍵：</b>打網球後腳踝到現在還很痛，表示當時扭傷了。<br>(A) slipped「滑倒」通常不直接接 ankle；(B) dumped「丟棄」；(C) twisted「扭傷」正確；(D) recovered「康復」與仍疼痛相反。<br>把答案放回去：Becky 上週打球時扭傷腳踝。",
+    6: "<b>解題關鍵：</b>句子舉例說男女對婚姻的意義想法不同，空格需要「信念、觀念」。<br>(A) decisions「決定」；(B) beliefs「觀念」正確；(C) styles「風格」；(D) degrees「程度」。<br>把答案放回去：男女對婚姻意義有不同看法。",
+    7: "<b>解題關鍵：</b>同樣工作卻給比以前短很多的期限，可知新經理對員工要求很高。<br>(A) persuasive「有說服力的」；(B) tolerable「可忍受的」；(C) suspicious「懷疑的」；(D) demanding「要求嚴格的」最符合。<br>把答案放回去：新經理要求嚴格。",
+    8: "<b>解題關鍵：</b>孩子失蹤時，父母不知道他們其實在附近玩，所以尋找時的心情是焦急。<br>(A) anxiously「焦慮地」正確；(B) precisely「精確地」；(C) evidently「明顯地」；(D) distinctly「清楚地」。<br>把答案放回去：夫妻焦急地尋找失蹤的孩子。",
+    9: "<b>解題關鍵：</b>一群粉絲都靠近得獎者索取簽名，畫面是她被人群包圍。<br>(A) deposited「存放」；(B) reserved「保留」；(C) vanished「消失」；(D) surrounded「包圍」正確，be surrounded by 是固定搭配。<br>把答案放回去：她演講後被粉絲包圍。",
+    10: "<b>解題關鍵：</b>面試者想讓面試官相信自己有能力並錄取他，需「留下好印象」。<br>(A) credit「把功勞歸給」；(B) impress「使留下深刻印象」正確；(C) relieve「減輕」；(D) acquire「獲得」。<br>把答案放回去：他們努力使面試官留下深刻印象。",
+    11: "<b>解題關鍵：</b>雪覆蓋整片草原，英文常用 a blanket of snow，把雪比喻成一條毯子。<br>(A) flake「一片雪花」太小；(B) blossom「花朵」；(C) blanket「覆蓋層、毯子」正確；(D) flash「閃光」。<br>把答案放回去：草原消失在一層白雪之下。",
+    12: "<b>解題關鍵：</b>書頁上能寫筆記的寬大空白處位於頁面邊緣。<br>(A) angles「角度」；(B) margins「頁邊空白」正確；(C) exceptions「例外」；(D) limitations「限制」。<br>把答案放回去：Peter 喜歡頁邊空白較寬的書。",
+    13: "<b>解題關鍵：</b>老師以低分處理遲交作業，這是一種處罰。<br>(A) hardship「困苦」；(B) comment「評論」；(C) bargain「便宜交易」；(D) penalty「處罰」正確。<br>把答案放回去：遲交作業會以低分作為處罰。",
+    14: "<b>解題關鍵：</b>study 是「研究」，研究是在醫院「被進行」，所以要用過去分詞 conducted；conduct a study 是固定搭配。<br>(A) conducted 正確；(B) confirmed「證實」；(C) implied「暗示」；(D) improved「改善」都不表示進行研究。<br>把答案放回去：多項研究已在這家醫院進行。",
+    15: "<b>解題關鍵：</b>前句說大火猛烈、移動快速，後句又說已奪走三十條人命，規模很大。<br>(A) efficient「有效率的」；(B) reliable「可靠的」；(C) massive「大規模的」正確；(D) adequate「足夠的」。<br>把答案放回去：這場大規模火災已造成三十人死亡。",
+    16: "<b>解題關鍵：</b>文章要反駁「創造力只屬少數天才」，認為它更像人人都有的潛能。less A than B 是「與其說是 A，不如說是 B」。<br>(A) more 會變成更像天才；(B) less 正確；(C)(D) better/worse 不能組成此比較意思。<br>關鍵句：創造力與其說是罕見天才的象徵，不如說是人類天生潛能。",
+    17: "<b>解題關鍵：</b>暫時離開問題能「引發」頓悟或刺激新想法，spark 和 stimulate 意思相近。<br>(A) spark「引發」正確；(B) carve「雕刻」；(C) drill「鑽孔」；(D) grind「磨碎」。<br>把答案放回去：休息可能點燃突然的靈感。",
+    18: "<b>解題關鍵：</b>公司鼓勵員工「參加」各種放鬆活動。<br>(A) refer to「提到」；(B) answer for「為……負責」；(C) take part in「參與」正確；(D) put up with「忍受」。<br>把答案放回去：成功公司鼓勵員工參加休閒活動。",
+    19: "<b>解題關鍵：</b>逗點後說「在這種內向的心智狀態中」，潛意識能整理意義和連結。where 是關係副詞，也就是用來表示「在那個狀態裡」。<br>(A) if「如果」；(B) but「但是」；(C) where 正確；(D) which 後面缺介系詞 in。<br>關鍵句：休息時心思轉向內在，在其中潛意識繼續思考。",
+    20: "<b>解題關鍵：</b>突破常在人們走出平常作息或專業領域時出現。venture beyond 是「冒險跨越、走出」。<br>(A) into「進入」；(B) without「沒有」；(C) under「在下方」；(D) beyond「超出」正確。<br>把答案放回去：跨出熟悉範圍可能帶來突破。",
+    21: "<b>解題關鍵：</b>前半說吸油對衛生未必好，後半卻說對環境有益，兩邊是「雖然……卻……」的對比。<br>(A) For 表原因；(B) While「雖然」正確；(C) In case「以防」；(D) As long as「只要」。<br>關鍵句：雖然這特性未必衛生，卻能幫助環境。",
+    22: "<b>解題關鍵：</b>後面說人髮供應無限，能反覆取得，所以它是可再生「資源」。<br>(A) equipment「設備」；(B) ingredient「成分」；(C) product「產品」；(D) resource「資源」正確。<br>把答案放回去：人髮是終極可再生資源。",
+    23: "<b>解題關鍵：</b>收集頭髮與動物毛，是要處理每年發生的漏油事件。<br>(A) get away with「做壞事未受罰」；(B) clean up after「在……後清理」正確；(C) run out of「用完」；(D) look down upon「看不起」。<br>把答案放回去：這些毛髮用來清理漏油。",
+    24: "<b>解題關鍵：</b>毛髮墊被送往「已受污染的」水域吸油；空格放在 waters 前，要用過去分詞 polluted 當形容詞。<br>(A) pollute 是原形動詞；(B) polluting 表「正在污染別人的」；(C) polluted 正確；(D) pollution 是名詞。<br>把答案放回去：墊子被送往受污染水域。",
+    25: "<b>解題關鍵：</b>美容院和牧場剪下後不要的毛髮，本來是廢棄物，現在被收集再利用。<br>(A) unneeded「不需要的」正確；(B) overthrown「被推翻的」；(C) excluded「被排除的」；(D) disconnected「斷開的」。<br>把答案放回去：組織協助收集不要的毛髮。",
+    26: "<b>解題關鍵：</b>lucid dreamer 不只知道自己在作夢，也知道「夢見什麼」。dream of 後缺受詞，what 同時連接子句並代替夢中內容。<br>(A) what 正確；(B) why 問原因；(C) when 問時間；(D) which 後通常要有可選範圍。<br>關鍵句：清醒夢者知道自己在作夢，也知道夢的內容。",
+    27: "<b>解題關鍵：</b>清醒夢仍然是一種夢，發生時人的心雖清楚，身體仍在睡眠中。<br>(A) apart「分開」；(B) absent「缺席」；(C) alone「獨自」；(D) asleep「睡著的」正確。<br>把答案放回去：作清醒夢時，身體是睡著的。",
+    28: "<b>解題關鍵：</b>Yet 表示轉折，下一句說清醒夢還能運用大腦深層能力，所以它「不只是」清楚的夢。<br>(A) related to「與……相關」；(B) aside from「除了」；(C) more than「不只是」正確；(D) nothing but「只不過是」意思相反。<br>把答案放回去：清醒夢不只是清楚的夢。",
+    29: "<b>解題關鍵：</b>前句說清醒夢不只是一場清楚的夢，後句用另一種說法解釋它能運用大腦。<br>(A) In other words「換句話說」正確；(B) By no means「絕不」；(C) At any cost「不惜代價」；(D) On the contrary「正好相反」。<br>把答案放回去：換句話說，睡眠時也能運用大腦。",
+    30: "<b>解題關鍵：</b>清醒時可能只是普通人，夢中卻能當超級英雄，表示不受真實身分限制。<br>(A) such as「例如」；(B) regardless of「不論」正確；(C) with respect to「關於」；(D) on behalf of「代表」。<br>把答案放回去：不論現實中的你是誰，夢中都能成為英雄。",
+    31: "<b>解題關鍵：</b>文章說幸運餅乾有 several stories，而且後面列出不同起源說法，空格要用形容詞修飾 stories。<br>competing 是「彼此競爭、尚無定論的」，最符合多種說法並存；account 雖是「說法」，但前面已有 stories；secret 應形容計畫。<br>把答案放回去：幸運餅乾的起源有好幾種互相競爭的說法。",
+    32: "<b>解題關鍵：</b>back to 13th- and 14th-century China 表示把起源一路往回查到古代中國。<br>trace A back to B 是「把 A 追溯到 B」，主詞 story 為單數，所以用 traces。appeared 是「出現」不能再接受詞 origin；account 是名詞。<br>把答案放回去：其中一種說法把起源追溯到十三、十四世紀中國。",
+    33: "<b>解題關鍵：</b>革命計畫藏在月餅紙條中，表示內容不能公開。secret 是「祕密的」，可直接修飾 plans。<br>successful 要等後文說革命結果；competing 用於多種說法；contained 是動詞。<br>把答案放回去：紙條上寫著革命的祕密計畫。",
+    34: "<b>解題關鍵：</b>eventually led to the formation of the Ming Dynasty 說革命最後促成明朝建立，所以結果是成功的。<br>successful 是形容詞，可接在 be 後；secret 不表示結果；appeared、contained 是動詞形式。<br>把答案放回去：革命成功，最後促成明朝建立。",
+    35: "<b>解題關鍵：</b>today as fortune cookies 表示今日所知的幸運餅乾，它是一種小甜點；the 後需要複數名詞。<br>treats 是「甜點、小點心」最合適；tastes 是「口味」；account 是「說法」，都不能指餅乾本身。<br>把答案放回去：沒有確切證據說月餅故事啟發了今日這種點心。",
+    36: "<b>解題關鍵：</b>前一段是一種起源故事，接著用 Another 引出「另一種說法」。<br>account 作名詞是「說法、敘述」，符合 claims that；competing 是形容詞，不能單獨放此處；traces 是動詞。<br>把答案放回去：另一種說法主張 David Jung 在 1918 年創造幸運餅乾。",
+    37: "<b>解題關鍵：</b>每塊餅乾裡面「裝有」一張寫著聖經勵志語的紙條；敘述過去故事，用過去式。<br>contained 是「包含、裝有」正確；replaced 是「取代」需要 with；appeared 是「出現」不能接受詞。<br>把答案放回去：每塊餅乾內都裝有一張紙條。",
+    38: "<b>解題關鍵：</b>in either 1907 or 1914 是明確過去時間，句意是幸運餅乾第一次「出現」。<br>appeared 是過去式，符合 first 和時間；contained 要接受詞；traces 是現在式且語意不合。<br>把答案放回去：較被接受的說法是它在 1907 或 1914 年首度出現。",
+    39: "<b>解題關鍵：</b>配方被加甜，是為了迎合美國人的飲食喜好。appeal to one’s tastes 是「迎合某人的口味」。<br>tastes 在此是複數名詞「口味、喜好」；treats 是甜點本身；account 是說法。<br>把答案放回去：他把配方變甜以迎合美國人口味。",
+    40: "<b>解題關鍵：</b>句型 replace A with B 是「用 B 取代 A」；文章說中餐館把感謝紙條換成占卜籤語。<br>replaced 與後面的 with 組成固定搭配；contained 只表示包含；appeared 不接受詞。<br>把答案放回去：餐館用占卜紙條取代感謝紙條。",
+    41: "<b>解題關鍵：</b>各段依序談白宮興建、總統就職開放參觀的傳統，以及名稱演變，都是時間上的歷史發展。<br>(A) 設計只是第一段部分；(B) 地點只在開頭；(C) 重要性太空泛；(D) 歷史能統整全文。<br>所以主旨是白宮的歷史。",
+    42: "<b>解題關鍵：</b>第二段先說 Jefferson 在就職典禮後開放白宮，Lincoln 也延續；this practice 就指前述做法。<br>(A) 舉辦就職開放參觀正確；(B) 容納群眾是後來問題；(C) 沒談裝飾；(D) 不是參加宣誓本身。<br>代名詞題要往前找最近且合理的完整動作。",
+    43: "<b>解題關鍵：</b>第一段說 George Washington 選定聯邦政府所在地、主持準備並監督房屋興建，表示由他發起。<br>(A) Adams 是首位入住者；(B) Hoban 是設計師；(C) Washington 正確；(D) Jefferson 開創開放參觀。<br>所以發起興建的是 George Washington。",
+    44: "<b>解題關鍵：</b>這是 NOT 題。原文說白宮曾有不同名稱、戰時停止開放，也位於不超過十英里見方的區域。<br>(A)(C)(D) 都有原文依據；(B) 錯在設計師 James Hoban 是愛爾蘭出生的建築師，不是美國總統。<br>所以不正確的是 B。",
+    45: "<b>解題關鍵：</b>文章不只介紹西尼羅病毒，也分析蚊子傳播、溫暖冬季、經濟與政府作為等讓病毒容易盛行的條件。<br>(A) 防治方法只是部分；(B) 政府效率不是核心；(C) 病毒盛行條件最完整；(D) 熱帶疾病關係不是主題。<br>所以選 C。",
+    46: "<b>解題關鍵：</b>第一段直接指出，症狀通常在蚊子叮咬後 3 到 14 天出現，也就是兩週以內。<br>(A) 符合數字；(B) 不是空氣與水傳播；(C) 嚴重症狀比例沒有超過 20%；(D) 由蚊子傳人，不是人直接接觸病鳥。<br>所以選 A。",
+    47: "<b>解題關鍵：</b>第二段談 Dallas County 的行動：宣布緊急狀態，並從空中噴灑殺蟲劑消滅蚊子。<br>(A) 符合；(B) 避開死鳥不是此處措施；(C) 沒有疫苗行動；(D) 沒說排乾泳池。<br>所以 Dallas 採取的是空中噴藥。",
+    48: "<b>解題關鍵：</b>第三段說前一個冬季異常溫和，使更多蚊子存活，因而讓 2012 疫情嚴重。<br>(A) 人口增加未列為原因；(B) 政府有警告與行動；(C) 居民擔憂是反應，不是疫情成因；(D) 冬季不如平常寒冷符合。<br>所以選 D。",
+    49: "<b>解題關鍵：</b>第一段以沙烏地阿拉伯缺乏淡水為例，arid 用來形容水分少的地區。<br>(A) occupied「被占領的」；(B) isolated「孤立的」；(C) dry「乾燥的」最接近；(D) remote「偏遠的」。<br>所以 arid 的意思是乾燥。",
+    50: "<b>解題關鍵：</b>第二段一直說淡化需要大量能源、設備與昂貴技術，核心就是成本高。<br>(A) 高成本能統整本段；(B) 沒分析化學特性；(C) 急迫需求主要在第一段；(D) 不是談產出多少能源，而是耗能。<br>所以選 A。",
+    51: "<b>解題關鍵：</b>第三段說海洋生物可能被吸入淡化廠，幼魚和浮游生物會死亡，食物鏈也受擾。<br>(A) 原文沒有這項難易比較；(B) 完整符合；(C) 海洋鹹水不能直接滿足需求；(D) 沒把短缺歸因人口增加。<br>所以選 B。",
+    52: "<b>解題關鍵：</b>作者雖說成本與環境問題仍存在，末段卻提到研究競賽已展開，並不斷有可望成功的新成果，語氣對未來有期待。<br>(A) amazed「驚訝」；(B) doubtful「懷疑」；(C) conservative「保守」；(D) hopeful「抱持希望」最符合。<br>所以選 D。",
+    53: "<b>解題關鍵：</b>全文說搖籃曲能哄睡、安撫與療癒嬰兒，也能讓母親抒發恐懼，功能不只一種。<br>(A) 起源不是重點；(B) 功能最完整；(C) 陰暗歌詞只是細節；(D) 只寫助眠太狹窄。<br>最佳標題是「搖籃曲的功能」。",
+    54: "<b>解題關鍵：</b>dark undertones 指歌詞表面下帶著較陰暗的含意，是隱藏在歌曲中的訊息。<br>(A) consequences「後果」；(B) vocals「歌聲」；(C) whispers「耳語」；(D) messages「訊息、含意」最接近。<br>所以選 D。",
+    55: "<b>解題關鍵：</b>第二段用 Research has shown 引出研究發現，支持搖籃曲能安撫甚至幫助療癒嬰兒。<br>(A) 研究報告正確；(B) 不是歷史例子；(C) 沒用照顧者故事當證據；(D) 不是作者個人經驗。<br>所以作者使用研究結果支持觀點。",
+    56: "<b>解題關鍵：</b>文章說聲音與旋律能安撫嬰兒，歌詞則讓母親表達焦慮並得到療癒。<br>(A) 沒說恐怖歌更好睡；(B) 母親不一定偏好歡樂旋律；(C) 同時安慰嬰兒和母親，符合；(D) 嬰兒主要回應聲音，未說理解歌詞。<br>所以選 C。"
   };
   const groups = {
     G1: {
@@ -2800,62 +2800,62 @@ window.BANK.push({
 // 題目與答案均取自大學入學考試中心官方試卷及答案。
 (() => {
   const explanations = {
-    1: "鬧鐘未設定也會響，表示時鐘沒有正常運作；properly 表示「正常地、適當地」。",
-    2: "決心成為物理教授，表示要從事物理相關職涯；pursue a career 是「追求、從事某種職業」。",
-    3: "數日可能遇不到其他人，顯示該地偏遠；remote 表示「遙遠、偏僻的」。",
-    4: "把群體利益置於個人利益前，表示認同自己所屬群體；identify with 是「認同」。",
-    5: "把陌生人誤認成名演員並索取簽名會令人尷尬，embarrassing 表示「令人難堪的」。",
-    6: "薪水幾乎都花在房租與食物，娛樂費所剩無幾；barely 表示「幾乎不」。",
-    7: "飛機和船神祕消失且沒有留下任何線索，without a trace 是「無影無蹤」。",
-    8: "Tony 高喊並揮牌，是在催促路人進店購買麵包；urge＋受詞＋to V 表示「力勸」。",
-    9: "藝術家以細沙創作的是沙雕，sculptures 表示「雕塑作品」。",
-    10: "雲層散開後落在教堂上的一道光是 a beam of light「一束光」。",
-    11: "祖母把錢放進生日卡內，enclose 表示「隨信附上、裝入」。",
-    12: "奧運選手夢想贏得的是金牌 gold medal。",
-    13: "竊賊假扮保全離開，disguise oneself as... 表示「把自己偽裝成……」。",
-    14: "遊戲玩家被提醒留意周遭危險，be aware of 表示「察覺、注意到」。",
-    15: "福爾摩斯能從細節推理，靠的是驚人的觀察力 powers of observation。",
-    16: "眼皮疼痛時看進鏡子檢查睫毛根部，look into the mirror 表示「照鏡子查看」。",
-    17: "疼痛與紅點是針眼剛形成時的症狀，symptoms 表示「症狀」。",
-    18: "先揉鼻子再揉眼睛會把細菌轉移到眼部，be transferred to 表示「被傳到」。",
-    19: "針眼外觀不佳，卻通常無害，前後為讓步關係，Although 表示「雖然」。",
-    20: "以溫熱毛巾貼壓眼皮需用 press A against B，against 表示「貼著」。",
-    21: "貧困者連鞋都不易取得，更不用說尺寸合適的鞋；let alone 表示「更遑論」。",
-    22: "孩子只能勉強穿太小的鞋，make do with 表示「以現有之物將就」。",
-    23: "可成長鞋讓孩子隨腳長大調整尺寸，adjust 表示「調整」。",
-    24: "鞋款有兩種尺寸，come in＋尺寸／顏色表示「以……規格供應」。",
-    25: "鞋跟與腳趾帶控制長度，兩側帶則控制寬度，while 在此表示對照。",
-    26: "前文說壞天氣令人焦慮疲累，因此人們據此認為會降低生產力；Accordingly 表示「因此」。",
-    27: "人們的既有看法與實際研究結果不同，a gap between A and B 表示「A、B 之間的落差」。",
-    28: "研究同時使用實驗資料與銀行實地觀察，as well as 表示「以及」。",
-    29: "好天氣使員工想到工作外可從事的活動，engage in activities 表示「參與活動」。",
-    30: "戶外活動照片會分散注意力，因而降低生產力；lower 表示「使降低」。",
-    31: "古埃及人對洋蔥的重視超過其他文化，admired 表示「欣賞、推崇」。",
-    32: "洋蔥不只作食物或藥物，還具有重要精神意義，spiritual 表示「精神／宗教上的」。",
-    33: "洋蔥一圈又一圈的構造被視為永生的象徵，symbols of eternal life 搭配完整。",
-    34: "圓中有圓的構造映照存在的永恆，reflected 表示「反映、象徵」。",
-    35: "古埃及人把洋蔥的療癒力量視為魔法而非醫療，healing power 是「療癒能力」。",
-    36: "金字塔與墓穴內被發現的許多畫作描繪洋蔥，discovered 作過去分詞修飾 paintings。",
-    37: "洋蔥在祭壇上發揮喪葬供品的功能，functioned as 表示「作為……使用」。",
-    38: "洋蔥被放在遺體不同部位周圍，parts of their bodies 表示「身體部位」。",
-    39: "洋蔥與洋蔥花裝飾木乃伊的骨盆、胸部、耳眼與腳，decorating 是現在分詞描述附帶狀態。",
-    40: "強烈氣味被認為能促使死者再度呼吸，prompt＋受詞＋to V 表示「促使」。",
-    41: "第三段依序說明付款後填問卷、進行遊戲式測試，最後取得認知報告，是評估流程，選 B。",
-    42: "第二段指出狗和人一樣具有多種智能，差別在於較依賴哪一類，因此不同狗各有強項，選 A。",
-    43: "Dognition 是新成立公司，co-founder 也顯示 venture 在此指新創事業，最接近 new business，選 D。",
-    44: "Charmer 信任主人給的資訊勝過自己的眼睛，因此最可能依賴主人指出零食位置，選 C。",
-    45: "全文依序介紹 Capoeira 的特色、奴隸時期起源、遭禁與取得官方認可的發展，主旨是其歷史，選 A。",
-    46: "Capoeira 使用手腳、腿臂與頭部，且源自徒手格鬥；持劍刺擊不符合文中描述，NOT 題選 C。",
-    47: "作者以史實與現況說明 Capoeira，沒有明顯讚美、懷疑或批判語氣，態度客觀，選 B。",
-    48: "末段明說 Mestre Bimba 成功說服巴西政府承認其文化價值，使之成為正式格鬥與國家運動，選 D。",
-    49: "末段以「這場兩週展覽」介紹展品範圍並邀請觀眾欣賞，最可能出現在美術館網站，選 B。",
-    50: "第一段說 Homer 在波士頓印刷公司當學徒，以插畫迅速成名，故先在家鄉建立插畫家聲譽，選 D。",
-    51: "第三段指出他的兒童、農村女孩與獵人作品成為十九世紀美國生活的經典圖像，選 A。",
-    52: "前句的 Many of his works 描繪美國生活，後句 Others 則談普遍主題，因此 Others 指其他作品，選 C。",
-    53: "文章按十七世紀王室飲茶、約 1800 年下午茶、十九世紀 high tea 到今日依序敘述，採時間順序，選 C。",
-    54: "tea break 從當時延續成英國習慣，a lasting British institution 指長久傳統，選 B。",
-    55: "第一段說社交場合飲茶超出多數英國人的負擔，因茶價高且另課稅，所以選 D。",
-    56: "afternoon tea 約下午四點；high tea 是勞工工作一日返家後搭配主餐飲用，時間較晚，選 A。"
+    1: "<b>解題關鍵：</b>鬧鐘沒有設定卻會響，表示時鐘沒有「正常」運作。<br>(A) tenderly「溫柔地」；(B) properly「正常、正確地」最符合；(C) solidly「堅固地」；(D) favorably「有利地」。<br>把答案放回去：John 的時鐘運作不正常。",
+    2: "<b>解題關鍵：</b>Michael 已下定決心成為教授，表示要「從事」物理職涯。<br>(A) pursue a career「追求、從事職涯」正確；(B) swear「發誓」；(C) reserve「保留」；(D) draft「起草」。<br>把答案放回去：他決定走物理這條職業道路。",
+    3: "<b>解題關鍵：</b>連續好幾天可能見不到任何人，說明地點非常偏遠。<br>(A) native「本地的」；(B) tricky「棘手的」；(C) remote「偏遠的」正確；(D) vacant「空著的」，通常形容房間或職位。<br>把答案放回去：Peter 要到非洲偏遠地區健行。",
+    4: "<b>解題關鍵：</b>居民把團體利益放在個人利益前，表示強烈認同所屬團體。<br>(A) appoint「任命」；(B) eliminate「消除」；(C) occupy「占據」；(D) identify with「認同」正確。<br>把答案放回去：人們傾向認同自己所屬的群體。",
+    5: "<b>解題關鍵：</b>把陌生人認成演員還索取簽名，知道認錯後會令人尷尬。<br>(A) relaxing「令人放鬆」；(B) embarrassing「令人難堪」正確；(C) appealing「吸引人的」；(D) defending「防衛中的」，詞性也不合。<br>把答案放回去：這件事真的很尷尬。",
+    6: "<b>解題關鍵：</b>薪水大多花在房租和食物，因此娛樂費「幾乎沒有」剩下。<br>(A) barely「幾乎不」正確；(B) fairly「相當地」；(C) merely「僅僅」；(D) readily「容易地」。<br>把答案放回去：Amelia 幾乎沒錢可花在娛樂上。",
+    7: "<b>解題關鍵：</b>飛機和船神祕消失，固定說法 without a trace 是「沒有留下任何蹤跡」。<br>(A) guide「指南」；(B) trace「痕跡」正確；(C) code「密碼」；(D) print「印刷／印痕」，不使用此搭配。<br>把答案放回去：有些船和飛機消失得無影無蹤。",
+    8: "<b>解題關鍵：</b>Tony 大聲招呼又揮牌，是在力勸路人進店買麵包；urge＋人＋to V 是「催促某人做……」。<br>(A) accessed「存取」；(B) edited「編輯」；(C) imposed「強加」；(D) urged「力勸」正確。<br>把答案放回去：Tony 招攬路人進店。",
+    9: "<b>解題關鍵：</b>藝術家用細軟沙子「創作」的作品是沙雕。<br>(A) constitutions「憲法／構造」；(B) objections「反對」；(C) sculptures「雕塑」正確；(D) adventures「冒險」。<br>把答案放回去：這片沙灘吸引藝術家創作美麗沙雕。",
+    10: "<b>解題關鍵：</b>雲層散開後，有一道光穿過窗戶照進教堂，固定搭配 a beam of light 是「一束光」。<br>(A) dip「下降」；(B) beam「光束」正確；(C) spark「火花」；(D) path「道路」。<br>把答案放回去：一束光落在教堂裡。",
+    11: "<b>解題關鍵：</b>祖母不送禮物，而是把錢夾在生日卡中。<br>(A) enclosed「隨信附上、裝入」正確；(B) installed「安裝」；(C) preserved「保存」；(D) rewarded「獎勵」。<br>把答案放回去：祖母總會在生日卡裡附上一些錢。",
+    12: "<b>解題關鍵：</b>奧運選手夢想贏得的「金牌」是 gold medal。<br>(A) signal「信號」；(B) glory「榮耀」，不能說 gold glory；(C) medal「獎牌」正確；(D) profit「利潤」。<br>把答案放回去：每位奧運選手都夢想贏得金牌。",
+    13: "<b>解題關鍵：</b>小偷要大方走出正門，便把自己假扮成保全；disguise oneself as... 是「把自己偽裝成……」。<br>(A) balanced「使平衡」；(B) calculated「計算」；(C) disguised「偽裝」正確；(D) registered「登記」。<br>把答案放回去：他假扮保全離開。",
+    14: "<b>解題關鍵：</b>因玩 Pokémon GO 發生多起事故，玩家被提醒要注意環境危險。<br>(A) be aware of「注意、察覺」正確；(B) ashamed「羞愧」；(C) doubtful「懷疑」；(D) guilty「有罪惡感」。<br>把答案放回去：玩家應留意周遭可能的危險。",
+    15: "<b>解題關鍵：</b>福爾摩斯能從小細節推理，靠的是驚人的 powers of observation（觀察力）。<br>(A) innocence「清白」；(B) estimation「估計」；(C) assurance「保證」；(D) observation「觀察」正確。<br>把答案放回去：他的觀察力和雜學令讀者佩服。",
+    16: "<b>解題關鍵：</b>為了看清下睫毛根部的小紅點，要「朝鏡子裡看」。<br>(A) check out「查看／退房」；(B) look into the mirror「照鏡子看」正確；(C) watch over「照顧」；(D) see through「看穿」。<br>把答案放回去：你照鏡子看到睫毛根部的紅點。",
+    17: "<b>解題關鍵：</b>前文提到疼痛和紅點，這些是針眼開始形成的身體徵兆。<br>(A) incidents「事件」；(B) measures「措施」；(C) symptoms「症狀」正確；(D) explanations「解釋」。<br>把答案放回去：這些症狀可能是針眼的初期表現。",
+    18: "<b>解題關鍵：</b>細菌原本在鼻子，手揉鼻後再碰眼睛，就會把細菌「轉移」到眼部；句子是被動。<br>(A) attracted「吸引」；(B) contributed「貢獻」；(C) exposed「暴露」；(D) transferred「轉移」正確。<br>把答案放回去：鼻中細菌很容易被帶到眼睛。",
+    19: "<b>解題關鍵：</b>針眼「看起來不舒服」，卻「通常無害」，兩邊是雖然……但是……的讓步關係。<br>(A) As「因為／當」；(B) If「如果」；(C) Unless「除非」；(D) Although「雖然」正確。<br>關鍵句：雖然針眼外觀不好看，通常並無大礙。",
+    20: "<b>解題關鍵：</b>溫熱毛巾要貼在眼皮上輕壓，固定搭配 press A against B 是「把 A 貼著 B 壓」。<br>(A) against「貼著」正確；(B) among「在一群之中」；(C) about「關於」；(D) after「在……之後」。<br>把答案放回去：用溫毛巾貼著眼皮輕壓。",
+    21: "<b>解題關鍵：</b>貧困者連鞋都不容易取得，「更不用說」尺寸正確的鞋。<br>(A) except for「除了」；(B) provided with「被提供」；(C) far from「遠非」；(D) let alone「更不用說」正確。<br>把答案放回去：他們連鞋都難取得，更遑論合腳的鞋。",
+    22: "<b>解題關鍵：</b>沒有合腳的新鞋，孩子只能「將就」穿太小的鞋。<br>(A) get done「完成」；(B) get lost「迷路」；(C) make do with「勉強使用、將就」正確；(D) make believe「假裝」。<br>把答案放回去：孩子只能將就穿不合腳的鞋。",
+    23: "<b>解題關鍵：</b>孩子的腳會長大，這種鞋的特色是能跟著改變尺寸。<br>(A) adjust「調整」正確；(B) explore「探索」；(C) insert「插入」；(D) overlook「忽略」。<br>把答案放回去：孩子可隨腳長大調整鞋子尺寸。",
+    24: "<b>解題關鍵：</b>come in＋尺寸／顏色表示商品「有某種規格可選」。<br>(A) by「藉由」；(B) in 正確，come in two sizes 是「有兩種尺寸」；(C) from「從」；(D) down「向下」。<br>把答案放回去：這種鞋有兩種尺寸。",
+    25: "<b>解題關鍵：</b>前半說鞋跟與腳趾帶控制長度，後半說兩側帶控制寬度，兩組功能形成對照。<br>(A) whether「是否」；(B) while「而、同時」正確；(C) with「具有」；(D) for「因為／為了」。<br>關鍵句：前後鞋帶管長度，而側邊鞋帶管寬度。",
+    26: "<b>解題關鍵：</b>前文說壞天氣使人焦慮疲累，接著提出人們「因此」認為生產力會降低，是因果承接。<br>(A) At most「最多」；(B) In contrast「相反地」；(C) Literally「照字面」；(D) Accordingly「因此」正確。<br>把答案放回去：因此，許多人相信壞天氣降低效率。",
+    27: "<b>解題關鍵：</b>However 表示轉折，說人們的想法與天氣真正造成的效果不同；a gap between A and B 是「A、B 之間的落差」。<br>(A) gap「落差」正確；(B) link「連結」；(C) clue「線索」；(D) ratio「比率」。<br>把答案放回去：信念與實際效果有明顯落差。",
+    28: "<b>解題關鍵：</b>研究用了兩種資料：實驗室實驗資料「以及」銀行現場觀察。<br>(A) out of「從……之中」；(B) as well as「以及」正確；(C) in case of「萬一」；(D) due to「由於」。<br>把答案放回去：研究同時使用實驗資料與實地觀察。",
+    29: "<b>解題關鍵：</b>好天氣讓員工想到下班後能「參與」的戶外活動；engage in activities 是「參與活動」。<br>(A) break off「中斷」；(B) approve of「贊成」；(C) engage in「參與」正確；(D) take over「接管」。<br>把答案放回去：員工會想到工作外可從事的活動。",
+    30: "<b>解題關鍵：</b>戶外活動照片使員工分心，thus 表示結果，所以生產力會「降低」。<br>(A) reform「改革」；(B) lower「使降低」正確；(C) switch「切換」；(D) demand「要求」。<br>把答案放回去：照片會分散注意力，因而降低生產力。",
+    31: "<b>解題關鍵：</b>文章比較各文化後指出，古埃及人特別「推崇」洋蔥；空格需要過去式動詞。admired 是「欣賞、推崇」，符合主詞 Egyptians。symbols 是名詞，reflected 是「反映」，healing 是形容療效，都不合此句動作。<br>把答案放回去：古埃及人比其他文化更推崇洋蔥。",
+    32: "<b>解題關鍵：</b>前文說洋蔥不只是食物或藥，後文談永生與葬禮，表示它還有宗教、精神上的意義。spiritual 是「精神／宗教上的」，可修飾 significance；historical 只表示歷史，healing 只談療效。<br>把答案放回去：洋蔥也具有重要的精神意義。",
+    33: "<b>解題關鍵：</b>一圈又一圈、沒有終點的洋蔥構造被看成永生的「象徵」。symbols of eternal life 是「永生的象徵」；parts 是部位、paintings 是畫作，都不能表達抽象意義。<br>把答案放回去：洋蔥的圓環被視為永生象徵。",
+    34: "<b>解題關鍵：</b>句子說洋蔥圓中有圓的構造「反映、象徵」永恆存在；空格要過去式動詞。reflected 最符合；admired 是欣賞，decorating 是裝飾且形式不合。<br>把答案放回去：洋蔥構造象徵生命永恆。",
+    35: "<b>解題關鍵：</b>後文說埃及人把這種力量看成魔法而非醫療，指的是洋蔥的療癒能力。healing power 是「療癒能力」；spiritual power 偏精神力量，historical 也不合治病語境。<br>把答案放回去：他們相信洋蔥有療癒力量。",
+    36: "<b>解題關鍵：</b>畫作是在金字塔和墓穴中「被發現」，空格修飾 paintings，要用過去分詞 discovered，白話就是「被人找到的」。decorating 表主動裝飾，reflected 是反映，均不合。<br>把答案放回去：墓穴中發現的許多畫作都有洋蔥。",
+    37: "<b>解題關鍵：</b>洋蔥被放在祭壇上，是「當作」葬禮供品。functioned as 是「發揮……功能、作為……使用」；prompted 是促使，admired 是推崇，都不能接 offerings 說用途。<br>把答案放回去：洋蔥作為葬禮供品使用。",
+    38: "<b>解題關鍵：</b>後文列出骨盆、胸部、耳朵、眼睛與腳，都是遺體的身體「部位」。parts of their bodies 搭配正確；symbols 是象徵，paintings 是畫作，無法接這份清單。<br>把答案放回去：洋蔥被放在遺體不同部位周圍。",
+    39: "<b>解題關鍵：</b>洋蔥和洋蔥花放在木乃伊各部位，作用是「裝飾」；逗點後用 decorating 描述伴隨動作，白話是「同時裝飾著……」。discovered 表被發現，reflected 表反映，都不合擺放動作。<br>把答案放回去：洋蔥裝飾著木乃伊。",
+    40: "<b>解題關鍵：</b>古埃及人相信強烈氣味會「促使」死者再次呼吸。prompt＋人＋to V 是「促使某人做……」；admire 是欣賞，function as 是作為，都不能接 dead 呼吸。<br>把答案放回去：氣味被認為能促使死者重新呼吸。",
+    41: "<b>解題關鍵：</b>第三段依序說明 Dognition 的使用步驟：付款、填問卷、進行遊戲測試，最後取得認知報告。<br>(A) 不是公司歷史；(B)「評估流程」符合步驟排列；(C) 沒比較不同公司；(D) 不是只介紹遊戲種類。<br>所以本段在說如何完成狗的智能評估。",
+    42: "<b>解題關鍵：</b>第二段說狗和人一樣具有多種智能，只是每隻狗較依賴的智能不同。<br>(A) 不同狗各有強項，符合；(B) 不是只有一種智能；(C) 沒說所有狗能力相同；(D) 文章也沒有說品種決定一切。<br>這是由「依賴不同智能」合理推出。",
+    43: "<b>解題關鍵：</b>Dognition 被介紹為新成立的公司，文中又稱創辦人為 co-founder，因此 venture 在這裡不是「冒險」，而是新創事業。<br>(A) journey 是旅程；(B) risk 是風險；(C) experiment 是實驗；(D) new business「新事業」最接近。<br>所以選 D。",
+    44: "<b>解題關鍵：</b>Charmer 型狗信任主人提供的資訊，甚至勝過自己眼睛看到的。<br>(A)(B)(D) 若只靠自己找或聞，不能表現對主人的信任；(C) 依主人指示找零食最符合。<br>所以 Charmer 最可能相信主人指出的位置。",
+    45: "<b>解題關鍵：</b>全文從 Capoeira 的特色談到奴隸時期起源、遭政府禁止，最後獲得官方認可，依時間說明發展。<br>(A) 歷史能包住全文；(B) 招式只是開頭；(C) 音樂不是主軸；(D) 現代比賽也不是全文重點。<br>所以主旨是 Capoeira 的歷史。",
+    46: "<b>解題關鍵：</b>這是 NOT 題，要找「不會」出現在 Capoeira 表演中的動作。第一段說它結合打鬥、鼓聲、歌唱與舞蹈，也使用手、腳、腿等身體部位；第二段更說早期格鬥不用武器。<br>(A) Singing with drums：配合鼓聲唱歌；第一段直接列出 drumming、singing，適合。<br>(B) Sweeping with the legs：用腿掃擊；原文明說技巧會使用 legs，符合徒手武術。<br>(C) Stabbing with swords：用劍刺擊；和 without weapons 相反，文章也沒提劍，因此是不適合的項目。<br>(D) Striking with the hands：用手擊打；原文明列 hands，適合。<br>所以答案選 (C)。",
+    47: "<b>解題關鍵：</b>作者以史實介紹 Capoeira 的起源、遭禁和獲承認，沒有說自己喜歡或討厭，也沒有質疑資料。<br>(A) enthusiastic 太熱情；(B) objective「客觀的」正確；(C) doubtful 是懷疑；(D) critical 是批判。<br>所以作者態度客觀。",
+    48: "<b>解題關鍵：</b>末段直接說 Mestre Bimba 努力說服巴西政府，讓 Capoeira 的文化價值受到承認，並使它成為正式格鬥方式與巴西國家運動。<br>(A) 文章說 Capoeira 影響 breaking、hip-hop 等現代舞，不是被現代舞影響，方向相反。<br>(B) 它原先由非洲奴隸發展成自衛與反抗壓迫者的武術，唱歌、拍手、跳舞是後來用來掩飾被禁格鬥，不是最初目的。<br>(C) 非洲部落格鬥可能為取得新娘而戰，但巴西的 Capoeira 主要用來自衛，不是保護新娘。<br>(D) Mestre Bimba 的努力促成巴西官方承認，符合原文。<br>所以答案選 (D)。",
+    49: "<b>解題關鍵：</b>末段提到「這場為期兩週的展覽」、展出作品範圍並邀請觀眾前來欣賞，像展覽公告。<br>(A) 教科書不會用邀請口吻；(B) 美術館網站最合理；(C) 私人信件不會完整介紹展品；(D) 新聞報導通常不直接邀請。<br>所以文章最可能出現在美術館網站。",
+    50: "<b>解題關鍵：</b>第一段說 Homer 在家鄉波士頓的印刷公司當學徒，並很快以插畫成名。<br>(A) 不是先當攝影師；(B) 沒說先去歐洲；(C) 成名不靠戰爭畫；(D) 先在家鄉建立插畫家聲譽，符合。<br>所以選 D。",
+    51: "<b>解題關鍵：</b>第三段說他畫兒童、農村女孩和獵人的作品，成為十九世紀美國生活的經典圖像。<br>(A) 記錄當時美國日常生活，符合；(B) 沒說主要畫歐洲王室；(C) 不是抽象畫；(D) 也不是只畫戰爭。<br>所以選 A。",
+    52: "<b>解題關鍵：</b>前句 Many of his works 指許多描繪美國生活的作品；接著 Others 形成「有些……另一些……」對照，所以指他的其他作品。<br>(A) 不是其他藝術家；(B) 不是其他國家；(C) other works 正確；(D) 不是其他主題本身。<br>所以選 C。",
+    53: "<b>解題關鍵：</b>文章依序列出十七世紀王室飲茶、約 1800 年下午茶、十九世紀 high tea，再談今日習慣，順著年代前進。<br>(A) 不是空間；(B) 不是重要性；(C) chronological order「時間順序」正確；(D) 不是問題解決。<br>所以選 C。",
+    54: "<b>解題關鍵：</b>a lasting British institution 不是「機構」，而是從過去延續至今、大家共同遵循的英國習慣。<br>(A) building 是建築；(B) long-lasting tradition「長久傳統」最接近；(C) law 是法律；(D) company 是公司。<br>所以這裡指長久的英國傳統。",
+    55: "<b>解題關鍵：</b>第一段說十七世紀在工作場所之外喝茶 was beyond the means of the majority，並立刻解釋茶價格高、還要課稅；beyond the means 就是多數人負擔不起。<br>(A) 倫敦咖啡館確實供茶，但雇主也會在工作時給員工茶，並非只能在咖啡館喝。<br>(B) 原文只說 tea was taxed，沒有說按照酒精飲料課稅。<br>(C) 工作場所外喝茶不是被禁止，而是價格太高；「不能負擔」不等於法律禁止。<br>(D) 茶本身昂貴又有稅，多數人買不起，符合原文。<br>所以答案選 (D)。",
+    56: "<b>解題關鍵：</b>afternoon tea 約在下午四點，是午餐與晚餐間的小餐；high tea 則是十九世紀勞工工作一整天回家後，配當天主餐飲用，所以時間更晚。<br>(A) High tea 比 afternoon tea 晚，符合兩段時間線索。<br>(B) 文章只說雇主在上午提供一次 tea break，沒有說十八世紀每天兩次。<br>(C) Catherine 從小在葡萄牙就愛喝茶，後來把喝茶習慣帶進英國宮廷；不是造訪葡萄牙後才帶茶回英國。<br>(D) 下午茶儀式由 Duchess of Bedford 開始；Earl of Sandwich 推廣的是夾餡薄片麵包。<br>所以答案選 (A)。"
   };
   const q = (no, cat, tags, textType, answer, stem, options, group) => ({
     no, cat, tags, lang: group ? "題組" : "單題", textType, answer, stem, options,
@@ -3023,337 +3023,337 @@ window.BANK.push({
       "no": 1, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets.",
       "options": {"A": "journey", "B": "traffic", "C": "concert", "D": "record"},
-      "explain": "搖滾樂團海報是為促銷 concert tickets「演唱會門票」。"
+      "explain": "<b>解題關鍵：</b>主詞是 local rock band，海報放在商店櫥窗是為了 promote tickets；樂團要販售的是演唱會門票。<br>(A) journey：旅程，journey tickets 不是自然說法。<br>(B) traffic：交通，traffic tickets 常指交通罰單，與樂團無關。<br>(C) concert：演唱會；concert tickets 是固定常見搭配。<br>(D) record：唱片、紀錄，record tickets 語意不通。<br>整句是：櫥窗展示樂團海報，以促銷他們的演唱會門票。"
     },
     {
       "no": 2, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Maria didn’t want to deliver the bad news to David about his failing the job interview. She herself was quite _____ about it.",
       "options": {"A": "awful", "B": "drowsy", "C": "tragic", "D": "upset"},
-      "explain": "Maria 對 David 面試失敗也感到 upset「難過」。"
+      "explain": "<b>解題關鍵：</b>Maria 不想把面試失敗的壞消息告訴 David，而且 herself 表示她自己對這件事也有情緒；最自然是感到難過、不安。<br>(A) awful：糟糕的，通常形容事物或感受很差，不能自然說人 was awful about it 表示難過。<br>(B) drowsy：昏昏欲睡的，和壞消息無關。<br>(C) tragic：悲劇性的，通常形容事件。<br>(D) upset：難過、不安，be upset about 正確。<br>整句是：Maria 自己也對此很難過。"
     },
     {
       "no": 3, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "The newcomer speaks with a strong Irish _____; he must be from Ireland.",
       "options": {"A": "accent", "B": "identity", "C": "gratitude", "D": "signature"},
-      "explain": "說話帶有濃厚的愛爾蘭 accent「口音」。"
+      "explain": "<b>解題關鍵：</b>後面說 he must be from Ireland，是從他說話的特色推測國籍；strong Irish ___ 最合理是濃厚的愛爾蘭口音。<br>(A) accent：口音，speaks with a strong accent 是自然搭配。<br>(B) identity：身分，不能用 speaks with an identity。<br>(C) gratitude：感激，與發音無關。<br>(D) signature：簽名或特色標記，也不能放在此搭配中。<br>整句是：新來的人帶有濃厚愛爾蘭口音。"
     },
     {
       "no": 4, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
       "options": {"A": "ceased", "B": "committed", "C": "confined", "D": "conveyed"},
-      "explain": "be confined to a wheelchair 表示「受限於輪椅」。"
+      "explain": "<b>解題關鍵：</b>Although 表轉折：Maggie 身體行動受輪椅限制，但她沒有把活動限在室內。固定說法 be confined to a wheelchair 是「行動離不開輪椅」。<br>(A) ceased：停止，不能說 be ceased to wheelchair。<br>(B) committed：投入或被送入，搭配與文意不合。<br>(C) confined：受限制，結構正確。<br>(D) conveyed：被運送、傳達，不能表達長期行動限制。<br>整句是：雖然車禍後她行動需依靠輪椅，仍不限制自己的活動。"
     },
     {
       "no": 5, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of _____ in case of an accident.",
       "options": {"A": "injury", "B": "offense", "C": "sacrifice", "D": "victim"},
-      "explain": "繫安全帶是為降低事故中 injury「受傷」的風險。"
+      "explain": "<b>解題關鍵：</b>乘客繫安全帶的目的，是在事故發生時降低「受傷的風險」；risk of 後需接名詞。<br>(A) injury：受傷、傷害，risk of injury 是固定搭配。<br>(B) offense：罪行、冒犯，安全帶不是防止犯罪。<br>(C) sacrifice：犧牲，與事故中的身體傷害不合。<br>(D) victim：受害者，指人；且 risk of victim 語法不通。<br>整句是：所有乘客都須繫安全帶，以降低事故中受傷的風險。"
     },
     {
       "no": 6, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "The principal of this school is a man of exceptional _____. He sets aside a part of his salary for a scholarship fund for children from needy families.",
       "options": {"A": "security", "B": "maturity", "C": "facility", "D": "generosity"},
-      "explain": "捐出部分薪資成立獎學金展現 generosity「慷慨」。"
+      "explain": "<b>解題關鍵：</b>校長拿出部分薪水設獎學金，幫助貧困家庭的孩子，這種願意分享金錢的品格是慷慨。<br>(A) security：安全，捐薪水不表示安全。<br>(B) maturity：成熟，雖可能是好特質，但不精準對應捐助。<br>(C) facility：設施或能力，不能形容人的善心。<br>(D) generosity：慷慨；a man of generosity 表示慷慨的人。<br>整句是：這位校長非常慷慨，會撥部分薪水成立獎學金。"
     },
     {
       "no": 7, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The science teacher always _____ the use of the laboratory equipment before she lets her students use it on their own.",
       "options": {"A": "tolerates", "B": "associates", "C": "demonstrates", "D": "exaggerates"},
-      "explain": "讓學生自行操作前，老師會先 demonstrates「示範」器材用法。"
+      "explain": "<b>解題關鍵：</b>before she lets students use it on their own 表示老師先做給學生看，再讓他們自己操作；the use of equipment 是器材使用方式。<br>(A) tolerates：容忍，不是教學動作。<br>(B) associates：聯想、使有關聯，不能表示示範。<br>(C) demonstrates：示範、展示，最符合先教再操作。<br>(D) exaggerates：誇大，不可能誇大器材用法。<br>整句是：科學老師總會先示範實驗器材的使用方式。"
     },
     {
       "no": 8, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Most of the area is covered by woods, where bird species are so _____ that it is a paradise for birdwatchers.",
       "options": {"A": "durable", "B": "private", "C": "realistic", "D": "numerous"},
-      "explain": "成為賞鳥天堂是因鳥種 numerous「眾多」。"
+      "explain": "<b>解題關鍵：</b>so ___ that it is a paradise for birdwatchers 表示鳥的種類多到使這裡成為賞鳥天堂，因此要填「眾多」。<br>(A) durable：耐用的，不能形容鳥種數量。<br>(B) private：私人的，與賞鳥價值無關。<br>(C) realistic：寫實的，通常形容圖像或想法。<br>(D) numerous：數量眾多的，能修飾 bird species。<br>整句是：林區鳥種非常多，因此是賞鳥者的天堂。"
     },
     {
       "no": 9, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "In most cases, the committee members can reach agreement quickly. _____, however, they differ greatly in opinion and have a hard time making decisions.",
       "options": {"A": "Occasionally", "B": "Automatically", "C": "Enormously", "D": "Innocently"},
-      "explain": "多數時候能同意，但「偶爾」意見分歧，選 Occasionally。"
+      "explain": "<b>解題關鍵：</b>In most cases 表示多數時候很快達成共識；however 後說有時意見差很大，空格要表低頻率的「偶爾」。<br>(A) Occasionally：偶爾，與 most cases 形成合理對比。<br>(B) Automatically：自動地，不能說自動意見分歧。<br>(C) Enormously：巨大地，只表程度。<br>(D) Innocently：無辜地、天真地，不表頻率。<br>整句是：不過，他們偶爾意見差異很大，難以決定。"
     },
     {
       "no": 10, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "Many people try to save a lot of money before _____, since having enough money would give them a sense of security for their future.",
       "options": {"A": "isolation", "B": "promotion", "C": "retirement", "D": "announcement"},
-      "explain": "為未來安全感存錢，指在 retirement「退休」前準備。"
+      "explain": "<b>解題關鍵：</b>人們先存很多錢，因足夠金錢能讓 future 更有保障；最需要在收入可能停止前存錢，也就是退休前。<br>(A) isolation：隔離，和財務未來無直接關係。<br>(B) promotion：升遷，通常升遷後收入增加，不是此句重點。<br>(C) retirement：退休；save money before retirement 合理。<br>(D) announcement：宣布，不是人生財務階段。<br>整句是：許多人在退休前努力存錢，為未來取得安全感。"
     },
     {
       "no": 11, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "In winter, our skin tends to become dry and _____, a problem which is usually treated by applying lotions or creams.",
       "options": {"A": "alert", "B": "itchy", "C": "steady", "D": "flexible"},
-      "explain": "冬天皮膚乾燥發癢，擦乳液可處理 itchy 的問題。"
+      "explain": "<b>解題關鍵：</b>冬天皮膚 dry，並且通常用 lotions or creams 處理；乳液常用來改善乾燥造成的發癢。<br>(A) alert：警覺的，通常形容人。<br>(B) itchy：發癢的，dry and itchy 是常見皮膚狀態。<br>(C) steady：穩定的，與皮膚問題無關。<br>(D) flexible：有彈性的，雖可形容皮膚，但不會被稱為需要治療的問題。<br>整句是：冬天皮膚容易乾燥發癢，通常可擦乳液改善。"
     },
     {
       "no": 12, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "Benson married Julie soon after he had _____ her heart and gained her parents’ approval.",
       "options": {"A": "conquered", "B": "estimated", "C": "guaranteed", "D": "intensified"},
-      "explain": "conquer one’s heart 表示「贏得某人的心」。"
+      "explain": "<b>解題關鍵：</b>Benson 在和 Julie 結婚前，先取得她的愛與父母同意；英文用 conquer/win someone’s heart 表示「贏得某人的心」。<br>(A) conquered：征服、贏得，搭配 her heart 正確。<br>(B) estimated：估計，不能估計一顆心。<br>(C) guaranteed：保證，通常接結果或權利。<br>(D) intensified：加強，使程度變高，也不能和 heart 形成此意思。<br>整句是：他贏得 Julie 的心並得到她父母同意後不久便結婚。"
     },
     {
       "no": 13, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "The recent flood completely _____ my parents’ farm. The farmhouse and fruit trees were all gone and nothing was left.",
       "options": {"A": "ruined", "B": "cracked", "C": "hastened", "D": "neglected"},
-      "explain": "農舍果樹全毀，洪水 completely ruined 農場。"
+      "explain": "<b>解題關鍵：</b>後一句說 farmhouse and fruit trees were all gone and nothing was left，全部消失、什麼都沒留下，表示農場被徹底毀掉。<br>(A) ruined：毀壞，使無法使用，最符合 completely 和 nothing left。<br>(B) cracked：使裂開，只是一種局部損壞。<br>(C) hastened：加速，不能表示農場消失。<br>(D) neglected：忽視，主詞洪水不會「疏於照顧」農場。<br>整句是：最近的洪水徹底摧毀了父母的農場。"
     },
     {
       "no": 14, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.",
       "options": {"A": "primitive", "B": "spiritual", "C": "representative", "D": "informative"},
-      "explain": "受訪者不是整體人口的 representative sample「代表性樣本」。"
+      "explain": "<b>解題關鍵：</b>調查結果不可靠，原因是受訪者不能代表整個被研究人口；typical or ___ sample 是「典型或具代表性的樣本」。<br>(A) primitive：原始的，與抽樣品質無關。<br>(B) spiritual：精神上的，不形容人口樣本。<br>(C) representative：有代表性的，能反映整體特徵。<br>(D) informative：資訊豐富的，不等於抽樣能代表整體。<br>整句是：受訪者不是整體人口中典型或有代表性的樣本。"
     },
     {
       "no": 15, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution.",
       "options": {"A": "liberally", "B": "individually", "C": "financially", "D": "environmentally"},
-      "explain": "減少汙染要讓車款更 environmentally friendly「環境友善」。"
+      "explain": "<b>解題關鍵：</b>worldwide green movement 與 reduce pollution 都指向環境保護；固定搭配 environmentally friendly 是「對環境友善」。<br>(A) liberally：自由地、寬大地，不能表示環保。<br>(B) individually：個別地，和降低污染無關。<br>(C) financially：在財務方面，financially friendly 也不是此處搭配。<br>(D) environmentally：在環境方面；environmentally friendly 正確。<br>整句是：車廠努力讓新車款更環保，以減少污染。"
     },
     {
       "no": 16, "cat": "C2", "tags": ["轉承語"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G1",
       "stem": "Choose the best answer for blank 16.",
       "options": {"A": "However", "B": "Otherwise", "C": "Furthermore", "D": "Accordingly"},
-      "explain": "原本勒索的計畫卻迅速失控，However 表轉折。"
+      "explain": "<b>解題關鍵：</b>前文說 Bill 和 Sam 綁架男孩、索取兩千美元，看似照計畫進行；後句卻說 plan quickly got out of control，情況完全轉壞，需要轉折語。<br>(A) However：然而，清楚表達前後反差。<br>(B) Otherwise：否則，通常接「若不如此」的結果。<br>(C) Furthermore：而且，表示補充同方向資訊。<br>(D) Accordingly：因此，表示因果結果，但失控不是前句合理結果。<br>整句是：然而，他們的計畫很快失去控制。"
     },
     {
       "no": 17, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G1",
       "stem": "Choose the best answer for blank 17.",
       "options": {"A": "made believe", "B": "got along", "C": "turned out", "D": "felt like"},
-      "explain": "男孩「結果竟是」調皮鬼，turned out to be 符合。"
+      "explain": "<b>解題關鍵：</b>綁匪本以為男孩只是人質，後文卻說他把綁架當露營、逼綁匪陪玩，結果證明他非常調皮。空格後有 to be。<br>(A) made believe：假裝，正確形式應 make believe，且不能接 to be。<br>(B) got along：相處融洽，通常接 with。<br>(C) turned out：結果是；turn out to be 為固定搭配。<br>(D) felt like：想要或感覺像，後接名詞/V-ing。<br>整句是：他們抓來的男孩結果竟是個搗蛋鬼。"
     },
     {
       "no": 18, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G1",
       "stem": "Choose the best answer for blank 18.",
       "options": {"A": "hold on to", "B": "get rid of", "C": "make fun of", "D": "take advantage of"},
-      "explain": "綁匪受不了男孩，決定 get rid of「擺脫」他。"
+      "explain": "<b>解題關鍵：</b>男孩逼綁匪玩累人的遊戲，兩人 soon desperate，甚至把贖金降低，表示他們急著把這個 little terror 送走。<br>(A) hold on to：緊抓、保留，和想送走相反。<br>(B) get rid of：擺脫、除掉，符合 desperate 的情況。<br>(C) make fun of：嘲笑，不能解決男孩帶來的麻煩。<br>(D) take advantage of：利用，後文反而是綁匪被折騰。<br>整句是：他們很快絕望，決定擺脫這個小惡魔。"
     },
     {
       "no": 19, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 19.",
       "options": {"A": "how", "B": "that", "C": "why", "D": "what"},
-      "explain": "what a troublemaker his son was 是感嘆結構作 knowing 的受詞。"
+      "explain": "<b>解題關鍵：</b>空格後是 a troublemaker his son was，這是 what + a + 單數名詞 + 主詞 + 動詞的感嘆句型，整段作 knowing 的內容。<br>(A) how：感嘆時通常接形容詞，如 how troublesome his son was，不能直接接 a troublemaker。<br>(B) that：只引導陳述，不形成此感嘆結構。<br>(C) why：詢問原因，語意不合。<br>(D) what：what a troublemaker... 表示「他兒子是多麼會惹麻煩的人」。<br>所以選 D。"
     },
     {
       "no": 20, "cat": "C2", "tags": ["轉承語"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 20.",
       "options": {"A": "Namely", "B": "Altogether", "C": "Simply", "D": "Instead"},
-      "explain": "父親不付贖金，反而要求綁匪付錢，選 Instead。"
+      "explain": "<b>解題關鍵：</b>前句說父親 refused to give them any money；後句卻是他要求綁匪付自己 250 美元，金錢方向完全相反，要用「反而」。<br>(A) Namely：也就是說，用來換句話解釋。<br>(B) Altogether：總共、完全地，不表轉折。<br>(C) Simply：只是、簡單地，無法凸顯反向結果。<br>(D) Instead：反而、取而代之，符合不付錢而要對方付錢。<br>整句是：相反地，父親要求綁匪付他 250 美元。"
     },
     {
       "no": 21, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 21.",
       "options": {"A": "what", "B": "when", "C": "how", "D": "why"},
-      "explain": "測量身體「如何」對問題反應，選 how。"
+      "explain": "<b>解題關鍵：</b>測謊機測量的是人的身體對問題「如何反應」，後文列出血壓、脈搏、流汗等反應方式。measure 後接一個完整的間接問句。<br>(A) what：什麼，但後面已有主詞與不及物動詞 reacts，不能再缺受詞。<br>(B) when：何時，文章不測反應時間。<br>(C) how：如何，how a person’s body reacts 結構與意思都正確。<br>(D) why：為什麼，儀器不判斷反應原因。<br>整句是：儀器用來測量身體如何對問題產生反應。"
     },
     {
       "no": 22, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G2",
       "stem": "Choose the best answer for blank 22.",
       "options": {"A": "adapted", "B": "attached", "C": "related", "D": "restricted"},
-      "explain": "原句使用被動搭配 wires are attached to different parts of the body，表示感測器電線「連接在」身體不同部位。"
+      "explain": "<b>解題關鍵：</b>空格後有 to different parts of his body，描述測試時把感測器電線接到身體各部位。固定搭配 attach A to B；被動是 A be attached to B。<br>(A) adapted：改編、適應，adapted to 可指適應，但電線不是適應身體。<br>(B) attached：連接、附著，完全符合。<br>(C) related：相關，不能表示實際接上儀器。<br>(D) restricted：限制，語意不合。<br>整句是：四到六條感測器電線會連接到身體不同部位。"
     },
     {
       "no": 23, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G2",
       "stem": "Choose the best answer for blank 23.",
       "options": {"A": "Before", "B": "Among", "C": "Without", "D": "Throughout"},
-      "explain": "訊號在整個提問過程中持續記錄，選 Throughout。"
+      "explain": "<b>解題關鍵：</b>題目說 questioning 的過程中，所有生理訊號都會持續記在移動的紙上；需要表示「從頭到尾貫穿整段時間」。<br>(A) Before：在之前，但記錄是在提問時進行。<br>(B) Among：在……之中，通常接複數人事物，不接一段過程。<br>(C) Without：沒有，與儀器記錄流程相反。<br>(D) Throughout：遍及整個期間；throughout the process 表示整個過程中。<br>整句是：在整個提問過程中，所有訊號都被記錄。"
     },
     {
       "no": 24, "cat": "C2", "tags": ["時態語意"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G2",
       "stem": "Choose the best answer for blank 24.",
       "options": {"A": "was being", "B": "would be", "C": "was to be", "D": "would have been"},
-      "explain": "測試進行當時受測者是否「正在說實話」，用 was being truthful。"
+      "explain": "<b>解題關鍵：</b>examiner 在問題結束後分析剛才記錄，判定受測者「當時是否一直誠實作答」。tested 是過去時間，being truthful 表當時的行為狀態。<br>(A) was being：當時正處於誠實作答狀態，符合。<br>(B) would be：將會是，變成從過去看未來。<br>(C) was to be：預定要成為，非判定事實。<br>(D) would have been：本來會是，常帶未實現假設。<br>整句是：檢驗者分析結果，判斷受測者當時是否說實話。"
     },
     {
       "no": 25, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G2",
       "stem": "Choose the best answer for blank 25.",
       "options": {"A": "quantity", "B": "accuracy", "C": "possibility", "D": "emergency"},
-      "explain": "with a high degree of accuracy 表示「高度準確」。"
+      "explain": "<b>解題關鍵：</b>後文雖說測謊不是完美，但訓練良好的檢驗者 usually detect lying，表示一般能以很高的「準確度」辨識說謊。固定搭配 a degree of accuracy。<br>(A) quantity：數量，不是判斷品質。<br>(B) accuracy：準確度，符合 detect lying 的效果。<br>(C) possibility：可能性，不能說 high degree of possibility 描寫測量準確。<br>(D) emergency：緊急狀況，語意無關。<br>整句是：受訓良好的檢驗者通常能很準確地辨識謊言。"
     },
     {
       "no": 26, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G3",
       "stem": "Choose the best answer for blank 26.",
       "options": {"A": "them", "B": "such", "C": "what", "D": "it"},
-      "explain": "making it cheaper to import，以 it 作形式受詞。"
+      "explain": "<b>解題關鍵：</b>句型 make + it + 形容詞 + to V 中，it 先占位置，真正內容是後面的 to import goods；意思是不同生產成本「使進口商品較便宜」。<br>(A) them：複數代名詞，前面沒有明確複數對象可代。<br>(B) such：如此的，不能當此句受詞。<br>(C) what：什麼，不能放在 make 後形成此結構。<br>(D) it：形式受詞，正確。<br>白話說：有些國家自己生產較貴，因此從國外買反而便宜。"
     },
     {
       "no": 27, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G3",
       "stem": "Choose the best answer for blank 27.",
       "options": {"A": "installed", "B": "reserved", "C": "opposed", "D": "determined"},
-      "explain": "比較優勢由土地、資本與勞力等因素 determined「決定」。"
+      "explain": "<b>解題關鍵：</b>空格後有 by key factors，前面的 comparative advantage 是「被」土地、資本和勞力等因素所決定，要用被動語意。<br>(A) installed：安裝，優勢不能被安裝。<br>(B) reserved：保留、預訂，語意不合。<br>(C) opposed：反對，因素不會反對優勢。<br>(D) determined：決定；be determined by 表示「由……決定」。<br>整句是：比較優勢由土地、資本與勞力等關鍵生產因素決定。"
     },
     {
       "no": 28, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
       "stem": "Choose the best answer for blank 28.",
       "options": {"A": "to the point", "B": "on the rise", "C": "off the hook", "D": "for the record"},
-      "explain": "後文列出貿易成長率，說明其重要性 on the rise「日益上升」。"
+      "explain": "<b>解題關鍵：</b>前半說國際貿易歷史悠久，後半用近幾世紀、1990 年代每年成長 8.6% 等數字，說明它的重要性正在增加。<br>(A) to the point：切中要點，不能形容重要性變化。<br>(B) on the rise：上升中、日益增加，與成長數據呼應。<br>(C) off the hook：脫離麻煩或責任。<br>(D) for the record：供記錄、鄭重說明。<br>整句是：近幾世紀，國際貿易的重要性持續上升。"
     },
     {
       "no": 29, "cat": "C2", "tags": ["邏輯關係"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G3",
       "stem": "Choose the best answer for blank 29.",
       "options": {"A": "Despite", "B": "Between", "C": "Without", "D": "Under"},
-      "explain": "若沒有國際貿易，各國將受限於國內產品，選 Without。"
+      "explain": "<b>解題關鍵：</b>後面 nations would be limited 使用 would，提出假設結果：如果沒有國際貿易，各國只能使用境內生產的商品與服務。空格後直接接名詞。<br>(A) Despite：儘管，會變成「儘管有貿易卻受限」，與文意相反。<br>(B) Between：在兩者之間，不表條件。<br>(C) Without：沒有；without international trade 正確。<br>(D) Under：在……之下，不能形成此假設。<br>整句是：沒有國際貿易，各國會受限於自己境內的產品。"
     },
     {
       "no": 30, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G3",
       "stem": "Choose the best answer for blank 30.",
       "options": {"A": "driving", "B": "pulling", "C": "riding", "D": "bringing"},
-      "explain": "a driving force 是「推動力量」，貿易推動全球化。"
+      "explain": "<b>解題關鍵：</b>後文談國際貿易促進 globalization，英文固定說 a driving force for...「推動……的主要力量」。<br>(A) driving：推動的；driving force 是固定搭配。<br>(B) pulling：拉動的，pulling force 可談物理力量，但非此慣用語。<br>(C) riding：騎乘的，語意不合。<br>(D) bringing：帶來的，bringing force 不是自然搭配。<br>整句是：貿易確實是推動全球化的一股主要力量。"
     },
     {
       "no": 31, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "J", "group": "G4",
       "stem": "Choose the best word for blank 31.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "人造森林證明森林不一定總由自然形成，not necessarily true。"
+      "explain": "<b>解題關鍵：</b>第一句問森林是否總由自然創造，下一句說印度一名男子證明「不一定如此」。空格在 be 後要形容詞。<br>選 J true（真實的、正確的），not necessarily true 是「不一定正確」。creation 是名詞，若放入會變成「不一定是創造物」；crazy、dry 雖是形容詞，也不能回應上一句的是非問題。<br>整段開頭的意思是：森林不一定只能由大自然創造。"
     },
     {
       "no": 32, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "C", "group": "G4",
       "stem": "Choose the best word for blank 32.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "買荒地時抱持種樹的 vision「願景」。"
+      "explain": "<b>解題關鍵：</b>句型 with the ___ of growing trees 需要名詞；Kareem 買下岩石荒地，是因心中已有把它種成森林的長期構想。<br>選 C vision（願景、構想），the vision of growing trees 表示種樹的理想。creation 是創造物，應是最後完成的森林，不是買地當時抱持的想法；interference 是干預，也與目的相反。<br>整句是：他抱著在荒地種樹的願景買下土地。"
     },
     {
       "no": 33, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "D", "group": "G4",
       "stem": "Choose the best word for blank 33.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "眾人認為他在荒地投入時間金錢很 crazy。"
+      "explain": "<b>解題關鍵：</b>一開始土地滿是岩石，看似不可能種樹；人們認為他把時間金錢花在那裡是很瘋狂的。空格在 was 後需要形容詞。<br>選 D crazy（瘋狂的、不理智的）。dry 是形容土地，不是人們對 Kareem 決定的評價；deserted 是荒廢的，也應修飾 property。<br>整句是：起初，人們認為他浪費時間和金錢在荒地上，簡直瘋了。"
     },
     {
       "no": 34, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "G", "group": "G4",
       "stem": "Choose the best word for blank 34.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "他 ignored「不理會」眾人，繼續種樹。"
+      "explain": "<b>解題關鍵：</b>But 表轉折：別人覺得他瘋狂，但他仍 kept working and planting trees，可見他「不理會」那些批評。空格需過去式動詞，受詞 them 指前面的 people。<br>選 G ignored（忽視、不理會）。encouraged 是鼓勵，若他鼓勵那些人，不能解釋自己為何繼續；survived 是存活，也不能以 people 作受詞。<br>整句是：他只是無視他們，繼續改良土壤、種樹。"
     },
     {
       "no": 35, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "I", "group": "G4",
       "stem": "Choose the best word for blank 35.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "土地很 dry，才需一天澆水多次。"
+      "explain": "<b>解題關鍵：</b>so ___ that it had to be watered several times a day 是「如此……以致於每天須澆水數次」，能造成頻繁澆水需求的是土地太乾。<br>選 I dry（乾燥的）。deserted 是無人使用，不必然需要澆水；crazy 形容人或想法；true 也不能說明澆水原因。<br>整句是：土地乾燥到一天必須澆水好幾次。"
     },
     {
       "no": 36, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "H", "group": "G4",
       "stem": "Choose the best word for blank 36.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "前兩年種下的樹沒有一棵 survived「存活」。"
+      "explain": "<b>解題關鍵：</b>前文說土地乾、取水又遠，後文用 However 說第三年才有幾棵幼樹開始生長；因此前兩年種的樹沒有任何一棵存活。<br>選 H survived（存活），none of the trees survived 結構完整。ignored 需要受詞，不能表示樹的狀態；encouraged 表受到鼓舞，也不合植物生長語境。<br>整句是：頭兩年，他種下的樹一棵也沒有活下來。"
     },
     {
       "no": 37, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "F", "group": "G4",
       "stem": "Choose the best word for blank 37.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "第三年樹苗生長的成果使他 greatly encouraged。"
+      "explain": "<b>解題關鍵：</b>第三年終於有幼樹生長，接著 Kareem 種了更多樹，表示他受到成功結果鼓舞。空格前 Greatly、後面 by the result，是被動修飾語。<br>選 F encouraged（受到鼓勵的），Greatly encouraged by... 是「受到……大大鼓舞」。survived 是存活，不能接 by the result；ignored by 表被忽視，也和繼續種樹的動機相反。<br>整句是：他深受成果鼓舞，於是種下更多樹。"
     },
     {
       "no": 38, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "B", "group": "G4",
       "stem": "Choose the best word for blank 38.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "他相信自然能在沒有 human interference「人為干預」下更新。"
+      "explain": "<b>解題關鍵：</b>Kareem 不用肥料與殺蟲劑，也不准移走落葉枯枝，因他相信自然能自己恢復，不需要人插手。空格前有 the、後有 of humans，要填名詞。<br>選 B interference（干預），without the interference of humans 就是「沒有人為干預」。vision、creation 也是名詞，但分別是願景與創造，無法和自然自我更新形成對比。<br>整句是：他相信自然不需人類干預也能自我更新。"
     },
     {
       "no": 39, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "A", "group": "G4",
       "stem": "Choose the best word for blank 39.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "原本無人使用的荒地是 deserted property。"
+      "explain": "<b>解題關鍵：</b>文章開頭稱這塊地為 rocky wasteland，後來卻變成 beautiful forest；空格要形容原本遭棄置、無人利用的土地。<br>選 A deserted（荒廢的、被遺棄的），deserted property 與 beautiful forest 形成強烈對比。dry 只說乾燥，不能涵蓋從荒地到森林的轉變；crazy 不能形容土地所有權。<br>整句是：他把一塊荒廢的土地改造成美麗森林。"
     },
     {
       "no": 40, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "E", "group": "G4",
       "stem": "Choose the best word for blank 40.",
       "options": {"A": "deserted", "B": "interference", "C": "vision", "D": "crazy", "E": "creation", "F": "encouraged", "G": "ignored", "H": "survived", "I": "dry", "J": "true"},
-      "explain": "科學家前來參觀他創造的森林，即他的 creation。"
+      "explain": "<b>解題關鍵：</b>his ___ 需要名詞；前文說 Kareem 經多年工作造出森林，科學家來參觀並找成功祕訣，因此參觀的是他的「創造成果」。<br>選 E creation（創作、創造物），在此指人造森林。vision 是起初的願景，科學家不能實地參觀一個想法；interference 是干預，也不是地點或成果。<br>整句是：世界各地科學家前來參觀他的創造成果。"
     },
     {
       "no": 41, "cat": "C4", "tags": ["推論判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G5",
       "stem": "What is the speaker’s attitude toward the blood-type belief in Japan?",
       "options": {"A": "Negative.", "B": "Defensive.", "C": "Objective.", "D": "Encouraging."},
-      "explain": "作者同時陳述信念的應用、缺乏證據與歧視風險，語氣客觀。"
+      "explain": "<b>解題關鍵：</b>作者先中性介紹各血型刻板印象，再舉運動、教育、企業、政治實例，也指出 lacking scientific evidence 和歧視風險；文章呈現多面資料，沒有只鼓勵或只責罵。<br>(A) Negative：若完全負面，就不會先客觀列出流行情況與「有人視為無害娛樂」。<br>(B) Defensive：沒有替血型信念辯護。<br>(C) Objective：兼列事實、用途與問題，最符合。<br>(D) Encouraging：末段警告霸凌與失去機會，並非鼓勵。<br>所以作者態度是客觀陳述。"
     },
     {
       "no": 42, "cat": "C4", "tags": ["推論判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G5",
       "stem": "According to the examples mentioned in the passage, which blood type can we infer is the LEAST favored in Japan?",
       "options": {"A": "Type A.", "B": "Type B.", "C": "Type O.", "D": "Type AB."},
-      "explain": "B 型被形容自私，政治人物也以 B 型為失態辯解，可推知最不受青睞。"
+      "explain": "<b>解題關鍵：</b>這是推論題。第一段把 B 型形容為 eccentric、individualistic、selfish；第三段政治人物失態後還把問題歸因於自己是 B 型，兩個例子都帶負面色彩。<br>(A) A 型被稱敏感、完美主義且善合作，正面較多。<br>(B) B 型多項負面描述，最可能不受喜愛。<br>(C) O 型雖固執，也被說好奇、慷慨。<br>(D) AB 型被說有藝術性，企業還因擅長規劃組隊。<br>文章未直接說「最不受歡迎」，但可由例子合理推出 B。"
     },
     {
       "no": 43, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G5",
       "stem": "Why did Prime Minister Ryu Matsumoto resign from office?",
       "options": {"A": "He revealed his rival’s blood type.", "B": "He was seen behaving rudely on TV.", "C": "He blamed his failings on local officials.", "D": "He was discriminated against because of blood type."},
-      "explain": "他與地方官員的壞脾氣衝突被電視播出後被迫辭職。"
+      "explain": "<b>解題關鍵：</b>定位第三段：a bad-tempered encounter with local officials was televised，之後他 was forced to resign；原因是粗暴、壞脾氣的互動被播出。<br>(A) 公開對手血型：是另一名前首相的例子。<br>(B) 在電視上被看到態度粗魯：符合 bad-tempered encounter was televised。<br>(C) 把失敗怪地方官員：他在辭職演說怪的是自己的 B 型血。<br>(D) 因血型遭歧視：原文沒有這樣說。<br>所以辭職直接原因是失態畫面上了電視。"
     },
     {
       "no": 44, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G5",
       "stem": "Which field is NOT mentioned in the passage as being affected by blood-type beliefs?",
       "options": {"A": "Education.", "B": "Sports.", "C": "Business.", "D": "Medicine."},
-      "explain": "文章提到教育、運動、企業與政治，未提醫學。"
+      "explain": "<b>解題關鍵：</b>題目問 NOT mentioned，逐段定位：第二段 softball team 是運動、kindergartens 是教育、major companies 與 Mitsubishi 是商業；第三段談政治。<br>(A) Education：幼兒園依血型採教學法，有提。<br>(B) Sports：日本女壘隊依血型調整訓練，有提。<br>(C) Business：公司依血型分派工作，有提。<br>(D) Medicine：文章沒有說血型信念用於醫療。<br>雖然 blood type 聽起來和醫學有關，但本文沒有談醫療用途，所以選 D。"
     },
     {
       "no": 45, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G6",
       "stem": "Why did Jeanie Low invent the Kiddie Stool, according to the passage?",
       "options": {"A": "Many other five-year-olds had problems reaching the bathroom sink.", "B": "She did not think that plastic stools were tall enough for her.", "C": "The stool in her bathroom was not firm and often got in the way.", "D": "She was invited to enter an invention contest held by her school."},
-      "explain": "原塑膠凳不穩又占用狹小浴室空間，促使她發明。"
+      "explain": "<b>解題關鍵：</b>定位第一段：the plastic step-stool...was unstable and cluttered up the small bathroom，接著她才想做固定又可收起的凳子。<br>(A) 其他五歲孩童搆不到水槽：只是背景，文章說的是 Jeanie 自己的問題。<br>(B) 塑膠凳不夠高：原文沒有說高度不足。<br>(C) 凳子不穩又礙事：unstable 對應 not firm，cluttered up 對應 got in the way，正確。<br>(D) 她被邀請參賽：她是得知比賽後自行決定參加，不是被邀請；更不是發明要解決的生活問題。"
     },
     {
       "no": 46, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G6",
       "stem": "Which of the following statements is true about how the Kiddie Stool works?",
       "options": {"A": "The Kiddie Stool will swing out only when the cabinet door opens.", "B": "It uses hinges and magnets to keep the wooden pieces in place.", "C": "It swings from left to right to be attached to the cabinet door.", "D": "The platform is supported by two pieces of metal."},
-      "explain": "木片以 hinges 連接，收起時由 magnets 固定，故 B 正確。"
+      "explain": "<b>解題關鍵：</b>定位第二段：Using metal hinges 連接木片；不用時折回櫃子，held in place by magnets。<br>(A) 只有櫃門開才彈出：文章說木片從櫃門水平展開，未說由開門自動控制。<br>(B) 用鉸鏈與磁鐵固定木片：兩項都在原文，正確。<br>(C) 左右擺動：原文是水平向外與向下展開，不是左右。<br>(D) 平台由兩片金屬支撐：主要材料是兩片木板，金屬只有鉸鏈。<br>所以 B 最完整描述運作方式。"
     },
     {
       "no": 47, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G6",
       "stem": "What are the characteristics of Jeanie’s Kiddie Stool?",
       "options": {"A": "Permanent and foldable.", "B": "Fragile and eye-catching.", "C": "Conventional and touching.", "D": "Convenient and recyclable."},
-      "explain": "它固定在浴室櫃門上又能折疊收起，兼具 permanent 與 foldable。"
+      "explain": "<b>解題關鍵：</b>第一段直接提出設計目標：a permanent fixture，卻能 kept out of the way；第二段說木片可 fold back up，正是固定安裝又可折疊。<br>(A) Permanent and foldable：兩項都符合原文。<br>(B) Fragile and eye-catching：文章反而說 sturdy，並未強調醒目。<br>(C) Conventional and touching：這是新發明，不是傳統設計。<br>(D) Convenient and recyclable：方便有提，但可回收沒有提；選項須兩部分都正確。<br>因此選 A。"
     },
     {
       "no": 48, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G6",
       "stem": "Which of the following sayings best captures the spirit of Jeanie Low’s story?",
       "options": {"A": "Failure is the mother of success.", "B": "There’s nothing new under the sun.", "C": "Necessity is the mother of invention.", "D": "Genius is 1% inspiration and 99% perspiration."},
-      "explain": "她因生活中的實際需要創造新凳子，符合「需要為發明之母」。"
+      "explain": "<b>解題關鍵：</b>Jeanie 因原凳子不穩、占空間，才設計能固定又收折的新凳；是生活需求帶出發明。<br>(A) 失敗為成功之母：故事沒有多次失敗再成功的過程。<br>(B) 太陽底下無新鮮事：意思偏向沒有真正新事物，和創新相反。<br>(C) 需要為發明之母：需求促使人想出新工具，最符合。<br>(D) 天才是一分靈感、九十九分努力：雖有動手製作，但文章核心更明確是解決需要。<br>因此選 C。"
     },
     {
       "no": 49, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G7",
       "stem": "What is this article mainly about?",
       "options": {"A": "Why people are moving away from their own countries.", "B": "Why there are civil wars and violence in the Middle East.", "C": "Why many schools have become shelters for displaced families.", "D": "Why many children in the Middle East are not attending school."},
-      "explain": "全文說明衝突如何使中東兒童無法上學，故選 D。"
+      "explain": "<b>解題關鍵：</b>首段即說衝突讓超過 1,300 萬兒童無法上學；第二段解釋校舍毀損與人口流離，第三段以敘利亞為例，末段呼籲援助，全部圍繞兒童失學。<br>(A) 人們為何離國：forced migration 只是失學原因之一。<br>(B) 中東內戰原因：文章不分析戰爭為何發生。<br>(C) 學校成收容所原因：只是伊拉克的一項例子。<br>(D) 為何許多中東兒童沒上學：能涵蓋全文。<br>所以主旨選 D。"
     },
     {
       "no": 50, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G7",
       "stem": "Why is “Iraq” mentioned in the second paragraph?",
       "options": {"A": "To convince people that temporary housing can be easily found.", "B": "To prove that classrooms there are big enough to host many families.", "C": "To give an example of why schools are not usable for children’s learning.", "D": "To show how structural damages of school can affect the quality of education."},
-      "explain": "伊拉克學校被當作收容所，是校舍無法供兒童學習的例子。"
+      "explain": "<b>解題關鍵：</b>第二段先說暴力使 8,500 所學校 unusable，接著用 Iraq 說一間舊教室可住九個家庭；例子要說明學校被當收容所後，不能再正常上課。<br>(A) 臨時住宅容易找到：相反，社區不得不使用學校。<br>(B) 教室夠大：九個家庭擠一間並非稱讚空間。<br>(C) 舉例說明學校為何不能供兒童學習：正確。<br>(D) 說校舍結構損壞影響教育品質：伊拉克例子是用途被占用，不是建築損壞。<br>所以選 C。"
     },
     {
       "no": 51, "cat": "C4", "tags": ["語境推義"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G7",
       "stem": "What does the phrase “in the balance” in the last paragraph most likely mean?",
       "options": {"A": "Being well taken care of.", "B": "In an uncertain situation.", "C": "Under control by the authority.", "D": "Moving in the wrong direction."},
-      "explain": "一整代兒童的教育前景懸而未決，in the balance 指處於不確定狀態。"
+      "explain": "<b>解題關鍵：</b>末段先說 1,300 萬兒童已被迫離開教室，接著說一整代人的 educational prospects are in the balance；在暴力與缺乏教育下，未來結果尚未確定且面臨危險。<br>(A) 受到良好照顧：與危機相反。<br>(B) 處於不確定狀態：符合前景懸而未決的語氣。<br>(C) 被當局控制：balance 在此不是管理。<br>(D) 朝錯誤方向前進：文中強調結果未定，不是已確定往某方向。<br>所以 in the balance 最接近 B。"
     },
     {
       "no": 52, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G7",
       "stem": "According to the passage, which of the following statements is true?",
       "options": {"A": "The war in Syria has been going on since 2011.", "B": "More than nine thousand schools have been destroyed by wars.", "C": "Thirteen million people have been forced to leave their homes in the Middle East.", "D": "Forty percent of all children in the world are not attending schools due to ongoing conflict."},
-      "explain": "文章明說敘利亞內戰始於 2011 年，故 A 正確。"
+      "explain": "<b>解題關鍵：</b>定位第三段：Syria...since the war began in 2011，直接指出戰爭自 2011 年開始。<br>(A) 敘利亞戰爭自 2011 延續：符合原文。<br>(B) 超過九千所學校被摧毀：原文是 8,500 所 unusable，不等於全部被摧毀。<br>(C) 1,300 萬人離家：1,300 萬是無法上學的兒童，不是流離人數。<br>(D) 全世界四成兒童失學：40% 限定 across the region，不是全球。<br>數字題要注意對象與範圍，因此選 A。"
     },
     {
       "no": 53, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G8",
       "stem": "What is the purpose of the study described in this passage?",
       "options": {"A": "To test if sea snakes lose body water at sea.", "B": "To see whether sea snakes drink water offered to them.", "C": "To find out if sea snakes are greatly reduced in population.", "D": "To prove that sea snakes drink only water coming from rivers."},
-      "explain": "研究團隊想測試海蛇在海上是否會脫水，故選 A。"
+      "explain": "<b>解題關鍵：</b>定位第二段末句：the team became interested in testing whether sea snakes became dehydrated at sea，直接說研究目的是測試海蛇在海上是否脫水。<br>(A) 測試海蛇是否在海中流失體內水分：dehydrated 的白話重述，正確。<br>(B) 看牠們是否喝提供的水：這是研究方法之一，不是最終目的。<br>(C) 查族群是否大量減少：只在末句作可能影響。<br>(D) 證明只喝河水：海蛇飲用的是降雨形成的淡水層。<br>所以目的選 A。"
     },
     {
       "no": 54, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G8",
       "stem": "Which of the following is true about sea snakes?",
       "options": {"A": "Their salt glands can remove the salt in the seawater.", "B": "They can drink seawater when it mixes with rainwater.", "C": "The ocean is like a desert to them since they don’t drink seawater.", "D": "They usually live near the coastal area where there is more fresh water."},
-      "explain": "海蛇不能飲海水，雨又可能數月不下，因此海洋對牠們如同沙漠。"
+      "explain": "<b>解題關鍵：</b>第一段說海蛇鹽腺無法處理直接喝海水帶入的大量鹽；第二段又說遠離陸地，唯一淡水來源是雨，因此身在海洋卻可能無水可喝。<br>(A) 鹽腺可排海水的鹽：原文說 cannot handle，錯。<br>(B) 海水與雨水混合後喝：雨水是在海面形成 thin layer，非混合海水飲用。<br>(C) 海洋像沙漠：四周有水卻不能喝，符合。<br>(D) 通常住近岸：原文說 spend all time far from land。<br>所以選 C。"
     },
     {
       "no": 55, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G8",
       "stem": "Which of the following is one of the findings of the study?",
       "options": {"A": "If a sea snake was dried and weak, it drank more fresh water.", "B": "If captured in the wet season, sea snakes drank a lot of fresh water.", "C": "Most of the sea snakes had lost a lot of body water when captured.", "D": "Dehydration is not a problem among sea snakes since they live at sea."},
-      "explain": "研究發現較乾癟的海蛇較可能飲水，而且喝得更多。"
+      "explain": "<b>解題關鍵：</b>定位第三段：more withered snakes being more likely to drink, and to drink more，直接指出身體較乾癟的海蛇更可能喝水，也喝更多。<br>(A) 乾燥虛弱的海蛇喝更多淡水：符合原文。<br>(B) 雨季捕獲的喝很多：幾乎沒有雨季海蛇接受水，與原文相反。<br>(C) 多數海蛇大量失水：只說旱季約一半接受水，不能擴大成多數。<br>(D) 脫水不是問題：研究正是發現旱季體內水分較少。<br>因此選 A。"
     },
     {
       "no": 56, "cat": "C4", "tags": ["推論判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G8",
       "stem": "What can be inferred from the study?",
       "options": {"A": "Sea snakes can easily survive long years of drought.", "B": "Evolution will very likely enable sea snakes to drink seawater.", "C": "Sea snakes will be the last creature affected by global warming.", "D": "The sea snakes’ population distribution is closely related to rainfall."},
-      "explain": "海蛇以降雨形成的淡水為水源，缺雨與族群下降相關，可推知分布受降雨影響。"
+      "explain": "<b>解題關鍵：</b>這是推論題。海蛇唯一淡水來源是降雨，旱季身體水分顯著較少；末句又說海上脫水可能解釋某些地區族群下降，因此雨量會影響牠們能否生存與分布。<br>(A) 能輕易熬過多年乾旱：只說能忍受 certain degrees，不可誇大。<br>(B) 演化很可能讓牠們喝海水：文章沒有預測。<br>(C) 最後才受全球暖化影響：未提。<br>(D) 族群分布和降雨密切相關：可由水源與族群下降線索合理推出。<br>所以選 D。"
     }
   ]
 });
@@ -3363,62 +3363,62 @@ window.BANK.push({
 // 題目與答案取自大學入學考試中心官方試題、答案。
 (function () {
   const explanations = {
-    1: "員工可自行選擇六點到十一點間上班，屬於 flexible work schedule「彈性工時」。",
-    2: "以獎勵良好行為、處罰不當行為教孩子是非，reward 表示「獎勵」。",
-    3: "為遵守有限預算而捨棄昂貴產品，選較負擔得起的 affordable 電視。",
-    4: "書中的美麗圖畫是 illustrations「插圖」，與有趣故事共同吸引讀者。",
-    5: "機場因暴風雪關閉，延誤的是前往巴黎的出發 departure。",
-    6: "感到地震後立刻跑出教室，swiftly 表示「迅速地」。",
-    7: "電梯為安全不可超載，400 公斤是 maximum capacity「最大載重」。",
-    8: "擁抱與親吻是親密行為 intimate behavior。",
-    9: "藥品包裝上說明用法與時間的文字在 labels「標籤」上。",
-    10: "航班無故取消使乘客憤怒地爭辯，furiously 表示「盛怒地」。",
-    11: "正式上市前提供免費樣品，是為宣傳產品；promote 表示「推廣」。",
-    12: "父親向說話者保證會協助規劃旅程，assure＋受詞＋that 子句表示「向某人保證」。",
-    13: "食用油醜聞引發加強食品銷售管制的呼聲，regulation 表示「規範、管理」。",
-    14: "下班後應多與親友互動，而不是獨自打電玩；interact with 表示「與……互動」。",
-    15: "機場對疫區旅客進行伊波拉篩檢，screenings 表示「篩檢」。",
-    16: "人們為健康效益而練習太極拳，practice 在此表示「練習、習練」。",
-    17: "後面列舉兩個詩意招式名稱，like 表示「例如、像」。",
-    18: "主詞 These movements 為複數，句子缺謂語，故用 allow；allow＋受詞＋to V 表示「讓……能夠」。",
-    19: "前文是 physical，後文談身心溝通與心理效果，故與之並列的是 mental exercise。",
-    20: "太極帶來平靜與信心，表示能減輕壓力；reduce stress 是自然搭配。",
-    21: "前句說藍鳥是吉兆，接著啄木鳥也被視為吉兆，Similarly 表示「同樣地」。",
-    22: "孔雀在印度、中日被視為幸運，其他地區卻受蔑視，因此並非普遍 universally 被視為幸運。",
-    23: "羽毛上的眼睛被說能提醒孔雀有邪惡正在接近，approaching 作形容詞修飾 evil。",
-    24: "統治家族以孔雀象徵身分與財富，represent 表示「代表、象徵」。",
-    25: "孔雀羽毛的眼狀圖案被聯想到 evil eyes，因此被視為最不吉利 unlucky 的部位。",
-    26: "from A to B 的 A、B 應為平行名詞結構；from early humans gathering... to the first cultivation...，故用 gathering。",
-    27: "主句完整，with over 7,000 different kinds in existence 補充蘋果品種數量。",
-    28: "雖有七千多品種，多數家蘋果仍可追溯同一祖先；variety 表示「多樣性」。",
-    29: "蘋果在十七世紀由殖民者帶到北美，為過去特定時間的被動動作，故用 were brought。",
-    30: "蘋果如今在世界各地經常被食用，regularly eaten 語意最自然。",
-    31: "紙夾是用來夾住紙張的常見器具，device 表示「裝置、用具」。",
-    32: "別針便宜而且容易取下，removable 表示「可移除的」。",
-    33: "鋼線有彈性，可被拉伸並扭成各種夾狀物，twisted into 表示「扭成」。",
-    34: "最常與紙夾發明聯繫的名字是 Johan Vaaler，associated with 表示「與……相關」。",
-    35: "今日熟悉的內外雙環設計由英國公司發明，familiar 表示「熟悉的、常見的」。",
-    36: "這種紙夾因此有時被稱為 Gem clip，be known as 表示「被稱為」。",
-    37: "紙夾在二戰挪威成為團結象徵，扮演重要歷史角色，historical 最符合語境。",
-    38: "納粹禁止挪威人佩戴任何國家團結的象徵，symbol of... 是「……的象徵」。",
-    39: "挪威人佩戴紙夾是反抗占領、表達團結的抗議行動，in protest 表示「以示抗議」。",
-    40: "戰後立巨型紙夾雕像是為紀念 Vaaler，honor 表示「向……致敬」。",
-    41: "第二段明說創辦人 Camake Valaule 是體育老師，因此選 B。",
-    42: "Camake 擔心 75 分鐘演出大多是沒有樂器伴奏的 a cappella，觀眾會睡著，因此選 B。",
-    43: "孩子唱傳統歌謠後，父母才察覺自己不會唱；blurred memory 指父母對自身傳統的模糊理解，選 D。",
-    44: "風災迫使學校與村落遷移，無法帶走山林房舍，卻能帶著文化，讓 Camake 更體認傳承的重要，選 C。",
-    45: "全文以 Power 太太為例，說明過多檢查與治療可能造成身體和財務傷害，主旨選 C。",
-    46: "即使檢查結果為陰性，原醫師仍繼續安排更多檢查，正是她遭遇的問題，選 C。",
-    47: "Mr. Power 說很難判斷「他們」何時越界，前後談的都是安排過多治療的醫師，they 指 physicians，選 A。",
-    48: "作者開頭即警告過度治療會造成傷害，案例也顯示不必要的檢查太多，態度最符合 A。",
-    49: "父親靠紡織致富，但父母生活節儉得像家境貧窮，因此家庭富有卻非常節省，選 A。",
-    50: "第四段明說非洲之旅激起 Cartier-Bresson 對攝影的興趣，選 B。",
-    51: "他拍攝 Gandhi 遇刺後的死亡及其對印度的立即影響，完成珍貴攝影專題，選 C。",
-    52: "他以手持相機捕捉日常生活稍縱即逝的影像，且反對後製；四個選項中符合的是 C。",
-    53: "文章說明久坐如何改變代謝、升高血糖血壓並增加疾病風險，目的在解釋長時間坐著的健康威脅，選 D。",
-    54: "sedentary lifestyle 與久坐、缺少活動相連，因此最接近 inactive「不活動的」，選 C。",
-    55: "第二段指出全天經常以短暫輕度活動打斷久坐，便足以降低血糖與血壓，選 C。",
-    56: "研究發現固定運動者在運動當天反而少活動約 30%，可推論他們那天較少站立或走動，選 B。"
+    1: "<b>解題關鍵：</b>員工可以自己決定早上 6 點到 11 點之間何時上班，表示時間能依需要調整。<br>(A) relative：相對的；沒有「可調整時間」的意思。<br>(B) severe：嚴重的、嚴厲的；不能形容讓員工自由選時間的班表。<br>(C) primitive：原始的；與公司採用的現代制度不合。<br>(D) flexible：有彈性的；flexible work schedule 就是「彈性工時」，完全符合線索。<br>把答案放回去：許多公司採用彈性班表，讓員工自行決定到班時間。",
+    2: "<b>解題關鍵：</b>空格後的 when they behave well「當孩子表現良好時」和後面的 punish「處罰」形成對比，所以此處要填「獎勵」。<br>(A) settle：解決、安頓；不是對好行為的回應。<br>(B) declare：宣布；無法和 punish 形成相反意思。<br>(C) reward：獎勵；reward children for good behavior 是自然用法。<br>(D) neglect：忽略；忽略孩子不能教導是非。<br>把答案放回去：有些父母會獎勵好行為、處罰不當行為，來教孩子分辨對錯。",
+    3: "<b>解題關鍵：</b>tight budget 是「預算很有限」，Robert 沒買 fancy, expensive 的電視，而改買價格較能負擔的產品。<br>(A) technical：技術性的；沒有便宜或可負擔的意思。<br>(B) significant：重要的、顯著的；不符合價格線索。<br>(C) affordable：負擔得起的；正好解釋他為何能守住預算。<br>(D) expressive：富有表現力的；通常形容人或藝術，不形容商品價格。<br>把答案放回去：為了不超支，他買了較能負擔的 LED 電視。",
+    4: "<b>解題關鍵：</b>題目說新書因為 beautiful ______ 和 amusing stories 而暢銷；能在書中是 beautiful，並和故事一起吸引讀者的是「插圖」。<br>(A) operations：操作、營運；不是書裡的視覺內容。<br>(B) illustrations：插圖；beautiful illustrations 是常見搭配。<br>(C) engagements：約會、參與；無法和 stories 並列成書的特色。<br>(D) accomplishments：成就；不會說一本書有美麗的成就。<br>把答案放回去：這本書因美麗插圖和有趣故事而登上暢銷榜。",
+    5: "<b>解題關鍵：</b>機場因暴風雪關閉，原本要去巴黎的行程被延到隔天；在機場被延誤的是「出發」。<br>(A) movement：移動；意思太廣，不能自然說 our movement for Paris。<br>(B) registration：登記、註冊；不是飛機離開機場的動作。<br>(C) tendency：傾向；與航班完全無關。<br>(D) departure：出發、離境；departure for Paris 是「前往巴黎的出發班次」。<br>把答案放回去：我們前往巴黎的出發時間只好延到隔天。",
+    6: "<b>解題關鍵：</b>The moment 表示「一……就……」；學生一感到地震便跑到戶外空地，安全上必須快速離開。<br>(A) swiftly：迅速地；最符合緊急避難的情境。<br>(B) nearly：幾乎；不能用來說明跑步方式。<br>(C) loosely：鬆散地；不符合逃離地震現場。<br>(D) formally：正式地；常指正式場合或方式，與逃生無關。<br>把答案放回去：學生感到地震後，立刻迅速跑出教室。",
+    7: "<b>解題關鍵：</b>400 kilograms 是電梯可承受的重量上限，下一句也提醒 shouldn’t be overloaded「不可超載」。<br>(A) delicate：精細的、脆弱的；不是容量上限。<br>(B) automatic：自動的；可形容電梯，卻不能說自動容量。<br>(C) essential：必要的；不符合數字所表示的限制。<br>(D) maximum：最大的；maximum capacity 是「最大載重」。<br>把答案放回去：這部電梯最大載重 400 公斤，為了安全不可超過。",
+    8: "<b>解題關鍵：</b>後面用 such as hugging and kissing 舉例，擁抱與親吻屬於親密行為。<br>(A) intimate：親密的；intimate behavior 正好包含這些身體接觸。<br>(B) ashamed：感到羞愧的；通常形容人的感受，不形容擁抱這類行為。<br>(C) earnest：認真的、誠摯的；與例子不符。<br>(D) urgent：緊急的；題目沒有時間急迫的線索。<br>把答案放回去：有些保守社會不允許男女公開表現擁抱、親吻等親密行為。",
+    9: "<b>解題關鍵：</b>吃藥前要讀的地方提供 how and when to take it「如何服用、何時服用」，這些資訊通常印在藥品標籤上。<br>(A) medals：獎牌；不會附在藥品上說明用法。<br>(B) quotes：引文、報價；不是使用說明。<br>(C) labels：標籤；instructions on the labels 是藥品包裝上的指示。<br>(D) recipes：食譜；教人料理，不是藥物服用方法。<br>把答案放回去：服藥時應仔細閱讀標籤上的重要資訊。",
+    10: "<b>解題關鍵：</b>乘客因航班無故取消而 angry，空格修飾 argued，應選能表現強烈怒氣的副詞。<br>(A) evidently：明顯地；只表示看得出來，沒有生氣的語氣。<br>(B) furiously：憤怒地；和 angry passengers、argued 完整呼應。<br>(C) obediently：順從地；與和航空公司人員爭辯相反。<br>(D) suspiciously：懷疑地；題目重點是憤怒，不是猜疑。<br>把答案放回去：憤怒的乘客因航班無故取消，氣憤地和人員爭辯。",
+    11: "<b>解題關鍵：</b>公司在產品 officially launched「正式上市」前送免費樣品，目的是讓更多人認識並想購買它。<br>(A) contribute：貢獻、捐助；不能表達替產品宣傳。<br>(B) impress：使留下印象；通常後面直接接人，不是這裡的行銷目的。<br>(C) promote：推廣、促銷；免費試用品正是促銷方式。<br>(D) estimate：估計；與發放樣品無因果關係。<br>把答案放回去：公司為推廣新產品，在正式上市前提供免費樣品。",
+    12: "<b>解題關鍵：</b>說話者擔心第一次出國，父親說會幫忙規劃，讓他安心。assure 人 that... 是「向某人保證……」。<br>(A) rescued：救援；題目沒有身陷危險。<br>(B) assured：向……保證；assured me that he would help 的句型正確。<br>(C) inspired：啟發、激勵；不能表達父親承諾幫忙。<br>(D) conveyed：傳達；通常是 convey a message，不直接用 convey me that。<br>把答案放回去：父親向我保證會協助規劃旅程。",
+    13: "<b>解題關鍵：</b>食用油醜聞使人要求政府對食品銷售採取 tougher「更嚴格的」管理，因此要填「規範」。<br>(A) tolerance：容忍；tougher tolerance 語意矛盾，也不是管理銷售。<br>(B) guarantee：保證；不能直接表示法規管制。<br>(C) regulation：規範、管制；regulation of sales 是「對銷售的管理」。<br>(D) distribution：分配、流通；是銷售流程，不是加強管理的制度。<br>把答案放回去：醜聞引發民眾要求更嚴格管制食品銷售。",
+    14: "<b>解題關鍵：</b>instead of 表示「而不是」；John 不該總在房裡獨自打電玩，而要多和親友往來。<br>(A) explore：探索；不能搭配 with friends 表示交流。<br>(B) interact：互動；interact with people 是「與人互動」。<br>(C) negotiate：協商；通常為了達成協議，不是一般相處。<br>(D) participate：參加；要說 participate in an activity，不能說 participate with family。<br>把答案放回去：John 下班後應多和親友互動。",
+    15: "<b>解題關鍵：</b>為了 prevent the spread「防止病毒擴散」，機場會檢查來自感染區的旅客是否可能染病。<br>(A) screenings：篩檢；Ebola screenings 就是伊波拉病毒檢查。<br>(B) listings：清單、列表；列名單不能直接檢查感染。<br>(C) clippings：剪報、剪下物；與防疫無關。<br>(D) blockings：阻擋；雖有阻止之意，但不是醫療檢查名稱。<br>把答案放回去：許多機場已開始為疫區旅客進行伊波拉篩檢。",
+    16: "<b>解題關鍵：</b>空格後直接接 Tai Chi，句意是人們為了健康益處而「練太極」。<br>(A) practice：練習、習練；practice Tai Chi 是自然搭配。<br>(B) consult：請教、諮詢；通常接人或資料，不能表示打太極。<br>(C) display：展示；文章談日常鍛鍊，不是表演。<br>(D) manage：管理、設法做到；不能直接表達練習一項運動。<br>把答案放回去：人們主要為了健康益處而練太極拳。",
+    17: "<b>解題關鍵：</b>空格後列出 “dragons stirring up the wind” 和 “wave hands like clouds” 兩個招式名稱，是前面 poetic names 的例子。<br>(A) from：從；不能引出例子。<br>(B) like：像、例如；可自然引出兩個名稱。<br>(C) between：在兩者之間；後面雖有兩項，卻不是描述位置。<br>(D) regarding：關於；不是「例如」的意思。<br>把答案放回去：手式有一些富詩意的名稱，例如「龍攪風」與「雲手」。",
+    18: "<b>解題關鍵：</b>主詞 These movements 是複數，句子需要現在式動詞；中間 forming an exercise system 只是補充說明。<br>(A) allow：複數主詞的現在式，且 allow one to experience 表示「使人能體驗」。<br>(B) allows：要搭配單數主詞。<br>(C) allowed：是過去式，但全文在介紹一般事實。<br>(D) allowing：只有 -ing 形式，無法單獨當本句主要動詞。<br>把答案放回去：這些動作讓人能輕鬆感受體內的氣。",
+    19: "<b>解題關鍵：</b>not only A but also B 要放兩個並列概念；前面是 physical「身體的」，後文緊接著說身體與心靈的溝通和心理效果。<br>(A) formal：正式的；後文沒有儀式或形式線索。<br>(B) mental：心智的、心理的；正好和 physical 構成「身心」對照。<br>(C) social：社交的；雖提到與人相處，但不是本段主要對比。<br>(D) global：全球的；只說在美國漸受歡迎，不是運動性質。<br>把答案放回去：太極不只是身體運動，也是心智運動。",
+    20: "<b>解題關鍵：</b>後半句 creates calmness and confidence「帶來平靜與信心」，因此前半也應是正面效果：降低壓力。<br>(A) imposes：強加；impose stress 會變成增加壓力，和後文不一致。<br>(B) offends：冒犯；受詞通常是人。<br>(C) reduces：減少；reduce stress 是「減輕壓力」的固定搭配。<br>(D) disturbs：打擾；不能自然說打擾壓力。<br>把答案放回去：太極能減輕壓力，並帶來平靜與信心。",
+    21: "<b>解題關鍵：</b>前一句說藍鳥在多數文化中是幸運徵兆；下一句說住家附近的啄木鳥也被看成好兆頭，兩句意思相同。<br>(A) Therefore：因此；第二件事不是第一件事造成的結果。<br>(B) Nevertheless：然而；兩句沒有相反。<br>(C) Roughly：大約地；不能連接兩個相似觀念。<br>(D) Similarly：同樣地；正確表示啄木鳥和藍鳥一樣象徵幸運。<br>把答案放回去：同樣地，住家附近出現啄木鳥也被視為好兆頭。",
+    22: "<b>解題關鍵：</b>In contrast 表示接下來和前面的幸運鳥相反；後文又說孔雀在印度、中國、日本幸運，但在世界其他地方受輕視，可見看法不一致。<br>(A) officially：官方地；文章不是比較官方與民間。<br>(B) mutually：互相地；不能修飾各地對孔雀的看法。<br>(C) universally：普遍地、全世界一致地；not universally 正好表示並非各地都認為幸運。<br>(D) eventually：最後；沒有時間發展線索。<br>把答案放回去：孔雀並不是在各地都被視為幸運。",
+    23: "<b>解題關鍵：</b>alert it to... 是「提醒牠注意……」；空格要放在 evil 前面修飾「正在靠近的邪惡」，需用形容詞作用的 approaching。<br>(A) approach：原形動詞或名詞，放在 evil 前會變成不自然的組合。<br>(B) approaching：正在接近的；approaching evil 意思完整。<br>(C) approached：被接近的，方向顛倒。<br>(D) be approaching：含動詞 be，不能直接放在介系詞 to 後修飾 evil。<br>把答案放回去：羽毛上的眼睛據說能提醒孔雀注意正在靠近的邪惡。",
+    24: "<b>解題關鍵：</b>中國與日本的統治家族把孔雀當成 symbols，目的要讓孔雀「象徵」自己的地位與財富。<br>(A) replace：取代；孔雀不是取代地位與財富。<br>(B) disguise：掩飾；文章說展示，不是隱藏。<br>(C) distinguish：區分；通常是 distinguish A from B，這裡沒有兩者比較。<br>(D) represent：代表、象徵；represent their status and wealth 語意完整。<br>把答案放回去：統治家族用孔雀象徵其地位與財富。",
+    25: "<b>解題關鍵：</b>後面 because 說明羽毛的眼狀圖案會讓人聯想到 evil eyes，帶進家裡被認為會招來麻煩與悲傷，因此是不吉利。<br>(A) unlucky：不幸的、不吉利的；與 trouble and sorrow 呼應。<br>(B) illogical：不合邏輯的；不能描述羽毛帶來的文化象徵。<br>(C) impossible：不可能的；羽毛是真實存在，不符合。<br>(D) unnecessary：不必要的；文章不是討論需不需要羽毛。<br>把答案放回去：孔雀羽毛被視為牠最不吉利的部分。",
+    26: "<b>解題關鍵：</b>句型是 from A to B「從 A 到 B」；B 是名詞片語 the first cultivation，A 也要用能當名詞的 gathering，讓兩邊形式平行。<br>(A) to gather：不定詞，和後面的名詞結構不一致。<br>(B) gather：原形動詞，不能直接接在 humans 後完成此片語。<br>(C) gathered：過去式或過去分詞，不表示「早期人類採集」這件事。<br>(D) gathering：採集；early humans gathering fruits and nuts 是「早期人類採集水果堅果」。<br>把答案放回去：樹木產品從人類採集時代到開始栽培果樹，都很重要。",
+    27: "<b>解題關鍵：</b>逗號前主句已完整，後面要補充「目前有七千多種蘋果」這項附帶資訊。with＋名詞＋補語可表示「有……的情況」。<br>(A) all：全部；後面 over 7,000 已是數量，結構不成立。<br>(B) with：有、帶有；with over 7,000 different kinds in existence 結構完整。<br>(C) around：大約、周圍；無法連接完整補充片語。<br>(D) still：仍然；是副詞，句中仍缺連接方式。<br>把答案放回去：蘋果是廣泛栽種的果樹，現存品種超過七千種。",
+    28: "<b>解題關鍵：</b>前一句提到 over 7,000 different kinds，後面 Despite... however 又說大多數家蘋果仍來自共同祖先；空格就是「品種多樣」。<br>(A) variety：多樣性；great variety 承接七千多品種。<br>(B) harvest：收成；文章沒有比較收成量。<br>(C) condition：狀況；不能解釋 different kinds。<br>(D) discovery：發現；後文談來源，不是發現次數。<br>把答案放回去：儘管蘋果種類很多，多數家蘋果仍可追溯到同一祖先。",
+    29: "<b>解題關鍵：</b>主詞 apples 是「被」歐洲殖民者帶到北美，且 in the 17th century 是已結束的過去時間，因此用過去式被動 were brought。<br>(A) bring：主動原形，會變成蘋果帶別人。<br>(B) have brought：現在完成主動，主客關係錯誤。<br>(C) were brought：過去式被動，時間與語意都正確。<br>(D) have been brought：現在完成被動，通常不與明確過去時間搭配。<br>把答案放回去：蘋果在十七世紀由歐洲殖民者帶到北美。",
+    30: "<b>解題關鍵：</b>Today 和 the world over 表示今日世界各地的普遍情況；蘋果被人們「經常」食用，也形成龐大產業。<br>(A) regularly：經常地、固定地；regularly eaten 最符合日常飲食。<br>(B) particularly：特別地；通常要指出特別在哪裡或哪一方面。<br>(C) permanently：永久地；食用是重複行為，不是永久狀態。<br>(D) barely：幾乎不；和全球數千萬噸產量相反。<br>把答案放回去：如今世界各地都經常食用蘋果。",
+    31: "<b>解題關鍵：</b>前一句已定義 paperclip 是夾住紙張的 instrument，空格前的 This common 指的就是這個常見用具，且後面談它的簡單與功能。<br>(C) device：裝置、用具；可回指 paperclip，詞性也是單數名詞。<br>容易混淆：(A) familiar 是形容詞，不能單獨放在 this common 後；(D) removable 也是形容詞；(G) symbol 雖是名詞，但紙夾到第三段才成為團結象徵。<br>把答案放回去：這個常見用具結構簡單，功能卻很出色。",
+    32: "<b>解題關鍵：</b>句型 was easily ______ 需要形容詞或過去分詞；別針雖便宜又容易「取下」，缺點是會在紙上留洞。<br>(D) removable：可移除的；和 easily 搭配，正好說明別針的優點。<br>容易混淆：(A) familiar 是「熟悉的」，不是可取下；(E) known as 後面要接名稱；(H) twisted into 是「扭成」，主詞需是能被塑形的材料。<br>把答案放回去：別針雖便宜且容易取下，卻會把紙刺出洞。",
+    33: "<b>解題關鍵：</b>前文說鋼線有彈性，代名詞 it 指 steel wire；它可以被拉長，並被加工成各種夾子形狀。<br>(H) twisted into：被扭成；stretched and twisted into 兩個被動動作並列。<br>容易混淆：(D) removable 是形容詞，不能接 objects；(I) associated with 是「與……相關」，不表示改變形狀；(E) known as 是「被稱為」，後面應接名稱而非 objects。<br>把答案放回去：鋼線能被拉伸並扭成各種夾狀物。",
+    34: "<b>解題關鍵：</b>句子要說「最常和紙夾發明聯繫在一起的名字」是 Johan Vaaler；空格前有 most frequently，後面直接接 the paperclip invention。<br>(I) associated with：與……相關；the name associated with the invention 結構完整。<br>容易混淆：(E) known as 是「被稱作」，方向會變成名字被稱為某項發明；(A) familiar 後常接 to；(G) symbol 後要接 of。<br>把答案放回去：最常被人和紙夾發明聯想到的名字是 Johan Vaaler。",
+    35: "<b>解題關鍵：</b>上一句說 Vaaler 的紙夾沒有今天看得到的內環；下一句改談我們今日常見的雙環設計由英國公司發明。空格要用形容詞修飾 looped design。<br>(A) familiar：熟悉的、常見的；the familiar looped design 指今日大家認得的設計。<br>容易混淆：(D) removable 雖也是形容詞，但文章沒說環可拆；(J) historical「歷史的」應修飾後文 role；(C) device 是名詞。<br>把答案放回去：今日熟悉的環狀設計由英國 Gem 公司發明。",
+    36: "<b>解題關鍵：</b>therefore 承接前句：設計者是 Gem Manufacturing Ltd.，所以這種夾子有時「被稱為」Gem clip。<br>(E) known as：被稱為；be known as＋名稱 是固定搭配。<br>容易混淆：(I) associated with 是「與……相關」，不能直接介紹名稱；(A) familiar 不能形成 is familiar the Gem clip；(B) honor 是動詞或名詞，不表命名。<br>把答案放回去：因此，這種紙夾有時被稱為 Gem clip。",
+    37: "<b>解題關鍵：</b>這句是第三段開頭，後面將敘述二戰時挪威人以紙夾表達團結，屬於紙夾在挪威歷史中的重要角色。空格是形容詞修飾 role。<br>(J) historical：歷史上的；historical role 搭配正確。<br>容易混淆：(A) familiar role 是「熟悉的角色」，沒有歷史重點；(G) symbol 是名詞，不能直接修飾 role；(F) protest 要用在後面的 in protest。<br>把答案放回去：因為 Vaaler，紙夾在挪威歷史上扮演重要角色。",
+    38: "<b>解題關鍵：</b>納粹占領時，挪威人不得佩戴代表國家團結的物品，後面以有國王姓名縮寫的鈕扣為例。any 後要接單數名詞。<br>(G) symbol：象徵；a symbol of national unity 是「國家團結的象徵」。<br>容易混淆：(C) device 是用具，沒有代表意義；(F) protest 是抗議行動，不是團結象徵；(B) honor 是榮譽或致敬。<br>把答案放回去：挪威人被禁止佩戴任何國家團結的象徵。",
+    39: "<b>解題關鍵：</b>Thus 表示結果：既然象徵國家團結的物品被禁，挪威人就佩戴紙夾表達 solidarity「團結」，這是一種抗議。句型 in ______ 需要名詞。<br>(F) protest：抗議；in protest 是「以示抗議」的固定說法。<br>容易混淆：(B) honor 是尊敬，不能表達反抗占領；(G) symbol 雖和紙夾有關，但 in symbol 不成立；(J) historical 是形容詞。<br>把答案放回去：因此，他們以佩戴紙夾來抗議並展現團結。",
+    40: "<b>解題關鍵：</b>戰後奧斯陸立起巨型紙夾雕像，to 後面需要原形動詞來說明目的；雕像是為了向 Vaaler 致敬。<br>(B) honor：向……致敬、表揚；to honor Vaaler 結構和語意都正確。<br>容易混淆：(E) known as 是被稱為，不能用雕像「稱為」一個人；(I) associated with 前需 be；(F) protest 不符合戰後紀念的目的。<br>把答案放回去：戰後人們立起巨型紙夾雕像，向 Vaaler 致敬。",
+    41: "<b>解題關鍵：</b>定位第二段第一句：Camake Valaule, a physical education teacher and the founder，明說 Camake 是體育老師，也是團體創辦人。<br>(A) 2009 是受邀赴歐演出的年份；第四段說團體創立於 2006。<br>(B) 符合原文，團體由體育老師 Camake 創立。<br>(C) 他們唱 traditional ballads「傳統歌謠」，不是流行民歌。<br>(D) 文中反而說許多時候由孩子教父母唱。<br>所以答案選 (B)。",
+    42: "<b>解題關鍵：</b>定位第二段：Camake 擔心大部分 75 分鐘演出都是 a cappella，文中立刻解釋為 singing without instrumental sound「沒有樂器伴奏的歌唱」。<br>(A) 五、六十歲指原本會唱傳統歌謠的部落長者，不是觀眾年齡。<br>(B) 符合他擔心演出缺少樂器、觀眾會睡著的原因。<br>(C) 他沒有說觀眾聽不懂語言。<br>(D) 實際上觀眾說演出讓他們看見村落景象，不是 Camake 原先擔憂的內容。<br>所以答案選 (B)。",
+    43: "<b>解題關鍵：</b>定位第三段：孩子唱傳統歌謠後，父母開始問「為何我們不會唱？」並由孩子教父母，把 blurred memory 的碎片放回去。這是比喻父母對自身傳統只剩模糊記憶。<br>(A) 不是孩子無知；孩子正在學習和演唱文化。<br>(B) 重點不是長者的記憶消失。<br>(C) 沒有談學校知識破碎。<br>(D) vague understanding 正是「模糊理解」，符合父母重新認識傳統。<br>所以答案選 (D)。",
+    44: "<b>解題關鍵：</b>定位最後一段：風災後學校與村落搬遷，Camake 說山林與房子無法帶走，但文化可以帶走；只要孩子願意唱，他便繼續傳承。這是由事件線索合理推出文化傳承的重要。<br>(A) 搬遷只是事件背景，不是他體會的核心。<br>(B) 文中沒有說尊重自然可避免災害。<br>(C) 符合「帶著文化」與 pass on their culture。<br>(D) 沒有討論在森林蓋房的後果。<br>所以答案選 (C)。",
+    45: "<b>解題關鍵：</b>主旨要看全文共同重點。首段直接警告 overtreatment「過度治療」可能造成傷害；Power 太太的案例又顯示頻繁檢查帶來身體痛苦與財務壓力，換醫師、減少檢查後反而穩定。<br>(A) 只說治療不一定有副作用，太弱且偏離警告。<br>(B) 首段提到這種信念，但不是全文結論。<br>(C) 準確統整「醫療越多不一定越好」。<br>(D) 與原醫師安排過多看診相反。<br>所以答案選 (C)。",
+    46: "<b>解題關鍵：</b>定位第二段：Even when tests came back negative, more were ordered，意思是「即使檢查結果為陰性，醫師仍安排更多檢查」。<br>(A) 她只有感冒時曾被預防性住院，沒有說每次都住三週。<br>(B) 夫妻接近破產，但文中未說她沒有保險。<br>(C) 完整改寫原文，是她遇到的問題。<br>(D) 她被轉介是因 minor complaints，不是 constant complaints；而且題幹最直接的證據是檢查過量。<br>所以答案選 (C)。",
+    47: "<b>解題關鍵：</b>代名詞要往前找能合理執行動作的人。第三段 Mr. Power 說很難判斷「they’ve crossed the line」，前文一直談醫師安排過多檢查和治療，後面也改找 new specialist。<br>(A) Physicians 能「越過醫療適當界線」，符合前後文。<br>(B) 其他病患只在網路群組提供討論。<br>(C) Power 夫妻是承受治療的人。<br>(D) 支持群組不是安排檢查者。<br>因此 they 指醫師，答案選 (A)。",
+    48: "<b>解題關鍵：</b>作者第一段用 pose harm「可能造成傷害」警告過度檢查，接著以 Power 太太遭受身體痛苦與高額費用為例；新醫師停止例行檢查後，她的狀況穩定。<br>(A) 符合作者認為超過需要的檢查就是太多。<br>(B) 文章沒有主張檢查對預防都不可缺。<br>(C) 正是作者反對的「愈多愈好」。<br>(D) 沒有評論醫師判讀很少出錯。<br>所以答案選 (A)。",
+    49: "<b>解題關鍵：</b>定位第一段：family was wealthy 說家庭富有，父親靠紡織製造賺大錢；但 parents’ frugal ways 又說父母非常節儉，甚至讓他覺得家裡像很窮。<br>(A) rich but economical 同時符合兩項線索。<br>(B) 文中只說他在巴黎受教育，沒說父親去巴黎開廠。<br>(C) 沒有破產，覺得窮是因生活節儉。<br>(D) 他反抗父母 formal 的教育方式，並非自由開放。<br>所以答案選 (A)。",
+    50: "<b>解題關鍵：</b>定位第三段：Cartier-Bresson 於 1931 年到非洲旅行，Africa fueled another interest in him: photography，意思是非洲點燃了他對攝影的興趣。<br>(A) 1968 年後他逐漸離開攝影，並非一生只投入攝影。<br>(B) 是原文的正確改寫。<br>(C) 《決定性瞬間》1952 年出版，他到 1968 年才逐漸轉向繪畫。<br>(D) 二戰後他在印度記錄 Gandhi 之死的影響，不是二戰期間印度日常。<br>所以答案選 (B)。",
+    51: "<b>解題關鍵：</b>定位第四段：他在 Gandhi 遇刺前不久拍攝 Gandhi，之後以照片 document Gandhi’s death and its immediate impact on the country，完成珍貴攝影專題。<br>(A) 文中沒說他目擊刺殺。<br>(B) 沒說他是第一位拍 Gandhi 的人。<br>(C) 符合他用照片記錄 Gandhi 死亡對印度的立即影響。<br>(D) 沒有調查或指出凶手。<br>所以答案選 (C)。",
+    52: "<b>解題關鍵：</b>定位第三、五段：他用手持相機捕捉 fleeting moments of everyday life「日常生活中稍縱即逝的片刻」，也反對人工打光、暗房效果和裁切。<br>(A) 他重視 decisive moment，不是從不等待。<br>(B) 與他討厭暗房後製相反。<br>(C) 符合多數作品捕捉日常生活。<br>(D) 他長期維持自然主義方式，文中沒說反覆實驗後才選定。<br>所以答案選 (C)。",
+    53: "<b>解題關鍵：</b>目的題要看作者解釋最多的內容。文章先把長時間坐著稱為 sitting disease，再說久坐會減慢代謝、升高血糖血壓並增加糖尿病、心臟病等風險，最後建議多站起來活動。<br>(A) 「現代生活的挑戰」範圍太大。<br>(B) epidemic 是比喻健康問題，不是傳染病擴散。<br>(C) 運動只是用來說明仍需中斷久坐。<br>(D) 正確統整長時間坐著對健康的威脅。<br>所以答案選 (D)。",
+    54: "<b>解題關鍵：</b>定位第三段：sedentary lifestyle 的人即使每週運動，仍可能一週坐 64 小時；全文也把它和 desk-bound、TV-watching、缺少站立活動連在一起。<br>(A) modern 是「現代的」，只說時代，沒有活動量低。<br>(B) risky 是「有風險的」，是結果而非字義。<br>(C) inactive 是「不活動的」，最接近久坐生活。<br>(D) epidemic 是「流行病」，文中用來稱整體健康現象。<br>所以答案選 (C)。",
+    55: "<b>解題關鍵：</b>定位第二段：全天只要常用站立、走動等小量活動中斷久坐，就能讓升高的血糖與血壓降回來；兩三分鐘一次的活動累積也有效。<br>(A) 每週 150 分鐘運動仍不能抵銷久坐。<br>(B) 文章沒要求完全不開車或不看電視。<br>(C) 符合 as often as possible 地用輕度活動打斷坐姿。<br>(D) 把「每次兩三分鐘」誤成「每天總共兩三分鐘」。<br>所以答案選 (C)。",
+    56: "<b>解題關鍵：</b>這是推論題。第三段直接說 regular exercisers 在運動日會 about 30 percent less active；由「活動量少」可合理推出他們那天站立或走動較少，但不能延伸成壽命或是否達標。<br>(A) 文章沒比較壽命。<br>(B) 是由 less active 合理推出的結果。<br>(C) 原文反而說運動者仍可能久坐。<br>(D) 題目說他們有運動，不代表未達 WHO 建議。<br>所以答案選 (B)。"
   };
   const groups = {
     G1: {
@@ -3526,62 +3526,62 @@ window.BANK.push({
 // 103 學年度學科能力測驗英文考科（單選題 56 題）；題目與答案取自大考中心官方資料。
 (() => {
   const explanations={
-    1:"迷路又害怕的小狗沿街四處走、尋找主人，wandered 表示「漫無目的地走動」。",
-    2:"脫鞋後以沒有覆蓋的雙腳走在草地上，bare feet 是「赤腳」。",
-    3:"在網路散播謠言不只違法，也違反道德；morally wrong 表示「在道德上錯誤」。",
-    4:"暖身運動讓緊繃肌肉放鬆以避免受傷，loosen 表示「使放鬆、鬆開」。",
-    5:"Mei-ling 做重要決定前會徵詢父母意見，consult 表示「請教、諮詢」。",
-    6:"每人最低收費 250 元，四人至少付一千元；minimum charge 是「最低消費」。",
-    7:"書展參展者會陳列教科書、小說與漫畫，display 表示「展示」。",
-    8:"上臺前深呼吸以平靜情緒，take a deep breath 是固定搭配。",
-    9:"多數年輕人不以高中畢業證書為滿足，diploma 表示「畢業文憑」。",
-    10:"垃圾不可不經分類就直接丟入垃圾桶，straight 在此作副詞表示「直接地」。",
-    11:"站在梯子上失去平衡而摔落，lose one’s balance 是「失去平衡」。",
-    12:"若招生持續下降，部分學程可能被撤除以降低成本，eliminated 表示「被取消、淘汰」。",
-    13:"沒有使用現代方法，表示採用原始農法；primitive 表示「原始的」。",
-    14:"敘利亞爆發內戰後政府發布旅遊警示，travel alert 是「旅遊警示」。",
-    15:"熊貓寶寶受輕傷、與母親分開後由保育員照料，tended 表示「照顧」。",
-    16:"第一位旅人形容家鄉人友善且說自己愛他們，語氣應是微笑著 Smiling 回答。",
-    17:"Aesop 聽到這番回答後很高興，At this 表示「聽到／看到這件事時」。",
-    18:"數小時後又有另一位旅人到來，another 表示「另一個」，接單數名詞。",
-    19:"第二位旅人問相同問題，Aesop 也再次提出相同要求，Again 表示「再次」。",
-    20:"unfriendly 與 vicious 都是負面性格，中間應為 mean「刻薄的」。",
-    21:"遊客受海明威對古老冰河的描寫吸引，descriptions 表示「描述」。",
-    22:"冰雪將融化消失，因此這項觀光景點也會消失；vanish 表示「消失」。",
-    23:"研究預測冰雪到 2020 年很可能消失，be likely to V 表示「很可能……」。",
-    24:"若沒有峰頂積雪，山下動植物便缺少水分；Without 表示「沒有」。",
-    25:"氣溫上升造成積雪流失，因而威脅生態；thus 表示「因此」。",
-    26:"題目問人們做決定前是否徹底檢視重要因素，examined 表示「仔細檢查」。",
-    27:"無論是主管、專家或一般人都不會考慮得很周全，whether A, B, or C 表示「不論是……」。",
-    28:"很少人能在短時間把所有可能與結果都納入考量，take into account 表示「考慮」。",
-    29:"前句說果斷者努力事先考量，後句卻說常在完成前便決定，However 表示轉折。",
-    30:"一旦形成意見，之後思考多是在找支持；once 表示「一旦」。",
-    31:"沿用親人名字是為表達尊敬或紀念，show respect for 表示「對……表示敬意」。",
-    32:"把父親名字傳給長子是家族傳統，passing down 表示「傳承」。",
-    33:"把姓氏納入名字是為讓家族姓氏延續，keep...going 表示「使……持續」。",
-    34:"後文列出聖經人物與基督教美德名字，說明宗教 religion 長期影響命名。",
-    35:"喜愛自然者偏好涉及美麗事物的名字，involving 表示「包含、涉及」。",
-    36:"Heather、Rosemary、Iris 都屬花草名稱，fall into this category 表示「歸入此類」。",
-    37:"媒體文化傳播對命名選擇造成重大影響，have an impact on 是固定搭配。",
-    38:"因深受書或影集角色吸引而取同名，be drawn to 表示「被……吸引」。",
-    39:"外國名字較少見，可讓孩子顯得獨特且與眾不同，unique 與 distinctive 呼應。",
-    40:"有人只喜歡名字的聲音，不考慮意義、來源或流行度；regardless of 表示「不論」。",
-    41:"全文依時間介紹 Toni Morrison 的成長、婚姻、寫作歷程與獲獎，主旨是這位非裔美國作家的生平，選 B。",
-    42:"第二段說婚姻開始失敗，她為暫時逃離困境而加入寫作小組，因此選 D。",
-    43:"Song of Solomon 描寫非裔男子在自身文化中尋找身分，呈現追尋非裔美國價值與認同的主題，選 A。",
-    44:"末段明說她是第一位獲諾貝爾文學獎的非裔美國女性，因此在她之前沒有任何人獲此殊榮，選 D。",
-    45:"外界好奇三兄弟為何都成功，「媽媽在麥片裡加了什麼」是玩笑式追問教養成功孩子的祕訣，選 A。",
-    46:"Zeke 沒有電視、車，也不用 Facebook 或 Twitter，顯示許多現代便利並非生活必需，選 C。",
-    47:"他說永遠不要停在上一次勝利，總有更多事可做，表示成功後仍持續向前，選 D。",
-    48:"他預測兄弟五年後仍做相同工作，三人也不會去遊輪或海灘休息，重點是近期不會有太大改變，選 B。",
-    49:"MOOCs 免費對 cash-strapped students 是好消息，故 cash-strapped 指缺錢、手頭拮据，選 B。",
-    50:"MOOCs 可免費、名校教授開課且同時容納大量學生；人工智慧只是早期例子，不是多數課程主題，NOT 題選 C。",
-    51:"第二段從首門大型課程談到大學數量、免費教育與學生負擔，核心是 MOOCs 對高教的影響，選 A。",
-    52:"批評者認為線上課無法取代師生真實對話，學生也會錯過大學社交面向，問題是缺乏社會互動，選 D。",
-    53:"V2V 交換車輛位置、速度與方向，使彼此保持安全距離以減少事故，選 C。",
-    54:"V2I 讓車與道路標誌、交通號誌及交通管理系統溝通，infrastructure 指這些交通設施與資訊系統，選 A。",
-    55:"文中提到老人、身障者與盲人可安全移動，也可在通勤中工作休息；賽車不是潛在效益，NOT 題選 C。",
-    56:"V2V、V2I 可降低約八成碰撞，完全自駕又排除人為操作風險，可推論未來可能趨近無車禍時代，選 B。"
+    1:"<b>解題關鍵：</b>小狗迷路又害怕，一邊走一邊找主人，所以牠不是朝固定方向前進，而是在街上四處走。<br>(A) dismissed：解散、駁回，不是走路方式。<br>(B) glided：滑行，常指平順地移動。<br>(C) wandered：漫無目的地走動，符合迷路的情況。<br>(D) marched：齊步或大步前進，通常有明確方向。<br>把答案放回去：迷路的小狗在街上徘徊，尋找主人。",
+    2:"<b>解題關鍵：</b>前面說大家 took off our shoes「脫掉鞋子」，因此腳上沒有鞋襪遮蓋。<br>(A) bare：裸露的，bare feet 就是「赤腳」，符合句意。<br>(B) raw：生的、未加工的，不能用來表示沒穿鞋。<br>(C) tough：強韌的，不是脫鞋後的狀態。<br>(D) slippery：滑的，草地可能滑，但不是腳本身的重點。<br>把答案放回去：大家脫鞋後赤腳走在草地上。",
+    3:"<b>解題關鍵：</b>both A and B 表示「A 和 B 都……」。散播別人的謠言除了 legally wrong「法律上錯誤」，也涉及做人的是非。<br>(A) morally：道德上，morally wrong 正是「道德上不對」。<br>(B) physically：身體上，與散播謠言無關。<br>(C) literarily：文學方面，不合語境。<br>(D) commercially：商業方面，文章沒有談買賣。<br>把答案放回去：網路散播謠言在法律與道德上都不對。",
+    4:"<b>解題關鍵：</b>暖身的目的，是讓原本緊繃的肌肉放鬆，這樣較不容易受傷。<br>(A) produce：生產，不能說生產肌肉。<br>(B) connect：連接，與暖身目的不同。<br>(C) broaden：拓寬，通常用於視野或範圍。<br>(D) loosen：使鬆開、放鬆，最符合 warm-up exercises。<br>把答案放回去：這些暖身運動能放鬆肌肉並預防受傷。",
+    5:"<b>解題關鍵：</b>Mei-ling 和父母關係親近，重要決定前會先問他們的看法。<br>(A) impresses：使……留下深刻印象，不是詢問意見。<br>(B) advises：給……建議，方向相反，是她給父母建議。<br>(C) consults：請教、諮詢，consult someone 表示向某人請教。<br>(D) motivates：激勵，不合決策情境。<br>把答案放回去：她做重要決定前總會請教父母。",
+    6:"<b>解題關鍵：</b>後句的 at least NT$1,000 是「至少一千元」，由四人各至少 250 元算出，因此空格要表達最低金額。<br>(A) definite：確定的，不表示金額下限。<br>(B) minimum：最低的，minimum charge 是「最低消費」。<br>(C) flexible：有彈性的，和 at least 的限制不合。<br>(D) numerous：眾多的，不能修飾單一收費額。<br>把答案放回去：餐廳每人最低收費 250 元。",
+    7:"<b>解題關鍵：</b>書展中，各國參展者會把教科書、小說、漫畫擺出來給人看。<br>(A) predict：預測，不能預測書本。<br>(B) require：需要、要求，不合參展行為。<br>(C) display：陳列、展示，正是書展會做的事。<br>(D) target：把……當作目標，不是把書呈現給觀眾。<br>把答案放回去：二十一國的參展者會展示各類書籍。",
+    8:"<b>解題關鍵：</b>John 上臺演講前想 calm himself down「讓自己冷靜」，最自然的做法是深呼吸。<br>(A) order：命令，take a deep order 不是搭配。<br>(B) rest：休息，會說 take a rest，但不加 deep。<br>(C) effort：努力，take effort 的用法不同。<br>(D) breath：一口氣，take a deep breath 是「深呼吸」的固定說法。<br>把答案放回去：他上臺前深呼吸，讓自己平靜。",
+    9:"<b>解題關鍵：</b>後面說年輕人會 continue to pursue further education in college「繼續上大學」，表示他們不滿足於只有高中畢業資格。<br>(A) maturity：成熟，不是學歷證明。<br>(B) diploma：畢業證書，high school diploma 是高中畢業證書。<br>(C) foundation：基礎、基金會。<br>(D) guarantee：保證。<br>把答案放回去：多數年輕人不滿足於高中畢業證書，會繼續升學。",
+    10:"<b>解題關鍵：</b>分號後提醒可回收物要先分類，表示垃圾不能「未經處理就直接」丟進垃圾桶。<br>(A) shortly：不久、簡短地，不表示處理方式。<br>(B) straight：直接地，dump straight into 正合句意。<br>(C) forward：向前，方向不合。<br>(D) namely：也就是說，用來補充說明。<br>把答案放回去：住戶不可把所有垃圾直接丟入垃圾桶。",
+    11:"<b>解題關鍵：</b>Kevin 站在梯子上伸手拿高處的書，接著 fell to the ground「摔到地上」，可知他身體不穩。<br>(A) volume：音量、容量。<br>(B) weight：重量。<br>(C) balance：平衡，lose one's balance 是「失去平衡」。<br>(D) direction：方向，不會直接造成跌落。<br>把答案放回去：他在梯子上失去平衡而摔下來。",
+    12:"<b>解題關鍵：</b>學生人數若持續下降，學校要 reduce costs「降低營運成本」，最合理的做法是取消部分學程。<br>(A) relieved：被減輕、被解除，通常不形容學程取消。<br>(B) eliminated：被撤除、淘汰，符合減少支出的作法。<br>(C) projected：被預估。<br>(D) accounted：被說明、占比，搭配也不完整。<br>把答案放回去：部分學程可能被撤除以降低成本。",
+    13:"<b>解題關鍵：</b>下一句特別說 No modern agricultural methods are used「沒有使用現代農法」，所以空格要和 modern 相反。<br>(A) universal：普遍的。<br>(B) splendid：極佳、華麗的。<br>(C) primitive：原始的、早期的，和 modern 形成對比。<br>(D) courteous：有禮貌的，只能形容人或行為。<br>把答案放回去：偏遠村落以狩獵和原始農法維生。",
+    14:"<b>解題關鍵：</b>敘利亞爆發內戰，政府為旅客安全發出提醒；travel alert 是新聞中常見的「旅遊警示」。<br>(A) alert：警示，符合危險情況。<br>(B) monument：紀念碑。<br>(C) exit：出口。<br>(D) circulation：流通、循環。<br>後三者都不能表示政府對國外危險的提醒。把答案放回去：政府因內戰發布旅遊警示。",
+    15:"<b>解題關鍵：</b>熊貓寶寶受傷又暫時和母親分開，接手工作的人是 zookeepers「動物保育員」，所以他們會照顧牠。<br>(A) departed：離開，不能說熊貓被離開。<br>(B) jailed：監禁，語意過重。<br>(C) tended：照料，tend an animal 是照顧動物。<br>(D) captured：捕捉，牠原本就在動物園。<br>把答案放回去：牠有一段時間由保育員照顧。",
+    16:"<b>解題關鍵：</b>第一位旅人說家鄉的人 friendly、generous、warm-hearted，還說自己很愛他們，語氣正面愉快。<br>(A) Amazing：令人驚訝的，不能直接表示他回答時的表情。<br>(B) Smiling：微笑著，能修飾回答時的狀態。<br>(C) Deciding：決定著，語意不通。<br>(D) Praying：祈禱著，文中沒有祈禱。<br>把答案放回去：旅人微笑著回答家鄉人都很友善。",
+    17:"<b>解題關鍵：</b>this 指上一位旅人對家鄉人的正面回答；Aesop 聽到這些話後，也給了正面的回應。<br>(A) At：At this 可表示「聽到／看到這件事時」。<br>(B) By：表示藉由或在旁邊。<br>(C) For：表示為了或因為。<br>(D) Into：表示進入。<br>只有 At 能和 this 組成合乎上下文的連接語。把答案放回去：聽到這話，Aesop 很高興地回答。",
+    18:"<b>解題關鍵：</b>前文已出現一位旅人，幾小時後又來一位；traveler 是單數可數名詞。<br>(A) a：一位，但沒有表達「又一位」。<br>(B) the：那位特定旅人，會像是同一人。<br>(C) other：其他的，通常需搭複數名詞或加限定詞。<br>(D) another：另一個、又一個，後接單數名詞。<br>把答案放回去：幾小時後，又有另一位旅人來到。",
+    19:"<b>解題關鍵：</b>第二位旅人問了 same question，Aesop 也提出 same request；兩個 same 都提示動作重複。<br>(A) Again：再次，最能連接前一次對話。<br>(B) Indeed：的確，用來加強肯定。<br>(C) Together：一起，但此處只有 Aesop 提問。<br>(D) Moreover：而且，用來增加另一點。<br>把答案放回去：Aesop 再次提出同樣的要求。",
+    20:"<b>解題關鍵：</b>空格前後是 unfriendly「不友善」與 vicious「兇惡」，三個形容詞並列描述負面性格。<br>(A) brave：勇敢的，是正面特質。<br>(B) lonely：孤單的，不等於品行不好。<br>(C) mean：刻薄的，和前後負面詞一致。<br>(D) skinny：瘦的，只描述外表。<br>把答案放回去：他說家鄉人不友善、刻薄又兇惡。",
+    21:"<b>解題關鍵：</b>遊客看過海明威作品中對古老冰河的文字，所以被那些「描寫」吸引。所有格 writer's 後面也需要名詞。<br>(A) situations：情況。<br>(B) descriptions：描述，符合作者用文字描寫景色。<br>(C) translations：翻譯，文中沒提譯本。<br>(D) calculations：計算，與文學作品不合。<br>把答案放回去：遊客受海明威對冰河的描寫吸引。",
+    22:"<b>解題關鍵：</b>However 帶出壞消息，下一句說雪與冰河正在融化，可能在 2020 年前消失，所以這個景點也會不見。<br>(A) operate：運作。<br>(B) expand：擴張。<br>(C) recover：恢復。<br>(D) vanish：消失，和 disappear 互相呼應。<br>把答案放回去：這項以冰雪聞名的景點很快會消失。",
+    23:"<b>解題關鍵：</b>研究團體是在預測未來，句型 be likely to + 原形動詞表示「很可能……」。<br>(A) capable：有能力的，要用 be capable of V-ing。<br>(B) ready：準備好的，不是研究預測的機率。<br>(C) likely：可能的，可接 to disappear。<br>(D) horrible：可怕的，不能接 to 表示機率。<br>把答案放回去：雪與冰河很可能在 2020 年前消失。",
+    24:"<b>解題關鍵：</b>後面說水分會不夠，原因是山頂積雪消失，因此空格要表達「沒有積雪」。<br>(A) Among：在……之中。<br>(B) Besides：除了……之外，也可表示而且。<br>(C) Inside：在……裡面。<br>(D) Without：沒有，能直接說明缺水原因。<br>把答案放回去：沒有覆蓋山頂的雪，山下動植物就得不到足夠水分。",
+    25:"<b>解題關鍵：</b>前文說氣溫上升會使積雪消失，空格後是威脅生態，前因導致後果。<br>(A) thus：因此，表示結果。<br>(B) just：只是，沒有因果作用。<br>(C) instead：反而、取而代之，需有替代關係。<br>(D) otherwise：否則，通常接另一種條件結果。<br>把答案放回去：升高的氣溫因此威脅山區生態。",
+    26:"<b>解題關鍵：</b>作者問：人們決定前，有多徹底地處理所有重要因素？這裡需要「仔細檢視」的動詞。<br>(A) conveyed：傳達，不能傳達因素。<br>(B) examined：檢查、審視，符合 thoroughly。<br>(C) solved：解決，但 factors 不是問題。<br>(D) implied：暗示，不是決策前的分析。<br>把答案放回去：人們做決定前是否徹底檢視所有因素？",
+    27:"<b>解題關鍵：</b>後面列出 executives、experts、ordinary people 三種人，作者的意思是無論屬於哪一種，答案都一樣。<br>(A) whoever：無論誰，後面不能直接接 they are。<br>(B) because：因為，會變成錯誤因果。<br>(C) whether：whether A, B, or C 表示「不論是 A、B 或 C」。<br>(D) rather：相當、反而，不合結構。<br>把答案放回去：不論身分，人們通常都沒有想得很徹底。",
+    28:"<b>解題關鍵：</b>作者說時間很短，幾乎沒有人能把所有可能性與結果都「納入思考」。<br>(A) set out：出發、陳述。<br>(B) turn out：結果是。<br>(C) put into practice：付諸實行，決策尚未完成。<br>(D) take into account：考慮，把因素算進去。<br>把答案放回去：很少人能在短時間考慮所有可能結果。",
+    29:"<b>解題關鍵：</b>前句說果斷的人會努力先考慮所有因素；後句卻說他們常在還沒想完前就決定，意思相反。<br>(A) However：然而，表示轉折。<br>(B) Furthermore：而且，表示補充同方向內容。<br>(C) Conditionally：有條件地，不是句與句的連接詞。<br>(D) Similarly：同樣地，但前後不相似。<br>把答案放回去：然而，他們常來不及想完就下決定。",
+    30:"<b>解題關鍵：</b>句意是「意見形成之後」，人們才開始尋找支持它的理由；前後有清楚的時間先後。<br>(A) though：雖然，表示讓步。<br>(B) unless：除非，表示條件。<br>(C) once：一旦、當……之後，符合形成意見後的時間。<br>(D) even：甚至，不能單獨連接完整子句。<br>把答案放回去：一旦意見形成，之後的思考多半只是在找支持。",
+    31:"<b>解題關鍵：</b>前文說名字由家族傳下來，目的之一是紀念自己喜愛或敬佩的親人。固定搭配 show respect for 表示「對……表示敬意」。<br>正解 (I) respect 是名詞，可接在 show 後面；(J) unique 是形容詞，(H) religion 是宗教，其他選項多為動詞片語，都不能放進 show ___ for 的結構。<br>把答案放回去：用親人的名字來表達敬意或紀念。",
+    32:"<b>解題關鍵：</b>父親的名字從上一代交給長子，重點是「傳承」。空格在介系詞 of 後，需要動名詞。<br>正解 (F) passing down 是「把……傳下去」，可形成 a tradition of passing down the name；(A) drawn to 是被吸引，(B) fall into 是歸入，(D) involving 是涉及，都不符合名字跨代傳承。<br>把答案放回去：有些家庭有把父親名字傳給長子的傳統。",
+    33:"<b>解題關鍵：</b>空格後已有 going，固定說法 keep something going 是「讓某事持續下去」。<br>正解 (E) keep 能形成 keep a family surname going，表示讓家族姓氏延續；(F) passing down 雖也與傳承有關，但後面不能直接接 going；(C) impact 與 (I) respect 都是名詞，結構不合。<br>把答案放回去：把姓氏放進孩子名字，讓家族姓氏繼續流傳。",
+    34:"<b>解題關鍵：</b>下一句舉 John、Peter、Thomas 等聖經名字，還提到 Christian qualities「基督教美德」，共同線索是宗教。<br>正解 (H) religion 是名詞，可當句子主詞；(C) impact 雖也是名詞，但後面已有 played an important role，語意重複；(J) unique 是形容詞，其他片語也不能當此處主詞。<br>把答案放回去：長久以來，宗教在命名上扮演重要角色。",
+    35:"<b>解題關鍵：</b>句子要說「包含美麗事物的名字」受到喜愛。空格直接修飾 names，需要能接 things 的字。<br>正解 (D) involving 是「包含、涉及」，names involving things of beauty 結構完整；(A) drawn to 要寫 people are drawn to，主詞不能是名字；(B) fall into 是動詞片語，需有完整述語。<br>把答案放回去：喜愛自然的人常偏好包含美麗事物的名字。",
+    36:"<b>解題關鍵：</b>前面談以自然事物命名，Heather、Rosemary、Iris 都是花草名，所以它們「屬於這一類」。<br>正解 (B) fall into this category 是「歸入此類」；(D) involving 若放入會缺少受詞連接；(J) unique 是獨特的，不能接 this category；其餘選項也沒有「分類」的意思。<br>把答案放回去：這些花草名字都歸在自然名稱這一類。",
+    37:"<b>解題關鍵：</b>句型 have a great ___ on 表示「對……有很大的……」，空格需要名詞。<br>正解 (C) impact 能組成 have an impact on「對……有影響」；(I) respect 雖是名詞，但 respect on 不是這裡的搭配；(H) religion 放入會變成「有一個宗教在……上」，語意不通。<br>把答案放回去：媒體傳播的文化大大影響名字的選擇。",
+    38:"<b>解題關鍵：</b>人們因喜歡書中或影集中的角色，而替孩子取相同名字；are strongly 後需要描述「被吸引」的片語。<br>正解 (A) drawn to 是「被……吸引」，be drawn to a character 結構完整；(B) fall into 是歸類，(G) regardless 後要接 of，(D) involving 表示包含，都不符合喜愛角色。<br>把答案放回去：人們可能因深受某個角色吸引而選那個名字。",
+    39:"<b>解題關鍵：</b>外國名字比較少見，因此能讓孩子顯得與眾不同；and 後的 distinctive「有特色的」也提供同義線索。<br>正解 (J) unique 是「獨特的」，和 distinctive 並列；(H) religion 與 (C) impact 是名詞，不能接在 make children more 後；其他動詞片語也不能和 distinctive 並列。<br>把答案放回去：少見的外國名字會讓孩子更獨特、有特色。",
+    40:"<b>解題關鍵：</b>句子說有些人只在意名字的聲音，後面列意義、來源、流行度，表示這些條件都不列入考慮。<br>正解 (G) regardless 可和後面的 of 組成 regardless of「不論、不顧」；(I) respect 也常接 for 而非此處 of；(C) impact 與 (H) religion 放入都無法形成連接語。<br>把答案放回去：有人不管名字的意義、來源或流行度，只因喜歡聲音就選用。",
+    41:"<b>解題關鍵：</b>這是主旨題，要看四段共同內容：第一段談 Toni Morrison 的成長，第二、三段談婚姻與寫作起點，末段談作品主題與諾貝爾獎，都是她的人生歷程。<br>(A) 只談美國黑人生活，範圍太廣。<br>(B) 一位非裔美國作家的一生，能涵蓋全文。<br>(C) 非裔文化史只是作品背景。<br>(D) 諾貝爾獎只在末句出現。<br>因此選 B，主旨不能只抓某一段細節。",
+    42:"<b>解題關鍵：</b>第二段先說 her marriage began to fail，接著說 For a temporary escape, she joined a small writers' group；temporary escape 就是暫時離開不快樂的婚姻處境。<br>(A) 當時她還沒決定出版《最藍的眼睛》。<br>(B) 寫作小組不是反歧視團體。<br>(C) 文中沒說她當時為了成為職業作家。<br>(D) 符合原文直接交代的原因。<br>因此選 D。",
+    43:"<b>解題關鍵：</b>第四段以《所羅門之歌》為例：一位非裔男子在自己的文化中 search for identity「尋找身分認同」，這呈現對非裔文化與價值的追尋。<br>(A) 符合這項主題。<br>(B) 離婚是作者生平，不是作品共同主題。<br>(C) Ohio 的歌與故事影響她，但不是題目所問的作品主題。<br>(D) 1970 到 1990 年代是出版時間，不是小說內容。<br>因此選 A。",
+    44:"<b>解題關鍵：</b>末段直接說 Morrison 是 the first African American woman to win the honor，也就是第一位獲諾貝爾文學獎的非裔美國女性。<br>(A) 她成年、婚後才開始寫小組故事，不是青少年起便大量創作。<br>(B) 歧視來自社會，不是她的家庭。<br>(C) 她結合記憶與想像，不能說全是真實故事。<br>(D) 「第一位」表示她以前沒有非裔美國女性得獎。<br>因此選 D。",
+    45:"<b>解題關鍵：</b>訪談者們好奇三兄弟在不同領域都成功，才用「媽媽在麥片裡放了什麼？」開玩笑；不是在問真正的早餐配方，而是問母親如何教出三位成功的孩子。<br>(A) 符合這個比喻背後的意思。<br>(B) 把玩笑當成字面意思。<br>(C) 文中雖說兄弟領域不同，但 cereal 問的是成功原因。<br>(D) 問題來自外界，不是他的孩子。<br>因此選 A。",
+    46:"<b>解題關鍵：</b>Zeke 說自己沒有電視、汽車，也不用 Facebook、Twitter，卻仍能工作生活；這些例子顯示現代便利並非樣樣必要。<br>(A)「遲做總比不做好」無關。<br>(B)「熟能生巧」無關。<br>(C) 人可以沒有其中許多東西仍然生活，符合他的例子。<br>(D) 他沒有稱讚這些發明，反而主動不用。<br>因此選 C。",
+    47:"<b>解題關鍵：</b>Zeke 列成功原因時說 you never rest on the last victory，並補充 There's always more to do，意思是不能停留在上次勝利，要繼續努力。<br>(A) offense is the best defense 是父親鼓勵不放棄，不是攻擊別人。<br>(B) 文中未說背名言。<br>(C) 目標是改善世界，不是榮耀父母。<br>(D) 成功後仍向前，正確重述原句。<br>因此選 D。",
+    48:"<b>解題關鍵：</b>最後一題問五年後的情況，Zeke 說三人仍會做現在相近的工作，也保證不會搭郵輪或坐海灘度假，整體意思是生活方向不會大變。<br>(A) 與他說不搭郵輪相反。<br>(B) 近期沒有太大改變，能概括整段。<br>(C) 他沒提追求更高權力。<br>(D) 不去海灘只是其中一個細節，不能概括全部回答。<br>因此選 B。",
+    49:"<b>解題關鍵：</b>第二段說許多 MOOCs 是免費的，接著稱這對 cash-strapped students 是 good news；只有缺錢的學生會特別因免費而受益。<br>(A) 賺很多錢，與需要免費課程相反。<br>(B) 手頭拮据、缺錢，符合上下文。<br>(C) 小心用錢是一種態度，不一定缺錢。<br>(D) 花得少也不等於沒有錢。<br>因此選 B，這是由「免費是好消息」推回詞義。",
+    50:"<b>解題關鍵：</b>這是 NOT 題，要找「不是 MOOCs 特色」的一項。第二段說課程免費、可同時讓數十萬人上課，且許多由名校教授開設。<br>(A) free，原文有。<br>(B) prestigious universities，原文有。<br>(C) 人工智慧只是 2011 年第一個大型課程的例子，沒有說多數課都教 AI。<br>(D) hundreds of thousands at the same time，原文有。<br>因此不符合的是 C。",
+    51:"<b>解題關鍵：</b>第二段不是只介紹一個數字，而是從第一門大型 MOOC 談到大學數量可能減少、名校課程免費，以及缺錢學生受益，重點是這種課程帶來的改變。<br>(A) MOOCs 的影響，能包住整段。<br>(B) 目標主要在第一段定義。<br>(C) 班級規模只是其中一項證據。<br>(D) 免費也只是其中一個面向。<br>因此選 A，主旨要涵蓋所有主要句。",
+    52:"<b>解題關鍵：</b>末段的批評包括：線上課無法取代師生真正對話，學生也會 miss out on the social aspects of college「錯過大學社交生活」。<br>(A) 第一段仍有影片、閱讀與題目，沒有消失。<br>(B) 文中沒有說課程數量有限。<br>(C) 名校教授是吸引力，不是文中批評的問題。<br>(D) 缺少師生與同學互動，正好統整兩項批評。<br>因此選 D。",
+    53:"<b>解題關鍵：</b>第一段直接說 V2V 交換車輛的位置、速度、方向，使車輛 keep safe distances，目的在 reduce accidents。<br>(A) 技術仍在 being tested，不能說已非常成熟。<br>(B) 傳送的是行車資料，不是讓駕駛聊天。<br>(C) 保持安全距離以減少碰撞，完全符合原文。<br>(D) 文中談車與車，沒有提警告腳踏車騎士。<br>因此選 C。",
+    54:"<b>解題關鍵：</b>同一段緊接著舉例：V2I 讓車和 road signs、traffic signals 溝通，也能向 traffic management system 取得資訊，所以 infrastructure 是這一整套交通設施與資訊系統。<br>(A) 符合所有例子。<br>(B) 道路橋梁只涵蓋部分實體設施，沒有號誌資訊系統。<br>(C) 安全知識與法規不是車輛溝通對象。<br>(D) 政府交通部門也不是全文列舉的總稱。<br>因此選 A。",
+    55:"<b>解題關鍵：</b>這是 NOT 題。文章說自駕車可讓老人、身障者恢復行動力，盲人能安全買東西，通勤者也可在車上工作或休息。<br>(A) 老人行動更方便，原文有。<br>(B) 自動駕駛時乘客可休息，符合原文。<br>(C) 盡情賽車不但沒提，也違反降低事故的方向。<br>(D) Google 的盲人試乘就是直接例子。<br>因此不是潛在好處的是 C。",
+    56:"<b>解題關鍵：</b>這是推論題。文章直接說 V2V、V2I 可能減少約八成碰撞；完全自駕又能排除人為操作造成的風險。兩項線索合起來，可合理推測事故可能大幅減少。<br>(A) 文中沒有酒測鎖車功能。<br>(B) 未來可能接近無車禍時代，是根據上述數據作出的合理推論。<br>(C) 沒談車價或兒童買車。<br>(D) 文中反而預測五年內可販售。<br>因此選 B；注意文章是「可能」，不是保證零事故。"
   };
   const q=(no,cat,tags,textType,answer,stem,options,group)=>({no,cat,tags,lang:group?"題組":"單題",textType,answer,stem,options,...(group?{group}:{}),...(explanations[no]?{explain:explanations[no]}:{})});
   const naming={A:"drawn to",B:"fall into",C:"impact",D:"involving",E:"keep",F:"passing down",G:"regardless",H:"religion",I:"respect",J:"unique"};
@@ -3671,62 +3671,62 @@ The young will not have to pay crippling motor insurance, because their reckless
 // 題目與答案取自大學入學考試中心官方試題、答案。
 (function () {
   const explanations = {
-    1: "比賽因大雨延到下週六，postponed 表示「延期」；不是永久取消。",
-    2: "網路成為最重要新聞來源，取代了報紙；replace A as B 表示「取代 A 成為 B」。",
-    3: "Joy 存夠錢後預訂兩趟暑期旅行，book a trip 表示「預訂旅程」。",
-    4: "尚未完全理解提案，無法加以評論；make a comment on 是「對……發表意見」。",
-    5: "Betty 認為自己能想出更好點子，所以不情願接受朋友建議；reluctant 表示「不情願的」。",
-    6: "銀行希望即時為顧客提供服務，prompt service 是「迅速、即時的服務」。",
-    7: "在餐廳打工能為日後經營自己的餐廳做好準備，preparation for 是「為……做準備」。",
-    8: "流行每季改變，constantly changing 表示「不斷變化」。",
-    9: "海鷗的群體量詞是 a flock of seagulls「一群海鷗」。",
-    10: "書讓人發笑並放鬆，表示內容有娛樂性；entertaining 是「有趣、娛樂人的」。",
-    11: "整天用電腦造成頸肩僵硬到無法轉頭，stiff 表示「僵硬的」。",
-    12: "流感疫苗讓身體建立對抗致病病毒的保護力，virus 表示「病毒」。",
-    13: "統治者死後王國開始瓦解，隨即被鄰國接管；collapse 表示「崩潰、瓦解」。",
-    14: "雖然去年落敗，他沒有感到挫折而繼續苦練；frustrated 表示「受挫的」。",
-    15: "夫妻偏好會做飯的住家保母，preferably 表示「最好是、較理想地」。",
-    16: "此處指「接收來電的號碼」，number 與 call 為被動關係，故用 being called。",
-    17: "區碼同區時可能不用撥，另一方面本地號碼必須完整撥出；on the other hand 表示對照。",
-    18: "號碼依 XYX 的格式建立，in the format of 是固定搭配。",
-    19: "紐約被分配到 212 區碼，be assigned＋事物表示「被分配」。",
-    20: "後文說同區電話費率通常較低，顯示區碼決定通話費用 cost。",
-    21: "The＋比較級..., the＋比較級... 表示「越……，就越……」，故為 The rarer a coin is。",
-    22: "千年古幣仍可能很便宜，說明稀有程度與硬幣年代 age 關係不大。",
-    23: "千年古幣因數量多而便宜，1913 鎳幣因僅五枚而昂貴，while 表示兩者對比。",
-    24: "收藏需求會大幅影響硬幣價格，greatly influence 表示「大大影響」。",
-    25: "前者是 1798 dime，後者是 1916 dime；the latter 指後者。",
-    26: "Binet 研究正常心智如何運作，而非精神疾病本質，normal 與 mental illness 形成對照。",
-    27: "have＋受詞＋原形動詞是使役結構；he had children do tasks 表示「讓孩子執行任務」。",
-    28: "智力量尺以所蒐集的法國兒童資料為基礎，based on 表示「根據」。",
-    29: "若七成八歲兒童能通過，則在測驗中成功代表八歲智力水準，success 最符合語意。",
-    30: "with＋名詞＋V-ing 構成附帶狀況，with 100 being the average 表示「以 100 為平均值」。",
-    31: "珊瑚礁暗處讓魚產卵並躲避掠食者，escape from predators 表示「逃離天敵」。",
-    32: "失去棲地的物種可能瀕危甚至完全消失，endangered 表示「瀕臨絕種的」。",
-    33: "世上雖有數千珊瑚礁，令人遺憾的是如今面臨危險；sadly 表達負面評價。",
-    34: "超過三分之一可能十年內死亡，有些甚至撐不了那麼久；last 表示「持續、存活」。",
-    35: "尚有許多疑問，但三個主要原因已被確認，identified 表示「辨識、確認」。",
-    36: "河川溪流把污染物帶進海洋，carry 表示「攜帶」。",
-    37: "毒物使珊瑚變弱，對疾病的抵抗力下降；resistance to 是「對……的抵抗力」。",
-    38: "藻類死亡後珊瑚失去顏色，最後也會死亡；eventually 表示「最終」。",
-    39: "最後一項導致珊瑚礁消失的因素是人類，disappearance 表示「消失」。",
-    40: "有人因珊瑚鮮豔美麗而折下收藏作紀念品，souvenirs 表示「紀念品」。",
-    41: "文章從瑞士軍方需求、Elsener 設計到名稱流傳，目的在說明瑞士刀的起源，選 A。",
-    42: "It was a lifesaver 承接軍方決定為每位士兵配發多功能刀，這項需求拯救了受德國進口品競爭的瑞士刀商，選 A。",
-    43: "軍方認為新款的開瓶器並非生存必需，所以未配發給軍官，選 D。",
-    44: "美軍覺得 Schweizer Offizier Messer 太難念，便直接稱為 Swiss army knife，因此選 C。",
-    45: "1964 年停止運作、失去地面聯繫的 Vanguard I 衛星是第一件太空垃圾，選 D。",
-    46: "Vanguard I 雖持續繞地球運行卻未造成任何後果，使科學家起初不擔心，選 C。",
-    47: "太空垃圾可能撞擊運作中的衛星並損害太空船，因此會對太空梭造成問題，選 D。",
-    48: "地面站已建成，用來監控較大型垃圾並避免碰撞；密切監看是已執行的措施，選 B。",
-    49: "美國未滿 21 歲者體內只要有任何酒精便不得駕車，所以合法濃度是 0.000%，選 A。",
-    50: "研究測量能量飲料酒精含量並比較不同時間的呼氣結果，目的是找出飲料與 ABT 結果的關係，選 B。",
-    51: "受試者喝完整罐飲料後，分別在一分鐘與十五分鐘接受酒精呼氣測試，選 C。",
-    52: "一分鐘內可能驗出，十五分鐘後全都驗不出，顯示測試時間是最重要因素，選 D。",
-    53: "第一段說婚姻狀態只是一般解讀，這項習俗主要與印度教相關，因此最初是表達宗教信仰，選 B。",
-    54: "第三眼向內聚焦於神，bindi 提醒信徒把神放在思想前端，意義是敬神，選 C。",
-    55: "印度教相信紅色能為已婚夫婦帶來好運，因此傳統 bindi 採紅色，選 D。",
-    56: "現代 bindi 有各種尺寸、顏色與貼紙形式，已更像時尚宣言與裝飾品，選 B。"
+    1: "<b>解題關鍵：</b>大雨使比賽無法如期舉行，但句末已說改到下週六，表示只是延期。<br>(A) surrendered：投降；(B) postponed：延後，符合新日期；(C) abandoned：放棄，像是取消不辦；(D) opposed：反對。<br>把答案放回去：球賽因大雨延到下週六。",
+    2: "<b>解題關鍵：</b>越來越多人靠網路取得資訊，所以網路成為最重要的新聞來源，也就是取代報紙原本的地位。<br>(A) distributed：分發；(B) subtracted：減去；(C) replaced：取代，replace A as B 是「取代 A 成為 B」；(D) transferred：轉移。<br>因此選 C。",
+    3: "<b>解題關鍵：</b>Joy 已存夠錢，後面又列出去法國和澳洲兩趟旅程，下一步就是預訂旅行。<br>(A) booked：預訂；(B) observed：觀察；(C) enclosed：附上、圍住；(D) deposited：存入。book a trip 是「預訂旅程」。<br>把答案放回去：她為暑假預訂了兩趟旅行。",
+    4: "<b>解題關鍵：</b>說話者還沒完全理解提案，因此不適合對它發表意見。<br>(A) difference：差異；(B) solution：解決方法；(C) demand：要求；(D) comment：評論。make a comment on 是「對……發表評論」的固定搭配。<br>把答案放回去：我還不了解提案，無法評論。",
+    5: "<b>解題關鍵：</b>Betty 覺得自己能想出更好的點子，所以她並不想接受朋友的建議。<br>(A) tolerable：可忍受的；(B) sensitive：敏感的；(C) reluctant：不情願的，be reluctant to V 是「不願做……」；(D) modest：謙虛的。<br>因此選 C。",
+    6: "<b>解題關鍵：</b>銀行想吸引更多顧客，員工隨時都在，因此可提供快速服務。<br>(A) singular：單一的、非凡的；(B) prompt：迅速的，prompt service 是即時服務；(C) expensive：昂貴的，反而不利吸引客戶；(D) probable：可能的。<br>因此選 B。",
+    7: "<b>解題關鍵：</b>John 在餐廳打工的經驗，能幫助他日後經營自己的餐廳，也就是事前準備。<br>(A) preparation：準備，preparation for 後接未來要做的事；(B) recognition：認可；(C) formation：形成；(D) calculation：計算。<br>把答案放回去：這份打工經驗是開餐廳的好準備。",
+    8: "<b>解題關鍵：</b>這一季流行褲裝，下一季又可能改成迷你裙，顯示時尚一直在變。<br>(A) lately：最近；(B) shortly：不久；(C) relatively：相對地；(D) constantly：不斷地，能表示每季持續改變。<br>把答案放回去：女性時尚不斷變化。",
+    9: "<b>解題關鍵：</b>空格後是 seagulls「海鷗」，英文對不同動物群有常用量詞。<br>(A) a pack of 常用於狼或狗；(B) a flock of 用於鳥或羊；(C) a herd of 用於牛、象等；(D) a school of 用於魚。<br>海鷗是鳥，所以選 B：一群海鷗飛過海面。",
+    10: "<b>解題關鍵：</b>not only...but also... 連接書的兩項特色；後面說讀者會笑、會放鬆，表示書有娛樂性。<br>(A) understanding：善解人意的；(B) infecting：感染的；(C) entertaining：有趣、娛樂人的；(D) annoying：惱人的，和放鬆相反。<br>因此選 C。",
+    11: "<b>解題關鍵：</b>整天坐在電腦前後，脖子和肩膀嚴重到無法轉頭，最符合肌肉僵硬。<br>(A) dense：密集的；(B) harsh：嚴厲、刺耳的；(C) stiff：僵硬的；(D) concrete：具體的、混凝土的。<br>把答案放回去：我的頸肩變得非常僵硬。",
+    12: "<b>解題關鍵：</b>flu shot 是流感疫苗，作用是讓身體建立保護力，對抗會使人生病的流感病毒。<br>(A) poison：毒物；(B) misery：痛苦；(C) leak：裂縫、洩漏；(D) virus：病毒，符合疫苗預防疾病的對象。<br>因此選 D。",
+    13: "<b>解題關鍵：</b>統治者死後，王國很快被鄰國接管，可知原有政權先瓦解。<br>(A) collapse：崩潰、瓦解；(B) dismiss：解散某人、駁回；(C) rebel：反叛，通常是人民反抗；(D) withdraw：撤退。<br>把答案放回去：王國開始瓦解，隨後被鄰國接管。",
+    14: "<b>解題關鍵：</b>Though 表示轉折：Kevin 去年落敗，卻沒有因此灰心，還日夜練習並在今年奪冠。<br>(A) relieved：放心的；(B) suspected：被懷疑的；(C) discounted：打折的；(D) frustrated：受挫、沮喪的。did not feel frustrated 最合語意。<br>因此選 D。",
+    15: "<b>解題關鍵：</b>夫妻正在找住家保母，後面補充最希望對方具備「會做飯」的條件。<br>(A) initially：起初；(B) apparently：看來；(C) preferably：最好是、較理想地；(D) considerably：相當程度地。<br>把答案放回去：他們要找保母，最好是會做飯的人。",
+    16: "<b>解題關鍵：</b>句中比較「打電話的號碼」和「被撥打的號碼」。空格前的 number 是接收來電者，因此要用被動。<br>(A) calling 是主動打電話；(B) being called 是正在被撥打；(C) having called 是已打過；(D) has been calling 不能直接修飾 number。<br>因此選 B。",
+    17: "<b>解題關鍵：</b>前一句說同區時區碼通常不用撥；這一句卻說本地號碼一定要完整撥，前後形成對照。<br>(A) in fact：事實上；(B) to illustrate：舉例來說；(C) at the same time：同時；(D) on the other hand：另一方面，用來呈現相對情況。<br>因此選 D。",
+    18: "<b>解題關鍵：</b>XYX 是區碼的排列形式，英文固定說 in the format of「採用……格式」。<br>(A) for 表目的；(B) as 表身分；(C) by 表方法或執行者；(D) in 可和 format 搭配。<br>把答案放回去：它是按照 XYX 的格式建立的。",
+    19: "<b>解題關鍵：</b>區碼由系統分給各地，紐約是接收 212 這組號碼的一方，所以用被動語態。<br>(A) reserved：保留；(B) assigned：分配，be assigned something 是「被分配到某物」；(C) represented：代表；(D) assembled：組裝、集合。<br>因此選 B。",
+    20: "<b>解題關鍵：</b>後文說同區通話費率通常比較低，所以區碼會影響的是通話費用。<br>(A) cost：費用，符合 rates 較低；(B) format：格式；(C) quality：品質；(D) distance：距離，區碼可反映地區，但此段比較的是價錢。<br>因此選 A。",
+    21: "<b>解題關鍵：</b>後半句 the more it is worth 已出現「越……就越……」句型，前半也要用 the＋比較級。<br>(A) Rare as 是「雖然稀有」；(B) The rare 不是比較級；(C) Rarest 是最高級；(D) The rarer 正確。<br>全句：硬幣越稀有，就越值錢。",
+    22: "<b>解題關鍵：</b>下一句舉例：有些千年古幣因數量多，價格仍很低，說明「古老」不等於「稀有」。<br>(A) age：年代，正是例子比較的重點；(B) shape：形狀；(C) size：大小；(D) weight：重量，文中都未比較。<br>因此選 A：稀有程度和年代關係不大。",
+    23: "<b>解題關鍵：</b>前半說千年古幣很多，所以只值幾美元；後半說 1913 鎳幣僅五枚，價值百萬，兩者形成強烈對比。<br>(A) since：因為；(B) while：然而、而，連接對照；(C) whether：是否；(D) if：如果。<br>因此選 B。",
+    24: "<b>解題關鍵：</b>收藏者對特定硬幣的需求，會明顯改變它的價值，所以需要表示影響程度很大的副詞。<br>(A) merely：僅僅；(B) hardly：幾乎不；(C) greatly：大大地；(D) roughly：大約地、粗略地。<br>greatly influence 是「大大影響」，因此選 C。",
+    25: "<b>解題關鍵：</b>句中先提 1798 dime，再提 1916 dime；後半要指出「後者」反而賣得更貴。<br>(A) older：較老的，指前者；(B) better：較好的，文中沒評品質；(C) latter：後者，指第二個 1916 dime；(D) bigger：較大，沒談尺寸。<br>因此選 C。",
+    26: "<b>解題關鍵：</b>rather than 表示「而不是」，後面是 mental illness「精神疾病」，所以前面要與疾病狀態形成對比。<br>(A) contrary：相反的；(B) normal：正常的，normal mind 對照 mental illness；(C) detective：偵探的；(D) mutual：相互的。<br>因此選 B。",
+    27: "<b>解題關鍵：</b>空格後是 children do，do 沒有 to，符合 have＋人＋原形動詞「讓某人做某事」。<br>(A) had children do 正確；(B) kept 後常接 V-ing；(C) wanted 後要接 children to do；(D) asked 後也要接 to do。<br>因此選 A：他讓孩子完成指令與圖形仿作。",
+    28: "<b>解題關鍵：</b>智力量尺是利用他已蒐集的資料建立，所以是「以資料為基礎」。<br>(A) composed of：由……組成；(B) based on：根據、以……為基礎；(C) resulting in：造成；(D) fighting against：對抗。<br>把答案放回去：他依蒐集到的資料建立測量標準。",
+    29: "<b>解題關鍵：</b>如果七成八歲兒童能 pass a test，那麼通過、成功完成該測驗，就代表八歲的智力程度。<br>(A) success：成功，和 pass 呼應；(B) objection：反對；(C) agreement：同意；(D) discovery：發現。<br>後三者都不是測驗表現，因此選 A。",
+    30: "<b>解題關鍵：</b>逗號後用 with 補充 IQ 的平均值；with＋名詞＋V-ing 可表示附帶狀況。<br>(A) is 與 (B) are 是完整動詞，不能直接放在 with 後；(C) been 缺少 being/having；(D) being 正確。<br>with 100 being the average 就是「以 100 為平均值」。",
+    31: "<b>解題關鍵：</b>暗處能讓魚產卵，也能躲開會捕食牠們的動物。空格和 lay 並列，需要原形動詞。<br>正解 (D) escape 可和 from predators 組成「逃離天敵」；(A) resistance 是名詞，雖也可接 to，但不是並列動作；(C) last 是持續。<br>因此選 D。",
+    32: "<b>解題關鍵：</b>or 後面是 disappear completely「完全消失」，空格應是比完全消失稍早的危險狀態。<br>正解 (I) endangered 是「瀕臨絕種的」，可接在 become 後；(G) disappearance 是名詞，不能直接接 become；(F) eventually 是副詞。<br>因此選 I。",
+    33: "<b>解題關鍵：</b>前句說世界上有數千座珊瑚礁，however 卻轉到它們正面臨嚴重危險，作者的語氣是遺憾。<br>正解 (E) sadly 是「令人難過的是」，可修飾整句；(F) eventually 表最後，(J) carry 是動詞，位置與意思都不合。<br>因此選 E。",
+    34: "<b>解題關鍵：</b>前句說許多珊瑚可能在十年內死亡，這句補充有些甚至無法「撐那麼久」。空格在 might not even 後需原形動詞。<br>正解 (C) last 是「持續、存活」；(D) escape 後通常接 from，(B) identified 是過去分詞。<br>因此選 C。",
+    35: "<b>解題關鍵：</b>but 前說仍有問題未解，後面轉折指出至少三個主要原因已經找出。have been 後需要過去分詞。<br>正解 (B) identified 是「辨識、確認」；(I) endangered 是瀕危，(J) carry 是原形動詞，都不合「原因被找出」的語意。<br>因此選 B。",
+    36: "<b>解題關鍵：</b>雨水讓污染物進入河川，河川再把毒物帶到海洋。which 的先行詞是複數 rivers and streams，所以要用原形動詞。<br>正解 (J) carry 是「攜帶」；(D) escape 是逃離，方向相反；其他多為名詞、形容詞或副詞。<br>因此選 J。",
+    37: "<b>解題關鍵：</b>化學物質讓珊瑚變弱，所以牠們對疾病的防禦能力降低。less 後需要名詞。<br>正解 (A) resistance 能形成 resistance to diseases「對疾病的抵抗力」；(I) endangered 是形容詞，(D) escape 是動詞，都不能接在 less 後表能力。<br>因此選 A。",
+    38: "<b>解題關鍵：</b>事件順序是藻類死亡、珊瑚失去顏色，最後珊瑚也死去；空格需修飾 dies 的時間副詞。<br>正解 (F) eventually 是「最終」；(E) sadly 表作者心情，不強調發展結果；(G) disappearance 是名詞。<br>因此選 F。",
+    39: "<b>解題關鍵：</b>contribute to 是「導致」，後面說最後一項因素是人類，因此它導致的是珊瑚礁消失。the 後、of 前需要名詞。<br>正解 (G) disappearance 是「消失」；(I) endangered 是形容詞，(D) escape 是動詞，結構不合。<br>因此選 G。",
+    40: "<b>解題關鍵：</b>有人因珊瑚色彩美麗而折下收藏，這種旅途中帶回的紀念物就是 souvenir。for 後需要名詞。<br>正解 (H) souvenirs 是「紀念品」；(A) resistance 是抵抗力，(G) disappearance 是消失，都不可能是收藏用途。<br>因此選 H。",
+    41: "<b>解題關鍵：</b>主旨題要看全文發展：第二段說軍方需要螺絲起子兼開罐器，第三段談 Elsener 設計，末段說美軍如何叫出現今名稱，都是瑞士刀的由來。<br>(A) 能涵蓋需求、設計與命名，正確。<br>(B) 功能只在設計時列舉。<br>(C) 文章沒有論證它多重要。<br>(D) 設計師只是歷史中的一部分。<br>因此選 A。",
+    42: "<b>解題關鍵：</b>第三段 It was a lifesaver 的上一段，正談瑞士軍方決定給每位士兵一把兼具螺絲起子與開罐器的刀；這個軍方訂單救了正苦於德國低價競爭的刀商。<br>(A) 指軍方需要每位士兵有刀，正確。<br>(B) 是開頭俗語。<br>(C) 是刀商困境，不是救星本身。<br>(D) 罐頭流行只是需求的一部分。<br>因此選 A。",
+    43: "<b>解題關鍵：</b>第四段直接說軍方採購者認為新款開酒器 not essential for survival「不是生存必要品」，所以軍官若想要，得自行購買。<br>(A) 不是因設計太簡單。<br>(B) 美國士兵大量購買發生在二戰後。<br>(C) 原文沒說預算不足。<br>(D) 新設計不被認為是軍官必備，符合原文。<br>因此選 D。",
+    44: "<b>解題關鍵：</b>末段說二戰後大量美軍駐歐洲，他們覺得 Schweizer Offizier Messer 太難念，就直接叫它 Swiss army knife。<br>(A) Elsener 設計刀但沒取此英文名。<br>(B) 瑞士將軍只決定配發標準刀。<br>(C) 美國士兵創造這個稱呼，正確。<br>(D) 德國商人只出現在價格競爭背景。<br>因此選 C。",
+    45: "<b>解題關鍵：</b>第二段直接定位：1964 年美國衛星 Vanguard I 停止運作、失去與地面中心聯繫，成為第一件太空垃圾。<br>(A) 相機、(B) 工具箱、(C) 燃料箱都在第三段列為後來的垃圾種類。<br>(D) 壞掉的衛星符合 Vanguard I 的狀態。<br>因此選 D；題目問「第一件」，不要被後段列舉干擾。",
+    46: "<b>解題關鍵：</b>第二段說 Vanguard I 雖失效，仍繞地球運行 without any consequences「沒有造成任何後果」，科學家才逐漸放心把無用物留在太空。<br>(A) 失去用途是被丟棄原因，不是放心原因。<br>(B) 原文沒說距離數百萬英里。<br>(C) 沒造成問題，符合原文。<br>(D) 沒有把垃圾視為彗星。<br>因此選 C。",
+    47: "<b>解題關鍵：</b>末段明說太空垃圾可能撞上運作中的衛星，也會 damage traveling spacecraft，地面站還要避免它撞上 space shuttles。<br>(A) 垃圾大小從漆片到燃料箱都有。<br>(B) 它們在繞地球，不是固定不動。<br>(C) 速度可達每小時 17,500 英里，不是緩慢漂浮。<br>(D) 可能危害太空梭，符合證據。<br>因此選 D。",
+    48: "<b>解題關鍵：</b>題目問「已經做了什麼」。末段的 have been built 表示地面站已建成，用來 monitor larger pieces「監控較大碎片」並避免撞擊。<br>(A) 尚未清掉多數垃圾。<br>(B) 大型垃圾正被密切監看，正確。<br>(C) 多國合作仍是 future plans。<br>(D) 地面站負責監控，不是在太空存放垃圾。<br>因此選 B。",
+    49: "<b>解題關鍵：</b>第一段直接區分年齡：21 歲以上上限是 0.08%，under 21 則體內不允許有任何酒精。剛滿 20 歲仍屬未滿 21。<br>(A) 0.000% 才代表完全沒有酒精，正確。<br>(B) 0.005%、(C) 0.080%、(D) 0.096% 都大於零，不符規定。<br>因此選 A。",
+    50: "<b>解題關鍵：</b>第一段先問：標示無酒精的能量飲料會不會讓 ABT 呈陽性？接著說密蘇里研究者 set up an experiment to find out，後兩段便測飲料酒精與呼氣結果。<br>(A) 沒發明新算法。<br>(B) 找能量飲料和 ABT 結果的關係，正確。<br>(C) 研究的不是混酒危險。<br>(D) 沒挑戰法定標準。<br>因此選 B。",
+    51: "<b>解題關鍵：</b>第二段的實驗步驟直接說：受試者喝完一整罐或一瓶能量飲料後，在一分鐘及十五分鐘時各接受一次 ABT。<br>(A) 沒要求排隊。<br>(B) 沒要求回想品牌。<br>(C) 接受酒精呼氣測試，符合原文。<br>(D) 測的是酒精濃度，不是口氣清新度。<br>因此選 C。",
+    52: "<b>解題關鍵：</b>第三段比較同一飲料在不同時間：一分鐘內有 11 種驗得出酒精，十五分鐘後全部驗不出；末句也說 when the test is taken plays a crucial role。<br>(A) 年齡是法律門檻，不是本實驗變因。<br>(B) 地點沒比較。<br>(C) 設備相同。<br>(D) 測試時間直接改變結果，正確。<br>因此選 D。",
+    53: "<b>解題關鍵：</b>第一段雖說紅點常被看成婚姻狀態指標，卻用 While...primarily... 修正：這項習俗主要和 Hindu religion 有關。<br>(A) 沒表示社會階級。<br>(B) 表達宗教信仰，符合「主要」原因。<br>(C) 沒顯示財力。<br>(D) 沒凸顯家族背景。<br>因此選 B；不要把一般解讀誤當最初核心。",
+    54: "<b>解題關鍵：</b>第二段說外在兩眼看世界，第三眼則 inward toward God「向內專注於神」；bindi 也提醒信徒把神放在思想最前面，代表虔敬。<br>(A) 沒談自然和諧。<br>(B) 看外界是外在兩眼的功能。<br>(C) 尊敬、專注於神，符合證據。<br>(D) subjective view 不是文中宗教意義。<br>因此選 C。",
+    55: "<b>解題關鍵：</b>第三段先提古代以血滴象徵婚姻，但真正回答顏色意義的是：印度教相信紅色會 bring good fortune to the married couple。<br>(A) 沒說是神的血。<br>(B) 沒說代表妻子的愛。<br>(C) bindi 並非「紅色」的意思。<br>(D) 紅色被認為為夫妻帶來好運與祝福，符合原文。<br>因此選 D。",
+    56: "<b>解題關鍵：</b>末段說現代 bindi 有不同顏色、尺寸與貼紙款式，任何年齡及婚姻狀態都能戴，並明說已更像 fashion statement 而非宗教習俗。<br>(A) 位置仍在額頭中央，不是臉上任何地方。<br>(B) 現在用作裝飾品，正確。<br>(C) 沒說多數女性不喜歡。<br>(D) 第一段反而說男性配戴習俗淡去。<br>因此選 B。"
   };
   const groups = {
     G1: {
@@ -3876,337 +3876,337 @@ window.BANK.push({
       "no": 1, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The ending of the movie did not come as a _____ to John because he had already read the novel that the movie was based on.",
       "options": {"A": "vision", "B": "focus", "C": "surprise", "D": "conclusion"},
-      "explain": "John 已讀原著，所以電影結局並不令他 surprise。"
+      "explain": "<b>解題關鍵：</b>John 已讀過電影改編自的小說，所以早就知道結局，不會感到意外。<br>(A) vision：視力、景象，不能表示看完結局的感受。<br>(B) focus：焦點，come as a focus 搭配不自然。<br>(C) surprise：驚喜、意外，come as a surprise 是「令人意外」，配合 did not 正確。<br>(D) conclusion：結論，雖和 ending 有關，但「結局並不作為結論而來」語意不通。<br>把答案放回去：電影結局沒有讓 John 意外，因為他已讀過原著。"
     },
     {
       "no": 2, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "In order to stay healthy and fit, John exercises _____. He works out twice a week in a gym.",
       "options": {"A": "regularly", "B": "directly", "C": "hardly", "D": "gradually"},
-      "explain": "每週健身兩次表示 regularly「規律地」運動。"
+      "explain": "<b>解題關鍵：</b>後句說 John 每週固定去健身房兩次，這是有規律地運動。<br>(A) regularly：規律地，符合 twice a week。<br>(B) directly：直接地，沒有移動方向的線索。<br>(C) hardly：幾乎不，若幾乎不運動便和每週兩次矛盾。<br>(D) gradually：逐漸地，沒有運動量慢慢改變的意思。<br>把答案放回去：為保持健康，John 規律運動，每週健身兩次。"
     },
     {
       "no": 3, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Traveling is a good way for us to _____ different cultures and broaden our horizons.",
       "options": {"A": "assume", "B": "explore", "C": "occupy", "D": "inspire"},
-      "explain": "旅行能 explore「探索」不同文化並拓展視野。"
+      "explain": "<b>解題關鍵：</b>旅行讓人接觸不同文化，並 broaden our horizons「拓展視野」，需要表示深入認識、探索的動詞。<br>(A) assume：假設，不能靠假設來認識文化。<br>(B) explore：探索、探究，符合旅行的功能。<br>(C) occupy：占據，不能占據文化。<br>(D) inspire：啟發，通常是某事啟發某人，不表示主動接觸文化。<br>把答案放回去：旅行是探索不同文化、拓展視野的好方法。"
     },
     {
       "no": 4, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "The story about Hou-I shooting down nine suns is a well-known Chinese _____, but it may not be a true historical event.",
       "options": {"A": "figure", "B": "rumor", "C": "miracle", "D": "legend"},
-      "explain": "后羿射日是著名中國 legend「傳說」，未必是史實。"
+      "explain": "<b>解題關鍵：</b>but 後說 it may not be a true historical event，表示后羿射日不是確定史實，而是流傳的故事。<br>(A) figure：人物或數字，不能指整個故事。<br>(B) rumor：謠言，通常指未經證實的消息，不是古老神話故事。<br>(C) miracle：奇蹟，重點不是不可思議的結果。<br>(D) legend：傳說，符合流傳已久但未必真實。<br>把答案放回去：后羿射日是知名中國傳說，未必是真實歷史事件。"
     },
     {
       "no": 5, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
       "options": {"A": "diligent", "B": "mature", "C": "familiar", "D": "sincere"},
-      "explain": "未滿十二歲兒童通常不夠 mature「成熟」以辨識危險。"
+      "explain": "<b>解題關鍵：</b>孩子要能 recognize risk 並處理危險，需要足夠的心智成熟度。<br>(A) diligent：勤奮的，努力不等於能判斷危險。<br>(B) mature：成熟的，符合未滿十二歲尚未發展完整的語意。<br>(C) familiar：熟悉的，後面通常接 with，且此處不是熟悉某事。<br>(D) sincere：真誠的，和風險判斷無關。<br>把答案放回去：研究指出，十二歲以下兒童通常還不夠成熟，難以辨識與處理危險。"
     },
     {
       "no": 6, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
       "options": {"A": "hesitation", "B": "relief", "C": "sorrow", "D": "triumph"},
-      "explain": "得知弟弟未受傷後會鬆一口氣，a sigh of relief。"
+      "explain": "<b>解題關鍵：</b>Helen 得知弟弟在事故中沒有受傷，原本的擔心解除，因此會鬆一口氣。固定搭配 a sigh of relief 表示「如釋重負地嘆氣」。<br>(A) hesitation：猶豫，不是得知平安後的感受。<br>(B) relief：安心、鬆一口氣，正確。<br>(C) sorrow：悲傷，和弟弟沒受傷的好消息不合。<br>(D) triumph：勝利，事故平安不是比賽獲勝。<br>把答案放回去：聽到弟弟沒受傷，Helen 安心地鬆了一口氣。"
     },
     {
       "no": 7, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen.",
       "options": {"A": "efficient", "B": "practical", "C": "changeable", "D": "optimistic"},
-      "explain": "常期待好事發生，表示較 optimistic「樂觀」。"
+      "explain": "<b>解題關鍵：</b>often expecting that good things will happen 是直接解釋空格：常相信好事會發生，就是樂觀。<br>(A) efficient：有效率的，和期待未來無關。<br>(B) practical：實際的，不一定期待好事。<br>(C) changeable：多變的，沒有情緒容易改變的線索。<br>(D) optimistic：樂觀的，與後面的解釋完全相符。<br>把答案放回去：研究顯示，外向的人往往較樂觀，常期待好事發生。"
     },
     {
       "no": 8, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "No one could beat Paul at running. He has won the running championship _____ for three years.",
       "options": {"A": "rapidly", "B": "urgently", "C": "continuously", "D": "temporarily"},
-      "explain": "連續三年奪冠，應用 continuously。"
+      "explain": "<b>解題關鍵：</b>for three years 表示三年的期間，而前句說沒有人跑得贏 Paul；此處強調他三年都奪冠，沒有中斷。<br>(A) rapidly：迅速地，只說速度快，不說三年皆獲勝。<br>(B) urgently：急迫地，不能描述奪冠次數。<br>(C) continuously：連續地，符合三連霸。<br>(D) temporarily：暫時地，和連續三年相反。<br>把答案放回去：Paul 已連續三年贏得跑步冠軍。"
     },
     {
       "no": 9, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "If you fly from Taipei to Tokyo, you’ll be taking an international, rather than a _____ flight.",
       "options": {"A": "liberal", "B": "domestic", "C": "connected", "D": "universal"},
-      "explain": "international 與 domestic「國內的」相對。"
+      "explain": "<b>解題關鍵：</b>rather than 表示「而不是」，空格要填 international「國際的」相反詞。台北到東京跨越國界，不是國內航班。<br>(A) liberal：自由開放的。<br>(B) domestic：國內的，和 international 相對，正確。<br>(C) connected：相連的，不能表示航班範圍。<br>(D) universal：普遍的、全世界的，也不是國內航班。<br>把答案放回去：從台北飛東京搭的是國際航班，而不是國內航班。"
     },
     {
       "no": 10, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "Jack is very proud of his fancy new motorcycle. He has been _____ to all his friends about how cool it looks and how fast it runs.",
       "options": {"A": "boasting", "B": "proposing", "C": "gossiping", "D": "confessing"},
-      "explain": "Jack 四處誇耀新車，boast about 符合。"
+      "explain": "<b>解題關鍵：</b>Jack 很 proud of 新機車，還一直向朋友說它多酷、跑多快，這是在誇耀。固定搭配 boast about 是「誇耀……」。<br>(A) boasting：吹噓、誇耀，搭配 about 正確。<br>(B) proposing：提議，通常提議計畫或求婚。<br>(C) gossiping：說八卦，gossip about 通常談他人私事。<br>(D) confessing：坦白、認罪，並非承認錯事。<br>把答案放回去：Jack 一直向朋友誇耀新機車有多酷、多快。"
     },
     {
       "no": 11, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The ideas about family have changed _____ in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child.",
       "options": {"A": "mutually", "B": "narrowly", "C": "considerably", "D": "scarcely"},
-      "explain": "由十個孩子變為獨生子女，家庭觀念已 considerably「大幅」改變。"
+      "explain": "<b>解題關鍵：</b>例子從祖父家有十個孩子，變成自己是獨生子女，差異很大，所以家庭觀念在二十年間大幅改變。<br>(A) mutually：互相地，需要兩方彼此作用。<br>(B) narrowly：狹窄地或勉強地。<br>(C) considerably：相當大幅地，符合十個與一個的強烈對比。<br>(D) scarcely：幾乎不，會變成幾乎沒改變，和例子相反。<br>把答案放回去：過去二十年，家庭觀念有相當大的改變。"
     },
     {
       "no": 12, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The chairperson of the meeting asked everyone to speak up instead of _____ their opinions among themselves.",
       "options": {"A": "reciting", "B": "giggling", "C": "murmuring", "D": "whistling"},
-      "explain": "主席要大家大聲說，而不是彼此 murmuring「低聲咕噥」。"
+      "explain": "<b>解題關鍵：</b>instead of 表示前後相反；主席要求 speak up「大聲說」，而不是大家私下低聲交換意見。<br>(A) reciting：背誦，沒有背文章的線索。<br>(B) giggling：咯咯笑，不能接 opinions 表示交換意見。<br>(C) murmuring：低聲說、咕噥，和 speak up 對比。<br>(D) whistling：吹口哨，也不能表達意見。<br>把答案放回去：主席請大家把意見大聲說出來，不要彼此低聲咕噥。"
     },
     {
       "no": 13, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Although Mr. Chen is rich, he is a very _____ person and is never willing to spend any money to help those who are in need.",
       "options": {"A": "absolute", "B": "precise", "C": "economic", "D": "stingy"},
-      "explain": "有錢卻不願花錢助人，表示 stingy「吝嗇」。"
+      "explain": "<b>解題關鍵：</b>Although 表示轉折：陳先生雖然有錢，卻 never willing to spend any money 幫助需要的人，說明他很吝嗇。<br>(A) absolute：絕對的，不能描述花錢態度。<br>(B) precise：精確的。<br>(C) economic：經濟的；若要說節省常用 economical，但也不等於有錢卻不肯助人。<br>(D) stingy：吝嗇的，符合不願花任何錢。<br>把答案放回去：陳先生雖有錢，卻非常吝嗇。"
     },
     {
       "no": 14, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "If you want to know what your dreams mean, now there are websites you can visit to help you _____ them.",
       "options": {"A": "overcome", "B": "interpret", "C": "transfer", "D": "revise"},
-      "explain": "網站可幫忙 interpret「解讀」夢境。"
+      "explain": "<b>解題關鍵：</b>題目問 dreams mean「夢代表什麼」，因此網站的功能是幫忙解讀夢的意義。<br>(A) overcome：克服，通常克服困難或恐懼。<br>(B) interpret：解讀、詮釋，能說明夢的意思。<br>(C) transfer：轉移、轉學，不能轉移夢的意義。<br>(D) revise：修改，網站不是修改夢。<br>把答案放回去：若想知道夢的意義，可造訪網站幫你解讀。"
     },
     {
       "no": 15, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "The memory _____ of the new computer has been increased so that more information can be stored.",
       "options": {"A": "capacity", "B": "occupation", "C": "attachment", "D": "machinery"},
-      "explain": "能儲存更多資訊表示 memory capacity「記憶容量」增加。"
+      "explain": "<b>解題關鍵：</b>so that more information can be stored 說明增加後的結果是能儲存更多資訊，因此空格表示電腦記憶體可容納的量。<br>(A) capacity：容量，memory capacity 是「記憶容量」。<br>(B) occupation：職業或占用。<br>(C) attachment：附件或依戀。<br>(D) machinery：機械設備，不能表示儲存量。<br>把答案放回去：新電腦的記憶容量增加，因此能存更多資料。"
     },
     {
       "no": 16, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 16.",
       "options": {"A": "affairs", "B": "fashions", "C": "industries", "D": "attractions"},
-      "explain": "Kizhi 是俄羅斯熱門 tourist attractions「觀光景點」之一。"
+      "explain": "<b>解題關鍵：</b>文章介紹 Kizhi 島的教堂、房屋與世界遺產身分，會吸引遊客，因此是觀光景點。<br>(A) tourist affairs：觀光事務，不指可參觀的地方。<br>(B) tourist fashions：旅遊時尚。<br>(C) tourist industries：觀光產業，但 one of 後談的是這座島本身。<br>(D) tourist attractions：觀光景點，固定搭配且符合小島受歡迎。<br>句意：Kizhi 是俄羅斯最受歡迎的觀光景點之一。"
     },
     {
       "no": 17, "cat": "C2", "tags": ["篇章指涉"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 17.",
       "options": {"A": "them", "B": "that", "C": "those", "D": "which"},
-      "explain": "some of which 引導非限定關係子句，先行詞為 islands。"
+      "explain": "<b>解題關鍵：</b>前面提到約五千座 islands，逗號後補充「其中一些只是突出地面的岩石」。介系詞 of 後需要能代替 islands 的關係代名詞。<br>(A) them 若使用，前面不能只有逗號，需另加連接詞。<br>(B) that 通常不能放在逗號後的補充子句，也不能直接接 some of。<br>(C) those 會形成獨立代名詞，兩句缺連接。<br>(D) which 可代替 islands，some of which 是「其中一些」。<br>句意：島周圍另有約五千座島，其中一些只是岩石。"
     },
     {
       "no": 18, "cat": "C2", "tags": ["轉承語"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G1",
       "stem": "Choose the best answer for blank 18.",
       "options": {"A": "in fact", "B": "once again", "C": "as usual", "D": "for instance"},
-      "explain": "後句進一步說明整座島其實是戶外博物館，選 in fact。"
+      "explain": "<b>解題關鍵：</b>前文說 Kizhi 是世界遺產，接著進一步揭示整座島「其實」就是木造建築戶外博物館。<br>(A) in fact：事實上、其實，用來加強並補充真實情況。<br>(B) once again：再一次，沒有事件重複。<br>(C) as usual：像往常一樣，沒有平常狀況可比較。<br>(D) for instance：例如，但後句不是前面眾多例子之一，而是對整座島的說明。<br>句意：事實上，整座 Kizhi 島是一座戶外博物館。"
     },
     {
       "no": 19, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G1",
       "stem": "Choose the best answer for blank 19.",
       "options": {"A": "except", "B": "besides", "C": "including", "D": "regarding"},
-      "explain": "後列風車、船屋等包含項目，應用 including。"
+      "explain": "<b>解題關鍵：</b>前面說島上 contains many wooden structures，後面列 windmills、boathouses、chapels 等，這些都是「包含在內」的例子。<br>(A) except：除了、不包含，和 contains 相反。<br>(B) besides：除此之外，通常是另外添加，不適合直接列出所含項目。<br>(C) including：包括，能引出清單。<br>(D) regarding：關於，不能說建築物「關於風車」。<br>句意：島上有許多木造建築，包括風車、船屋、教堂等。"
     },
     {
       "no": 20, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G1",
       "stem": "Choose the best answer for blank 20.",
       "options": {"A": "make", "B": "making", "C": "made", "D": "to make"},
-      "explain": "前句結果使教堂成為最高木造建築之一，用分詞 making。"
+      "explain": "<b>解題關鍵：</b>教堂高約 37 公尺，這個高度帶來的結果是「使它成為世界最高木造建築之一」。逗號後用 making 補充前句造成的結果。<br>(A) make 是原形，前面沒有 and 連接。<br>(B) making 是現在分詞，白話說就是用 -ing 接著說前句的結果。<br>(C) made 是過去式，會和 is 形成兩個動詞卻缺連接詞。<br>(D) to make 常表目的，但教堂不是為了成為最高而有 37 公尺。<br>句意：它高約 37 公尺，使它成為世界最高的原木建築之一。"
     },
     {
       "no": 21, "cat": "C2", "tags": ["邏輯關係"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G2",
       "stem": "Choose the best answer for blank 21.",
       "options": {"A": "yet", "B": "even", "C": "never", "D": "rather"},
-      "explain": "人類不只視神性為理所當然，甚至濫用，選 even。"
+      "explain": "<b>解題關鍵：</b>人類先 took their divinity for granted「把神性視為理所當然」，接著程度更嚴重，還濫用它，所以要用「甚至」。<br>(A) yet：然而，通常表示轉折；兩個行為不是相反。<br>(B) even：甚至，用來加強 abused 的嚴重程度。<br>(C) never：從不，會變成不曾濫用，和 Brahma 收回神性的原因矛盾。<br>(D) rather：反而或頗為，不能表遞進。<br>句意：人類常把神性視為理所當然，甚至加以濫用。"
     },
     {
       "no": 22, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 22.",
       "options": {"A": "though", "B": "because", "C": "where", "D": "when"},
-      "explain": "hide it where it could never be found，where 引導地點子句。"
+      "explain": "<b>解題關鍵：</b>空格後 it could never be found 描述的是「一個永遠找不到它的地方」，所以要用表地點的 where。<br>(A) though：雖然，會形成轉折，但後句不是相反資訊。<br>(B) because：因為，不能回答藏在哪裡。<br>(C) where：在……的地方，hide it where... 是「把它藏在……的地方」。<br>(D) when：當……時，表時間而非地點。<br>句意：Brahma 要把神性藏在永遠找不到的地方。"
     },
     {
       "no": 23, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 23.",
       "options": {"A": "close", "B": "apart", "C": "deep", "D": "hard"},
-      "explain": "把神性藏在地底深處，hide it deep in the earth。"
+      "explain": "<b>解題關鍵：</b>眾神提出兩個藏匿處：地底與最高山頂。要讓人難找到，會藏在地底「深處」；deep in the earth 是自然搭配。<br>(A) close：近地，和藏匿目的不合。<br>(B) apart：分開地，不能接 in the earth 表深度。<br>(C) deep：深深地、在深處，正確。<br>(D) hard：用力地或困難的，hide hard 不是此意。<br>句意：眾神建議把神性深藏地底。"
     },
     {
       "no": 24, "cat": "C2", "tags": ["篇章指涉"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G2",
       "stem": "Choose the best answer for blank 24.",
       "options": {"A": "each", "B": "more", "C": "any", "D": "neither"},
-      "explain": "地底或山頂兩個方案都不行，neither 指兩者皆非。"
+      "explain": "<b>解題關鍵：</b>前一句提出兩個方案：藏在地底，或最高山頂；下一句 because 說人類兩處都會找到，所以 Brahma 認為兩個方案都不可行。<br>(A) each：每一個，each would do 會表示兩者都可以。<br>(B) more：更多，沒有比較對象。<br>(C) any：任何一個，would do 會變成任一方案皆可。<br>(D) neither：兩者都不，neither would do 是「兩個都不行」。<br>句意：Brahma 認為這兩個藏法都不可行。"
     },
     {
       "no": 25, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G2",
       "stem": "Choose the best answer for blank 25.",
       "options": {"A": "look for", "B": "get over", "C": "do without", "D": "bump into"},
-      "explain": "人類不會想到在自身內部 look for「尋找」神性。"
+      "explain": "<b>解題關鍵：</b>Brahma 最後把神性藏在人類自身中心，理由是人們不會想到「在那裡找它」；末句 searching for something 也再次提示尋找。<br>(A) look for：尋找，符合全文反覆的 found、searching。<br>(B) get over：克服或復原。<br>(C) do without：沒有……也行。<br>(D) bump into：偶然遇見，不是有意搜尋。<br>句意：人類不會想到在自己內心尋找神性。"
     },
     {
       "no": 26, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G3",
       "stem": "Choose the best answer for blank 26.",
       "options": {"A": "skip over", "B": "come across", "C": "look into", "D": "break down"},
-      "explain": "世界問候日旨在 break down「消除」不同國籍間的隔閡。"
+      "explain": "<b>解題關鍵：</b>World Hello Day 的目標是 promote peace，而 nationality 之間的 barriers「隔閡」要被打破，和平才容易建立。<br>(A) skip over：略過，不能真正消除隔閡。<br>(B) come across：偶然遇見。<br>(C) look into：調查。<br>(D) break down：打破、消除，break down barriers 是固定搭配。<br>句意：這個節日要促進和平，消除各國人民間的隔閡。"
     },
     {
       "no": 27, "cat": "C2", "tags": ["時態語意"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
       "stem": "Choose the best answer for blank 27.",
       "options": {"A": "is", "B": "has been", "C": "was", "D": "had been"},
-      "explain": "Since then 搭配現在完成式 has been observed。"
+      "explain": "<b>解題關鍵：</b>Since then 表示「從那時到現在」，所以用現在完成式；World Hello Day 是「被」180 國人民紀念，要用被動。<br>(A) is observed 只有現在式，沒有呈現從 1973 延續至今。<br>(B) has been observed 是現在完成被動，正確。<br>(C) was observed 只指過去某時。<br>(D) had been observed 是過去完成式，需另一個過去時間點作基準。<br>句意：從那時起，世界問候日已在 180 國受到紀念。"
     },
     {
       "no": 28, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G3",
       "stem": "Choose the best answer for blank 28.",
       "options": {"A": "quicker", "B": "sooner", "C": "easier", "D": "better"},
-      "explain": "只需向十人問好，參與方式再簡單不過，couldn’t be easier。"
+      "explain": "<b>解題關鍵：</b>下一句說參加者只要向十個人說 hello，動作非常容易。couldn’t be＋比較級表示「不可能更……了」，也就是「再……不過」。<br>(A) quicker：更快，重點不是花費速度。<br>(B) sooner：更早，與參與難度無關。<br>(C) easier：更容易，couldn’t be easier 是「再簡單不過」。<br>(D) better：更好，沒有品質比較。<br>句意：參加這個活動再簡單不過。"
     },
     {
       "no": 29, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G3",
       "stem": "Choose the best answer for blank 29.",
       "options": {"A": "aim", "B": "tone", "C": "key", "D": "peak"},
-      "explain": "回應活動促進和平的 aim「宗旨」，不必只限一天。"
+      "explain": "<b>解題關鍵：</b>上一段已說活動 objective 是促進和平；這句說為了回應這項活動的宗旨，和平與和諧不應只限在一天。objective 與 aim 都是「目標、宗旨」。<br>(A) aim：宗旨，前後呼應。<br>(B) tone：語氣。<br>(C) key：關鍵或鑰匙，in response to the key 搭配不合。<br>(D) peak：高峰。<br>句意：為回應活動宗旨，和平理念不必只在一年中的一天實踐。"
     },
     {
       "no": 30, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
       "stem": "Choose the best answer for blank 30.",
       "options": {"A": "push", "B": "keep", "C": "bring", "D": "make"},
-      "explain": "keep the spirit going 是「讓這份精神延續」。"
+      "explain": "<b>解題關鍵：</b>前一句說和平理念不應 confined to one day，不能只限一天；下一句因此說要讓這份精神繼續下去。固定說法 keep something going 是「讓某事延續」。<br>(A) push the spirit going 搭配錯誤。<br>(B) keep：保持，keep the spirit going 正確。<br>(C) bring 通常說 bring the spirit back，不接 going 表延續。<br>(D) make 若用要接 the spirit go，不是 going。<br>句意：我們可以藉由常常溝通，讓和平精神持續下去。"
     },
     {
       "no": 31, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "I", "group": "G4",
       "stem": "Choose the best word for blank 31.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "颱風可用四位或六位等 various types of numbers 編碼。"
+      "explain": "<b>解題關鍵：</b>空格修飾複數名詞 types，需要形容詞；後面舉 4-digit 和 6-digit 兩種例子，表示有「各種、不同的」數字格式。<br>(I) various：各種的，various types of numbers 搭配正確。<br>(D) composed 通常接 of，表示由……組成。<br>(J) female 雖是形容詞，但數字沒有性別。<br>句意：編號命名法會使用各種數字格式，例如四位或六位代碼。"
     },
     {
       "no": 32, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "C", "group": "G4",
       "stem": "Choose the best word for blank 32.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "數字難記是編號慣例的 disadvantage「缺點」。"
+      "explain": "<b>解題關鍵：</b>however 表示轉折：數字編號有方便標示的做法，「但是」數字很難記，這是它的缺點。空格前有 The、後有 of，需要名詞。<br>(C) disadvantage：缺點，符合 hard to remember。<br>(B) favor 是偏愛或恩惠，不能表壞處。<br>(F) practice 是做法，但後面應說做法的內容，不會接「數字難記」當轉折缺點。<br>句意：這套編號方法的缺點是數字不容易記住。"
     },
     {
       "no": 33, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "J", "group": "G4",
       "stem": "Choose the best word for blank 33.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "早期以專家女友或妻子命名，所以只用 female names。"
+      "explain": "<b>解題關鍵：</b>because 後直接給原因：早期颱風依委員會專家的 girlfriends or wives 命名，女友與妻子都是女性，所以當時只用女性名字。<br>(J) female：女性的，可修飾 names。<br>(I) various 表示各式各樣，但和 only 及後面的女性來源不合。<br>(D) composed 不能直接修飾 names 表性別。<br>句意：最初只使用女性名字，因為名字取自專家的女友或妻子。"
     },
     {
       "no": 34, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "F", "group": "G4",
       "stem": "Choose the best word for blank 34.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "女性抗議原先的 naming practice「命名做法」。"
+      "explain": "<b>解題關鍵：</b>1979 年加入男性名字，because 說明原因：女性為性別平等而抗議原來只用女性姓名的命名「做法」。空格前有 naming，需接名詞。<br>(F) practice：做法、慣例，naming practice 是「命名做法」。<br>(C) disadvantage 是缺點，但抗議的是整套做法，不只是某個缺點。<br>(A) request 是請求，original naming request 不符合前文。<br>句意：女性基於性別平等，抗議原本的命名做法。"
     },
     {
       "no": 35, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "H", "group": "G4",
       "stem": "Choose the best word for blank 35.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "採亞洲名稱是為 raise「提升」亞洲人對颱風的意識。"
+      "explain": "<b>解題關鍵：</b>to 後需要原形動詞，且 use Asian names 的目的是讓亞洲人更注意颱風。raise awareness 是固定搭配「提升意識」。<br>(H) raise：提升，raise Asians’ awareness 正確。<br>(A) request 是要求，不能說要求某人的意識。<br>(B) favor 可作偏愛，但 favor awareness 不通。<br>句意：委員會採用亞洲名稱，以提高亞洲人對颱風的認識。"
     },
     {
       "no": 36, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "D", "group": "G4",
       "stem": "Choose the best word for blank 36.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "name pool composed of 140 names 表示由 140 個名字組成。"
+      "explain": "<b>解題關鍵：</b>空格後是 of 140 names，說明 name pool 的內容；be composed of 表示「由……組成」。此處省略 which was，只留下 composed of 補充名詞。<br>(D) composed：組成，搭配 of 正確。<br>(E) recycled 是循環再用，後面不接 of 表組成。<br>(G) replaced 通常接 with/by，不接 of。<br>句意：名稱來自一個由 140 個名字組成的名單庫。"
     },
     {
       "no": 37, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "B", "group": "G4",
       "stem": "Choose the best word for blank 37.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "韓國、日本 favor「偏好」動物名稱。"
+      "explain": "<b>解題關鍵：</b>前一句說每國有 unique naming preferences，下一句舉例各國「偏好」什麼名稱：韓國、日本選動物，中國選神名。<br>(B) favor：偏愛，作動詞可直接接 animal names。<br>(A) request 是要求，不是喜好。<br>(H) raise 是提高，不能提高動物名稱。<br>句意：韓國和日本偏愛動物名稱，中國則喜歡神明名稱。"
     },
     {
       "no": 38, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "E", "group": "G4",
       "stem": "Choose the best word for blank 38.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "140 個名字依序用完後會 recycled「循環再用」。"
+      "explain": "<b>解題關鍵：</b>After the 140 names are all used in order 表示名單中的名字全部輪完；若沒有被刪除，接下來就回到前面再次使用。句中有 will be，需要過去分詞表示被動。<br>(E) recycled：被循環再用，符合名單輪替。<br>(G) replaced 是被替換，但下一句特別說受災嚴重時才可能改名，並非全部都換掉。<br>(D) composed 是被組成，名單早已組成。<br>句意：140 個名字依序用完後，會循環再次使用。"
     },
     {
       "no": 39, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "A", "group": "G4",
       "stem": "Choose the best word for blank 39.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "受災國可以 request「要求」刪除該颱風名稱。"
+      "explain": "<b>解題關鍵：</b>若某國因某颱風受重創，在年度會議上可以提出把該名稱 deleted from the list。can 後要接原形動詞。<br>(A) request：要求，request that... be deleted 是正式用法。<br>(B) favor 是偏愛，與刪除不合。<br>(H) raise 是提高，不能提高一個刪名提案。<br>句意：受災國可以要求把該颱風名稱從名單刪除。"
     },
     {
       "no": 40, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "G", "group": "G4",
       "stem": "Choose the best word for blank 40.",
       "options": {"A": "request", "B": "favor", "C": "disadvantage", "D": "composed", "E": "recycled", "F": "practice", "G": "replaced", "H": "raise", "I": "various", "J": "female"},
-      "explain": "造成重災的名稱在 2007 年被其他名字 replaced。"
+      "explain": "<b>解題關鍵：</b>前面說嚴重災害的名稱可以刪除；例子中 Nabi、Longwang 在 2007 年「被其他名字取代」。were 後需過去分詞，且搭配 with other names。<br>(G) replaced：取代，be replaced with 是「被……替換」。<br>(E) recycled 表循環使用，與刪除後換新名不同。<br>(D) composed 要接 of，且不是被組成。<br>句意：這兩個造成重災的颱風名稱在 2007 年被其他名字取代。"
     },
     {
       "no": 41, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G5",
       "stem": "What’s the proper way of wearing the kilt?",
       "options": {"A": "It should be worn with underwear underneath it.", "B": "It should loosely fit on the body to be turned around.", "C": "It should be long enough to cover the wearer’s knees.", "D": "It should be wrapped across the front of the body two times."},
-      "explain": "文中說從一側繞過前後，再 across the front again，前方共跨兩次。"
+      "explain": "<b>解題關鍵：</b>定位第一段穿法：從一側開始，繞過 front and back，再 across the front again 到另一側，因此布料在身體前方交疊兩次。<br>(A) 內褲 may be worn as one prefers，依個人選擇，不是一定要穿。<br>(B) 正確 kilt 不可鬆到能輕易轉動，與選項相反。<br>(C) 長度到 just above the knees，不是蓋住膝蓋。<br>(D) 前方繞過兩次，符合原文。"
     },
     {
       "no": 42, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G5",
       "stem": "Which of the following is a correct description about setts?",
       "options": {"A": "They were once symbols for different Scottish families.", "B": "They were established by the government for business purposes.", "C": "They represented different States and Provinces in the 19th century.", "D": "They used to come in one general pattern for all individuals and institutions."},
-      "explain": "特定 sett 圖案與不同家族的關聯可追溯數百年，故 A 正確。"
+      "explain": "<b>解題關鍵：</b>定位第二段：particular patterns 與 individual families 的關聯可追溯數百年，表示不同圖案曾代表不同家族。<br>(A) sett 曾是不同蘇格蘭家族的象徵，符合原文。<br>(B) 是 weaving companies 系統化記錄，不是政府建立。<br>(C) 州與省的 sett 是 today 才也有，文章沒說十九世紀已代表它們。<br>(D) 文章說家族、州省、學校及通用圖案有不同 setts，不是所有人只用一種。"
     },
     {
       "no": 43, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G5",
       "stem": "Which of the following items is NOT typically worn with the kilt for decoration?",
       "options": {"A": "A pin.", "B": "A purse.", "C": "A ruby apron.", "D": "A silver knife."},
-      "explain": "文中提到別針、sporran 錢袋與銀飾小刀，未提 ruby apron。"
+      "explain": "<b>解題關鍵：</b>這是 NOT 題，定位第三段列出的配件：kilt pin、small knife、sporran（pouch or purse）。要選未被當作裝飾配件的物品。<br>(A) pin 文中直接提到，頂端可有家族圖案。<br>(B) purse 對應 sporran。<br>(C) ruby apron「紅寶石圍片」全文沒有；apron 是 kilt 前方重疊布料，不是紅寶石配件。<br>(D) 小刀可有銀與珠寶裝飾，文中有提。"
     },
     {
       "no": 44, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G5",
       "stem": "What is the purpose of this passage?",
       "options": {"A": "To introduce a Scottish garment.", "B": "To advertise a weaving pattern.", "C": "To persuade men to wear kilts.", "D": "To compare a skirt with a kilt."},
-      "explain": "全文介紹蘇格蘭 kilt 的穿法、圖案與配件。"
+      "explain": "<b>解題關鍵：</b>主旨題要看三段共同內容：第一段介紹 kilt 的穿法，第二段介紹 sett 圖案，第三段介紹配件；都在說明一種蘇格蘭服裝。<br>(A) 介紹蘇格蘭服裝，能涵蓋三段。<br>(B) 圖案只占第二段，全文不是廣告。<br>(C) 文章提供資訊，沒有叫男性一定要穿。<br>(D) 雖說 kilt 是 skirt，卻沒有逐項比較一般裙子與 kilt。"
     },
     {
       "no": 45, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G6",
       "stem": "In which of the following places has Wesla Whitfield worked?",
       "options": {"A": "A college.", "B": "A hospital.", "C": "A pizza parlor.", "D": "A news agency."},
-      "explain": "她十八歲時在 pizza parlor 擔任唱歌的服務生。"
+      "explain": "<b>解題關鍵：</b>定位第三段：Whitfield 十八歲開始公開表演，當時 took a job as a singing waitress at a pizza parlor，也就是在披薩店工作。<br>(A) 她在 college 學古典音樂，但沒有說在大學任職。<br>(B) 她住院接受治療，不是醫院員工。<br>(C) 她在 pizza parlor 當會唱歌的服務生，符合原文。<br>(D) 敘述者為專欄採訪她，沒說她在新聞機構工作。"
     },
     {
       "no": 46, "cat": "C4", "tags": ["指涉判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G6",
       "stem": "What does “when that happens” mean in the last paragraph?",
       "options": {"A": "When Wesla is losing her mind.", "B": "When Wesla is singing on the stage.", "C": "When Wesla is going out in her wheelchair.", "D": "When Wesla is watching other people dancing."},
-      "explain": "that 回指她看見大家跳舞而感到挫折的時候。"
+      "explain": "<b>解題關鍵：</b>指涉題要往前找最近的完整情況。她說自己偶爾會挫折，especially when everybody’s dancing，接著說 when that happens；that 就是「看到大家都在跳舞」這件事。<br>(A) 失去心智是她認為真正的障礙，不是當時發生的事。<br>(B) 她上台唱歌時展現力量，沒有說因此挫折。<br>(C) 坐輪椅外出不是前一句內容。<br>(D) 看別人跳舞時，正確回指。"
     },
     {
       "no": 47, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G6",
       "stem": "Which of the following statements is true about Wesla Whitfield’s physical disability?",
       "options": {"A": "It was caused by a traffic accident.", "B": "It made her sad and depressed at first.", "C": "It seriously affected her singing career.", "D": "It happened when she was a college student."},
-      "explain": "她起初不願面對，憂鬱一年甚至試圖自殺，故 B 正確。"
+      "explain": "<b>解題關鍵：</b>定位第四段：中槍癱瘓後，她 initially didn’t want to face it，經歷一年 depression，甚至試圖自殺，顯示初期非常悲傷低落。<br>(A) 原因是 random shooting，不是交通事故。<br>(B) 起初使她悲傷憂鬱，符合原文。<br>(C) 她後來仍有強而有力的演出，文章沒說歌唱事業嚴重受影響。<br>(D) 她二十九歲受傷；大學畢業後已在歌劇合唱團，並非大學生時。"
     },
     {
       "no": 48, "cat": "C4", "tags": ["推論判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G6",
       "stem": "What advice would Wesla most likely give other disabled people?",
       "options": {"A": "Ignore what you have lost and make the best use of what you have.", "B": "Be modest and hard-working to earn respect from other people.", "C": "Acquire a skill so that you can still be successful and famous.", "D": "Try to sing whenever you feel upset and depressed."},
-      "explain": "她選擇不專注失去的能力，而聚焦自己仍能做的事，最符合 A。"
+      "explain": "<b>解題關鍵：</b>這是推論題。最後一段她說只失去走路能力，心智仍在；看到別人跳舞難過時，她會離開並 focus on what I can do。<br>(A) 不一直看失去的部分，善用仍擁有的能力，最符合她的話。<br>(B) 她雖謙虛努力，但這不是她面對障礙的核心建議。<br>(C) 她重視心智能力，不是要求每人靠技能成名。<br>(D) 唱歌是她個人的能力，文中沒建議所有人難過就唱歌。"
     },
     {
       "no": 49, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G7",
       "stem": "What is the passage mainly about?",
       "options": {"A": "The different designs of forks.", "B": "The spread of fork-aided cooking.", "C": "The history of using forks for dining.", "D": "The development of fork-related table manners."},
-      "explain": "文章依年代介紹餐桌上使用叉子的起源、傳播與演變。"
+      "explain": "<b>解題關鍵：</b>全文依時間前進：古希臘的廚房叉、中東與歐洲餐桌上的使用、英國接受，再到四叉設計；核心是人們用叉子吃飯的歷史。<br>(A) 叉子設計只在首尾部分，不涵蓋各地傳播。<br>(B) 烹飪用叉只在第一段，後文重點是 dining「用餐」。<br>(C) 餐叉使用歷史，完整涵蓋時間、地區與功能演變。<br>(D) 文章沒系統說明餐桌禮儀規則，也未教人如何使用。"
     },
     {
       "no": 50, "cat": "C4", "tags": ["資訊排序"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G7",
       "stem": "By which route did the use of forks spread?",
       "options": {"A": "Middle East → Greece → England → Italy → France", "B": "Greece → Middle East → Italy → France → England", "C": "Greece → Middle East → France → Italy → Germany", "D": "Middle East → France → England → Italy → Germany"},
-      "explain": "順序為希臘、中東、義大利、法國，再由旅義者帶到英國。"
+      "explain": "<b>解題關鍵：</b>依文章年代整理地點：ancient Greeks → 7th-century Middle East → 11th-century Italy → 1533 France → 1608 England。<br>(A) 把中東放在希臘前，也把英國放在義大利前，錯。<br>(B) Greece → Middle East → Italy → France → England，與原文一致。<br>(C) 法國、義大利順序顛倒，且德國是後來四叉設計。<br>(D) 起點與多個地點順序皆不合。"
     },
     {
       "no": 51, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G7",
       "stem": "How did forks become popular in England?",
       "options": {"A": "Wealthy British were impressed by the design of forks.", "B": "Wealthy British thought it awkward to use their hands to eat.", "C": "Wealthy British gave special forks to the nobles as luxurious gifts.", "D": "Wealthy British considered dining with forks a sign of social status."},
-      "explain": "英國富人將叉子視為社會地位象徵，因而逐漸流行。"
+      "explain": "<b>解題關鍵：</b>定位第三段：英國人起初嘲笑叉子多餘，後來 wealthy 把它當作 social status 的象徵；昂貴材質還可讓賓客印象深刻，因而在富人間流行。<br>(A) 不是單純被設計吸引。<br>(B) 覺得叉子 awkward 的是法國人；英國人起初覺得手就夠用。<br>(C) 沒說富人把特製叉送給貴族。<br>(D) 富人視使用叉子為社會地位象徵，符合原文。"
     },
     {
       "no": 52, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G7",
       "stem": "Why were forks made into a curved shape?",
       "options": {"A": "They could be used to scoop food as well.", "B": "They looked more fashionable in this way.", "C": "They were designed in this way for export to the US.", "D": "They ensured the meat would not twist while being cut."},
-      "explain": "彎曲叉齒可充當 scoop，減少用餐時頻繁換湯匙。"
+      "explain": "<b>解題關鍵：</b>定位最後一段：curved tines served as a scoop，所以吃飯時不必一直換湯匙。scoop 是「舀取食物的工具或動作」。<br>(A) 彎曲叉齒也能舀食物，符合原文。<br>(B) fashionable 是英國富人對叉子的看法，不是彎曲原因。<br>(C) 後來傳到美國，但不是為出口而設計。<br>(D) 防止切肉時轉動是古代大型兩叉的功能，不是彎曲餐叉的原因。"
     },
     {
       "no": 53, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G8",
       "stem": "Why do some professional photographers NOT like to take pictures of pets?",
       "options": {"A": "Pets may not follow orders.", "B": "Pets don’t want to be bothered.", "C": "Pets may not like photographers.", "D": "Pets seldom change their expressions."},
-      "explain": "寵物很難安坐並 perform on command，因此有攝影師不願拍攝。"
+      "explain": "<b>解題關鍵：</b>定位第一段：寵物很難 sit still and perform on command，也就是不一定會乖乖不動、照指令擺姿勢，因此有專業攝影師不拍。<br>(A) 寵物可能不聽指令、無法配合拍攝，符合原文。<br>(B) 沒說寵物一定不想被打擾，只說難以控制動作。<br>(C) 沒提寵物不喜歡攝影師。<br>(D) 後文說可拍到不同表情，並非很少變表情。"
     },
     {
       "no": 54, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G8",
       "stem": "What is the use of a biscuit in taking pictures of a pet?",
       "options": {"A": "To capture a cute look.", "B": "To create a special atmosphere.", "C": "To arouse the appetite of the pet.", "D": "To keep the pet from looking at the camera."},
-      "explain": "把餅乾舉在相機上方可捕捉寵物渴望食物的可愛神情。"
+      "explain": "<b>解題關鍵：</b>定位第二段：把餅乾舉在相機上方，寵物會露出 longing look；照片中看不到食物，朋友會以為那是 loving expression。<br>(A) 捕捉可愛、深情的表情，符合用途。<br>(B) 餅乾不會出現在照片中，不是布置氣氛。<br>(C) 確實會讓寵物想吃，但攝影的目的在利用表情，不只是增加食慾。<br>(D) 餅乾放在相機上方，正是讓寵物朝相機方向看。"
     },
     {
       "no": 55, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G8",
       "stem": "What is the advantage of calling your pet’s name when taking a shot of it?",
       "options": {"A": "To help your pet look its best.", "B": "To make sure that your pet sits still.", "C": "To keep your pet awake for a while.", "D": "To catch a different expression of your pet."},
-      "explain": "喊名字後立即拍照，能捕捉寵物不同的表情。"
+      "explain": "<b>解題關鍵：</b>定位第三段：right after calling its name 拍照，you’ll get a different expression；依寵物心情，可能好奇，也可能因被吵醒而不耐煩。<br>(A) 不一定是最好看的表情，還可能是 annoyance。<br>(B) 喊名字不保證寵物坐著不動。<br>(C) 叫醒只是其中一種可能情況，不是主要優點。<br>(D) 捕捉不同表情，直接符合原文。"
     },
     {
       "no": 56, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G8",
       "stem": "In what way is photographing zoo animals different from photographing pets?",
       "options": {"A": "You need to have fast film.", "B": "You need special equipment.", "C": "You need to stay close to the animals.", "D": "You need more time to watch and wait."},
-      "explain": "拍動物園動物需要更多耐心，等待牠做出有趣動作或移到合適位置。"
+      "explain": "<b>解題關鍵：</b>定位第四段：拍動物園動物 requires a little more patience，可能要 wait for a while，直到牠做有趣動作或走到好位置；這是與拍寵物不同之處。<br>(A) fast film 是前一段拍寵物快速照片的方法。<br>(B) 沒提需要特殊設備。<br>(C) 原文反而提醒不要太靠近籠子。<br>(D) 需要更多時間觀察等待，符合原文。"
     }
   ]
 });
@@ -4216,62 +4216,62 @@ window.BANK.push({
 // 題目與答案取自大學入學考試中心官方試題、參考答案。
 (function () {
   const explanations = {
-    1: "每位新生只有一分鐘向全班自我介紹，必須簡短進行；briefly 表示「簡短地」。",
-    2: "深棕外套穿久後變成淺棕色，faded 表示「褪色」。",
-    3: "全公司的人都喜歡與 Jason 共事，表示他是理想、令人想合作的 desirable partner。",
-    4: "眼睛對光敏感，直視太陽會造成傷害；directly 表示「直接地」。",
-    5: "天候不佳迫使週末野餐計畫取消，cancel 表示「取消」。",
-    6: "三位競選市長的人都是 candidates「候選人」。",
-    7: "酒駕屬違反交通法規，violate a law 表示「違法、違反法律」。",
-    8: "申請大學包含多個連續步驟，是漫長過程；process 表示「過程」。",
-    9: "演講吸引觀眾高度注意，attract attention 是固定搭配。",
-    10: "辦公室每個人都必須參加，不能有例外；exceptions 表示「例外」。",
-    11: "把檸檬汁擠入碗中，squeeze the juice 表示「擠出果汁」。",
-    12: "泰國九成人口是佛教徒，顯示佛教是占優勢的 dominant religion。",
-    13: "先看目錄以了解章節內容，table of contents 是「目錄」。",
-    14: "孩子看到小丑後開心大笑、尖叫、拍手，delighted 表示「欣喜的」。",
-    15: "此次雨量大幅高於該季通常水準，average rainfall 是「平均雨量」。",
-    16: "古埃及人相信死後生命，life after death 是固定搭配。",
-    17: "靈魂在冥界經歷一連串審判，go through 表示「經歷」。",
-    18: "為讓靈魂順利旅行，身體必須保持完好；remain＋形容詞表示「維持某狀態」。",
-    19: "by 後列出 drying、oiling、wrapping 三個平行動名詞，故選 wrapping。",
-    20: "金字塔存放法老遺體與陪葬珍寶，因此是國王的陵墓 tombs。",
-    21: "首演發生於過去且 MAMMA MIA! 是接受歡迎，故用過去式被動 was given。",
-    22: "超過三千萬名世界各地觀眾喜愛，表示它成為全球 global 娛樂現象。",
-    23: "比較同類中的其他音樂劇，than any other musical 表示「比任何其他音樂劇」。",
-    24: "that 引導關係子句修飾 way，說明這種呈現方式仍保留流行樂與音樂劇本質。",
-    25: "吸引許多人後才拍成電影，appeal to people 表示「吸引人、投合喜好」。",
-    26: "前者是 water，後者是 diamonds；the latter 指後者鑽石，價格更高。",
-    27: "鑽石是稀有資源，供給有限；be limited in supply 表示「供應有限」。",
-    28: "這種行為在經濟學中「被稱為」炫耀性消費，termed 為過去分詞補充說明。",
-    29: "空格引導名詞子句並在其中作主詞，what causes... 表示「造成……的事物」。",
-    30: "這是假設與現況相反的條件句，if 子句用過去式 were，主句用 would。",
-    31: "爆米花是常見且受歡迎的電影點心，popular snack 符合上下文。",
-    32: "研究指出微波爆米花物質可能造成健康問題，health problems 是自然搭配。",
-    33: "PFOA 是用來塗覆包裝袋的化學物質，chemical 表示「化學品」。",
-    34: "人工奶油替代品通常隨微波爆米花附上，comes with 表示「隨附」。",
-    35: "該調味物質被認為是嚴重肺病的原因，be responsible for 表示「導致、對……負責」。",
-    36: "自己爆玉米花既簡單又較健康，healthy alternative 是「健康的替代方案」。",
-    37: "後面列出所需物品，All that is needed 表示「所需要的一切」。",
-    38: "玉米粒開始爆開時要搖鍋，start popping 表示「開始爆裂」。",
-    39: "爆裂聲變慢便把鍋子移開爐火，remove A from B 表示「從 B 移開 A」。",
-    40: "只加少量真正奶油或橄欖油，a small amount of 接不可數名詞。",
-    41: "第三段指出慢且充滿停頓、錯誤的說話方式比快語更可靠地顯示說謊，因此選 C。",
-    42: "第一段說多數人只對數秒眼神接觸感到自在，更久會緊張，選 C。",
-    43: "文章談眼神接觸、肢體觸碰與說話速度，沒有討論臉部表情，NOT 題選 A。",
-    44: "三段都先提出常見溝通信念，再用研究或事實指出可能相反，主旨是這些信念不總正確，選 D。",
-    45: "Maasai 青年會用矛刺動物，因此對大象構成威脅；Kamba 主要務農，選 A。",
-    46: "大象聞到 Maasai 穿過的衣服便較快遠離且較久才放鬆，顯示聞到敵人會害怕逃走，選 D。",
-    47: "全文以實驗說明大象如何用衣服氣味與紅色視覺判斷威脅，主旨選 A。",
-    48: "大象把 Maasai 的氣味與紅衣視為危險，反應源自過往經驗所形成的辨識，可推論牠們會從經驗學習，選 A。",
-    49: "籃球傷勢讓 Deborah 轉而投入物理治療、幫助他人，最適合標題是人生的新方向，選 D。",
-    50: "傷勢終結她期待已久的賽季與籃球目標，後文又寫無助地坐在場邊，可推知她感到失望，選 D。",
-    51: "第二段明說她側移阻擋對手時膝蓋受傷倒地，選 B。",
-    52: "頻繁接受物理治療讓她找到新志向：攻讀物理治療並教人照顧身體、面對無助，選 A。",
-    53: "一億年前北美氣候更溼潤且屬熱帶，因此紅杉分布更廣，選 C。",
-    54: "母樹死亡後，基部嫩芽長成完整樹木並環繞原樹形成 fairy ring，選 D。",
-    55: "厚樹皮能保護老樹免受昆蟲侵害，也能隔絕中度火災；題目所列功能選 B。",
-    56: "樹皮厚且耐火，使樹心在森林火災中保持完整，這種抗火性解釋紅杉長壽，選 C。"
+    1: "<b>解題關鍵：</b>每位新生只有 one minute，一分鐘內要完成自我介紹，所以需要「簡短地」說。<br>(A) briefly：簡短地，符合時間很短的線索。<br>(B) famously：有名地，不能描述介紹的長短。<br>(C) gradually：逐漸地，與只有一分鐘不合。<br>(D) obviously：明顯地，也不是介紹方式。<br>把答案放回去：新生有一分鐘向全班簡短地介紹自己。",
+    2: "<b>解題關鍵：</b>外套原本是 dark brown，後來變成 light brown，顏色變淡就是「褪色」。<br>(A) cycled：騎腳踏車或循環，不能描述顏色。<br>(B) faded：褪色，正好接 from dark brown to light brown。<br>(C) loosened：變鬆，說的是尺寸，不是顏色。<br>(D) divided：被分開，句中沒有分割的意思。<br>把答案放回去：他的深棕外套已褪成淺棕色。",
+    3: "<b>解題關鍵：</b>Everyone enjoys working with Jason，表示大家都喜歡和他共事，因此他是讓人想合作的夥伴。<br>(A) desirable：理想的、值得擁有的，符合所有人都喜歡他的線索。<br>(B) comfortable：舒服的，通常描述感受或物品。<br>(C) frequent：頻繁的，不能說一位夥伴很頻繁。<br>(D) hostile：敵意的，和 enjoys working 相反。<br>把答案放回去：Jason 具備理想合作夥伴的特質。",
+    4: "<b>解題關鍵：</b>眼睛對光敏感；會傷眼的是把視線「直接」對著太陽。<br>(A) hardly：幾乎不，若幾乎不看就不合危險語意。<br>(B) specially：特別地，不表示視線方向。<br>(C) totally：完全地，搭配不自然。<br>(D) directly：直接地，looking directly at the sun 是「直視太陽」。<br>把答案放回去：直視太陽可能傷害眼睛。",
+    5: "<b>解題關鍵：</b>bad weather 是原因，were forced to 表示「被迫」，所以原定野餐不能進行。<br>(A) maintain：維持，和惡劣天氣造成的結果不合。<br>(B) record：記錄，並非記下計畫。<br>(C) propose：提出，計畫已經存在。<br>(D) cancel：取消，符合不能去野餐的情況。<br>把答案放回去：因為天氣不好，我們被迫取消週末野餐。",
+    6: "<b>解題關鍵：</b>Three people are running for mayor，run for 是「競選」，參加選舉的人叫候選人。<br>(A) particles：微粒。<br>(B) receivers：接收者或接收器。<br>(C) candidates：候選人，能接 elected「當選」。<br>(D) containers：容器。<br>其餘三字都不是參選者。把答案放回去：三位市長候選人都相信自己會當選。",
+    7: "<b>解題關鍵：</b>drinking and driving 是酒駕，屬於不遵守交通法規；violate a law 是固定搭配「違反法律」。<br>(A) destroy：摧毀，法律不是實體，不能用摧毀來表示違法。<br>(B) violate：違反，符合語意。<br>(C) attack：攻擊。<br>(D) invade：入侵。<br>把答案放回去：如果違反交通法規，可能暫時不能開車。",
+    8: "<b>解題關鍵：</b>申請大學包含寄申請表、寫讀書計畫等許多步驟，且句中說 it’s long，指的是一段長過程。<br>(A) errand：跑腿差事，通常是一次短任務。<br>(B) operation：手術或操作。<br>(C) process：過程，能包含一連串步驟。<br>(D) display：展示，不表示一步接一步完成的事情。<br>把答案放回去：申請大學是一段漫長又令人緊張的過程。",
+    9: "<b>解題關鍵：</b>演講面對 conference audience，重點是引起聽眾高度關注；attract attention 是「吸引注意」的固定搭配。<br>(A) attention：注意，搭配正確。<br>(B) fortune：財富或運氣。<br>(C) solution：解決方法。<br>(D) influence：影響力，通常說 have influence，不說 attract influence。<br>把答案放回去：朱博士的演講引起聽眾極大關注。",
+    10: "<b>解題關鍵：</b>Everyone must attend 表示每個人都必須參加，下一句自然補充「不准有例外」。<br>(A) exceptions：例外，no exceptions allowed 是常見說法。<br>(B) additions：增加的人或物。<br>(C) divisions：分割或部門。<br>(D) measures：措施。<br>其餘選項都無法和「每個人」形成完整邏輯。把答案放回去：明天所有人都要開會，沒有例外。",
+    11: "<b>解題關鍵：</b>做檸檬汁的步驟是切開檸檬，再把 juice 弄進碗裡；squeeze the juice 是「擠出果汁」。<br>(A) decrease：減少。<br>(B) squeeze：擠壓，符合動作。<br>(C) freeze：冷凍，無法讓果汁進碗。<br>(D) cease：停止，不能直接接 juice 作受詞。<br>把答案放回去：把檸檬汁擠進碗裡，再加水和糖。",
+    12: "<b>解題關鍵：</b>90% 的泰國人口是佛教徒，九成代表佛教在當地占主要地位。<br>(A) racial：種族的，religion 不是種族。<br>(B) competitive：有競爭力的，和人口比例無關。<br>(C) modest：謙虛的或不大的。<br>(D) dominant：占優勢的、主要的，符合 90% 的線索。<br>把答案放回去：佛教是泰國的主要宗教。",
+    13: "<b>解題關鍵：</b>要先了解一本書有哪些 chapters，會查看書前列出各章名稱與頁碼的「目錄」。固定用法是 table of contents。<br>(A) contracts：合約。<br>(B) contents：內容；table of contents 就是目錄。<br>(C) contests：比賽。<br>(D) contacts：聯絡人或接觸。<br>把答案放回去：我先看目錄，掌握全書與各章內容。",
+    14: "<b>解題關鍵：</b>孩子看到小丑後 laughed、screamed、clapped happily，這些行為顯示他們非常開心。<br>(A) admirable：令人欽佩的，不是孩子的心情。<br>(B) fearful：害怕的，和 happily 相反。<br>(C) delighted：非常高興的，符合所有反應。<br>(D) intense：強烈的，不能自然描述此處心情。<br>把答案放回去：孩子看到小丑出場，非常高興。",
+    15: "<b>解題關鍵：</b>這次颱風雨量 much greater than 某個基準；用來比較的基準是這個季節平常的平均雨量。<br>(A) average：平均的，符合比較基準。<br>(B) considerate：體貼的，只形容人或行為。<br>(C) promising：有希望的。<br>(D) enjoyable：令人愉快的。<br>把答案放回去：這次雨量遠高於宜蘭當季平均雨量。",
+    16: "<b>解題關鍵：</b>文章談木乃伊與來世信仰，古埃及人相信死亡之後還有生命。<br>(A) life for death 不是正確搭配。<br>(B) life by death 語意不通。<br>(C) life after death：死後的生命，符合下一句靈魂前往冥界。<br>(D) life into death 也不是英文搭配。<br>把答案放回去：古埃及人深信死後仍有生命。",
+    17: "<b>解題關鍵：</b>靈魂到冥界後，要面對 a series of judgments「一連串審判」。<br>(A) went through：經歷，能接審判。<br>(B) made up：編造或組成。<br>(C) changed into：變成。<br>(D) turned out：結果是。<br>只有「經歷一連串審判」符合故事順序。把答案放回去：靈魂在冥界經歷審判後，才能前往更好的來世。",
+    18: "<b>解題關鍵：</b>為讓靈魂順利旅行，body 必須保持 unharmed「未受損」。空格後是形容詞，因此需要能接形容詞、表示維持狀態的動詞。<br>(A) remain：保持，remain unharmed 搭配正確。<br>(B) remind：提醒。<br>(C) repair：修理。<br>(D) replace：取代。<br>把答案放回去：身體必須保持完整無損。",
+    19: "<b>解題關鍵：</b>by 後面列出保存身體的三個做法：drying、oiling and then ___。並列的動作要穿同樣形式的「制服」，都用 -ing。<br>(A) wrapped 是過去式或過去分詞。<br>(B) wrapping 與 drying、oiling 平行，正確。<br>(C) to wrap 是不定詞。<br>(D) being wrapped 表示被包裹，與前兩項主動做法不平行。<br>句意：把身體乾燥、塗油，再用亞麻布包裹。",
+    20: "<b>解題關鍵：</b>下一句說金字塔裡放著法老的遺體和珍寶，可知它是國王的陵墓。<br>(A) galleries：畫廊。<br>(B) landmarks：地標，只說外觀醒目，沒有安葬功能。<br>(C) companies：公司。<br>(D) tombs：陵墓，符合 housed the pharaoh’s body。<br>把答案放回去：埃及人為法老建造金字塔作為陵墓。",
+    21: "<b>解題關鍵：</b>首演日期 March 23, 1999 是明確過去時間；音樂劇「受到」觀眾熱烈歡迎，要用過去式被動。<br>(A) is given 是現在式被動。<br>(B) was given 是過去式被動，正確。<br>(C) has given 是主動，會變成音樂劇給出歡迎。<br>(D) had given 是過去完成主動，也不合。<br>句意：它在首演時便獲得此後一直享有的熱烈歡迎。",
+    22: "<b>解題關鍵：</b>後文有 more than 30 million people all over the world，表示影響遍及全世界。<br>(A) worthy：值得的，不能說「值得的娛樂現象」。<br>(B) global：全球的，符合世界各地觀眾。<br>(C) sticky：黏的。<br>(D) physical：身體的或實體的。<br>把答案放回去：《媽媽咪呀！》已成為全球娛樂現象。",
+    23: "<b>解題關鍵：</b>more productions than 是比較級，意思是在同一類「音樂劇」中比較；正確句型為 any other＋單數名詞。<br>(A) any one musical 會缺少「其他」的意思。<br>(B) thing 不能接 musical。<br>(C) other：其他的，than any other musical 正確。<br>(D) else 通常放在代名詞後，如 anything else，不能放在 musical 前。<br>句意：它的製作版本比任何其他音樂劇都多。",
+    24: "<b>解題關鍵：</b>空格後的 retains 缺少主詞，前面的 way 是要被說明的名詞，需要用關係代名詞連接；白話說，就是用 that 把「一種方式」和「這種方式保留本質」接起來。<br>(A) how 本身已有「方式」之意，不能和 way 重複。<br>(B) what 前面不能有先行詞 way。<br>(C) where 表地點。<br>(D) that 可代替 way 當 retains 的主詞。<br>句意：它以仍保有流行樂與音樂劇本質的新鮮方式呈現歌曲。",
+    25: "<b>解題關鍵：</b>後面說因此拍成電影，表示這部音樂劇很吸引觀眾。<br>(A) appealed to：吸引、投合喜好，appeal to people 搭配正確。<br>(B) presented with：被贈與，語意不合。<br>(C) resulted in：導致，後面應接事件，不直接接 people。<br>(D) brought about：造成，也不接 people 表示吸引。<br>把答案放回去：它吸引了許多人，因此還拍成電影。",
+    26: "<b>解題關鍵：</b>句子先提 water，再提 diamonds；接著說「可是後者比較貴」，後者就是第二個出現的鑽石。<br>(A) the above：上述內容，不能清楚指兩者之一。<br>(B) the former：前者，會指 water。<br>(C) the following：下列事物。<br>(D) the latter：後者，指 diamonds。<br>把答案放回去：水較有用，但後者鑽石價格更高。",
+    27: "<b>解題關鍵：</b>前面說 diamonds 是 rare natural resource「稀有天然資源」，所以供應量不多。<br>(A) traded：被交易，沒有說供給多少。<br>(B) weakened：被削弱，不能自然形容 supply。<br>(C) limited：有限的，be limited in supply 是「供應有限」。<br>(D) noticed：被注意。<br>把答案放回去：鑽石稀有，因此供應有限。",
+    28: "<b>解題關鍵：</b>空格說明前面「買鑽石炫耀財富」這個行為在經濟學中被稱為什麼。完整意思是 which is termed，但省略 which is，只留下 termed。<br>(A) term 是原形。<br>(B) termed：被稱為，過去分詞補充前句，正確。<br>(C) terms 是現在式主動。<br>(D) was termed 會多出一個完整動詞，卻沒有連接詞。<br>句意：這種行為在經濟學中稱為炫耀性消費。",
+    29: "<b>解題關鍵：</b>is 後面需要一整塊內容作說明，而 causes 前面又缺主詞；what 同時表示「……的事物」並當 causes 的主詞。<br>(A) what causes...：造成……的事物，結構完整。<br>(B) which 前面要有先行詞。<br>(C) why 表原因，但不能當 causes 的主詞。<br>(D) how 表方式，也不能當主詞。<br>句意：商品的稀少，正是使人賦予它價值的原因。",
+    30: "<b>解題關鍵：</b>現實中鑽石並非多到用不完；句子想像與現況相反的情形，後面也用了 would。這種「假想現在」的 if 子句用過去式 were。<br>(A) be 原形不能直接當此句動詞。<br>(B) being 是 -ing 形式。<br>(C) to be 是不定詞。<br>(D) were 符合假設語氣。<br>句意：如果四周有無窮鑽石，我們大概就不會如此珍視它。",
+    31: "<b>解題關鍵：</b>空格放在 snack 前，需要形容詞；第一句說爆米花是看電影時常見的點心。<br>(D) popular「受歡迎的」可直接修飾 snack，符合文意。<br>(F) healthy 雖也是形容詞，但本段接著說現代微波爆米花可能有健康風險，不能先稱它健康。<br>(A) chemical、(B) amount 是名詞，不能表達受歡迎。<br>句意：現代製作這種受歡迎點心的方法，可能藏著不好的祕密。",
+    32: "<b>解題關鍵：</b>can cause 後需要名詞作受詞；研究擔心微波爆米花中的物質危害健康，固定搭配是 health problems「健康問題」。<br>(J) problems 能接在 health 後，正確。<br>(H) responsible 要用 be responsible for，不能放在此處。<br>(A) chemical 是化學物質，句中已用 substances 表示。<br>句意：微波爆米花可能含有造成健康問題的物質。",
+    33: "<b>解題關鍵：</b>空格前有 a，後面 called PFOA 進一步說明它的名稱，所以要填一個可數名詞，表示 PFOA 是哪一類東西。<br>(A) chemical：化學物質，a chemical called PFOA 搭配完整。<br>(B) amount 是數量，不能「叫作 PFOA」。<br>(J) problems 是複數，也不能接 a。<br>句意：公司常用一種叫 PFOA 的化學物質塗在袋子上。",
+    34: "<b>解題關鍵：</b>主詞 the artificial butter substitute 是單數，空格後有 with，句意是這種奶油替代品通常「隨微波爆米花附上」。<br>(E) comes：單數動詞，comes with 表示「隨附」。<br>(I) remove 是移除，意思相反。<br>(G) needed 是需要的，無法與 with 組成此意。<br>句意：微波爆米花通常附有人工奶油替代品。",
+    35: "<b>解題關鍵：</b>空格前有 is，後面有 for，並說此物質與嚴重肺病有關；be responsible for 可表示「是……的原因、導致」。<br>(H) responsible 正確。<br>(F) healthy「健康的」和肺病相反。<br>(J) problems 是名詞，放在 is 後還會與 for 搭配不通。<br>句意：這種物質被認為會導致某些嚴重肺病。",
+    36: "<b>解題關鍵：</b>文章先談微波爆米花的健康風險，再建議自己爆，因此新的方法是較健康的替代方案。空格和 easy 並列，都要用形容詞。<br>(F) healthy：健康的，符合對比。<br>(D) popular 雖可修飾 alternative，但重點不是受歡迎，而是避開健康風險。<br>(G) needed 是「被需要的」，不合語意。<br>句意：營養師建議用簡單又健康的方法自己爆玉米花。",
+    37: "<b>解題關鍵：</b>後面列出鍋子、油和玉米粒，這些都是自己爆玉米花「所需要的東西」。All that is needed 是固定結構，意思是「所需的一切」。<br>(G) needed：需要的，正確。<br>(H) responsible 後通常接 for。<br>(D) popular 無法說明清單用途。<br>句意：所需的只有一個高鍋、植物油和少量玉米粒。",
+    38: "<b>解題關鍵：</b>when 後說玉米粒開始有動作，接著要搖鍋；start 後可接動名詞，而玉米粒受熱會「爆開」。<br>(C) popping：爆開，start popping 搭配正確。<br>(E) comes 是單數動詞，不能接在 start 後。<br>(I) remove 是移走，主詞 kernels 不會移走鍋子。<br>句意：玉米粒開始爆開時，就搖動鍋子。",
+    39: "<b>解題關鍵：</b>爆裂聲變慢表示快好了，下一步是把鍋子從爐火上移開。句型 remove A from B 是「把 A 從 B 移開」。<br>(I) remove 正確，祈使句用原形動詞。<br>(E) comes 不能直接接 the pot。<br>(B) amount 是名詞，不能當動作。<br>句意：一聽到爆裂聲變慢，就把鍋子移離爐火。",
+    40: "<b>解題關鍵：</b>空格前有 a small，後面接不可數的 butter or olive oil，所以需要表示「量」的名詞。<br>(B) amount：數量，a small amount of 可接不可數名詞。<br>(J) problems 是複數，和調味無關。<br>(A) chemical 會變成加入化學物，與健康做法相反。<br>句意：加少量真正的奶油或橄欖油調味。",
+    41: "<b>解題關鍵：</b>定位在第三段最後一句：slow speech with pauses or errors，比快速說話更可靠地顯示說謊。<br>(A) 文章沒說流利快語代表聰明。<br>(B) 第二段只說女性較常先碰觸，不等於在社會中較有權勢。<br>(C) 慢速且有停頓的說話較可能是說謊跡象，符合原文。<br>(D) 原文說較低地位者更常先碰觸，和選項相反。",
+    42: "<b>解題關鍵：</b>定位第一段：多數人只對 lasting a few seconds 的眼神接觸感到自在；超過幾秒會 nervous「緊張」。<br>(A) 長時間盯著反而令人不舒服，不會讓人放鬆。<br>(B) 文章沒有說盯越久越有禮貌，意思相反。<br>(C) 超過幾秒，多數人會不自在，符合原文。<br>(D) 原文明確說時間長短會影響感受，因此不是沒有差別。",
+    43: "<b>解題關鍵：</b>這是 NOT 題，要找全文沒有談的項目。第一段談 eye contact，第二段談 touch，第三段談 rapid or slow speech。<br>(A) facial expressions「臉部表情」沒有出現，正確。<br>(B) physical contact 對應第二段肢體碰觸。<br>(C) rate of speech 對應第三段說話速度。<br>(D) eye contact 是第一段主題。",
+    44: "<b>解題關鍵：</b>三段都有同一安排：先提出大家長久相信的溝通觀念，再用研究指出事實可能相反。因此主旨不是教技巧，而是修正常見迷思。<br>(A) 沒有談人天生會解讀訊息，也不是介紹人的本能。<br>(B) 只涵蓋肢體語言，漏掉第三段的說話速度。<br>(C) 文章沒主張成功溝通必須熟知肢體語言。<br>(D) 口語與非口語溝通的常見信念不一定正確，概括三段。",
+    45: "<b>解題關鍵：</b>定位第二段：Maasai 年輕男子會用矛刺動物，所以 pose a threat to elephants；Kamba 男子主要務農，不構成危險。<br>(A) Maasai 對大象有威脅，符合原文。<br>(B) 原文只說 Kamba 務農，沒說養大象。<br>(C) 只有 Maasai 被說會攻擊動物。<br>(D) 紅衣通常是 Maasai 穿，不是兩族都穿。",
+    46: "<b>解題關鍵：</b>定位第三段：大象聞到 Maasai 穿過的衣服時，會更快離開，而且要更久才能放鬆。這兩個反應表示害怕威脅。<br>(A) 實驗只有衣物，沒有攻擊穿新衣的人。<br>(B) 讓牠久未放鬆的是 Maasai 氣味，不是任何陌生味。<br>(C) 聞到 Kamba 衣物時反應較弱，並未焦慮逃走。<br>(D) 聞到敵人味道便害怕逃開，符合實驗結果。",
+    47: "<b>解題關鍵：</b>第一段先提出答案：大象能用 vision and smell 分辨威脅；後文分別用氣味實驗和紅衣實驗證明。<br>(A) 大象用視覺與嗅覺偵測危險，能涵蓋全文兩種實驗。<br>(B) 只抓到紅衣細節，漏掉氣味判斷，範圍太窄。<br>(C) 科學家只是觀察反應，沒有控制大象情緒。<br>(D) 文章談研究者如何了解大象，不是當地部族了解牠們。",
+    48: "<b>解題關鍵：</b>這是推論題。文章沒有直接說「大象會學習」，但 Maasai 的氣味與紅衣會引發不同反應，表示牠們把過去遇到的危險和這些線索連在一起。<br>(A) 能從經驗學習，是由實驗線索合理推出。<br>(B) 沒有比較嗅覺和視覺誰較敏銳，只描述兩種反應不同。<br>(C) 沒與其他動物比較智力高低。<br>(D) 聞到近處危險時會逃跑，並非總是攻擊。",
+    49: "<b>解題關鍵：</b>文章前半寫 Deborah 的籃球夢被傷勢打斷，後半寫治療經驗讓她改讀物理治療，找到新的生涯方向。<br>(A) 不是一次「錯誤」造成受傷，也沒有責怪誰。<br>(B) 重點不在冒險，而是人生目標改變。<br>(C) 傷勢雖痛苦，卻帶來新志向，不是終身懲罰。<br>(D) A New Direction in Life「人生新方向」同時涵蓋轉折前後，最適合。",
+    50: "<b>解題關鍵：</b>這是推論題。她從五歲就夢想打球，第一場比賽卻因膝傷立刻結束賽季；之後只能坐場邊看別人打。雖未直接寫心情，這些線索可推出失望。<br>(A) excited 興奮，和夢想突然中止不合。<br>(B) confused 困惑，沒有不知道發生什麼的線索。<br>(C) ashamed 羞愧，受傷不是丟臉的事。<br>(D) disappointed 失望，符合情境。",
+    51: "<b>解題關鍵：</b>定位第二段：對手持球時，Deborah 跑去防守；她 sideways 移動要 block the player 時膝蓋受傷。<br>(A) 後來五年又傷三次，表示初傷後仍曾上場打球。<br>(B) 她正在阻擋對手時傷膝，符合原文明確動作。<br>(C) 她從小夢想成為好球員，意思相反。<br>(D) 她多次去物理治療診所接受治療，並未拒絕專業協助。",
+    52: "<b>解題關鍵：</b>new light 是比喻「新的希望或方向」。定位末兩段：多次物理治療讓她尊敬這個專業，後來攻讀物理治療，計畫教人照顧身體。<br>(A) 幫助人照顧身體，正是她後來找到的新目標。<br>(B) 她讀的是 physical therapy「物理治療」，不是體育教育。<br>(C) 成為優秀球員是原本的籃球夢。<br>(D) 接受治療只是帶來啟發的經歷，不是她的新人生方向。",
+    53: "<b>解題關鍵：</b>定位第一段：一億年前的北美 much more moist and tropical，也就是更潮溼、更溫暖，因此紅杉很常見。<br>(A) 沒說當時的樹比較高壯。<br>(B) 沒提土壤較軟。<br>(C) warmer and more humid 正確重述 moist and tropical。<br>(D) 後來氣候變乾冷，紅杉才退到太平洋沿岸；不是早期分布廣的原因。",
+    54: "<b>解題關鍵：</b>定位最後一段：母樹基部長出 sprouts；主樹死後，嫩芽長成完整樹木，around the initial tree 形成 fairy ring。<br>(A) 不是樹幹本身繞成圓。<br>(B) 根系會滋養嫩芽，但 fairy ring 指地面上形成的樹群。<br>(C) 與昆蟲孔洞無關。<br>(D) 年輕樹木環繞原本成熟母樹，符合原文。",
+    55: "<b>解題關鍵：</b>定位第二段：厚樹皮給老樹 protection from insects，也能在中度森林火災中保護樹心。題目問文章提到的功能。<br>(A) 種子由受熱打開的毬果釋出，不是樹皮讓樹結果。<br>(B) 厚樹皮能防止昆蟲侵害，直接符合原文。<br>(C) 文章沒說樹皮能吸收空氣中的水分。<br>(D) 文中雖說樹皮漂亮，但「漂亮」是外觀描述，不是此題要找的保護功能。",
+    56: "<b>解題關鍵：</b>第二段直接說 fire resistant quality explains why the giant redwood grows to live that long：耐火特性解釋紅杉為何長壽。<br>(A) 樹幹粗直是外形，未被說是長壽原因。<br>(B) 沒有人替它適當澆水。<br>(C) 比其他樹更能抵抗火災傷害，符合原文。<br>(D) 嫩芽延續樹群生命，但題目問單棵紅杉為何活得久。"
   };
   const groups = {
     G1: {
@@ -4378,62 +4378,62 @@ window.BANK.push({
 // 99 學年度學科能力測驗英文考科（單選題 56 題）；題目與答案取自大考中心官方資料。
 (() => {
   const explanations={
-    1:"每年至少出版五本小說，顯示林先生創作產量高；productive 表示「多產的」。",
-    2:"熱敷或溫水澡可減輕下背痛，relieve pain 是「緩解疼痛」。",
-    3:"熬夜後喝咖啡是為在課堂保持清醒，keep oneself awake 表示「使自己保持清醒」。",
-    4:"相同商品如今價格上升，是通貨膨脹 inflation 的結果。",
-    5:"政府擔心部落文化消失而努力保存，preserve 表示「保護、保存」。",
-    6:"麵包香味令人難以抗拒，resist 表示「抵抗、忍住」。",
-    7:"每天有多場會議，工作時程非常緊湊；tight schedule 是「緊湊的行程」。",
-    8:"Phelps 在奧運男子游泳競賽中破紀錄並奪牌，contests 表示「比賽」。",
-    9:"學生在孤兒院服務且不領薪，on a voluntary basis 表示「以志願方式」。",
-    10:"倒垃圾、洗碗是家務 chores。",
-    11:"老闆已責罵十分鐘，顯然不滿 John 再次遲到；Apparently 表示「顯然」。",
-    12:"暴風雨使橘子樹受嚴重損害，導致收成大減；severe damage 是「嚴重損害」。",
-    13:"莫拉克颱風奪走六百多人性命，是重大天然災害；disaster 表示「災難」。",
-    14:"只有 Robert 目擊車禍，警方需靠他還原經過；witness 表示「目擊者」。",
-    15:"傷勢嚴重到幾乎無法移動雙腿，scarcely 表示「幾乎不」。",
-    16:"母女最後買了同一條牛仔褲，end up V-ing 表示「最後結果是……」。",
-    17:"二十出頭者熟悉各品牌與趨勢，是資訊更充分的 informed consumers。",
-    18:"想掌握流行的母親會向女兒求助，turn to somebody 表示「轉向某人尋求協助」。",
-    19:"要讓母親掏錢購買，先贏得女兒認同；pocketbook 在此指「錢包、消費支出」。",
-    20:"百貨公司吸引中年女性，同時沒有失去年輕客群；without 表示「沒有」。",
-    21:"新鮮洋蔥有黃、紅、白三種顏色，available in＋顏色表示「有……顏色可選」。",
-    22:"薄而淺色的外皮可用來辨認新鮮洋蔥，be identified by 表示「藉由……辨認」。",
-    23:"make it easier for A to V 是虛受詞結構，it 代替後面的 to bruise。",
-    24:"儲藏洋蔥皮厚、深色，與新鮮洋蔥不同；Unlike 表示「不像」。",
-    25:"儲藏洋蔥適合重口味菜餚，表示味道較強烈；intense flavor 是「濃烈風味」。",
-    26:"塑膠加工可能釋出有害物，讓瓶裝水潛在威脅健康；health-threatening 表示「危害健康的」。",
-    27:"can 後並列 be absorbed 與 cause，故用原形 cause，表示化學物造成身體不適。",
-    28:"因為儲運資訊不一定容易取得，瓶裝水未必比自來水好；Since 表示原因。",
-    29:"前文談塑膠化學物與儲存細菌的健康風險，these safety issues 指這些安全問題。",
-    30:"大量塑膠瓶未回收並長留掩埋場，形成固體廢棄物 solid waste。",
-    31:"足球不只是運動，也是教導合作與公民角色的珍貴老師，teacher 為比喻用法。",
-    32:"球員在練習場上合作，practice field 表示「練習場」。",
-    33:"足球教人合作，使他們成為更好的公民與個人，better 最符合比較語意。",
-    34:"團隊只有靠每位成員合作才能獲勝，cooperation 表示「合作」。",
-    35:"團隊合作是球員在場上必須永遠記住的教訓，remember 表示「記得」。",
-    36:"球員不把自己視為可與社會隔絕的孤狼，isolated from 表示「與……隔離」。",
-    37:"身為社會成員就必須以相應方式行事，behave oneself 表示「守規矩、合宜行事」。",
-    38:"每個人透過合作盡自己的一份力量，do one’s share 表示「盡本分」。",
-    39:"文章強調現代生活必須團隊合作，essential 表示「不可或缺的」。",
-    40:"每位公民盡責，國家才能繁榮；prosper 表示「繁榮」。",
-    41:"文章介紹紐西蘭特有昆蟲的生物特徵、棲地與保育，也可能見於科普或旅遊資料，最不可能出自商業期刊，選 D。",
-    42:"weta 名稱意為「醜陋之神」，文章也說多數人一見便反感，因此外觀不討喜，選 A。",
-    43:"weta 遭外來老鼠捕食且已瀕危，表示數量正在下降，選 C。",
-    44:"native species 不習慣「牠的存在」中的 its 指前面進入島上的 rat，選 A。",
-    45:"第二段說家長與教育者把舞會視為學習社交技巧的重要課程，因此選 C。",
-    46:"第三段從早期校內簡樸舞會談到八○年代昂貴禮服、豪華車與餐廳，主旨是由樸素轉為華麗，選 D。",
-    47:"傳統舞會讓社交不自在、沒有舞伴或有特殊處境的學生感到痛苦，因此出現另類舞會滿足其需求，選 D。",
-    48:"舞會在 1920 年代出現，1930 年代已遍及全美，顯示自 1930 年代成為高中重要活動，選 C。",
-    49:"第二段從 1953 年的 Intervac 談到網路平台成長與會員增加，核心是換屋日益普及，選 B。",
-    50:"HomeExchange bills itself as the world’s largest club，bills itself as 表示「自我宣傳為」，最接近 advertises，選 A。",
-    51:"第三段明說第一次聯繫透過電子郵件，後續才通常用電話，選 B。",
-    52:"網站建議事前討論並填寫責任協議，以處理偷竊或損壞疑慮，選 C。",
-    53:"文章提到高海拔稀薄空氣、日常長跑與長腿體型，沒有把知名教練列為成就因素，NOT 題選 A。",
-    54:"Bekoji 位於接近一萬英尺高的火山側坡，因此選 C。",
-    55:"孩子都夢想成為另一位奧運冠軍 Derartu Tulu，也就是在國際賽事獲勝，選 B。",
-    56:"成功榜樣吸引周邊數千孩子到鎮上訓練並懷抱冠軍夢，可推論未來還會有更多長跑好手出現，選 A。"
+    1:"<b>解題關鍵：</b>分號後說林先生「每年至少出版五本小說」，線索是作品數量很多，所以要選能形容「多產」的字。<br>(A) moderate：適度的、中等的，不能表示寫很多書。<br>(B) temporary：暫時的，談的是時間長短，不是作品產量。<br>(C) productive：多產的、生產力高的，正好對應每年出版至少五本小說。<br>(D) reluctant：不情願的，若他不願意寫作，就和高產量的線索不合。<br>把答案放回去：林先生是一位非常多產的作家。",
+    2:"<b>解題關鍵：</b>熱敷墊與溫水澡常用來讓疼痛減輕；空格後又直接接 pain，因此需要能和 pain 搭配、表示「緩解」的動詞。<br>(A) polish：擦亮、磨光，通常用在鞋子或金屬，不能擦亮疼痛。<br>(B) relieve：減輕，relieve pain 就是「緩解疼痛」，符合情境。<br>(C) switch：切換、更換，不能說切換疼痛。<br>(D) maintain：維持，若維持疼痛反而沒有幫助。<br>把答案放回去：熱敷或泡溫水澡有時能減輕下背痛。",
+    3:"<b>解題關鍵：</b>Peter 前一晚熬夜，早上喝很多咖啡，是為了上課時不要睡著。keep oneself＋形容詞表示「使自己保持某種狀態」。<br>(A) acceptable：可接受的，和喝咖啡的作用無關。<br>(B) amazed：感到驚訝的，咖啡不是為了讓自己驚訝。<br>(C) accurate：精確的，通常形容資料或答案。<br>(D) awake：醒著的、清醒的，keep himself awake 正好表示保持清醒。<br>把答案放回去：他喝咖啡讓自己上課時保持清醒。",
+    4:"<b>解題關鍵：</b>句中說「同樣的日用品現在要付更多錢」，也就是物價整體上升，這是通貨膨脹的典型現象。<br>(A) inflation：通貨膨脹，會使物價上漲，符合線索。<br>(B) solution：解決方法，不會自然造成商品全面變貴。<br>(C) objection：反對、異議，和物價上升沒有因果關係。<br>(D) condition：狀況、條件，意思太廣，沒有指出價格上漲的經濟現象。<br>把答案放回去：由於通貨膨脹，同樣的物品現在要花更多錢。",
+    5:"<b>解題關鍵：</b>for fear that 表示「擔心……」，政府擔心部落文化很快消失，所以前面的行動應是把文化保存下來。<br>(A) preserve：保存、保護，使文化能繼續存在，符合文意。<br>(B) frustrate：使挫折，通常以人或計畫為受詞。<br>(C) hesitate：猶豫，通常不直接接受詞 cultures。<br>(D) overthrow：推翻，常用於政府或制度，反而會破壞文化。<br>把答案放回去：政府正盡力保存部落文化，以免它們消失。",
+    6:"<b>解題關鍵：</b>後半句說「所以我走進去買了一條剛出爐的麵包」，表示說話者忍不住麵包店的香味。could not＋動詞就是「無法……」。<br>(A) insist：堅持，常接 on，不說 insist a smell。<br>(B) resist：抗拒、抵擋，resist the smell 表示抗拒香味的誘惑，符合情境。<br>(C) obtain：獲得，不能說無法獲得香味所以去買麵包。<br>(D) contain：包含、容納，不合人的感受。<br>把答案放回去：我抗拒不了香味，便進店買麵包。",
+    7:"<b>解題關鍵：</b>Steve 每天有好幾場會議，表示時間安排得很滿。英文常用 a tight schedule 表示「緊湊的行程」。<br>(A) dense：密集的，雖有「密」的意思，但不和 schedule 作這個固定搭配。<br>(B) various：各種不同的，不能說行程本身是各種的。<br>(C) tight：緊的、緊湊的，能形容幾乎沒有空檔的時程。<br>(D) current：目前的，只說這是現在的行程，沒有「很忙」的意思。<br>把答案放回去：他每天都按非常緊湊的行程工作。",
+    8:"<b>解題關鍵：</b>破世界紀錄、獲得金牌都是在奧運「比賽」中發生的；空格前是 men’s swimming，要接表示競賽的名詞。<br>(A) drills：訓練、操練，不是頒發奧運金牌的正式比賽。<br>(B) techniques：技巧，不能說在技巧中奪牌。<br>(C) routines：例行程序，也不能表示競賽項目。<br>(D) contests：比賽、競賽，men’s swimming contests 就是男子游泳賽事。<br>把答案放回去：Phelps 在奧運男子游泳比賽中破紀錄並奪金。",
+    9:"<b>解題關鍵：</b>句末說學生「沒有收到任何報酬」，所以他們是在孤兒院做志願服務。on a ... basis 表示「以某種方式」。<br>(A) voluntary：自願的、志願的，on a voluntary basis 表示自願服務，符合不支薪的線索。<br>(B) competitive：競爭的，沒有比賽或競爭。<br>(C) sorrowful：悲傷的，不能說以悲傷方式工作。<br>(D) realistic：實際的，和是否領薪無關。<br>把答案放回去：那些大學生以志願方式在孤兒院協助孩子課業。",
+    10:"<b>解題關鍵：</b>such as 後列出 taking out the trash 與 doing the dishes，也就是倒垃圾、洗碗等「家務」。<br>(A) missions：任務，範圍太廣，不專指日常家事。<br>(B) chores：日常雜務、家務，house chores 是常見搭配，符合例子。<br>(C) approaches：方法，倒垃圾不是一種方法。<br>(D) incidents：事件，通常指發生的事情，不是固定要做的家事。<br>把答案放回去：研究顯示，請孩子做家務有助於培養責任感。",
+    11:"<b>解題關鍵：</b>John 因再次遲到，已被老闆罵了十多分鐘；由這個現象可以判斷老闆「看來」很不高興。<br>(A) Expressively：富有表情地，修飾動作，不用來推斷整句情況。<br>(B) Apparently：看來、表面看來，表示根據前面線索作合理判斷，符合。<br>(C) Immediately：立刻地，談時間快慢，和判斷情緒無關。<br>(D) Originally：原本，談事情最初的狀態。<br>把答案放回去：看來，她對 John 又遲到很不高興。",
+    12:"<b>解題關鍵：</b>暴風雨後，農民預期冬季收成會「大幅下降」，表示橘子樹受到的損害非常嚴重。<br>(A) potential：潛在的，若只是可能受損，不足以支持收成已預期大減。<br>(B) relative：相對的，不能自然形容暴風造成的破壞程度。<br>(C) severe：嚴重的，severe damage 是常見搭配，與 sharp decline 相呼應。<br>(D) mutual：相互的，損害不是雙方彼此給予。<br>把答案放回去：橘子樹受到嚴重風災，因此農民預期收成銳減。",
+    13:"<b>解題關鍵：</b>莫拉克颱風奪走六百多條人命，句中又說它是近幾十年最嚴重的 natural ...，要填「天然災害」。<br>(A) disaster：災難，natural disaster 是「天然災害」，符合颱風造成重大傷亡。<br>(B) barrier：障礙物，不能形容一場致命颱風。<br>(C) anxiety：焦慮，是人的情緒。<br>(D) collapse：倒塌、崩潰，只可能是災害中的一個結果，範圍太小。<br>把答案放回去：莫拉克是台灣近幾十年最嚴重的天然災害。",
+    14:"<b>解題關鍵：</b>警方必須依靠 Robert 才能知道車禍「究竟如何發生」，表示他親眼看見事故，也是唯一能作證的人。<br>(A) dealer：商人、經銷商，和事故經過無關。<br>(B) guide：導遊、嚮導，不一定看見事故。<br>(C) witness：目擊者、證人，能向警方說明親眼所見，符合。<br>(D) client：客戶，不代表在現場。<br>把答案放回去：Robert 是唯一的車禍目擊者，警方靠他還原事故。",
+    15:"<b>解題關鍵：</b>Jason 在車禍中傷得很重，而且立刻送醫，可知他「幾乎無法」移動雙腿。空格修飾 move，要用副詞。<br>(A) accordingly：因此、相應地，不能表示移動程度很低。<br>(B) undoubtedly：無疑地，只表示確定，不表示不能動。<br>(C) handily：輕易地，與重傷相反。<br>(D) scarcely：幾乎不，scarcely move 就是幾乎動不了。<br>把答案放回去：Jason 傷勢嚴重，幾乎無法移動雙腿。",
+    16:"<b>解題關鍵：</b>前句說 Anita 和母親一起購物，後面用 Interestingly 說有趣的結果：兩人「最後買了」同一款牛仔褲。<br>(A) gave up buying：放棄購買，和後面的買同款不合。<br>(B) ended up buying：最後買了，end up＋V-ing 表示事情最後的結果，符合。<br>(C) took to buying：開始養成購買的習慣，文章只談這一次。<br>(D) used to buy：過去常買，會說現在已不如此，也不合。<br>關鍵句意：有趣的是，母女倆最後買了同一款牛仔褲。",
+    17:"<b>解題關鍵：</b>下一句說二十出頭的年輕人「沒有不知道的品牌或潮流」，所以他們是對資訊更了解的消費者。<br>(A) informed：消息靈通的、了解情況的，informed consumers 符合。<br>(B) informative：提供很多資訊的，通常形容文章或演講，不形容消費者知道很多。<br>(C) informal：非正式的，和熟悉品牌無關。<br>(D) informational：資訊性的，也通常形容內容或用途。<br>關鍵句意：二十出頭的人是資訊更充分的消費者。",
+    18:"<b>解題關鍵：</b>女兒熟悉品牌和潮流，因此母親想跟上趨勢時，會「向女兒尋求意見」。破折號後的 the experts 就是 daughters。<br>(A) deal with：處理、應付，不是請教某人。<br>(B) head for：前往某處，不能表示向人求助。<br>(C) turn to：轉向某人求助或請教，符合。<br>(D) look into：調查某件事，受詞通常是事情。<br>關鍵句意：想掌握潮流的母親通常會向專家，也就是女兒求助。",
+    19:"<b>解題關鍵：</b>這段是在告訴零售商：若想讓母親花錢，得先讓女兒喜歡商品。get into one’s pocketbook 是接近某人的「錢包、消費支出」。<br>(A) textbook：教科書。<br>(B) notebook：筆記本。<br>(C) workbook：練習本。<br>(D) pocketbook：錢包，也可代指可花的錢，符合購物情境。<br>其他三項都是書本種類，和消費行為無關。關鍵句意：想讓母親掏錢，必須先說服她的女兒。",
+    20:"<b>解題關鍵：</b>百貨公司同時滿足母親與女兒的需要：吸引成功的中年女性，卻「沒有失去」年輕顧客。空格後是 V-ing，要選可接 V-ing 的介系詞。<br>(A) in：在……裡，不能表達兩者兼顧。<br>(B) while：當……時，後面通常接完整子句，此處只有 losing。<br>(C) after：在……之後，會變成先失去年輕客群再吸引母親，不合。<br>(D) without：沒有，without losing 表示「沒有失去」，符合。<br>關鍵句意：百貨公司吸引中年女性，同時保住年輕顧客。",
+    21:"<b>解題關鍵：</b>yellow, red and white 是洋蔥可選的三種顏色。英文用 be available in＋顏色／尺寸，表示「有某種款式可供選擇」。<br>(A) from：從……而來，不接顏色列舉。<br>(B) for：為了、給，不表示商品有哪幾種顏色。<br>(C) in：以……顏色或尺寸，available in yellow 正確。<br>(D) of：……的，不能接在 available 後表顏色。<br>關鍵句意：新鮮洋蔥在產季有黃、紅、白三色。",
+    22:"<b>解題關鍵：</b>by their thin, light-colored skin 表示「藉由薄而淺色的外皮」，這是辨認新鮮洋蔥的方法。句子是被動語態 be＋過去分詞。<br>(A) grown：被種植，不能說藉外皮種植。<br>(B) tasted：被品嘗，外皮不是品嘗方式。<br>(C) identified：被辨認，be identified by 表示「可藉由……辨認」，符合。<br>(D) emphasized：被強調，不合物種辨識情境。<br>關鍵句意：可從薄而淺色的外皮辨認新鮮洋蔥。",
+    23:"<b>解題關鍵：</b>真正「更容易」的是後面的 for them to bruise（它們容易碰傷）。英文先用 it 暫代後面的完整動作，使句子不會頭重腳輕。<br>(A) such：如此的，不能當 make 的受詞。<br>(B) much：很多，不能代替後面的動作。<br>(C) that：那個，若引導子句，後面結構也不完整。<br>(D) it：暫時代替 to bruise，make it easier for A to V 是「讓 A 做某事更容易」，符合。<br>關鍵句意：較高的含水量也使新鮮洋蔥更容易碰傷。",
+    24:"<b>解題關鍵：</b>前文說新鮮洋蔥外皮薄而淺；空格後說儲藏洋蔥有多層厚、深色的紙狀外皮，兩者是對比。<br>(A) Unlike：不像、和……不同，後面可直接接名詞 fresh onions，符合。<br>(B) Through：穿過、透過，不表示比較。<br>(C) Besides：除了……之外，會變成增加資訊，不能說明特徵相反。<br>(D) Despite：儘管，表示讓步，但此處沒有「雖然新鮮洋蔥卻……」的邏輯。<br>關鍵句意：不同於新鮮洋蔥，儲藏洋蔥的外皮厚且深色。",
+    25:"<b>解題關鍵：</b>後文說儲藏洋蔥適合需要 more flavor 的辛辣料理，表示它的味道比新鮮洋蔥更濃烈。<br>(A) anxious：焦慮的，形容人或心情，不能形容味道。<br>(B) intense：強烈的、濃郁的，intense flavor 符合。<br>(C) organic：有機的，文章沒有說種植方式。<br>(D) effective：有效的，通常形容方法或藥物。<br>關鍵句意：儲藏洋蔥味道濃烈，固形物比例也較高。",
+    26:"<b>解題關鍵：</b>下一句說塑膠加工可能讓有害化學物進入水中，所以塑膠瓶裝水可能「威脅健康」。空格和 health 合成形容詞。<br>(A) frightening：令人害怕的，health-frightening 不是自然搭配。<br>(B) threatening：造成威脅的，health-threatening 表示危害健康，符合。<br>(C) appealing：吸引人的，和有害物質相反。<br>(D) promoting：促進的，health-promoting 會是促進健康，也與下文相反。<br>關鍵句意：塑膠瓶使瓶裝水具有潛在健康威脅。",
+    27:"<b>解題關鍵：</b>主詞 The chemicals 後面由 can 帶出兩個並列動作：can be absorbed（可被吸收）and cause（並造成）不適。情態助動詞 can 後要用動詞原形。<br>(A) cause：原形，和 be absorbed 並列，結構正確。<br>(B) causing：V-ing 不能直接和 can be absorbed 並列。<br>(C) caused：過去式／過去分詞，前面沒有另一個助動詞。<br>(D) to cause：不定詞，此處 and 後不需要 to。<br>關鍵句意：化學物會被人體吸收並造成身體不適。",
+    28:"<b>解題關鍵：</b>前半句「消費者不容易取得儲存與運送資訊」是原因，後半句「瓶裝水未必更好」是結果，空格需放表示原因的連接詞。<br>(A) Although：雖然，表示讓步，邏輯會變成前後相反，但此處是因果。<br>(B) Despite：儘管，後面應接名詞或 V-ing，不能直接接完整子句。<br>(C) Since：因為，可接完整子句，符合。<br>(D) So：所以，若放句首會讓前半句變結果，因果方向顛倒。<br>關鍵句意：因為資訊不透明，瓶裝水未必比自來水好。",
+    29:"<b>解題關鍵：</b>these 指前面提過的兩類問題：塑膠化學物可能造成不適，以及存放不當會讓細菌繁殖；兩者都關係到飲水安全。<br>(A) display：展示，前文沒有談陳列問題。<br>(B) production：生產，只有部分內容提塑膠加工，不能概括全部。<br>(C) shipment：運送，只是資訊中的一小部分。<br>(D) safety：安全，these safety issues 能總括化學物與細菌風險，符合。<br>關鍵句意：除了這些安全問題，瓶裝水還有其他缺點。",
+    30:"<b>解題關鍵：</b>下一句說九成塑膠瓶沒有回收，長年躺在垃圾掩埋場，因此瓶裝水製造大量「固體廢棄物」。<br>(A) waste：廢棄物，solid waste 是固定搭配，符合未回收塑膠瓶。<br>(B) resource：資源，和垃圾掩埋場的負面描述相反。<br>(C) ground：地面、土地，solid ground 是堅固地面，並非本段意思。<br>(D) profit：利潤，文章談環境缺點，不是賺錢。<br>關鍵句意：瓶裝水也製造驚人的固體廢棄物。",
+    31:"<b>解題關鍵：</b>分號前說足球不只是運動，後文立刻說它「教導」年輕球員合作，所以把足球比喻成老師。空格前有 an invaluable，需要可數名詞單數。<br>(C) teacher：老師，能承接後面的 In teaching，符合。<br>(A) cooperation 是合作，但足球不是「一個合作」；(F) essential 是形容詞，不能接 an；(J) remember 是動詞。其他字也無法同時符合詞性與教導的意思。<br>關鍵句意：足球不只是運動，也是一位珍貴的老師。",
+    32:"<b>解題關鍵：</b>球員在什麼地方一起練習？空格前的 practice 可修飾地點名詞，形成 practice field「練習場」。<br>(I) field：場地、球場，practice field 符合足球情境。<br>(C) teacher 是人，不能說 practice teacher 來表示球員合作的地點；(A) cooperation 與 (J) teamwork 都是合作概念，不能接在 on the practice 後；(H) share 是份額。<br>關鍵句意：球員在練習場上學會與隊友合作。",
+    33:"<b>解題關鍵：</b>足球教會年輕人團隊合作，讓他們日後成為「更好的」公民與個人。空格放在 citizens 前，需要形容詞。<br>(G) better：更好的，能直接修飾 citizens and persons，符合成長改變。<br>(E) isolated 雖也是形容詞，但「孤立的公民」與合作主題相反；(F) essential 放入會變成必要的公民，語意不自然；其餘多為名詞或動詞。<br>關鍵句意：足球使他們成為更好的公民和個人。",
+    34:"<b>解題關鍵：</b>only through the ... of each member 表示「只有透過每位成員的……，球隊才能獲勝」，需要名詞，而且本段核心就是合作。<br>(A) cooperation：合作，through the cooperation of each member 結構與文意都正確。<br>(J) teamwork 也和合作有關，但後面接 of each member 時，強調每位成員的 cooperation 較自然；(H) share 通常用 do one’s share；(D) cooperate 是動詞，不能接在 the 後。<br>關鍵句意：只有每位成員合作，球隊才能獲勝。",
+    35:"<b>解題關鍵：</b>前一句說球員學到「合作才能獲勝」的教訓；後一句 Off the field, they continue to keep it in mind 又說離開球場也把它記在心裡。<br>(J) remember：記得，must remember the lesson 符合。<br>(D) behave 是表現、行為，不能說 behave a lesson；(G) better 是形容詞／副詞；(B) prosper 是繁榮。其他名詞也不能放在 must 後。<br>關鍵句意：這是球員在場上必須永遠記得的教訓。",
+    36:"<b>解題關鍵：</b>句中先說球員不把自己當 lone wolf「獨行的狼」，後面又說不能和社會分開、只走自己的路，因此需要 isolated from「與……隔離」。<br>(E) isolated：孤立的，remain isolated from society 搭配正確。<br>(F) essential 雖是形容詞，但 essential from 不成立；(G) better 不接 from；其餘是名詞或動詞，不能接在 remain 後表狀態。<br>關鍵句意：球員不認為自己有權與社會隔絕。",
+    37:"<b>解題關鍵：</b>他知道自己是社會的一員，因此必須「以社會成員的方式行事」。must 後要接動詞原形，空格後又有 himself。<br>(D) behave：行為、表現，behave oneself 表示行為合宜，符合。<br>(J) remember 後雖可接受詞，remember himself as such 不合此意；(B) prosper 不接受詞 himself；(A) cooperation 是名詞，不能放 must 後。<br>關鍵句意：既然是社會成員，他就必須有符合身分的行為。",
+    38:"<b>解題關鍵：</b>固定說法 do one’s share 表示「盡自己的一份力量、做好本分」。句中說每個人靠合作讓社會成為應有的樣子。<br>(H) share：一份、分擔的部分，do his share 搭配正確。<br>(A) cooperation 若放入會成 do his cooperation，不自然；(I) field 是場地；(F) essential 是形容詞。其他選項也無法和 do his 組成符合文意的搭配。<br>關鍵句意：他能盡自己的一份力量，讓社會變得更好。",
+    39:"<b>解題關鍵：</b>全文反覆說合作讓球隊獲勝，也幫助人在家庭、工作和社會中盡責，因此團隊合作在現代生活是「不可或缺的」。空格在 is 後，需要形容詞。<br>(F) essential：必要的、不可或缺的，符合文章主旨。<br>(E) isolated 會說團隊合作是孤立的，與合作本義矛盾；(G) better 是比較級，沒有比較對象；其他選項都是名詞或動詞。<br>關鍵句意：團隊合作在現代生活中不可或缺。",
+    40:"<b>解題關鍵：</b>if the nation is to ... 表示「如果國家要……」，to 後需接動詞。每位公民盡本分，國家才會發展得好。<br>(B) prosper：繁榮、蓬勃發展，符合國家發展的結果。<br>(D) behave 通常形容人如何行事，說國家 behave 不合此處；(J) remember 需要記得的內容；(A) cooperation 是名詞。其餘選項也不符合 to 後的動詞與國家發展語意。<br>關鍵句意：每位公民都必須盡責，國家才能繁榮。",
+    41:"<b>解題關鍵：</b>全文介紹紐西蘭 weta 的外形、夜行習性、棲地、壽命與遭老鼠捕食的保育問題，沒有商業或市場內容；題目問「最不可能」的來源。<br>(A) 科學雜誌：符合，文章有昆蟲特徵與演化資訊。<br>(B) 旅遊指南：仍可能提到紐西蘭特有生物，並非最不可能。<br>(C) 生物課本：符合生物習性與生態威脅。<br>(D) 商業期刊：全文未提公司、交易或經濟，最不符合。<br>因此答案選 D；注意 LEAST likely 要找最不可能，而不是最可能。",
+    42:"<b>解題關鍵：</b>第一段直接說 weta 在毛利語中意為「外貌醜陋之神」，又說多數人看到這種 bulky, slow-moving creatures 會感到噁心，證明牠外觀不討喜。<br>(A) 符合：unpleasant to the eye 就是看起來不舒服。<br>(B) 相反：文章說牠自恐龍時代便存在，不是新發現。<br>(C) 未提：是昆蟲被叫作 weta，不是毛利人自稱 Wetas。<br>(D) 相反：歐洲移民帶來的是 rats，不是 wetas。<br>因此答案選 A。",
+    43:"<b>解題關鍵：</b>第三段稱 wetas 為 endangered creatures，並說外來老鼠會捕食牠們，嚴重威脅原生 weta 的族群。<br>(A) 相反：文章說牠們 bulky、slow-moving，並不快速。<br>(B) 相反：第二段說牠們 nocturnal，只在天黑後出來。<br>(C) 符合：瀕危且遭捕食，可知數量正受到壓力、逐漸減少。<br>(D) 相反：文章說牠們對昆蟲而言 very long-lived，有些成蟲可活兩年。<br>因此準確描述是 C。",
+    44:"<b>解題關鍵：</b>先找代名詞前最近且能「出現」的單數事物。第三段說 rats 隨歐洲移民來到島上，許多原生物種不習慣 its presence，也就是不習慣「老鼠的存在」。<br>(A) the rat’s：符合，its 指前面造成威脅的老鼠。<br>(B) the weta’s：若指 weta，原生物種不習慣原生 weta 的存在不合因果。<br>(C) the island’s：島一直存在，不是新威脅。<br>(D) the dinosaur’s：恐龍只用來說明年代，並未來到島上。<br>因此答案選 A。",
+    45:"<b>解題關鍵：</b>第二段直接說 parents and educators 把 prom 視為 an important lesson in social skills，學校每年舉辦，讓學生學 proper social behavior。<br>(A) 未提：舞會不是畢業典禮的一部分。<br>(B) 誇大局部：豪華轎車只出現在後來的奢華舞會，不是其重要原因。<br>(C) 符合：舞會讓青少年學習社交技巧與合宜行為。<br>(D) 相反：traumatic 是部分學生的感受，並非大家分享創傷的正式活動。<br>因此答案選 C。",
+    46:"<b>解題關鍵：</b>第三段依時間對比舞會的改變：早期在學校體育館，穿著整齊但不奢華；1960 年代後，尤其 1980 年代起，出現名牌禮服、豪華轎車和昂貴餐廳。<br>(A) 只是一項要求，不是整段主旨。<br>(B) 文章談形式變化，不是比較心理壓力。<br>(C) 穿著只是華麗化的一個例子，範圍太小。<br>(D) 符合：主旨正是由 modest event 變成 glamorous party。<br>因此答案選 D。",
+    47:"<b>解題關鍵：</b>最後一段說傳統舞會會讓不善社交或找不到舞伴的學生感到痛苦，因此 1990 年代開始有為無家者或不要求成雙成對的 alternative proms。<br>(A) 未提：不是因為學生行為不佳。<br>(B) 未提：文章說舞會可能令人焦慮，不是「太嚴肅」。<br>(C) 相反：無舞伴正是部分學生需要另類舞會的原因。<br>(D) 最符合：有特殊需求的學生難以享受傳統舞會，促成替代形式。<br>因此答案選 D。",
+    48:"<b>解題關鍵：</b>先核對年代。文章說第一批高中舞會在 1920 年代舉行，到 1930 年代已遍及全美；另類舞會則是 1990 年代才出現。<br>(A) 相反：unconventional proms 自 1990 年代開始，不是 1960 年代。<br>(B) 未提：早期地點是 school gymnasium，不是教堂。<br>(C) 符合：1930 年代已全國普遍，能視為高中重要活動。<br>(D) 錯置年代：1890 年代 prom 一詞指晚間正式舞會，all-night extravaganza 是後來的發展。<br>因此答案選 C。",
+    49:"<b>解題關鍵：</b>第二段先說換屋不是新事物，再以 Intervac 自 1953 年運作、線上平台變多、HomeExchange 會員今年增加 30% 等證據，說明它越來越受歡迎。<br>(A) 範圍錯誤：實際交換流程在第三段。<br>(B) 符合：整段用歷史與會員成長說明普及。<br>(C) 只抓 HomeExchange 的一句細節，不是全段主旨。<br>(D) 未形成比較：文章沒有逐項對照兩家公司優缺點。<br>因此答案選 B。",
+    50:"<b>解題關鍵：</b>第二段說 HomeExchange bills itself as the world’s largest home exchange club。從 itself as 可看出公司在對外「把自己宣稱、宣傳為」最大換屋俱樂部。<br>(A) advertises：宣傳，意思最接近，符合。<br>(B) dedicates：奉獻，常用 dedicate oneself to。<br>(C) replaces：取代，文中沒有取代其他公司。<br>(D) participates：參加，文中不是說公司參與活動。<br>所以 bills 在此不是「帳單」，答案選 A。",
+    51:"<b>解題關鍵：</b>第三段直接寫 Initial contact is made via e-mail，接著才說 subsequent communication usually by phone；題目問 normally begin，也就是一開始如何聯絡。<br>(A) 電話：是後續通常使用，不是第一次。<br>(B) 電子郵件：符合 initial contact 的明確證據。<br>(C) 媒合者：文章沒提由真人媒合者開啟聯絡。<br>(D) 見面：交換前會討論很多，但沒有說先面談。<br>因此答案選 B。",
+    52:"<b>解題關鍵：</b>第五段建議交換者 ahead of time 先討論，並填寫 agreement，說清楚出問題時誰負責什麼。<br>(A) 未提：文章甚至說協議能否在法院成立並不重要。<br>(B) 無關：線上交易是換屋流行方式，不是處理失竊損壞的辦法。<br>(C) 符合：事前簽責任協議正是網站建議。<br>(D) 荒謬且相反：報復性破壞不能解決問題。<br>因此答案選 C。",
+    53:"<b>解題關鍵：</b>這是 NOT mentioned 題，要找文章沒有列出的因素。第二段列出高海拔的稀薄空氣、孩子日常為取水上學而長跑，以及比例特別長的雙腿。<br>(A) 知名教練：文章後面雖出現教練 Eshetu，但沒有把「知名教練」列為整體長跑優勢的原因，故為答案。<br>(B) 符合第二段 thin air。<br>(C) 符合 disproportionately long legs。<br>(D) 符合孩子日常跑長途。<br>因此選 A。",
+    54:"<b>解題關鍵：</b>第二段直接說 The town sits on the side of a volcano nearly 10,000 feet above sea level，Bekoji 位在接近一萬英尺高的火山側坡。<br>(A) 未提：文章沒有說它是首都，只說是小鎮。<br>(B) 相反：第一段說 time almost stands still，沒有說多年來改變很大。<br>(C) 符合：位於火山側坡，就是靠近火山。<br>(D) 未提：馬車多於汽車不等於難以處理車禍。<br>因此答案選 C。",
+    55:"<b>解題關鍵：</b>最後一段說所有孩子都有同一夢想：有一天成為另一位 Derartu Tulu；前一段交代她是兩屆奧運一萬公尺金牌得主。<br>(A) 錯把 Abate 的打工當共同目標；旅館工作只是支持訓練。<br>(B) 符合：成為奧運冠軍就是贏得國際賽事。<br>(C) 未提：Eshetu 是體育老師，不代表孩子都想當老師。<br>(D) 未提：文章談跑步夢想，不是學業表現。<br>因此答案選 B。",
+    56:"<b>解題關鍵：</b>這是推論題。文章沒有直接說未來一定出現更多冠軍，但最後一段說成功榜樣吸引周邊村莊數千名孩子搬來訓練，且大家都懷抱冠軍夢，因此能合理推測人才會繼續增加。<br>(A) 合理推論：大量孩子投入訓練，可能產生更多長跑好手。<br>(B) 未提：教練曾送鞋，不等於 Nike 將贊助。<br>(C) 未提：沒有主辦國際賽事的計畫。<br>(D) 誇大：政府獎勵冠軍，不代表「不遺餘力」推廣跑步。<br>因此答案選 A。"
   };
   const q=(no,cat,tags,textType,answer,stem,options,group)=>({no,cat,tags,lang:group?"題組":"單題",textType,answer,stem,options,...(group?{group}:{}),...(explanations[no]?{explain:explanations[no]}:{})});
   const football={A:"cooperation",B:"prosper",C:"teacher",D:"behave",E:"isolated",F:"essential",G:"better",H:"share",I:"field",J:"remember"};
@@ -5609,62 +5609,62 @@ window.BANK.push({
 });
 
 [
-  "描述生動到能在腦中形成畫面，vivid 表示「生動鮮明的」。",
-  "緊張時把雙臂交叉在胸前，fold one’s arms 是「交叉雙臂」。",
-  "靠近時門不需手動便自行打開，automatically 表示「自動地」。",
-  "短期內便精通中日文，顯示 Nicole 是才華出眾的 brilliant language learner。",
-  "油價上漲使騎車通勤的人日益增加，tendency 表示「趨勢、傾向」。",
-  "資訊來源可信，所以不必擔心受騙；reliable source 是「可靠來源」。",
-  "希望人們和平和諧相處，live in peace and harmony 是固定搭配。",
-  "委員為充分討論而交換彼此想法，exchange ideas 表示「交換意見」。",
-  "移民適應西方生活的同時仍努力保存自身文化傳統，preserve 表示「保存」。",
-  "經濟惡化時把現金留在銀行比投資股票更明智，sensible 表示「明智合理的」。",
-  "美國預期在新總統領導下展開新局，under the leadership of 表示「在……領導下」。",
-  "工程技術進步使飛行車在技術上可能實現，technically 表示「就技術而言」。",
-  "拍照時移動位置可從不同角度取景，angles 表示「角度」。",
-  "依老師評語修改或重寫作文，revise 表示「修訂」。",
-  "皺紋是抽菸導致的另一項後果，consequence 表示「結果、後果」。",
-  "Fry 用小紙片標記歌本頁面，mark pages 表示「標示頁面」。",
-  "一個想法突然出現在 Fry 腦中，an idea occurred to somebody 表示「某人想到一個點子」。",
-  "同事過去都認為黏膠是失敗品，主句 thought 為過去式，故用 was。",
-  "便利貼會在需要它留著的期間固定不動，as long as 表示「只要／長達……期間」。",
-  "便利貼可移除而不造成損壞，without damage 表示「沒有損傷」。",
-  "前句說鳳梨不是夏威夷原生，後句進一步指出直到 1813 年才出現，In fact 表示「事實上」。",
-  "鳳梨最初發現於巴拉圭與巴西南部，originally 表示「起初、原先」。",
-  "關係副詞 where 修飾 Caribbean region，表示 Columbus 在該地首次發現鳳梨。",
-  "鳳梨從歐洲向其他文明地區傳播，spread 的過去式仍為 spread。",
-  "壞血病常困擾長途航行的水手，bothered 表示「使困擾」。",
-  "把不同障礙類別集合起來是為了體育競賽，for 表示目的。",
-  "帕運強調運動成就而非身體障礙，instead of 表示「而不是」。",
-  "修飾 athletes 的是現在分詞 participating，表示「參加夏季帕運的選手」。",
-  "帕運自指定年份起也在奧運同一城市舉行，take place 表示「舉行」。",
-  "協議要讓未來持續同城舉辦的做法，practice 表示「慣例、做法」。",
-  "文章把大家熟悉的同一則龜兔賽跑故事延伸，same fable 符合語意。",
-  "兔子要求第二場比賽，賽事因此被安排，arranged 表示「安排」。",
-  "第二場兔子不休息而勝，寓意是快速且持續能勝過慢而穩，fast 最符合。",
-  "第三場由烏龜向兔子提出挑戰，challenge somebody to a race 表示「向某人挑戰比賽」。",
-  "寓意先辨識自己的優勢，再改變競賽場域，identify 表示「確認、辨識」。",
-  "兔子與烏龜都是參賽者，Both competitors 指「兩位競爭者」。",
-  "最後一場不分勝負，而是彼此合作成一隊；cooperate 表示「合作」。",
-  "烏龜載兔子游到河的對岸，opposite bank 表示「對岸」。",
-  "兩者最後一起抵達終點線，finishing line 是「終點線」。",
-  "最後一場互補長處共同抵達，最明顯寓意是團隊合作 teamwork。",
-  "公司移除電話電腦、改用信鴿與紙筆，環境安靜且節奏緩慢，最符合簡單慢步調生活，選 A。",
-  "信中說地址由 Why Bother Magazine 轉交，收信對象是 The International Institute of Not Doing Much，選 D。",
-  "Eleanor 請對方把信寄回，以便擦除重複使用，顯示公司實行紙張回收再利用，選 C。",
-  "Maggie 是負責送信的鴿子；文中又說鳥糞會替員工三溫暖外草坪施肥，因此選 B。",
-  "文章交代加拉巴哥環境壓力、觀光與航空成長，以及興建綠色機場的原因與特色，主旨是建設背景，選 B。",
-  "第一段明說機場在 Baltra 島重新開發，因此選 C。",
-  "加拉巴哥群島位於厄瓜多外海的太平洋，選 A。",
-  "第二段的 project 承接前段管理 Baltra 機場重建與所需經費，指興建綠色機場計畫，選 A。",
-  "研究核心是牛是否感知磁場並像指南針般朝南北排列，選 D。",
-  "研究需在不同地點與時段觀察，以排除風寒、日照因素，因此地點可能影響結果，選 C。",
-  "主要發現是牛通常沿南北方向排列，選 A。",
-  "衛星圖解析度不足以分辨牛的頭尾，無法判斷牠們面向北或南，選 D。",
-  "全文提供讓挑食兒童接受多樣食物的策略，如參與烹飪與父母示範，目的在告知家長做法，選 D。",
-  "研究發現親自烹調食物的孩子更願意吃那些食物，因此較可能攝取均衡多樣的餐點，選 A。",
-  "文中例子顯示父母不規律且錯誤的節食示範會扭曲孩子觀念，erratic 最接近 inappropriate，選 D。",
-  "孩子因母親飲用 Slim-Fast 而認為節食是喝巧克力奶昔，表示該飲品外觀看來像巧克力奶昔，選 B。"
+  "<b>解題關鍵：</b>so ... that 表示「如此……以至於……」。Steve 的描述讓人幾乎能在腦中看見那個地方，表示描述非常生動鮮明。<br>(A) bitter：苦的、痛苦的，不能讓畫面變清楚。<br>(B) vivid：生動的、鮮明的，符合能在腦中形成畫面的線索。<br>(C) sensitive：敏感的，通常形容人或感覺。<br>(D) courageous：勇敢的，和描述方式無關。<br>把答案放回去：Steve 的描述非常生動，我幾乎能想像那個地方。",
+  "<b>解題關鍵：</b>人緊張時，會把雙臂「交叉抱在胸前」，好像在保護自己。fold one’s arms 是常見動作搭配。<br>(A) toss：拋、扔，不能說把手臂扔在胸前。<br>(B) fold：摺疊、交叉，fold their arms 符合動作。<br>(C) veil：遮住，通常說用面紗遮住臉。<br>(D) yield：讓步、屈服，不能直接接 arms 表動作。<br>把答案放回去：人不安時可能把雙臂交叉抱胸。",
+  "<b>解題關鍵：</b>第二句說「你不必自己開門」，所以靠近時門會自行滑開，空格需要表示「自動地」的副詞。<br>(A) necessarily：必然地，並非說每次一定如此的推論。<br>(B) diligently：勤奮地，門不會勤奮做事。<br>(C) automatically：自動地，不需人動手，符合。<br>(D) intentionally：故意地，通常形容人有意做某事。<br>把答案放回去：你靠近時，百貨公司的門會自動滑開。",
+  "<b>解題關鍵：</b>Nicole 在很短時間內就能熟練使用中文和日文，表示她學語言的能力很出色。<br>(A) convenient：方便的，通常形容物品或方法。<br>(B) popular：受歡迎的，沒有別人喜歡她的線索。<br>(C) regular：固定的、一般的，無法說明進步特別快。<br>(D) brilliant：才華出眾的、非常聰明的，符合短期精通兩種語言。<br>把答案放回去：Nicole 是非常有天分的語言學習者。",
+  "<b>解題關鍵：</b>油價上升後，越來越多人騎腳踏車上班，這表示出現一種逐漸增加的「趨勢」。空格前有 an increasing，後面接名詞。<br>(A) permit：許可證，不能表示人們的行為走向。<br>(B) instrument：工具、儀器。<br>(C) appearance：外表、出現，an increasing appearance 搭配不自然。<br>(D) tendency：傾向、趨勢，a tendency for people to V 結構正確。<br>把答案放回去：騎腳踏車上班的趨勢正在增加。",
+  "<b>解題關鍵：</b>後半句說「不必擔心被騙」，可知資訊來源值得信任。a reliable source 是常見搭配。<br>(A) reliable：可靠的、可信的，符合。<br>(B) flexible：有彈性的，可形容時間或規則，不等於可信。<br>(C) clumsy：笨拙的，通常形容人的動作。<br>(D) brutal：殘酷的，和資訊真實性無關。<br>把答案放回去：資訊來自可靠來源，所以不用擔心受騙。",
+  "<b>解題關鍵：</b>句子希望世界沒有戰爭，所有人能彼此和平「和諧」相處。peace and harmony 是常見並列搭配。<br>(A) complaint：抱怨，與和平相處相反。<br>(B) harmony：和諧，live in peace and harmony 表示和平融洽生活，符合。<br>(C) mission：任務，不能表示人際狀態。<br>(D) texture：質地，通常形容食物或材料。<br>把答案放回去：希望所有人都能和平、和諧地彼此相處。",
+  "<b>解題關鍵：</b>為了充分討論議題，委員會花一小時把彼此的想法說出來並互相分享。空格是 V-ing，與 spent time V-ing 的結構一致。<br>(A) depositing：存放、存款，不會把意見存進會議。<br>(B) exchanging：交換，exchange ideas 是交換意見，符合。<br>(C) governing：統治、管理，不能接 ideas 表討論。<br>(D) interrupting：打斷，若一直打斷就難以充分討論。<br>把答案放回去：委員花一小時交換意見。",
+  "<b>解題關鍵：</b>While 表示「雖然／同時」。亞洲移民一方面適應西方生活，一方面仍努力讓自己的文化傳統繼續存在。<br>(A) volunteer：自願服務，不能直接說 volunteer cultures。<br>(B) scatter：使散開，反而會讓文化分散。<br>(C) preserve：保存、維護，符合保留文化傳統。<br>(D) motivate：激勵，受詞通常是人。<br>把答案放回去：移民仍努力保存自己的文化與傳統。",
+  "<b>解題關鍵：</b>經濟情況惡化時，現金放銀行比投資股市風險低；句中 wiser and more ... 需要另一個表示「明智合理」的形容詞。<br>(A) sensible：明智的、合理的，和 wiser 意思相近，符合。<br>(B) portable：可攜帶的，和理財判斷無關。<br>(C) explicit：明確的，不能說存錢比投資更明確。<br>(D) anxious：焦慮的，形容人，不形容作法。<br>把答案放回去：此時把現金存銀行是更明智的選擇。",
+  "<b>解題關鍵：</b>句型 under the ... of somebody 表示「在某人的……之下」。總統帶領國家，應填 leadership。<br>(A) adoption：採用、收養，不能表示總統治理。<br>(B) fragrance：香味，與政治經濟無關。<br>(C) identity：身分，under the identity of 不合此意。<br>(D) leadership：領導，under the leadership of 是「在……領導下」，符合。<br>把答案放回去：美國預期在 Obama 的領導下展開新局。",
+  "<b>解題關鍵：</b>motor engineering 是汽車工程；它快速進步，使飛行車「就技術而言」有可能被造出來。空格是副詞，修飾 possible。<br>(A) individually：個別地，和工程可行性無關。<br>(B) narrowly：勉強地、狹窄地，不是技術層面的說法。<br>(C) punctually：準時地，不能修飾可能性。<br>(D) technically：技術上，technically possible 符合。<br>把答案放回去：工程進步讓飛行車在技術上可能實現。",
+  "<b>解題關鍵：</b>拍照時在物體周圍移動，是為了從不同位置、不同「角度」拍攝。from different ... 需要複數名詞。<br>(A) moods：心情，物體沒有拍攝心情。<br>(B) trends：趨勢，和相機位置無關。<br>(C) angles：角度，shoot from different angles 是常見搭配。<br>(D) inputs：輸入資料，通常用於電腦或系統。<br>把答案放回去：你可以移動位置，從不同角度拍攝目標物。",
+  "<b>解題關鍵：</b>or 後是 rewrite their compositions「重寫作文」，所以 or 前也應是依老師意見「修改」作文。<br>(A) revise：修訂、修改，和 rewrite 並列合理。<br>(B) resign：辭職，不能把作文辭職。<br>(C) refresh：使恢復精神、重新整理，通常不表示依評語改作文內容。<br>(D) remind：提醒，受詞通常是人。<br>把答案放回去：學生要依老師評語修改或重寫作文。",
+  "<b>解題關鍵：</b>besides lung cancer 表示「除了肺癌外」，皺紋也是抽菸造成的負面結果。空格前有 another，後面接名詞。<br>(A) blessing：祝福、好事，和老化皺紋的負面語意相反。<br>(B) campaign：活動、運動，不是抽菸造成的結果。<br>(C) consequence：後果，consequence of smoking 搭配正確。<br>(D) breakthrough：突破，通常是正面進展。<br>把答案放回去：除了肺癌，皺紋也是抽菸的一項後果。",
+  "<b>解題關鍵：</b>第一句說 Fry 把小紙片放在詩歌本頁面上，目的是標出要唱的地方；後文說紙片總會掉到地上。空格需用過去式。<br>(A) marked：標記，marked his pages with small bits of paper 結構與文意都正確。<br>(B) tore：撕破，若撕頁面就不需紙片當書籤。<br>(C) served：服務，不說用紙片服務頁面。<br>(D) took：拿取，take pages 表示拿走頁面，不合。<br>關鍵句意：他用小紙片在歌本中做記號。",
+  "<b>解題關鍵：</b>後句說他想起同事發明的一種膠，所以前一句應是「一個點子突然出現在他腦中」。英文用 an idea occurred to someone。<br>(A) threw at：朝……丟，不合 idea 作主詞。<br>(B) occurred to：某人想到，搭配與語意正確。<br>(C) looked down upon：看不起，點子不會看不起人。<br>(D) came up with：想出，但主詞必須是人；應說 Fry came up with an idea，不能說 an idea came up with Fry。<br>關鍵句意：有一天，Fry 突然想到一個點子。",
+  "<b>解題關鍵：</b>主句 everyone thought 是過去式，大家當時認為那種膠「是」失敗品，所以 thought 後的內容也用過去式 was。<br>(A) is：現在式，和過去的 thought 時間不一致。<br>(B) was：過去式，符合當時大家的看法。<br>(C) will be：未來式，文章不是預測未來。<br>(D) has been：現在完成式，表示狀態延續到現在，和敘述過去事件不合。<br>關鍵句意：每個人當時都認為這種黏不牢的膠是失敗品。",
+  "<b>解題關鍵：</b>便利貼的特色是：在你希望它留著的期間，它就黏在原位；不需要時又能撕下。空格後是完整子句 you wanted it to。<br>(A) despite that：儘管如此，前後不是轉折。<br>(B) rather than：而不是，後面需接對比項目。<br>(C) as long as：只要／長達……期間，符合黏著時間。<br>(D) no matter what：無論什麼，後面結構與語意都不合。<br>關鍵句意：只要你想讓它留著，它便會固定在原位。",
+  "<b>解題關鍵：</b>便利貼能移除，而且紙張不會受損。空格後是名詞 damage，需要介系詞組表示「沒有損傷」。<br>(A) into：進入，remove it into damage 不成立。<br>(B) out of：從……之中，不能表示移除後的結果。<br>(C) within：在……之內，語意會變成在損傷內移除。<br>(D) without：沒有，without damage 是「不造成損傷」，符合。<br>關鍵句意：你可以撕下便利貼而不損壞紙張。",
+  "<b>解題關鍵：</b>前句說鳳梨不是夏威夷原生植物；下一句補充更具體的事實：直到 1813 年夏威夷才出現鳳梨。空格後有逗號，要用轉承語。<br>(A) For example：例如，但 1813 年不是前句的例子，而是進一步證明。<br>(B) In fact：事實上，用具體年代加強前句，符合。<br>(C) As a result：因此，兩句不是因果。<br>(D) Little by little：逐漸地，不能修飾「直到某年才出現」。<br>關鍵句意：事實上，鳳梨到 1813 年才出現在夏威夷。",
+  "<b>解題關鍵：</b>本段按時間追溯鳳梨來源：先在巴拉圭和巴西南部發現，後來才傳到美洲其他地區、歐洲和夏威夷。因此要填「最初」。<br>(A) nearly：幾乎，不能表示發現地點的先後。<br>(B) recently：最近，和歷史追溯不合。<br>(C) originally：原先、最初，符合起源。<br>(D) shortly：不久、很快，通常要有時間基準。<br>關鍵句意：鳳梨最初是在巴拉圭與巴西南部被發現。",
+  "<b>解題關鍵：</b>空格前是地方 the Caribbean region，後面是完整句 Christopher Columbus first found it，需用表示「在那裡」的關係副詞連接。<br>(A) that 與 (C) which 是關係代名詞，要在後句代替主詞或受詞；但後句主詞與受詞都完整。<br>(B) what 不能接在先行詞 region 後。<br>(D) where：在那裡，等於 in which，符合。<br>關鍵句意：原住民把鳳梨種到加勒比地區，哥倫布在那裡首次發現它。",
+  "<b>解題關鍵：</b>文章敘述哥倫布把鳳梨帶回歐洲後的歷史，所以空格要用過去式；spread 的原形、過去式與過去分詞拼法相同。<br>(A) spread：過去式，表示鳳梨傳播到其他文明地區，符合。<br>(B) to spread：不定詞，句中會缺主要動詞。<br>(C) should spread：應該傳播，變成建議。<br>(D) will spread：將會傳播，和已發生的歷史時態不合。<br>關鍵句意：鳳梨從歐洲傳播到其他地區。",
+  "<b>解題關鍵：</b>scurvy 是長途航海水手常遇到的疾病，鳳梨因能預防它而被帶上船。空格需要過去式動詞，表示疾病帶來麻煩。<br>(A) bothered：困擾，使水手受苦，符合。<br>(B) contacted：聯絡，疾病不會聯絡水手。<br>(C) suffered：遭受，通常是人 suffer from a disease；不能說 disease suffered sailors。<br>(D) wounded：使受傷，通常指外傷，不用於疾病困擾。<br>關鍵句意：壞血病常困擾長途航行的水手。",
+  "<b>解題關鍵：</b>putting together different disability groups 的目的是參加 sports competitions，因此需要表示用途或目的的介系詞。<br>(A) for：為了、供……使用，for sports competitions 符合。<br>(B) with：和……一起，會變成把團體和競賽放在一起。<br>(C) as：作為，團體不是競賽本身。<br>(D) on：在……上，搭配不自然。<br>關鍵句意：1976 年出現把不同障礙類別集合起來參加運動競賽的想法。",
+  "<b>解題關鍵：</b>帕運要強調選手的運動成就「而不是」身體障礙，前後是取捨對比。<br>(A) in terms of：就……而言，不能表達不把焦點放在障礙。<br>(B) instead of：而不是，符合成就與障礙的對比。<br>(C) at the risk of：冒著……風險，障礙不是強調成就的風險。<br>(D) at the cost of：以犧牲……為代價，文章沒有犧牲障礙的意思。<br>關鍵句意：帕運強調運動成就，而非身體障礙。",
+  "<b>解題關鍵：</b>主詞是 The number，空格所在的 participating in ... 用來補充說明哪些 athletes。athletes 和 participate 是主動關係，要用 V-ing。<br>(A) participate：原形不能直接放在名詞後作修飾。<br>(B) participated：過去式會變成另一個主要動詞。<br>(C) participating：參加的，等於 athletes who participated，符合。<br>(D) to participate：常表示尚未發生的目的，不是這裡的名詞修飾。<br>關鍵句意：參加夏季帕運的選手人數大幅增加。",
+  "<b>解題關鍵：</b>自 1988、1992 年起，帕運也「在與奧運相同的城市舉行」。Since 後的主句用現在完成式 have＋過去分詞。<br>(A) taken turns：輪流。<br>(B) taken place：發生、舉行，have taken place 結構與文意都正確。<br>(C) taken off：起飛、突然成功。<br>(D) taken over：接管。<br>其他片語都不能表示比賽在某城市舉辦。關鍵句意：此後帕運也在奧運主辦城市舉行。",
+  "<b>解題關鍵：</b>前句說雙方簽協議，目的是未來繼續讓奧運主辦城市也辦帕運；this 指這項已形成的「做法、慣例」。<br>(A) piece：一片、一件，不能指制度。<br>(B) deadline：截止期限，文章沒有日期限制。<br>(C) date：日期，也不是要維持的內容。<br>(D) practice：慣例、做法，keep this practice 表示延續這項做法，符合。<br>關鍵句意：協議確保未來延續兩項賽事同城舉辦的慣例。",
+  "<b>解題關鍵：</b>前面說大家熟悉龜兔賽跑的 popular version，but 後說這個故事能用不同轉折延伸；空格修飾 fable，表示仍是「同一則」寓言。<br>(I) same：相同的，the same fable 符合。<br>(H) opposite 是相反的，但文章不是另一則相反故事；(E) fast 形容速度，不形容寓言身分；(F) finishing 通常接 line。<br>關鍵句意：同一則寓言可以加入不同轉折來延伸。",
+  "<b>解題關鍵：</b>兔子提出要求後，第二場比賽「被安排」；句子是 a second race is ...，需要過去分詞形成被動語態。<br>(A) arranged：被安排，is arranged 結構正確。<br>(B) challenges 是動詞三單或名詞複數，不接在 is 後表被動；(D) cooperate 是原形；(J) teamwork 是名詞。<br>關鍵句意：在兔子的要求下，第二場比賽被安排了。",
+  "<b>解題關鍵：</b>第二次兔子不休息並獲勝，接著的寓意是「快速而且持續」會勝過緩慢而穩定。空格與 consistent 由 and 並列，需要形容詞。<br>(E) fast：快速的，fast and consistent 符合。<br>(G) identify 是動詞；(I) same 會變成相同且持續，文意不通；(H) opposite 是相反的，也不是速度特性。<br>關鍵句意：快速且持續的表現能勝過緩慢而穩定。",
+  "<b>解題關鍵：</b>第三次是烏龜主動邀兔子沿不同路線再賽一次。主詞 the tortoise 是單數，後面接受詞 the hare。<br>(B) challenges：向……挑戰，challenge someone to a race 符合，三單形式也正確。<br>(A) arranged 是過去分詞；(D) cooperate 不直接接受詞 the hare 表挑戰；(G) identify 是辨認，語意不合。<br>關鍵句意：接著由烏龜向兔子提出第三場比賽的挑戰。",
+  "<b>解題關鍵：</b>寓意說先找出自己的 strengths，之後再把比賽場地改成適合自己的形式。空格在祈使句句首，要用動詞原形。<br>(G) identify：辨認、找出，identify your strengths 符合。<br>(D) cooperate 是合作，但後面不能接 your strengths；(J) teamwork 是名詞；(B) challenges 形式與語意都不合。<br>關鍵句意：先辨認自己的優勢，再改變場地來發揮它。",
+  "<b>解題關鍵：</b>Both 後需要複數名詞，指兔子和烏龜都清楚自己的缺點與限制；兩者都是比賽中的參賽者。<br>(C) competitors：競爭者、參賽者，Both competitors 符合。<br>(A) arranged 是形容／分詞；(J) teamwork 是不可數名詞；(H) opposite 常作形容詞，均不能自然指兩隻動物。<br>關鍵句意：兩位參賽者都很了解自己的缺點與限制。",
+  "<b>解題關鍵：</b>最後一場不是決定輸贏，而是兩者 as a team 一起完成；空格需要複數主詞 the two 的動詞原形。<br>(D) cooperate：合作，和 as a team 直接相呼應。<br>(B) challenges 形式不合，且不是彼此競爭；(G) identify 後需要辨認的對象；(A) arranged 不是此句需要的現在式。<br>關鍵句意：兩者組成一隊彼此合作。",
+  "<b>解題關鍵：</b>烏龜載兔子游過河，抵達的是河的「另一岸、對岸」。空格修飾 bank；bank 在此是河岸，不是銀行。<br>(H) opposite：對面的，opposite bank 表示對岸，符合。<br>(I) same 會變成同一岸，表示沒有過河；(F) finishing 通常搭配 line；(E) fast 不能自然形容河岸。<br>關鍵句意：烏龜載著兔子游到河的對岸。",
+  "<b>解題關鍵：</b>最後兔子再背起烏龜，兩者一起到達比賽終點。空格修飾 line，需要組成固定說法。<br>(F) finishing：終點的，finishing line 就是「終點線」。<br>(H) opposite line 不是比賽用語；(E) fast line 不成立；(A) arranged line 也不合。<br>關鍵句意：牠們一起抵達終點線，這次沒有誰輸誰贏。",
+  "<b>解題關鍵：</b>最後一場中，兔子在陸地背烏龜，烏龜在水中載兔子，彼此用長處補足對方；文章說最明顯的寓意就是這種合作。<br>(J) teamwork：團隊合作，the importance of teamwork 符合。<br>(A) cooperation 意思接近，但已用於其他空格且選填每字用一次；本段特別說 as a team，最直接對應 teamwork。<br>其餘選項不是合作概念。關鍵句意：最後一場最重要的教訓是團隊合作。",
+  "<b>解題關鍵：</b>整封信以幽默方式描述公司移除電話和電腦，改用信鴿、鉛筆、紙飛機，辦公室變得 calm and quiet。<br>(A) 符合：生活簡單、安靜而慢步調。<br>(B) 未提：雖談節省成本，沒有強調辛苦工作或工作保障。<br>(C) 誇大：有紙筆、鳥與草坪，不代表是宗教或農民生活。<br>(D) 相反：公司全面使用 paper technology 與 pencils。<br>因此答案選 A。",
+  "<b>解題關鍵：</b>信開頭寫 Your address was forwarded to us by Why Bother Magazine，接著稱讚 The International Institute of Not Doing Much；所以雜誌只是轉交地址，真正收信者是該協會。<br>(A) 是轉交資訊的雜誌，不是收信單位。<br>(B) 是寄件公司。<br>(C) 是買走電腦的律師事務所。<br>(D) 符合收信對象。<br>因此 Eleanor 的信寄給 The International Institute of Not Doing Much，選 D。",
+  "<b>解題關鍵：</b>信末請對方把信寄回，因為公司可以 erase and reuse it，也就是擦掉內容後再次使用紙張。<br>(A) 相反：公司賣掉電腦、改採手工作業，不是用科技取代人工。<br>(B) 未提：只說電費降低，沒說白天關燈。<br>(C) 符合：把紙寄回並重複使用就是回收紙張資源。<br>(D) 誇大：信鴿是通訊工具，不只是陪伴員工的寵物。<br>因此答案選 C。",
+  "<b>解題關鍵：</b>最後說把回信綁在 Maggie’s leg，她會知道送去哪裡，可知 Maggie 是信鴿。前面又說這些鳥的排泄物會 fertilize the lawn outside the employee sauna。<br>(A) 相反：她是鳥，不是公司經理。<br>(B) 符合：她有時會替三溫暖外的草坪施肥。<br>(C) 相反：公司沒有電子郵件，鳥負責送實體信。<br>(D) 相反：談到字跡的是 Eleanor。<br>因此答案選 B。",
+  "<b>解題關鍵：</b>全文先交代加拉巴哥觀光與航班成長造成環境壓力，再介紹 Baltra 機場將使用風力、太陽能等綠色設計，說明為何要興建這座機場。<br>(A) Darwin 理論只在開頭作背景，非主旨。<br>(B) 符合：文章核心是綠色機場的建設背景與原因。<br>(C) 沒有完整介紹群島歷史。<br>(D) 相反：文章重點是交通成長造成的環境負擔，不是交通便利。<br>因此答案選 B。",
+  "<b>解題關鍵：</b>第一段直接說 redevelopment of the airport on the island of Baltra，接著稱這項開發為世界第一座綠色機場。<br>(A) Tahiti 只在後文列為依賴觀光的太平洋島嶼。<br>(B) Argentina 是承包公司 Corporación America 所在國，不是機場地點。<br>(C) Baltra 是明確建設地點，符合。<br>(D) 美國全文未被列為地點。<br>因此世界第一座綠色機場將建在 Baltra，選 C。",
+  "<b>解題關鍵：</b>第一段稱群島為 Pacific island paradise，並說 this group of islands off the coast of Ecuador，表示位於厄瓜多外海的太平洋。<br>(A) 符合兩個直接定位線索。<br>(B) 錯置數字：2001–2006 增加 193% 的是商業航班，不是人口。<br>(C) 錯置金額：兩千萬美元用來完成機場計畫，不是推廣觀光。<br>(D) 誇大：群島被列環境危險名單，不等於成為世界最危險地點。<br>因此答案選 A。",
+  "<b>解題關鍵：</b>第二句先說公司受聘管理 Baltra 機場 redevelopment，下一句說完成 the project 需要兩千萬美元；代名詞要承接前面的機場重建計畫。<br>(A) 符合：the plan to build a green airport 正是前文計畫。<br>(B) 太窄：太陽能只是機場的一項特色。<br>(C) 太窄：碳足跡只是比較跑道材料時提到。<br>(D) 未提：文章談資源耗損，不是某項研究。<br>因此 project 指綠色機場建設，選 A。",
+  "<b>解題關鍵：</b>文章從動物可能辨別方向談起，介紹 Begall 團隊用 Google Earth 研究牛是否感受磁場、沿南北方向排列，核心問題是牛會不會像指南針。<br>(A) Google Earth 是研究工具，不是全文主角。<br>(B) 未比較牛與其他動物誰較優秀。<br>(C) 地震與降雨只是開頭的民間說法。<br>(D) 符合：全文圍繞牛是否像 compass needles 排列。<br>因此答案選 D。",
+  "<b>解題關鍵：</b>研究者必須觀察 lots of different places at different times，因為各地風向、寒冷程度與陽光可能讓牛改變朝向；因此地點會影響結果。<br>(A) Rainfall 只在開頭民間說法出現，非研究控制因素。<br>(B) Earthquakes 談的是狗的傳說。<br>(C) Location 符合 different places 的明確線索。<br>(D) Cost 全文未提，不能由使用衛星圖推測。<br>因此答案選 C。",
+  "<b>解題關鍵：</b>倒數第二句前直接寫 researchers concluded that cattle do generally orient themselves in a north-south direction，這就是研究主要發現。<br>(A) 符合：牛通常沿南北方向排列。<br>(B) 相反：研究確實用科學方式探討磁場。<br>(C) 誇大且未證實：研究者無法分辨頭尾，所以不知道牛偏看南或北。<br>(D) Google Earth 的解析度有侷限，文章也沒把可靠工具當主要發現。<br>因此答案選 A。",
+  "<b>解題關鍵：</b>最後說即使 Google Earth 解析度很高，仍無法分辨哪端是牛頭、哪端是牛尾，所以研究者只能知道牛沿南北軸排列，不能知道牠面向北或南。<br>(A) 未提：坐著不是辨向失敗原因。<br>(B) 風寒是需排除的因素，不是最後無法回答的原因。<br>(C) 南北半球差異正是尚待回答的問題，不是已知原因。<br>(D) 符合衛星圖頭尾難辨的直接證據。<br>因此答案選 D。",
+  "<b>解題關鍵：</b>全文提出兩個給家長的策略：讓孩子參與備餐，並避免在孩子面前做不當節食示範；目的在幫助挑食孩子接受更多樣的食物。<br>(A) 飲食失調只在最後作風險提醒，不是全文主題。<br>(B) 備餐是手段之一，文章不是教孩子做菜步驟。<br>(C) 蔬菜和全穀物是研究例子，範圍太窄。<br>(D) 符合：告訴父母如何幫孩子喜歡多樣食物。<br>因此答案選 D。",
+  "<b>解題關鍵：</b>第二段研究近六百名兒童，發現 cooked their own foods 的孩子，比沒有參與烹調者更可能在餐廳吃那些食物；願意嘗試更多食物，飲食較可能均衡。<br>(A) 符合研究結果，可合理推論參與做菜者吃得更均衡。<br>(B) 父母節食若示範不當，可能造成錯誤觀念。<br>(C) 不愛蘿蔔本身不能代表均衡。<br>(D) 未提父母在餐廳工作。<br>因此答案選 A。",
+  "<b>解題關鍵：</b>最後一段舉例：孩子把節食理解成喝巧克力奶昔，或做好食物卻不吃；這些做法不規律、不健康，可能讓孩子有飲食失調風險。因此 erratic 含有不當、沒有一致原則的意思。<br>(A) obvious：明顯的，沒有負面「不當」意思。<br>(B) healthful：健康的，和風險相反。<br>(C) dishonest：不誠實的，文章沒談欺騙。<br>(D) inappropriate：不適當的，最接近。<br>因此答案選 D。",
+  "<b>解題關鍵：</b>最後一段一位五歲孩子說，因為母親使用 Slim-Fast drinks，她以為 dieting 就是 drinking chocolate milkshakes。這表示孩子把 Slim-Fast 看成巧克力奶昔般的飲品。<br>(A) 未提：不是說它是孩子最愛食物。<br>(B) 符合：外觀或形式讓孩子聯想到巧克力奶昔。<br>(C) 未提：文章沒說它含多種蔬菜。<br>(D) 錯解名稱：產品名不代表給苗條又快速的人。<br>因此答案選 B。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -5716,337 +5716,337 @@ window.BANK.push({
       "no": 1, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "Amy did not _____ changes in the course schedule and therefore missed the class.",
       "options": {"A": "arrest", "B": "alarm", "C": "notice", "D": "delay"},
-      "explain": "Amy 沒有 notice「注意到」課程異動，因而錯過上課。"
+      "explain": "<b>解題關鍵：</b>後半句 therefore missed the class 表示「所以錯過上課」，原因是 Amy 沒有發現課表有變動。<br>(A) arrest：逮捕；受詞通常是人，不能逮捕課程異動。<br>(B) alarm：使驚慌；若填入會變成 Amy 沒有讓變動驚慌，語意不通。<br>(C) notice：注意到；notice changes 正好是「注意到變動」。<br>(D) delay：延遲；Amy 不是延後變動，且不能解釋她為何缺課。<br>把答案放回去：Amy 沒注意到課表異動，所以錯過了那堂課。"
     },
     {
       "no": 2, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "It is not easy for old people to _____ their backs, so they need help when their backs itch.",
       "options": {"A": "label", "B": "scratch", "C": "lighten", "D": "squeeze"},
-      "explain": "背部發癢時需要 scratch「搔抓」。"
+      "explain": "<b>解題關鍵：</b>句中說老人的 backs itch「背部發癢」，因此需要別人幫忙做能止癢的動作，也就是搔抓背部。<br>(A) label：貼標籤；和皮膚發癢無關。<br>(B) scratch：搔、抓；scratch one’s back 是「抓背」。<br>(C) lighten：使變亮、減輕；不能直接表示抓癢。<br>(D) squeeze：擠壓；不是處理背部發癢的自然動作。<br>把答案放回去：老人不容易抓到自己的背，所以背癢時需要幫忙。"
     },
     {
       "no": 3, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Mary is suffering from a stomachache and needs to eat food which is easy to _____.",
       "options": {"A": "launch", "B": "invade", "C": "adopt", "D": "digest"},
-      "explain": "胃痛時應吃容易 digest「消化」的食物。"
+      "explain": "<b>解題關鍵：</b>Mary 正在 stomachache「胃痛」，所以要吃對胃負擔小、容易被身體處理的食物。<br>(A) launch：發射、推出；不能形容食物在胃中的處理。<br>(B) invade：侵入；通常指軍隊、疾病進入。<br>(C) adopt：採用、收養；人可以採用方法，但不能「採用食物」。<br>(D) digest：消化；food easy to digest 是「容易消化的食物」。<br>把答案放回去：Mary 胃痛，需要吃容易消化的食物。"
     },
     {
       "no": 4, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Since our classroom is not air-conditioned, we have to _____ the heat during the hot summer days.",
       "options": {"A": "consume", "B": "tolerate", "C": "recover", "D": "promote"},
-      "explain": "教室沒冷氣，只能 tolerate「忍受」暑熱。"
+      "explain": "<b>解題關鍵：</b>教室沒有冷氣，炎熱夏日仍得待在裡面，因此學生只能「忍受」高溫。<br>(A) consume：消耗、吃下；人不能消耗熱氣來度過夏天。<br>(B) tolerate：容忍、忍受；tolerate the heat 是自然搭配。<br>(C) recover：恢復；通常用 recover from，不直接接 the heat。<br>(D) promote：推廣、促進；推廣炎熱不合情境。<br>把答案放回去：因教室沒有冷氣，我們只好忍受夏天的高溫。"
     },
     {
       "no": 5, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "Sue is so _____ that she always breaks something when she is shopping at a store.",
       "options": {"A": "religious", "B": "visual", "C": "clumsy", "D": "intimate"},
-      "explain": "購物時總打破東西，表示 Sue 很 clumsy「笨手笨腳」。"
+      "explain": "<b>解題關鍵：</b>Sue 逛商店時 always breaks something「總會打破東西」，可看出她動作不靈巧、容易碰撞物品。<br>(A) religious：虔誠的、宗教的；和打破東西無關。<br>(B) visual：視覺的；不描述人的手腳協調。<br>(C) clumsy：笨手笨腳的；完全符合常弄壞物品的結果。<br>(D) intimate：親密的；描述關係，不描述動作。<br>把答案放回去：Sue 很笨手笨腳，所以購物時常打破東西。"
     },
     {
       "no": 6, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Ann enjoyed going to the flower market. She believed that the _____ of flowers refreshed her mind.",
       "options": {"A": "instance", "B": "dominance", "C": "appliance", "D": "fragrance"},
-      "explain": "花的 fragrance「香氣」讓她精神清新。"
+      "explain": "<b>解題關鍵：</b>Ann 喜歡逛花市，並相信花的某種特質 refreshed her mind「使她精神清新」；四項中只有香氣符合花市感官經驗。<br>(A) instance：例子；不能說花的例子使人清新。<br>(B) dominance：支配、優勢；與花無關。<br>(C) appliance：家電、器具；不是花的特質。<br>(D) fragrance：芳香、香氣；the fragrance of flowers 是自然搭配。<br>把答案放回去：她相信花香能使心情與精神煥然一新。"
     },
     {
       "no": 7, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "The profits of Prince Charles’s organic farm go to _____ to help the poor and the sick.",
       "options": {"A": "charities", "B": "bulletins", "C": "harvests", "D": "rebels"},
-      "explain": "農場利潤捐給 charities「慈善機構」幫助窮人與病患。"
+      "explain": "<b>解題關鍵：</b>農場的利潤要用來 help the poor and the sick「幫助窮人與病患」，最合理的捐贈對象是慈善機構。<br>(A) charities：慈善機構；接受捐款並協助有需要的人。<br>(B) bulletins：公告、簡報；不能接收利潤去助人。<br>(C) harvests：收成；是農場產品，不是受贈單位。<br>(D) rebels：反叛者；題目沒有政治衝突線索。<br>把答案放回去：這座有機農場把利潤捐給慈善機構，幫助窮人與病患。"
     },
     {
       "no": 8, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Jack was given the rare _____ of using the president’s office, which made others quite jealous.",
       "options": {"A": "mischief", "B": "privilege", "C": "involvement", "D": "occupation"},
-      "explain": "使用總裁辦公室是難得的 privilege「特權」。"
+      "explain": "<b>解題關鍵：</b>Jack 獲准使用 president’s office，而且這件事 rare「難得」並讓別人嫉妒，可知是一項一般人沒有的特殊權利。<br>(A) mischief：惡作劇；不是被授予的好處。<br>(B) privilege：特權；the privilege of using... 是固定用法。<br>(C) involvement：參與；使用辦公室不等於參與某事。<br>(D) occupation：職業、占用；不能解釋他人嫉妒。<br>把答案放回去：Jack 得到使用總裁辦公室的難得特權。"
     },
     {
       "no": 9, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "This new computer is obviously _____ to the old one because it has many new functions.",
       "options": {"A": "technical", "B": "suitable", "C": "superior", "D": "typical"},
-      "explain": "新功能更多，表示新電腦 superior to 舊電腦。"
+      "explain": "<b>解題關鍵：</b>because 後說新電腦有 many new functions「許多新功能」，所以前面應表示它比舊電腦更好。<br>(A) technical：技術性的；不能和 to 表示「優於」。<br>(B) suitable：合適的；通常說 suitable for，不說 suitable to the old one。<br>(C) superior：較優秀的；be superior to 是「優於……」的固定搭配。<br>(D) typical：典型的；沒有比較好壞。<br>把答案放回去：因新功能更多，這台新電腦明顯優於舊電腦。"
     },
     {
       "no": 10, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "Simon loves his work. To him, work always comes first, and family and friends are _____.",
       "options": {"A": "secondary", "B": "temporary", "C": "sociable", "D": "capable"},
-      "explain": "工作第一，家人朋友便是 secondary「次要的」。"
+      "explain": "<b>解題關鍵：</b>題目明說 work always comes first「工作永遠第一」，and 後面要補出相對順位：家人和朋友居次。<br>(A) secondary：次要的、第二順位的；和 comes first 形成清楚對比。<br>(B) temporary：暫時的；不是在比較重要性。<br>(C) sociable：善交際的；通常形容人。<br>(D) capable：有能力的；也用來形容人，不能表示順位。<br>把答案放回去：對 Simon 而言工作最重要，親友則居次。"
     },
     {
       "no": 11, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Although your plans look good, you have to be _____ and consider what you can actually do.",
       "options": {"A": "dramatic", "B": "realistic", "C": "stressful", "D": "manageable"},
-      "explain": "應考量實際能做到什麼，故要 realistic「務實」。"
+      "explain": "<b>解題關鍵：</b>Although 表示計畫看起來雖好，仍要 consider what you can actually do「考慮實際做得到什麼」，所以態度應務實。<br>(A) dramatic：戲劇性的；不能幫助判斷可行性。<br>(B) realistic：務實的、符合現實的；正好呼應 actually do。<br>(C) stressful：有壓力的；是感受，不是規劃態度。<br>(D) manageable：可處理的；通常形容工作或計畫，不自然地說人要 manageable。<br>把答案放回去：計畫雖好，仍須務實評估自己真正能做的事。"
     },
     {
       "no": 12, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "Built under the sea in 1994, the _____ between England and France connects the UK more closely with mainland Europe.",
       "options": {"A": "waterfall", "B": "temple", "C": "tunnel", "D": "channel"},
-      "explain": "英法之間建於海底的是 tunnel「隧道」。"
+      "explain": "<b>解題關鍵：</b>這個建設 built under the sea「建在海底」，並 connects England and France「連接英法」，指的就是穿越海底的隧道。<br>(A) waterfall：瀑布；不是人工連接兩國的建設。<br>(B) temple：寺廟；用途不是交通。<br>(C) tunnel：隧道；海底隧道能讓兩地相連。<br>(D) channel：海峽、水道；英吉利海峽本來就存在，不是 1994 年在海底興建。<br>把答案放回去：1994 年建成的海底隧道使英國與歐洲大陸連結更緊密。"
     },
     {
       "no": 13, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "This tour package is very appealing, and that one looks _____ attractive. I don’t know which one to choose.",
       "options": {"A": "equally", "B": "annually", "C": "merely", "D": "gratefully"},
-      "explain": "兩個行程同樣吸引人，選 equally。"
+      "explain": "<b>解題關鍵：</b>說話者不知道兩個套裝行程該選哪一個，表示第二個和第一個一樣吸引人；空格修飾 attractive，需要副詞。<br>(A) equally：同樣地；equally attractive 表示「同樣有吸引力」。<br>(B) annually：每年地；不是比較吸引程度。<br>(C) merely：僅僅；會變成「只是吸引人」，不能解釋難以選擇。<br>(D) gratefully：感激地；不能修飾行程的吸引力。<br>把答案放回去：兩個行程同樣吸引人，使我難以決定。"
     },
     {
       "no": 14, "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "Hseu Fang-yi, a young Taiwanese dancer, recently _____ at Lincoln Center in New York and won a great deal of praise.",
       "options": {"A": "performed", "B": "pretended", "C": "postponed", "D": "persuaded"},
-      "explain": "舞者在林肯中心 performed「演出」並獲讚賞。"
+      "explain": "<b>解題關鍵：</b>Hseu Fang-yi 是 dancer，地點是 Lincoln Center，結果獲得許多讚賞；因此她是在那裡演出。<br>(A) performed：演出；舞者在表演場館演出，語意完整。<br>(B) pretended：假裝；通常接 to V，且不會因此獲讚賞。<br>(C) postponed：延後；後面需接被延後的事情。<br>(D) persuaded：說服；需接被說服的人。<br>把答案放回去：台灣舞者許芳宜最近在紐約林肯中心演出並大獲好評。"
     },
     {
       "no": 15, "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "The police searched the house of the suspect _____. They almost turned the whole house upside down.",
       "options": {"A": "relatively", "B": "thoroughly", "C": "casually", "D": "permanently"},
-      "explain": "幾乎翻遍全屋，表示搜查得 thoroughly「徹底」。"
+      "explain": "<b>解題關鍵：</b>下一句說警察 almost turned the whole house upside down「幾乎把整間屋子翻過來」，表示搜查非常完整仔細。<br>(A) relatively：相對地；沒有搜查程度完整的意思。<br>(B) thoroughly：徹底地；thoroughly searched 完全呼應翻遍全屋。<br>(C) casually：隨意地；和大規模翻找相反。<br>(D) permanently：永久地；搜查是一次行動，不是永久狀態。<br>把答案放回去：警察徹底搜查嫌疑人的屋子，幾乎翻遍每個角落。"
     },
     {
       "no": 16, "cat": "C2", "tags": ["時態語意"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 16.",
       "options": {"A": "would use", "B": "are using", "C": "had used", "D": "have been using"},
-      "explain": "for at least 4,000 years 延續至今，應用 have been using。"
+      "explain": "<b>解題關鍵：</b>for at least 4,000 years 表示從四千年前開始，一直延續到現在；主詞 The Chinese and Indians 是複數，動作用現在完成進行式 have been using。<br>(A) would use：常表示過去習慣或假設，沒有持續到現在。<br>(B) are using：只表示現在正在使用，無法涵蓋四千年。<br>(C) had used：過去完成式要有另一個過去時間作比較。<br>(D) have been using：從過去持續至今，正確。<br>把答案放回去：中國人與印度人使用綠茶治病至少已有四千年。",
     },
     {
       "no": 17, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G1",
       "stem": "Choose the best answer for blank 17.",
       "options": {"A": "looks after", "B": "slows down", "C": "takes over", "D": "turns out"},
-      "explain": "綠茶化合物 slows down「減緩」癌細胞生長。"
+      "explain": "<b>解題關鍵：</b>本段在介紹綠茶的健康益處；研究結論應是綠茶中的化合物能「減緩」癌細胞生長。主詞 a compound 是單數，所以動詞用 -s。<br>(A) looks after：照顧；化合物不能照顧癌細胞。<br>(B) slows down：減慢；slow down the growth 是自然搭配。<br>(C) takes over：接管；會變成化合物接管生長，語意不通。<br>(D) turns out：結果是；後面不能直接接受詞 the growth。<br>把答案放回去：綠茶中的化合物能減緩癌細胞生長。",
     },
     {
       "no": 18, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G1",
       "stem": "Choose the best answer for blank 18.",
       "options": {"A": "for", "B": "from", "C": "at", "D": "inside"},
-      "explain": "be helpful for 表示「對……有幫助」。"
+      "explain": "<b>解題關鍵：</b>空格位在 helpful 和 infection 之間，要選能形成固定搭配的介系詞。be helpful for＋名詞表示「對……有幫助」。<br>(A) for：形成 helpful for infection and damaged immune function，表示對感染及免疫功能受損有幫助。<br>(B) from：通常是 recover from「從……恢復」，不和 helpful 搭配。<br>(C) at：常說 good at，不說 helpful at infection。<br>(D) inside：在……裡面，句意不合。<br>把答案放回去：綠茶也有助於對付感染與受損的免疫功能。",
     },
     {
       "no": 19, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G1",
       "stem": "Choose the best answer for blank 19.",
       "options": {"A": "weight", "B": "purpose", "C": "difference", "D": "structure"},
-      "explain": "綠茶與紅茶的 difference「差別」在加工方式。"
+      "explain": "<b>解題關鍵：</b>前句說綠茶和紅茶來自同一種植物，下一句卻開始比較兩者不同的加工方法，所以空格要填「差別」。<br>(A) weight：重量；後文沒有比較茶葉輕重。<br>(B) purpose：目的；兩種茶的用途不是本段重點。<br>(C) difference：差異；Their difference is in the processing 表示差別在加工。<br>(D) structure：結構；後文談乾燥與發酵，不是植物構造。<br>把答案放回去：綠茶與紅茶雖來自同一植物，差別在加工方式。",
     },
     {
       "no": 20, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 20.",
       "options": {"A": "whether", "B": "whenever", "C": "what", "D": "why"},
-      "explain": "That is why... 表示上述原因解釋綠茶有益健康。"
+      "explain": "<b>解題關鍵：</b>前文說較短的加工能保留有益化學物質，下一句 That is ______ green tea is so good for health 要表示「那就是綠茶有益健康的原因」。<br>(A) whether：是否；不能表示原因。<br>(B) whenever：每當；沒有時間重複線索。<br>(C) what：什麼；That is what... 會變成「那就是什麼」，不完整。<br>(D) why：為什麼、……的原因；That is why 是固定句型。<br>把答案放回去：能保留有益物質，這就是綠茶有益健康的原因。",
     },
     {
       "no": 21, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 21.",
       "options": {"A": "give", "B": "bring", "C": "share", "D": "earn"},
-      "explain": "share her food with the traveler 表示與旅人分享食物。"
+      "explain": "<b>解題關鍵：</b>旅人 hungry，婦人 generously opened her bag，表示她慷慨地拿食物給旅人一起吃。固定搭配是 share A with B「與 B 分享 A」。<br>(A) give：給；若用 give 應說 give her food to the traveler。<br>(B) bring：帶來；bring food with the traveler 不合搭配。<br>(C) share：分享；share her food with the traveler 完整正確。<br>(D) earn：賺得；不能賺食物給旅人。<br>把答案放回去：智慧婦人打開袋子，和飢餓旅人分享食物。",
     },
     {
       "no": 22, "cat": "C2", "tags": ["篇章指涉"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G2",
       "stem": "Choose the best answer for blank 22.",
       "options": {"A": "so", "B": "such", "C": "as", "D": "thus"},
-      "explain": "did so 以 so 代替前述把寶石給他。"
+      "explain": "<b>解題關鍵：</b>旅人要求婦人 give the stone to him，下一句 The woman did ______ without hesitation 要避免重複整個動作；did so 表示「照著做了」。<br>(A) so：代替前述「把寶石給他」的動作，結構正確。<br>(B) such：通常放在名詞前，如 such a stone。<br>(C) as：常表示「如同」，不能單獨作 did 的受詞補語。<br>(D) thus：因此，是連接副詞；did thus 不自然。<br>把答案放回去：旅人開口索取寶石，婦人毫不猶豫地照做。",
     },
     {
       "no": 23, "cat": "C2", "tags": ["時態語意"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 23.",
       "options": {"A": "had", "B": "had had", "C": "would have", "D": "would have had"},
-      "explain": "在過去想像賣掉寶石後將會有錢，選 would have。"
+      "explain": "<b>解題關鍵：</b>旅人當時想像未來：If he sold the stone「如果把寶石賣掉」，他之後就會有足夠的錢。這是從過去時間點看未來，使用 would＋原形。<br>(A) had：只有過去式，變成他當時已經有錢，與 if 的想像不合。<br>(B) had had：過去完成，表示更早已擁有。<br>(C) would have：將會擁有，符合他的想法。<br>(D) would have had：表示原本會已經擁有，常用於與過去事實相反的假設。<br>把答案放回去：他想，若賣掉寶石，餘生就會有足夠的錢。",
     },
     {
       "no": 24, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G2",
       "stem": "Choose the best answer for blank 24.",
       "options": {"A": "hope", "B": "hoping", "C": "hoped", "D": "to hope"},
-      "explain": "hoping... 作伴隨狀況，說明旅人歸還寶石時的期望。"
+      "explain": "<b>解題關鍵：</b>主句 I’m giving it back 已有完整動詞；逗號後要補充旅人歸還寶石時心裡「希望」婦人給他更珍貴的東西，所以用 hoping 表伴隨狀況。<br>(A) hope：原形會成為第二個主要動詞，但沒有連接詞。<br>(B) hoping：表示「一面歸還，一面希望」，結構正確。<br>(C) hoped：過去式與現在進行式 I’m giving 不搭。<br>(D) to hope：表示目的「為了希望」，語意不自然。<br>把答案放回去：他把寶石還回去，希望得到更珍貴的心靈特質。",
     },
     {
       "no": 25, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G2",
       "stem": "Choose the best answer for blank 25.",
       "options": {"A": "on leave", "B": "by surprise", "C": "off record", "D": "in return"},
-      "explain": "without asking for anything in return 表示不求回報。"
+      "explain": "<b>解題關鍵：</b>婦人毫不猶豫送出珍貴寶石，也沒有要求旅人給任何東西，意思是「不求回報」。固定用法 in return 是「作為回報」。<br>(A) on leave：休假中；和索取東西無關。<br>(B) by surprise：出其不意地；常見搭配是 take someone by surprise。<br>(C) off record：非正式紀錄；和交換無關。<br>(D) in return：作為回報；anything in return 語意完整。<br>把答案放回去：你送我寶石，卻沒有要求任何回報。",
     },
     {
       "no": 26, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
       "stem": "Choose the best answer for blank 26.",
       "options": {"A": "For", "B": "With", "C": "Upon", "D": "Along"},
-      "explain": "With six hundred years of architecture... 以 with 表示城市擁有的特色。"
+      "explain": "<b>解題關鍵：</b>句子主要動詞是 retains；句首空格片語補充布拉格「擁有約六百年的建築，且幾乎未受天災戰爭破壞」這項背景。<br>(A) For：可表持續時間，但 for architecture 不能表示城市擁有建築。<br>(B) With：帶有、擁有；With...architecture 可自然介紹城市特色。<br>(C) Upon：在……之上／一……就；語意不符。<br>(D) Along：沿著；後面不是道路或河流。<br>把答案放回去：布拉格擁有保存近乎完整的六百年建築，因此仍保有中古風貌。",
     },
     {
       "no": 27, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G3",
       "stem": "Choose the best answer for blank 27.",
       "options": {"A": "Since", "B": "Before", "C": "Whatever", "D": "Wherever"},
-      "explain": "Wherever you go 表示無論走到哪裡都有古建築。"
+      "explain": "<b>解題關鍵：</b>後面說 there are buildings...「都有各式古建築」，要表達在布拉格不論走到哪個地方都看得到。<br>(A) Since：自從、因為；無法表示任何地點。<br>(B) Before：在……以前；沒有時間先後。<br>(C) Whatever：無論什麼；後面 go 需要地點概念。<br>(D) Wherever：無論哪裡；Wherever you go 是「無論你走到哪裡」。<br>把答案放回去：在布拉格不論走到哪裡，都能看見數百年前流行風格的建築。",
     },
     {
       "no": 28, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G3",
       "stem": "Choose the best answer for blank 28.",
       "options": {"A": "escaped", "B": "featured", "C": "defended", "D": "inspired"},
-      "explain": "古建築 escaped「躲過」戰後重建的破壞。"
+      "explain": "<b>解題關鍵：</b>前文說布拉格建築幾乎未遭天災或戰爭破壞，後面 remained unchanged「保持不變」，所以這些建築成功躲過戰後重建造成的破壞。<br>(A) escaped：逃過、避開；escaped the destruction 與 unchanged 呼應。<br>(B) featured：以……為特色；不能以破壞為特色。<br>(C) defended：保衛；主詞建築不能主動保衛破壞。<br>(D) inspired：啟發；與保存無關。<br>把答案放回去：這些古建築避開了戰後重建的破壞，保留原貌。",
     },
     {
       "no": 29, "cat": "C2", "tags": ["邏輯關係"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
       "stem": "Choose the best answer for blank 29.",
       "options": {"A": "ever", "B": "seldom", "C": "nearly", "D": "wholly"},
-      "explain": "鐵幕時期外國人 seldom「很少」造訪布拉格。"
+      "explain": "<b>解題關鍵：</b>While the Iron Curtain was still in place 指共產政府下對外往來受限制的時期；下一句又說 1990 年代後一切改變、遊客大量增加，因此以前外國人很少造訪。<br>(A) ever：曾經；不能表達前後人數反差。<br>(B) seldom：很少；和後來 popular tourist attraction 形成對比。<br>(C) nearly：幾乎；後面需再接 all、never 等字。<br>(D) wholly：完全地；visited wholly 不自然。<br>把答案放回去：鐵幕時期，外國人很少造訪布拉格。",
     },
     {
       "no": 30, "cat": "C2", "tags": ["轉承語"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G3",
       "stem": "Choose the best answer for blank 30.",
       "options": {"A": "afterwards", "B": "therefore", "C": "however", "D": "furthermore"},
-      "explain": "1990 年代後情況轉變，however 表前後轉折。"
+      "explain": "<b>解題關鍵：</b>前句說共產時期外國人很少到訪；下一句說 1990 年代後 all that has changed，而且今日成為熱門景點，前後意思相反，要用轉折詞。<br>(A) afterwards：之後；只有時間順序，沒有強調反差。<br>(B) therefore：因此；熱門不是「很少到訪」造成的結果。<br>(C) however：然而；正確表達政治環境改變前後的反差。<br>(D) furthermore：此外；用於同方向補充，不合。<br>把答案放回去：然而，1990 年代後情況改變，布拉格成為熱門景點。",
     },
     {
       "no": 31, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "D", "group": "G4",
       "stem": "Choose the best word for blank 31.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "弟子承諾照辦，師父 having received this promise。"
+      "explain": "<b>解題關鍵：</b>前一句弟子說願意做師父要求的任何事，Having received this ______ 回指師父剛得到弟子的「承諾」。空格前 this 需要單數名詞。<br>(D) promise：承諾；符合弟子答應照做。<br>容易混淆：(B) conversation 是整段談話，不是師父接著提出要求的依據；(G) learned 是動詞；(C) like 常指喜好或相似。<br>把答案放回去：得到弟子的承諾後，師父便說出希望弟子完成的事。",
     },
     {
       "no": 32, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "G", "group": "G4",
       "stem": "Choose the best word for blank 32.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "師父在預見中 learned「得知」自己將死並投胎成豬。"
+      "explain": "<b>解題關鍵：</b>開頭說 guru foresaw in a vision「師父在異象中預見」來生，這裡他告訴弟子自己剛剛得知將很快死亡並投胎成豬。I’ve 後要接過去分詞。<br>(G) learned：得知；I’ve learned that... 結構正確。<br>容易混淆：(E) released 是「釋放」，不能接 that 子句說得知消息；(H) recognize 是原形；(D) promise 是名詞。<br>把答案放回去：師父說他剛得知自己將很快死亡並投胎成豬。",
     },
     {
       "no": 33, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "H", "group": "G4",
       "stem": "Choose the best word for blank 33.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "弟子可依額頭標記 recognize「認出」師父。"
+      "explain": "<b>解題關鍵：</b>師父指定母豬第四隻小豬，並說牠額頭有 mark「記號」；弟子可藉這個記號辨認哪隻是師父。You’ll 後要接原形動詞。<br>(H) recognize：認出、辨認；recognize me by a mark 是靠標記認出我。<br>容易混淆：(G) learned 是過去分詞，時態不合；(C) like 是喜歡或像；(A) shock 是名詞或使震驚，不能表辨認。<br>把答案放回去：弟子會靠額頭上的記號認出投胎成小豬的師父。",
     },
     {
       "no": 34, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "I", "group": "G4",
       "stem": "Choose the best word for blank 34.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "with one stroke of your knife 指用刀一劃。"
+      "explain": "<b>解題關鍵：</b>師父要求弟子 slaughter it「宰殺那隻小豬」；with one ______ of your knife 要填能表示刀一次動作的名詞。<br>(I) stroke：一下、一劃；one stroke of the knife 是「用刀一劃」。<br>容易混淆：(A) shock 是震驚，不是刀的動作；(F) screamed 是過去式動詞；(J) sharpened 是磨利的，也不能放在 one 後當名詞。<br>把答案放回去：找到額頭有記號的第四隻小豬後，用刀一劃將牠殺死。",
     },
     {
       "no": 35, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "E", "group": "G4",
       "stem": "Choose the best word for blank 35.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "被殺後即可從豬的生命中 released「解脫」。"
+      "explain": "<b>解題關鍵：</b>師父不想過豬的生活，所以認為被弟子殺死後，就能「從豬的一生中獲得解脫」。I’ll be 後需接過去分詞形成被動。<br>(E) released：被釋放、解脫；be released from 是「從……獲釋」。<br>容易混淆：(G) learned 是被學會，語意不通；(J) sharpened 是被磨利，只適合刀；(H) recognize 是原形，不能直接接 be。<br>把答案放回去：師父以為被殺後便能從豬的生命中解脫。",
     },
     {
       "no": 36, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "B", "group": "G4",
       "stem": "Choose the best word for blank 36.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "師徒談話 conversation 後不久，師父過世。"
+      "explain": "<b>解題關鍵：</b>前面整段是師父與弟子談論投胎和承諾；Soon after their ______, the guru died 表示「兩人談話後不久，師父去世」。their 後要接名詞。<br>(B) conversation：談話；完整回指前面的對話。<br>容易混淆：(D) promise 是弟子單方面作出的承諾，不適合 their promise；(A) shock 要到小豬說話時才出現；(I) stroke 是刀的一劃。<br>把答案放回去：師徒談話後不久，師父便去世了。",
     },
     {
       "no": 37, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "J", "group": "G4",
       "stem": "Choose the best word for blank 37.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "動手前弟子 sharpened「磨利」刀子。"
+      "explain": "<b>解題關鍵：</b>母豬生下四隻小豬後，弟子要依約用刀宰殺其中一隻；在拿刀行動前，他先把刀磨利。句中需要過去式動詞。<br>(J) sharpened：磨利；sharpened his knife 是自然搭配。<br>容易混淆：(I) stroke 是名詞「一劃」，不能直接接 his knife；(E) released 是釋放，受詞若是刀不合理；(H) recognize 的重點是認出小豬，不是處理刀。<br>把答案放回去：弟子磨利刀子，挑出額頭有記號的小豬。",
     },
     {
       "no": 38, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "F", "group": "G4",
       "stem": "Choose the best word for blank 38.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "小豬突然 screamed「尖叫」Stop。"
+      "explain": "<b>解題關鍵：</b>弟子正要割小豬喉嚨，小豬突然喊出 “Stop!”；這是危急時大聲尖叫。句子敘述過去，需用過去式。<br>(F) screamed：尖叫；screamed “Stop!” 符合緊急制止。<br>容易混淆：(B) conversation 是名詞，不能當謂語；(D) promise 是承諾；(H) recognize 是辨認，都無法表現小豬喊話。<br>把答案放回去：弟子準備下刀時，小豬突然尖叫：「住手！」",
     },
     {
       "no": 39, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "A", "group": "G4",
       "stem": "Choose the best word for blank 39.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "聽見豬用人聲說話使弟子震驚，選 shock。"
+      "explain": "<b>解題關鍵：</b>小豬竟用 human voice「人的聲音」說話，弟子需要時間 recover from「從……中恢復」；這個令人難以置信的感受是震驚。the 後要接名詞。<br>(A) shock：震驚；recover from the shock 是「從震驚中回過神」。<br>容易混淆：(B) conversation 尚未完整開始；(F) screamed 是動詞；(I) stroke 是刀的一劃，皆不能表示弟子的心理反應。<br>把答案放回去：弟子還沒從聽見小豬用人聲說話的震驚中回神。",
     },
     {
       "no": 40, "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "C", "group": "G4",
       "stem": "Choose the best word for blank 40.",
       "options": {"A": "shock", "B": "conversation", "C": "like", "D": "promise", "E": "released", "F": "screamed", "G": "learned", "H": "recognize", "I": "stroke", "J": "sharpened"},
-      "explain": "what a pig’s life would be like 表示豬的生活會是什麼樣子。"
+      "explain": "<b>解題關鍵：</b>小豬說自己以前不知道豬的生活「會是什麼樣子」，接著卻發現 It’s great。句型 what...be like 用來問或描述人事物的樣貌、感受。<br>(C) like：what a pig’s life would be like 結構完整。<br>容易混淆：(D) promise 是名詞；(B) conversation 是談話；(A) shock 是震驚，都不能接在 be 後形成此句型。<br>把答案放回去：我叫你殺我時，還不知道豬的生活會是什麼樣子；現在發現很棒。",
     },
     {
       "no": 41, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G5",
       "stem": "Why do howler monkeys howl?",
       "options": {"A": "To claim their territory.", "B": "To check how popular they are.", "C": "To tell others they are going to leave.", "D": "To show friendliness to their neighbors."},
-      "explain": "雄猴以吼聲爭奪並界定 territory。"
+      "explain": "<b>解題關鍵：</b>定位第一段：雄吼猴用大聲吼叫來 fight for food, mates, or territory，並在每天開始與結束時確認競爭者在哪裡；核心功能是宣示自己的領域。<br>(A) 符合原文 claim their territory「宣示領域」。<br>(B) 牠們確認的是競爭者位置，不是受歡迎程度。<br>(C) 沒有用吼聲告知要離開。<br>(D) 吼叫是競爭和界定範圍，不是友善示好。<br>所以答案選 (A)。",
     },
     {
       "no": 42, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G5",
       "stem": "Why did the howler monkeys in Belize howl less often?",
       "options": {"A": "They lived too close to each other.", "B": "There was enough food for all of them.", "C": "There were no other competitors around.", "D": "They were not used to the weather there."},
-      "explain": "周圍沒有其他吼猴競爭者，因此不必天天確認位置。"
+      "explain": "<b>解題關鍵：</b>定位第二段：貝里斯保護區有 plenty of space and no other howler monkeys around，所以猴群沒有必要天天確認競爭者位置，只需每週吼幾次。<br>(A) 原文是空間很多，不是住得太近。<br>(B) 第一段提食物是競爭項目，但本段沒有說食物足夠。<br>(C) 符合 no other competitors around 的直接證據。<br>(D) 沒有提天氣造成吼叫減少。<br>所以答案選 (C)。",
     },
     {
       "no": 43, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G5",
       "stem": "Why do the keepers at the sanctuary use recorded howls?",
       "options": {"A": "To prevent the howler monkeys from getting homesick.", "B": "To help howler monkeys maintain their howling ability.", "C": "To trick the monkeys into the belief that there is plenty of space around.", "D": "To teach the monkeys how to make the loudest cries to scare people away."},
-      "explain": "播放遠方吼聲讓猴子維持像野外一樣的領域叫聲。"
+      "explain": "<b>解題關鍵：</b>定位第三段：管理員從遠處播放吼聲，讓猴子覺得附近有別群猴，因而 make the territorial calls as they would do in the wild「像在野外一樣發出領域叫聲」。<br>(A) 目的不是減少思鄉。<br>(B) 符合讓猴子維持吼叫行為。<br>(C) 錄音讓牠們覺得有鄰居，不是空間很多。<br>(D) 不是訓練音量，更不是嚇人。<br>所以答案選 (B)。",
     },
     {
       "no": 44, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G5",
       "stem": "According to the passage, which of the following is true about howler monkeys?",
       "options": {"A": "They howl most often at noon.", "B": "They originally came from Belize.", "C": "People can hear their howls three miles away.", "D": "Female monkeys howl to protect their babies."},
-      "explain": "第一段明說吼聲可穿越密林傳到三英里外。"
+      "explain": "<b>解題關鍵：</b>定位第一段：their howls can be heard three miles away through dense forests，直接說在密林中三英里外都聽得到吼聲。<br>(A) 牠們在每天開始與結束時吼，不是中午最常。<br>(B) 貝里斯是重新引入地，文中沒說原產地。<br>(C) 完整改寫三英里外可聽見的證據。<br>(D) 文章談雄猴為食物、伴侶、領域而吼，沒有說雌猴保護幼猴。<br>所以答案選 (C)。",
     },
     {
       "no": 45, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G6",
       "stem": "What made it necessary to build a road through the Glacier National Park?",
       "options": {"A": "There were too many parks in Montana.", "B": "The park was not sunny enough for visitors.", "C": "The existing mountain roads were destroyed.", "D": "More visitors were interested in going to the park."},
-      "explain": "遊客數增加提高道路需求，促成跨山道路興建。"
+      "explain": "<b>解題關鍵：</b>定位第一段：the growing number of park visitors increased the need for roads，遊客增加使道路需求升高，最後才建造跨山的 Going-to-the-Sun Road。<br>(A) 不是因蒙大拿州公園太多。<br>(B) 日照多寡和道路需求無關。<br>(C) 沒有說原有山路遭破壞。<br>(D) more visitors interested in going 與 growing number of visitors 相符。<br>所以答案選 (D)。",
     },
     {
       "no": 46, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G6",
       "stem": "How has the Going-to-the-Sun Road influenced the way people experience the Glacier National Park?",
       "options": {"A": "The scenery along the road is too beautiful for visitors to drive carefully.", "B": "It has become a marvelous experience for people to ride horses on this road.", "C": "The road has allowed people to see more of the park in a shorter period of time.", "D": "The transportation on the road was so difficult that few people could really enjoy the trip."},
-      "explain": "原需騎馬數日的區域可開車抵達，讓遊客更快看見更多園區。"
+      "explain": "<b>解題關鍵：</b>定位第三段：遊客現在能 drive over sections of the park，而那些區域以前騎馬要花數天才能看完，表示道路縮短了遊覽時間並增加可看到的範圍。<br>(A) 文中稱風景優美，沒說美到無法安全駕駛。<br>(B) 道路讓人改用開車，不是增加騎馬樂趣。<br>(C) 正確統整更短時間看更多園區。<br>(D) 與 visitors now can drive 的便利性相反。<br>所以答案選 (C)。",
     },
     {
       "no": 47, "cat": "C4", "tags": ["語境推義"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G6",
       "stem": "What does “an engineering feat” mean?",
       "options": {"A": "A big success in construction.", "B": "A magical building machine.", "C": "A great disaster for the travelers.", "D": "An enjoyable process for engineers."},
-      "explain": "feat 指非凡成就，此處是工程建設上的重大成功。"
+      "explain": "<b>解題關鍵：</b>定位第二段：道路施工是 huge task，歷時 11 年，今日遊客仍驚嘆這條路如何建成；因此 engineering feat 是工程上完成高難度工作的重大成就。<br>(A) a big success in construction 正確說出建設上的大成功。<br>(B) 文中沒有神奇機器。<br>(C) 道路本身不是旅客災難。<br>(D) feat 強調成果，不是工程師享受的過程。<br>所以答案選 (A)。",
     },
     {
       "no": 48, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G6",
       "stem": "What is special about the Waterton-Glacier International Peace Park?",
       "options": {"A": "It is where the glacier runs to the lake.", "B": "It is the first park funded by the whole world.", "C": "It is a special park built to protect wild animals.", "D": "It is composed of two parks located in two countries."},
-      "explain": "和平公園由美國 Glacier 與加拿大 Waterton Lakes 兩座公園組成。"
+      "explain": "<b>解題關鍵：</b>定位最後一段：Glacier National Park 在美國蒙大拿州，Waterton Lakes National Park 在加拿大；兩國政府把 two parks 合併命名為國際和平公園。<br>(A) 沒有說冰河流入湖泊。<br>(B) 它是世界第一座國際和平公園，不是全球共同出資的第一座公園。<br>(C) 文中強調和平友誼，沒有說專為野生動物而建。<br>(D) 符合由兩個國家各一座公園組成。<br>所以答案選 (D)。",
     },
     {
       "no": 49, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G7",
       "stem": "What kind of ice is ideal for sculpting?",
       "options": {"A": "Ice from ice hotels.", "B": "Ice from clean water.", "C": "Ice with lots of bubbles in it.", "D": "Ice weighing over 100 kilograms."},
-      "explain": "理想冰材來自 pure, clean water，且氣泡越少越好。"
+      "explain": "<b>解題關鍵：</b>定位第一段：ideal material is pure, clean water with high clarity，且 air bubbles 要愈少愈好，因此最適合雕刻的是乾淨、清澈的水形成的冰。<br>(A) 冰旅館是大型冰塊的用途，不是冰的來源條件。<br>(B) clean water 是原文直接證據。<br>(C) 與 minimum amount of air bubbles 相反。<br>(D) 140 公斤只是公司販售冰塊的規格，不是理想材質必要條件。<br>所以答案選 (B)。",
     },
     {
       "no": 50, "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G7",
       "stem": "Why is ice sculpting difficult?",
       "options": {"A": "It is hard to control the size and shape of the ice.", "B": "The right theme for ice sculpting is not easy to find.", "C": "The appropriate tools are only available in some countries.", "D": "It is not easy to find the right kind of ice and work environment."},
-      "explain": "前兩段分別說明冰材選擇與溫度、時間控制的困難。"
+      "explain": "<b>解題關鍵：</b>第一段說適合雕刻的冰必須純淨、透明且少氣泡；第二段說環境溫度會影響融化速度，工具也會影響完成時間。兩項條件都不容易同時掌握。<br>(A) 尺寸有多種來源，並非主要困難。<br>(B) 主題選擇沒有被列為難題。<br>(C) 文中提日本製鑿刀，卻沒說工具只在少數國家買得到。<br>(D) 正確統整「合適冰材＋合適工作環境」不易取得。<br>所以答案選 (D)。",
     },
     {
       "no": 51, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G7",
       "stem": "What is paragraph 3 mainly about?",
       "options": {"A": "The uses of ice sculptures.", "B": "The places where ice is sculpted.", "C": "The quality of ice sculptures.", "D": "The origin of ice sculpting parties."},
-      "explain": "第三段介紹冰雕作為餐宴裝飾的用途。"
+      "explain": "<b>解題關鍵：</b>第三段先說 ice sculptures are used as decorations，再舉大型餐廳、飯店餐桌與婚宴天鵝冰雕為例，整段都在介紹冰雕如何被使用。<br>(A) uses of ice sculptures 能統整裝飾餐桌與婚宴象徵等用途。<br>(B) 餐廳、飯店只是使用地點細節。<br>(C) 沒有評估作品品質。<br>(D) 沒有說冰雕派對的起源。<br>所以答案選 (A)。",
     },
     {
       "no": 52, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G7",
       "stem": "Which of the following statements is true about the process of sculpting ice?",
       "options": {"A": "It takes more time to carve with razor-sharp chisels.", "B": "It can be finished in 10 minutes if the right tools are used.", "C": "Larger blocks of ice from Sweden are easier to handle for sculptors.", "D": "The carver must work fast in a cold environment to avoid catching cold."},
-      "explain": "文中明說使用電動工具時，有些冰雕十分鐘即可完成。"
+      "explain": "<b>解題關鍵：</b>定位第二段：Some sculptures can be completed in as little as ten minutes if power tools are used，直接說使用電動工具時，有些作品最快十分鐘完成。<br>(A) 銳利鑿刀是另一種工具，沒說一定更花時間。<br>(B) 是原文的正確改寫。<br>(C) 瑞典的大冰塊用於大型活動，沒說更容易操作。<br>(D) 在非低溫環境要快做是為避免融化，不是怕雕刻者著涼。<br>所以答案選 (B)。",
     },
     {
       "no": 53, "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G8",
       "stem": "What is the main idea of the passage?",
       "options": {"A": "We should learn to be sensitive to pain.", "B": "Our feeling of pain is decided by our environment.", "C": "How people feel pain remains unknown to scientists.", "D": "Our reaction to pain is closely related to our expectation of pain."},
-      "explain": "研究顯示疼痛感受與事前對疼痛的預期密切相關。"
+      "explain": "<b>解題關鍵：</b>主旨要涵蓋實驗與結論。研究發現，預期較高疼痛時相關腦區更活躍；即使實際受到強烈刺激，原先只預期輕中度疼痛的人回報的疼痛也少 28%，說明預期會影響反應。<br>(A) 文章不是教人提高疼痛敏感度。<br>(B) 重點是心理預期，不是外在環境決定。<br>(C) 科學家已透過實驗發現明確關聯。<br>(D) 能統整疼痛反應和預期密切相關。<br>所以答案選 (D)。",
     },
     {
       "no": 54, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G8",
       "stem": "Which of the following is true about the pulses of heat in the study?",
       "options": {"A": "Each heat pulse lasted for 20 seconds.", "B": "The pulses were given to the arms of the volunteers.", "C": "Different devices gave out different levels of heat pulses.", "D": "There were two levels of heat intensity given to the volunteers."},
-      "explain": "每次熱脈衝持續 20 秒，並施加於右腿。"
+      "explain": "<b>解題關鍵：</b>定位第二段：裝置會對 right leg 發出 20-second-long pulses of heat，並有 mild、moderate、strong 三個強度。<br>(A) each heat pulse lasted for 20 seconds，符合原文。<br>(B) 刺激施於右腿，不是手臂。<br>(C) 每位受試者戴一個裝置，沒說不同裝置提供不同熱度。<br>(D) 一共有三種強度，不是兩種。<br>所以答案選 (A)。",
     },
     {
       "no": 55, "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G8",
       "stem": "How did the volunteers learn to expect different levels of heat?",
       "options": {"A": "From the loudness of the tone they heard.", "B": "From the instruction given to them by the researchers.", "C": "From the color of a light flashing on the device they wore.", "D": "From the length of the pause between a tone and the heat pulse."},
-      "explain": "受試者用音調與熱脈衝間靜默停頓的長度判斷熱度。"
+      "explain": "<b>解題關鍵：</b>定位第二段：受試者先聽音調，接著有一段 silence，再感受熱脈衝；他們學會把 silent pause 的長度和熱度連結，停頓愈長就預期愈痛。<br>(A) 音調的音量不是判斷線索。<br>(B) 研究者透過訓練建立連結，不是口頭直接告知每次熱度。<br>(C) 裝置沒有閃光顏色提示。<br>(D) 符合由音調到熱脈衝之間的停頓長度判斷。<br>所以答案選 (D)。",
     },
     {
       "no": 56, "cat": "C4", "tags": ["推論判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G8",
       "stem": "According to the passage, what may be the author’s advice to a doctor before a surgery?",
       "options": {"A": "To provide the patient with more pain killers.", "B": "To talk to the patient and ease his/her worries.", "C": "To give the patient strong heat pulses beforehand.", "D": "To emphasize the possible severe pain to the patient."},
-      "explain": "降低病患對疼痛的預期可減輕感受，因此術前應溝通並緩和焦慮。"
+      "explain": "<b>解題關鍵：</b>這是應用推論題。實驗顯示，實際同樣是強烈疼痛時，原先只預期輕中度疼痛者回報少 28% 的痛；結尾也說理解心理作用可幫助病患面對治療。因此醫師應降低病患的擔心。<br>(A) 文章重點不是增加止痛藥。<br>(B) 溝通並緩和焦慮能降低疼痛預期，符合研究。<br>(C) 術前給強熱刺激無助於安心。<br>(D) 強調劇痛會提高預期，可能讓人更痛。<br>所以答案選 (B)。"
     }
   ]
 });
@@ -7150,62 +7150,62 @@ window.BANK.push({
 });
 
 [
-  "暢銷書改編成賣座電影讓導演賺大錢，make a fortune 表示「發財、賺大筆錢」。",
-  "王建民青少年時便展現棒球方面的巨大潛能，potential 表示「潛力」。",
-  "雖打兩份工仍以榮譽畢業，顯示他從未荒廢學業；neglect 表示「忽視、荒廢」。",
-  "房間太冷時可調整冷氣設定，adjust 表示「調整」。",
-  "課程為研究提供扎實基礎，foundation for research 是「研究基礎」。",
-  "每天只能花一百元且無力娛樂，live on a budget 表示「按預算生活」。",
-  "老闆起初不同意，但 Amy 成功協商加薪；negotiate for a raise 表示「協商加薪」。",
-  "兩年內從一間店增加到全國五十間，business expanded 表示「事業擴張」。",
-  "無法接受批評、總替自己辯解，顯示個性防衛心強；defensive 表示「防衛性的」。",
-  "真心希望對方早日回來，sincerely hope 表示「誠心希望」。",
-  "食物與空氣是生命不可或缺的，essential to 表示「對……必要」。",
-  "經理得到更好工作後立刻辭職，resigned 表示「辭職」。",
-  "博物館保存與悲劇事件相關的重要法律文件，documents 表示「文件」。",
-  "不確定精確金額，但獎學金大致足以支付主要費用；roughly 表示「大致上」。",
-  "Tom 一週前病重，如今迅速康復，令人驚訝；be amazed by 表示「對……感到驚訝」。",
-  "狗接受照護後回家時感到受寵且放鬆，feeling 作分詞描述伴隨狀態。",
-  "洗澡之後接著完整吹乾與梳毛，be followed by 表示「之後接著……」。",
-  "店家供應所有用品，包括浴盆、洗髮精與毛巾，including 表示「包括」。",
-  "雖然 Happy Puppy 是新服務，卻有二十多年經驗，Although 引導讓步子句。",
-  "be devoted to V-ing 表示「致力於」，此處致力幫狗享受完整活躍生活。",
-  "rate at which... 是「……發生的速率」，介系詞 at 與 rate 搭配。",
-  "印度南北端之間縮短的是距離，distance 表示「距離」。",
-  "若縮小持續，印度兩億年後將消失；If 引導條件。",
-  "前文明說印度板塊向北推擠喜馬拉雅山，故為 northward movement。",
-  "即使地殼只移動幾毫米也可能預示地震，even 表示「甚至、即使」。",
-  "山羊與牛長有巨大角，with enormous horns 表示「帶有巨大角」。",
-  "千座山丘高度從 1,500 到 2,500 公尺不等，range from A to B 表示「範圍從 A 到 B」。",
-  "國土小，使所有地方幾小時內都可到達；within reach 表示「可及」。",
-  "前面讚美自然景色，後面更強調人性戰勝邪惡，above all 表示「最重要的是」。",
-  "Rwanda 經歷大屠殺後仍療癒繁榮，survived 表示「挺過、倖存於」。",
-  "男孩打板球聲音特別吵，noisy 表示「吵鬧的」。",
-  "老人說板球是自己最喜歡的運動，favorite game 是「最喜愛的運動」。",
-  "男孩原本就喜歡打球，竟還可領錢，因此很興奮；enjoyed 表示「喜愛」。",
-  "前兩週男孩拿到錢後開心離去，happily 表示「愉快地」。",
-  "第三週老人說錢用完了，run out of money 表示「錢耗盡」。",
-  "第四週老人說尚未收到政府薪資，paycheck 表示「薪資支票」。",
-  "報酬從 25 降為 10 盧比，男孩非常失望，disappointed 表示「失望的」。",
-  "第五週男孩敲門等待酬勞，reward 表示「報酬、獎賞」。",
-  "老人無法支付先前承諾的 25 盧比，promised 表示「曾答應的」。",
-  "男孩不願一週打七天球卻只有區區五盧比，merely 表示「僅僅」。",
-  "文章比較萬聖節零食停留口腔的時間與蛀牙風險，目的在告訴家長較不傷牙的甜食，選 C。",
-  "硬糖需要很久才能吃完，長時間留在口中讓細菌持續產酸，因此選 D。",
-  "洋芋片、葡萄乾、餅乾與硬糖都不理想；巧克力溶得快且含單寧，較佳選擇是 A。",
-  "文章明說巧克力中的 tannins 能殺死口腔內部分細菌，選 B。",
-  "PBS 經費來自觀眾捐款、私人基金會與部分政府資助，private foundations 屬私人組織，選 A。",
-  "文章明說 PBS 尤以高品質教育節目聞名，選 C。",
-  "超過九成五公共電視臺提供遠距課程，且獲一千八百多所美國大學接受支持，選 D。",
-  "文中提供 PBS 約 2% 與 NBC 11% 收視率；選項中 NBC 最高，選 C。",
-  "Jay McCarroll 在伸展臺發表無皮草系列，且被稱為時尚界領導設計師，選 A。",
-  "fur-free 宣言標誌時尚與動保的新發展，a new chapter 指新趨勢的開端，選 B。",
-  "他使用拼布、棉、尼龍、聚酯與竹棉，並明說不用 fur and leather，NOT 題選 C。",
-  "文章肯定不用皮草也能創作時尚，並以同情心保護動物，說明時尚可與關懷生命並行，選 B。",
-  "全文以聽力與情緒表達為例，說明生理差異會造成男女孩行為不同，主旨選 C。",
-  "女孩較早形成 amygdala 與 cerebral cortex 的連結，因此較能表達負面感受，選 D。",
-  "作者主張家長教師應理解並運用男女生理差異，支持以不同方式教育，選 B。",
-  "現在很難繼續相信差異只來自教養，cling to a belief 表示「維持、固守信念」，最接近 maintain，選 A。"
+  "<b>解題關鍵：</b>暢銷書被拍成賣座電影，導演因此賺了大錢。<br>(A) fortune：財富；make a fortune 是「發大財」。<br>(B) request：請求；(C) companion：同伴；(D) decision：決定，雖都可接 make a，卻不符合電影賺錢的結果。<br>把答案放回去：導演把暢銷書拍成熱門電影，賺了一大筆錢。",
+  "<b>解題關鍵：</b>王建民後來成為洋基最佳投手，而青少年時就 showed great...，空格應是尚未完全發揮的能力。<br>(A) response：回應；(B) reluctance：不情願；(C) permission：許可；(D) potential：潛力，great potential for baseball 搭配合理。<br>把答案放回去：他年少時已展現棒球潛力。",
+  "<b>解題關鍵：</b>Although 說他得打兩份工，但 In fact 又說他以優異成績畢業，可知沒有荒廢學業。<br>(A) neglected：忽略、荒廢，never neglected 正確。<br>(B) segmented：分割；(C) financed：資助；(D) diminished：減少，皆不能表達兼顧課業。<br>把答案放回去：他工作再忙也從未荒廢學業。",
+  "<b>解題關鍵：</b>房間太冷，目標是讓自己舒服，因此要改變冷氣設定。<br>(A) fasten：繫緊；(B) adjust：調整，可接設備設定；(C) defeat：擊敗；(D) upload：上傳。<br>後三者中只有 adjust 能改善溫度。<br>把答案放回去：太冷時可以調整冷氣。",
+  "<b>解題關鍵：</b>課程推薦給想讀研究所者，因為能提供研究所需的扎實「基礎」；solid foundation 是常見搭配。<br>(A) admission：入學許可；(B) circulation：流通；(C) foundation：基礎；(D) extension：延伸。<br>把答案放回去：這門課會為研究打下穩固基礎。",
+  "<b>解題關鍵：</b>每天只能花一百元，連娛樂都負擔不起，表示可用金額受到限制。<br>(A) division：分割；(B) guidance：指導；(C) measure：措施；(D) budget：預算，live on a budget 是按預算過生活。<br>把答案放回去：Peter 每日預算只有一百元。",
+  "<b>解題關鍵：</b>老闆起初不願加薪，Amy 最後成功，表示雙方曾討論條件。<br>(A) compensate for：補償；(B) negotiate for：協商爭取，negotiate for a raise 正確；(C) substitute for：替代；(D) advertise for：刊登徵求。<br>把答案放回去：Amy 成功談到加薪。",
+  "<b>解題關鍵：</b>兩年前一間店，如今全國五十間，數量快速增加。<br>(A) discouraged：使氣餒；(B) transferred：轉移；(C) stretched：拉長；(D) expanded：擴張，能描述事業規模變大。<br>把答案放回去：李女士的事業迅速擴張。",
+  "<b>解題關鍵：</b>她不能接受批評，還總找理由替自己辯護，這是在保護自己不被責怪。<br>(A) shameful：可恥的；(B) innocent：無辜的；(C) defensive：防衛心強的；(D) outgoing：外向的。<br>把答案放回去：Ruth 防衛心很強，面對批評立刻辯解。",
+  "<b>解題關鍵：</b>對方要離開，說話者真心盼望他快回來，空格修飾 hope。<br>(A) sincerely：真誠地；(B) scarcely：幾乎不；(C) reliably：可靠地；(D) obviously：明顯地。只有 sincerely hope 是自然心意。<br>把答案放回去：我真心希望你很快回來。",
+  "<b>解題關鍵：</b>may live without clothes 先說衣服未必不可少，but 轉折後說食物與空氣對生命不可缺。<br>(A) magnificent：壯麗的；(B) essential：必要的，essential to life 正確；(C) influential：有影響力的；(D) profitable：有利潤的。<br>把答案放回去：食物與空氣是生命必需品。",
+  "<b>解題關鍵：</b>經理得到另一家公司的更好工作後，立刻做出的職場行動是辭去原職。<br>(A) retreated：撤退；(B) revived：恢復；(C) removed：移除；(D) resigned：辭職。without hesitation 也符合果斷離職。<br>把答案放回去：他收到更好聘書後毫不猶豫地辭職。",
+  "<b>解題關鍵：</b>museum 可以保存與悲劇事件相關、供法律查考的「文件」。<br>(A) distributions：分配；(B) formations：形成物；(C) documents：文件，legal documents 搭配正確；(D) constructions：建造物。<br>把答案放回去：重要法律文件已保存在博物館。",
+  "<b>解題關鍵：</b>前半說不確定 exactly 精確金額，but 後只能估計獎學金「大約」可支付主要開支。<br>(A) recently：最近；(B) roughly：大約；(C) frankly：坦白地；(D) variously：以不同方式。roughly 與 exactly 形成對照。<br>把答案放回去：獎學金大致能支付主要費用。",
+  "<b>解題關鍵：</b>Tom 一週前病得很重，現在卻很健康，快速康復超出預期。<br>(A) amazed：驚訝的，be amazed by 正確；(B) convinced：被說服；(C) advised：被建議；(D) confirmed：被證實。<br>把答案放回去：他的迅速康復令大家驚訝。",
+  "<b>解題關鍵：</b>句子已有主要動詞 come home，空格要補充狗回家時的狀態：「感到被寵愛且放鬆」。<br>(A) will feel 會多出另一個主要動詞；(B) to feel 表目的不合；(C) have felt 時態不合；(D) feeling 用現在分詞補充伴隨狀態。<br>把答案放回去：狗回家時感到舒服又受寵。",
+  "<b>解題關鍵：</b>流程先洗澡，下一步是吹乾與梳毛，所以要表「A 之後接著 B」。<br>(A) counted on：依靠；(B) followed by：後接，be followed by 正確；(C) turned into：變成；(D) started with：以……開始，順序顛倒。<br>把答案放回去：洗澡之後會完整吹乾並梳毛。",
+  "<b>解題關鍵：</b>everything 後列出 tubs, shampoo, towels，這些是供應品的例子。<br>(A) concerning：關於；(B) showing：顯示；(C) including：包括；(D) relating：關聯，需搭配 to。<br>把答案放回去：店家供應一切用品，包括浴盆、洗髮精與毛巾。",
+  "<b>解題關鍵：</b>前句說 Happy Puppy 是較新的服務，後句卻說有二十多年經驗，前後是「雖然……但是……」的反差。<br>(A) Although：雖然；(B) Because：因為；(C) Once：一旦；(D) Until：直到。<br>把答案放回去：雖是新服務，團隊卻有長年經驗。",
+  "<b>解題關鍵：</b>to helping 中的 to 是介系詞，前面需要可接 to + V-ing 的形容詞；文意是全心幫助狗。<br>(A) devoted：致力的，be devoted to V-ing；(B) determined 常接 to V；(C) delighted：高興；(D) directed：被指示。<br>把答案放回去：他們致力於讓狗健康活動。",
+  "<b>解題關鍵：</b>rate 表「速率」時，說事情以某速率發生用 at the rate；介系詞被移到 which 前。<br>(A) by 多表手段；(B) in、(C) of 都不能和 rate 組成此句；(D) at 正確：the rate at which...。<br>把答案放回去：分析精確算出印度縮小的速率。",
+  "<b>解題關鍵：</b>southern and northern tips 是南北兩端，每年縮短兩公分的是兩端之間的距離。<br>(A) height：高度；(B) distance：距離；(C) geography：地理；(D) landscape：景觀。<br>把答案放回去：印度南北端的距離每年縮短兩公分。",
+  "<b>解題關鍵：</b>前半設定「縮小持續」的條件，後半說兩億年後印度會消失，是條件可能造成的結果。<br>(A) If：如果；(B) For：因為、為了；(C) Unless：除非，意思相反；(D) Though：雖然，不合推算。<br>把答案放回去：如果持續縮小，印度終將消失。",
+  "<b>解題關鍵：</b>第一句已說印度 pushes northward against the Himalayas，空格再次描述同一板塊移動方向。<br>(A) wayward：任性的；(B) downward：向下；(C) northward：向北；(D) outward：向外。<br>把答案放回去：印度板塊向北移動並非新現象。",
+  "<b>解題關鍵：</b>文章強調地殼移動很少也不可輕忽，空格要加強「甚至只有幾毫米」。<br>(A) yet：然而；(B) even：甚至，even a few millimeters 正確；(C) rather：相當、寧可；(D) indeed：的確，不能自然放在 a few 前。<br>把答案放回去：即使只移動幾毫米，也可能是地震徵兆。",
+  "<b>解題關鍵：</b>空格把 animals 與 horns 連起來，意思是「長著巨大角的牛羊」。<br>(A) into：進入；(B) with：帶有，with enormous horns 正確；(C) for：為了；(D) from：來自。<br>把答案放回去：有巨大角的牛羊在草地吃草。",
+  "<b>解題關鍵：</b>後面是 from 1,500 m to 2,500 m，固定搭配 range from A to B 表範圍從 A 到 B。<br>(A) differing 通常搭 from；(B) wandering：漫遊；(C) ranging：範圍介於；(D) climbing：攀爬。<br>把答案放回去：山丘高度介於一千五百至兩千五百公尺。",
+  "<b>解題關鍵：</b>Rwanda 很小，所以幾小時內就能到任何地方；空格要表示可到達。<br>(A) off the record：不公開；(B) beyond doubt：毫無疑問；(C) in touch：保持聯絡；(D) within reach：伸手可及、可到達。<br>把答案放回去：國內各地幾小時內都能抵達。",
+  "<b>解題關鍵：</b>前面寫自然美景，but 後更要強調 Rwanda 最重要的意義是人性戰勝邪惡。<br>(A) worst of all：最糟的是；(B) for that matter：就此而言；(C) above all：最重要的是；(D) at most：至多。<br>把答案放回去：最重要的是，Rwanda 象徵人類精神的勝利。",
+  "<b>解題關鍵：</b>1994 年大屠殺後，現在國家正在療癒、繁榮，表示它撐過災難。<br>(A) survived：挺過、倖存；(B) transformed：改造，通常要說 transform A into B；(C) recovered：康復，常接 from；(D) endangered：危及。<br>把答案放回去：Rwanda 熬過了大規模殺戮。",
+  "<b>解題關鍵：</b>本段一開始說男孩夜間打球製造大量噪音，particularly 後要填形容詞描述當晚更吵。<br>(F) noisy：吵鬧的，符合線索。<br>(A) disappointed、(C) favorite 也是形容詞但語意不合；其餘詞性不適合 be 動詞後。<br>把答案放回去：那晚男孩特別吵，老人出去找他們。",
+  "<b>解題關鍵：</b>老人假裝自己最愛看板球，藉此讓男孩相信他願意付錢。空格修飾 game，需要形容詞。<br>(C) favorite：最喜愛的，favorite game 正確。<br>(F) noisy 雖能修飾 game，卻和老人表面上稱讚板球的策略不合。<br>把答案放回去：老人說板球是他最喜愛的運動。",
+  "<b>解題關鍵：</b>男孩難以相信做本來喜歡的事還能領錢；空格作 something 後省略的關係子句動詞。<br>(B) enjoyed：喜愛，時態與文章一致。<br>(H) promised 是答應，不能說「他們答應某件事」來解釋興奮；其他選項詞性不合。<br>把答案放回去：他們竟能靠做喜歡的事拿錢。",
+  "<b>解題關鍵：</b>前兩週男孩如期領到二十五盧比，心情應是愉快；went away 後需要副詞。<br>(D) happily：愉快地，修飾離開。<br>(E) merely 也是副詞，但「僅僅離開」不合；(A) disappointed 是形容詞，且此時尚未減薪。<br>把答案放回去：男孩拿著錢開心離開。",
+  "<b>解題關鍵：</b>第三週老人給得較少，理由是自己「錢用完了」；had 後需要過去分詞片語。<br>(J) run out of：用盡，had run out of money 正確。<br>(G) paycheck 是名詞，不能直接接在 had 後表動作；其餘選項也無法解釋減少付款。<br>把答案放回去：老人說自己的錢已用完。",
+  "<b>解題關鍵：</b>from the government 與 received 指政府發給退休老人的款項或薪資支票。<br>(G) paycheck：薪資支票、薪水，符合 received his...。<br>(I) reward 是獎賞，不是政府固定給付；(H) promised 是動詞或形容詞，詞性不合。<br>把答案放回去：老人說尚未收到政府發的款項。",
+  "<b>解題關鍵：</b>報酬從二十五降到十五，再降到十盧比，男孩自然不滿；very 後需要形容詞。<br>(A) disappointed：失望的，符合期待落空。<br>(F) noisy 雖是形容詞，卻不表示減薪感受；(D) happily 是副詞且意思相反。<br>把答案放回去：男孩對報酬降低非常失望。",
+  "<b>解題關鍵：</b>第五週男孩敲門，等待老人因打球而給的錢，這筆錢是活動報酬。<br>(I) reward：報酬、獎賞，waiting for their reward 正確。<br>(G) paycheck 通常是雇主定期薪資，本文男孩領的是獎勵；其他選項詞性或意思不合。<br>把答案放回去：他們在門外等著領報酬。",
+  "<b>解題關鍵：</b>老人先前答應每週付二十五盧比，現在說付不起；had 後要用過去分詞。<br>(H) promised：答應，as he had promised 是「如他先前承諾」。<br>(B) enjoyed 是喜愛，不符合付款約定；(J) run out of 後還需要受詞。<br>把答案放回去：老人付不起原先承諾的金額。",
+  "<b>解題關鍵：</b>男孩認為每週打七天卻只拿五盧比太少，空格要強調「只有」。<br>(E) merely：僅僅，merely five rupees 正確。<br>(D) happily：愉快地，不能修飾金額；(I) reward 是名詞，詞性不合。<br>把答案放回去：他們不肯為區區五盧比打七天球。",
+  "<b>解題關鍵：</b>主旨看全文：文章不是教治療，而是比較零食停留口中的時間，最後建議巧克力與刷牙。<br>(A) 沒說如何治療蛀牙。<br>(B) 萬聖節只是情境，不是批評節慶。<br>(C) 告訴家長哪些甜食較不傷牙，涵蓋全文。<br>(D) 沒討論糖果對孩子的意義。<br>答案 C。",
+  "<b>解題關鍵：</b>定位句 Hard candies take a long time to consume；食物留在口中越久，細菌產酸越久。<br>(A) 沒說硬糖會咬斷牙。<br>(B) 關鍵不是糖量，而是停留時間。<br>(C) tannins 在巧克力中且能殺菌。<br>(D) 硬糖長時間留在口中，符合原文。<br>答案 D。",
+  "<b>解題關鍵：</b>文章列洋芋片、葡萄乾、餅乾、硬糖都會黏住或停留太久；相反地，巧克力溶得快且含有可殺部分細菌的單寧。<br>(A) Chocolate 是較佳選擇。<br>(B)(C)(D) 都被列為較差選擇。<br>這是比較題，不代表巧克力可取代刷牙；答案 A。",
+  "<b>解題關鍵：</b>最後一段明說 chocolate contains tannins, which help to kill some bacteria。<br>(A) 細菌吃食物後產生的是 acid，不是 tannins。<br>(B) 單寧能去除部分口腔細菌，正確。<br>(C) 巧克力快溶不是單寧造成。<br>(D) 破壞牙齒表面的是酸。<br>答案 B。",
+  "<b>解題關鍵：</b>PBS 經費定位在第一段：viewers’ donations、private foundations、some governmental funding。private foundations 屬私人組織。<br>(A) private organizations 符合。<br>(B) 公立學校、(C) 廣告公司、(D) 其他電視臺都未列為來源。<br>因此答案 A。",
+  "<b>解題關鍵：</b>文末前明寫 PBS is especially well known for the quality of its many educational TV programs。<br>(A) 有加拿大有線會員臺，不是最著名特色。<br>(B) 捐款是經費來源。<br>(C) 教育節目是原文 directly stated。<br>(D) 新聞只是節目類型之一。<br>答案 C。",
+  "<b>解題關鍵：</b>最後說超過九成五公共電視臺有遠距課程，且這些課程獲一千八百多所大學接受支持。<br>(A) minority 指觀眾比例少，不是觀眾身分。<br>(B) 95% 是電視臺有課程，不是節目比例。<br>(C) 電視臺成長顯著。<br>(D) 課程獲許多大學承認，正確。<br>答案 D。",
+  "<b>解題關鍵：</b>收視率要找文中數字：PBS 約 2%，industry leader NBC 11%。選項其餘電視網沒有給更高數字。<br>(A) ABC、(D) Fox 只在開頭列名。<br>(B) PBS 僅 2%。<br>(C) NBC 被稱為業界領先者且有 11%，最高。<br>答案 C。",
+  "<b>解題關鍵：</b>Jay 在 runway 發表無皮草作品，結尾又被稱為 leading designers，身分是時尚設計師。<br>(A) 符合。<br>(B) HSUS 副總裁是 Michael Markarian。<br>(C) Fashion Wire Daily 是受訪媒體。<br>(D) 動保組織主管也不是 Jay。<br>答案 A。",
+  "<b>解題關鍵：</b>a new chapter 不是真的書本章節；後面說 change is happening in fashion，指無皮草時尚展開新發展。<br>(A) 字面書本單元不合情境。<br>(B) 新趨勢的開始，符合。<br>(C) 雜誌新一期、(D) 新組織都未提。<br>答案 B。",
+  "<b>解題關鍵：</b>這是 NOT 題。Jay 列出 patchwork、cotton、nylon、polyester、bamboo/cotton，接著明說 Anything but fur and leather。<br>(A) polyester、(B) bamboo、(D) patchwork 都使用。<br>(C) leather 明確排除，因此是不推薦的材質。<br>答案 C。",
+  "<b>解題關鍵：</b>全文把無皮草設計與保護動物連在一起，並肯定設計師用其他材質仍能創作時尚。<br>(A) 有人與寵物有連結，但不是人依賴動物。<br>(B) 時尚可和對生命的關懷並行，涵蓋主旨。<br>(C)(D) 沒有比較效果或價格。<br>答案 B。",
+  "<b>解題關鍵：</b>主旨要統整例子：文章以聽力敏感度和表達負面情緒，說明男女孩存在生理差異，因而表現不同。<br>(A)(B) 都只抓聽力單一細節。<br>(C) 生理差異造成行為差異，涵蓋全文。<br>(D) 作者反而引用單性別教育的好處。<br>答案 C。",
+  "<b>解題關鍵：</b>定位情緒段：女孩較早建立 amygdala 與 cerebral cortex 的連結，所以能談自己的感受；男孩此連結較晚形成。<br>(A) 不是只說女孩較情緒化。<br>(B) 沒比較腦細胞數。<br>(C) amygdala 位置沒有不同。<br>(D) 特定腦區連結較早發展，完全符合。<br>答案 D。",
+  "<b>解題關鍵：</b>結尾主張父母教師應 recognize, understand, and make use of biological differences，表示教育方式應配合男女差異。<br>(A) 沒說女孩需更多溝通訓練。<br>(B) 應以不同方式教育，符合作者立場。<br>(C) 不是只多注意男孩。<br>(D) 和作者要運用差異相反。<br>答案 B。",
+  "<b>解題關鍵：</b>第一段先說二十年前大家相信差異主要來自教養，接著說今天很難 cling to that belief，因新研究顯示有生理差異。<br>(A) maintain：維持、繼續相信，能替換 cling to。<br>(B) abandon：放棄，方向相反。<br>(C) evaluate：評估；(D) challenge：挑戰，都不是「固守信念」。<br>答案 A。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -7214,62 +7214,62 @@ window.BANK.push({
 // 95 學年度學科能力測驗英文考科（單選題 56 題）；題目與答案取自大考中心官方資料。
 (() => {
   const explanations={
-    1:"若負擔得起便出國度假，can afford to V 表示「有能力／財力做……」。",
-    2:"父母為孩子設定不切實際目標是常見錯誤，common 表示「常見的」。",
-    3:"sandwich、hamburger 起初來自人名或地名，originally 表示「原先」。",
-    4:"詢問是否曾好奇古埃及人如何建金字塔，wondered 表示「想知道、感到好奇」。",
-    5:"學生被動學習讓老師失望，learning attitude 是「學習態度」。",
-    6:"Anne 害怕對三百人演講，一想到便焦慮；anxious 表示「焦慮的」。",
-    7:"派對與重要商務會議衝突，只好婉拒邀請；decline an invitation 表示「謝絕邀請」。",
-    8:"夜市賣炸雞看似不起眼，實際卻很賺錢；profitable 表示「有利潤的」。",
-    9:"爆炸造成六十人死亡，乘客只是險些喪命；narrowly escaped death 表示「死裡逃生」。",
-    10:"聽完自我介紹才認出小學同學，recognize 表示「認出」。",
-    11:"捷運屬公共運輸建設，transportation projects 是「交通運輸計畫」。",
-    12:"能替代表團口譯，表示中英文掌握良好；have a good command of 表示「精通」。",
-    13:"忙於準備考試，連完整週末休息都成奢侈；the luxury of 表示「難得享有的事」。",
-    14:"在烈日下慢跑一下午後精疲力竭，worn out 表示「筋疲力盡的」。",
-    15:"未繳帳單後網路公司中斷連線，cut off 表示「切斷」。",
-    16:"母親擔心兒子管理金錢的方式，manage money 表示「理財、管理金錢」。",
-    17:"大學生喜歡沉浸於派對、電影與活動，indulge in 表示「沉溺、盡情享受」。",
-    18:"Regarding the extra money 表示「關於你要的額外金錢」，regarding 作介系詞。",
-    19:"母親大學時打兩份工維持收支平衡，make ends meet 表示「勉強維持生計」。",
-    20:"缺錢時可找工作或削減開支，cut down on expenses 表示「減少支出」。",
-    21:"面對危險完成非凡行動，amazing act 表示「令人驚嘆的行為」。",
-    22:"平凡英雄的工作未被多數人注意，unnoticed 表示「未受注意的」。",
-    23:"make a difference in... 是固定搭配，表示「對……造成影響」。",
-    24:"英雄標誌不在結果，而在他們願意為他人做什麼；what 作 do 的受詞並引導名詞子句。",
-    25:"即使英雄失敗，其決心仍供後人追隨；Even if 表示「即使」。",
-    26:"兩方球迷持續爭論最受歡迎運動，某些論點每季仍相同；arguments 表示「爭論、主張」。",
-    27:"主詞 Baseball 為單數，且棒球吸引偏愛安靜複雜比賽的球迷，故用 attracts。",
-    28:"前面比較比賽性質，接著補充場次差異，In addition 表示「此外」。",
-    29:"棒球隊六個月期間幾乎每天比賽，almost every day 符合語意。",
-    30:"美式足球迷愛中場活動，相反地棒球迷專注細節，On the contrary 表示「相反地」。",
-    31:"健康無法靠快速看一次醫生就取回，a visit to a doctor 表示「去看醫生」。",
-    32:"保持健康必須是自己的責任，responsibility 表示「責任」。",
-    33:"keeping、neglecting、ignoring 為平行動名詞；neglecting symptoms 表示「忽略症狀」。",
-    34:"健康專家倡導人人追求 wellness，promote the idea 表示「推廣觀念」。",
-    35:"Wellness 指在身體限制內達到最佳健康，achieving 表示「達成」。",
-    36:"不同人適合不同強度，有些偏好大量較容易的運動，easier 與 challenging 對比。",
-    37:"了解自己身體需求是關鍵，the key 表示「關鍵所在」。",
-    38:"沒人能保證避免慢性疾病，chronic disease 是「慢性病」。",
-    39:"不良飲食、壓力與疏忽會破壞健康，ruin 表示「毀壞」。",
-    40:"改變習慣可降低風險或減輕疾病傷害，lower the risk 表示「降低風險」。",
-    41:"文章末段推薦當月暢銷書並叫讀者拿一本來學減壓，主要目的是推銷該書，選 D。",
-    42:"worry 會造成 ulcer、高血壓與心臟病，ulcer 與後兩者同為身體問題，選 B。",
-    43:"壓力反應能釋放荷爾蒙，使人在危險中更快、更有力地反應，屬正面效果，選 D。",
-    44:"Learn to Lighten Up and Live Longer 被明稱為本月暢銷書，因此選 C。",
-    45:"十七世紀初歐洲與遠東開始貿易後，茶傳入歐洲，原因是商業活動，選 C。",
-    46:"第二段說大部分國際茶葉貿易是紅茶，顯示全球最普遍的是 black tea，選 B。",
-    47:"烏龍茶製法與紅茶相似，只是不經發酵時間，因此選 C。",
-    48:"末段說茶因品種眾多且能提神、清爽而廣受世界喜愛，可推論選 D。",
-    49:"全文依序說太空人在任務中工作、研究、運動、出艙及最後返地，主旨是太空任務如何完成，選 B。",
-    50:"conduct experiments 表示「進行實驗」，最接近 carry out，選 D。",
-    51:"太空衣提供必要氧氣並調節極端溫度，因此「幾乎無法呼吸」不正確，NOT 題選 D。",
-    52:"著陸時阻力傘用來穩定太空梭、調整速度並協助煞停，核心是減速，選 A。",
-    53:"文章描述 Hirsch 以 MRI 比較兒童期與成人期學第二語言者的大腦區域，目的在介紹雙語大腦研究，選 C。",
-    54:"受試者在 MRI 中用兩種語言思考，以觀察哪些腦區血流增加、活動更強，選 A。",
-    55:"文章明說 Broca’s area 控制語言產出，Wernicke’s area 處理意義，選 D。",
-    56:"兩組人在使用任一語言時都用 Wernicke’s area 的同一區域，因此選 A。"
+    1:"<b>解題關鍵：</b>句尾已有 to，空格要和 to 組成「有能力做某事」；又因為是出國度假，重點是付不付得起。<br>(A) pay：付錢，通常說 pay for something，不能說 pay to。<br>(B) move：移動，和財力無關。<br>(C) expose：使暴露，常用 expose A to B，語意不合。<br>(D) afford：負擔得起；afford to travel 正好表示有錢出國旅行。<br>把答案放回去：如果我們負擔得起，暑假就會出國度假。",
+    2:"<b>解題關鍵：</b>後面說「父母常替孩子訂下不切實際的目標」，題目要形容這是一種常見的教養錯誤。<br>(A) terrific：極好的，不能拿來形容錯誤很常出現。<br>(B) common：常見的，符合 found in parenthood 的語意。<br>(C) straight：筆直的、直接的，不能表示常見。<br>(D) favorable：有利的、令人贊同的，和 mistake 的負面意思衝突。<br>把答案放回去：教養孩子時常見的一個錯誤，就是設定不實際的目標。",
+    3:"<b>解題關鍵：</b>句子在介紹 sandwich、hamburger 這些字「一開始」其實是人名或地名，重點是來源。<br>(A) originally：原先、最初，能接後來意思改變的情況。<br>(B) ideally：理想上，不是在談理想狀況。<br>(C) relatively：相對地，需要有比較對象。<br>(D) sincerely：真誠地，多修飾說話或希望。<br>把答案放回去：有些字最初是人名，甚至是城鎮名稱。",
+    4:"<b>解題關鍵：</b>Have you ever... 後接 how 問句，表示「你是否曾想知道古埃及人怎麼建金字塔」。<br>(A) concluded：下結論，不能自然接「如何」來表達好奇。<br>(B) wondered：想知道、感到好奇，wonder how 是常見搭配。<br>(C) admitted：承認，後面通常接一件已知的事。<br>(D) persuaded：說服，必須有被說服的人。<br>把答案放回去：你是否曾好奇古埃及人如何完成金字塔這樣驚人的工程？",
+    5:"<b>解題關鍵：</b>passive 是「消極、被動的」，老師失望的原因是學生抱持消極的學習態度；learning attitude 是固定而自然的搭配。<br>(A) result：結果，不能說「被動的學習結果」。<br>(B) progress：進步，通常不以 passive 形容。<br>(C) attitude：態度，正好描述學生面對學習的心態。<br>(D) energy：精力，having an energy 也不自然。<br>把答案放回去：學生的學習態度消極，因此老師很失望。",
+    6:"<b>解題關鍵：</b>dreaded 表示 Anne 很害怕演講，even thinking about it 又強調光想到就出現負面情緒。<br>(A) passionate：熱情的，和害怕相反。<br>(B) anxious：焦慮不安的，符合上台面對三百人的壓力。<br>(C) ambitious：有企圖心的，不是當下情緒。<br>(D) optimistic：樂觀的，也和 dread 的線索衝突。<br>把答案放回去：Anne 害怕演講，甚至一想到就焦慮。",
+    7:"<b>解題關鍵：</b>because 後說派對和重要商務會議撞期，所以說話者只能拒絕邀請。<br>(A) decline：婉拒；decline an invitation 是自然搭配。<br>(B) depart：離開，通常不直接接受詞 invitation。<br>(C) devote：奉獻，常用 devote time to。<br>(D) deserve：值得，語意和句型都不合。<br>把答案放回去：因為時間衝突，我只好婉拒 Jack 的派對邀請。",
+    8:"<b>解題關鍵：</b>but 表示前後轉折：看來不像體面的生意，「其實」卻很能賺錢。<br>(A) plentiful：大量的，通常形容資源或食物。<br>(B) precious：珍貴的，不等於賺錢。<br>(C) profitable：有利潤的，正好呼應 business。<br>(D) productive：有生產力的，可形容人或活動有效率，但不直接表示有利潤。<br>把答案放回去：夜市賣炸雞看似不起眼，實際上相當賺錢。",
+    9:"<b>解題關鍵：</b>爆炸造成六十人死亡，乘客能逃過死亡一定是「差一點就沒命」；escaped death 前要用表示驚險程度的副詞。<br>(A) traditionally：傳統上。<br>(B) valuably：有價值地，英文也不自然。<br>(C) loosely：鬆散地。<br>(D) narrowly：勉強地、驚險地；narrowly escape death 是「死裡逃生」。<br>把答案放回去：乘客在爆炸中驚險逃過一劫。",
+    10:"<b>解題關鍵：</b>until 表示 Jerry 聽到自我介紹後，才把眼前的人和小學同學 Mary 對上。<br>(A) acquaint：使認識，常用 acquaint A with B。<br>(B) acquire：取得、學會。<br>(C) recognize：認出曾見過的人，符合情境。<br>(D) realize：了解、意識到，不能直接表示認出某人。<br>把答案放回去：Jerry 聽完介紹後才認出 Mary。",
+    11:"<b>解題關鍵：</b>such as the MRT 直接舉捷運為例，空格要表示公共「運輸」建設。<br>(A) transportation：交通運輸，transportation projects 可包含捷運。<br>(B) traffic：路上車流、交通狀況，traffic project 不等於運輸建設。<br>(C) travel：旅行。<br>(D) transfer：轉移、轉乘，範圍太小。<br>把答案放回去：數項公共運輸建設完成後，郊區居民通勤更方便。",
+    12:"<b>解題關鍵：</b>Miss Lin 能替美國代表團口譯，表示她「精通」中英文；have a good command of 是固定搭配。<br>(A) writing：寫作，只有寫作好不足以說明口譯能力。<br>(B) program：計畫、程式。<br>(C) command：掌握能力；a good command of a language 即精通語言。<br>(D) impression：印象，have an impression of 才是對……有印象。<br>把答案放回去：她中英文能力良好，所以受派擔任口譯。",
+    13:"<b>解題關鍵：</b>so hard...that 說明準備考試忙到連完整週末休息都沒有，這種難得享受可用 luxury。<br>(A) luxury：奢侈享受；the luxury of free time 指難得擁有的空閒。<br>(B) license：執照、許可。<br>(C) limitation：限制。<br>(D) strength：力量。<br>把答案放回去：我為入學考努力讀書，連週末休息這種難得享受都沒有。",
+    14:"<b>解題關鍵：</b>after jogging in the hot sun all afternoon 與 little energy left 都指出她已精疲力盡。<br>(A) kicked out：被趕出去。<br>(B) handed out：被分發；hand out 也可指發東西。<br>(C) worn out：累壞的、筋疲力盡的，符合沒力氣。<br>(D) put out：被熄滅或感到受打擾。<br>把答案放回去：Kim 在烈日下跑了一下午，整個人累壞了。",
+    15:"<b>解題關鍵：</b>Jason 沒付帳單，網路公司採取的處置是「切斷」連線。<br>(A) cut off：中斷供應或連線，符合 Internet connection。<br>(B) cut back：縮減，常接 on expenses。<br>(C) cut short：提早結束某活動。<br>(D) cut down：砍倒或減少數量。<br>把答案放回去：Jason 未繳費，因此網路公司中斷他的網路。",
+    16:"<b>解題關鍵：</b>母親擔心兒子花錢的方式，後文又要求他在有限預算內生活，所以空格是「管理金錢」。<br>(A) manage：管理，manage money 即理財。<br>(B) restrict：限制，通常是 restrict spending，不說 restrict money。<br>(C) charge：收費。<br>(D) deposit：存入銀行。<br>把答案放回去：母親很擔心兒子管理金錢的方式。",
+    17:"<b>解題關鍵：</b>後面列出 parties, movies, activities，並以 but 提醒仍要節制，表示學生喜歡沉浸在娛樂中。<br>(A) indulge in：沉浸、盡情享受，能直接接活動。<br>(B) dwell in：居住於。<br>(C) attend to：處理、照料。<br>(D) apply to：適用於或向……申請。<br>把答案放回去：大學生喜歡享受派對、電影和各種活動。",
+    18:"<b>解題關鍵：</b>空格後是名詞 the extra money，整句要轉換話題為「關於你這個月要的額外金錢」。<br>(A) Regarded：被視為，缺少被視為什麼。<br>(B) To regard：不定詞不能表「關於」。<br>(C) Being regarded：正在被視為，語意不完整。<br>(D) Regarding：介系詞，意思是「關於」，可直接接名詞。<br>把答案放回去：至於你要的額外金錢，母親決定不寄。",
+    19:"<b>解題關鍵：</b>母親說自己大學時打兩份工，目的應是賺到足夠的錢維持生活。<br>(A) catch up：趕上。<br>(B) get my way：如願、照自己的意思。<br>(C) keep in touch：保持聯絡。<br>(D) make ends meet：使收支相抵、勉強維持生計，符合打工原因。<br>把答案放回去：她當年做兩份兼職，只為維持生活。",
+    20:"<b>解題關鍵：</b>缺錢有兩條路：找工作增加收入，或 cut down on 減少支出；either...or 呈現對等方法。<br>(A) spirit：精神，不能說削減精神。<br>(B) expenses：開支，cut down on expenses 是減少花費。<br>(C) savings：存款，減少存款不能解決缺錢。<br>(D) estimate：估計。<br>把答案放回去：需要錢時可以找工作，或減少開支。",
+    21:"<b>解題關鍵：</b>文章把第一種英雄描述為在困境中做出不平凡行動，因此空格要是正面且令人驚嘆的形容詞。<br>(A) annoying：惱人的。<br>(B) interfering：干涉的。<br>(C) amazing：令人驚嘆的，符合英雄行動。<br>(D) inviting：吸引人的、邀請的，不能表示英勇。<br>把答案放回去：英雄會在危險時刻做出令人驚嘆的行動。",
+    22:"<b>解題關鍵：</b>第二種英雄過著平凡生活，後面卻說他們影響他人；對比之下，他們的工作通常「沒被大家注意」。<br>(A) noticing：正在注意，主動意思。<br>(B) noticeable：顯眼的。<br>(C) noticed：被注意，和文章對比不合。<br>(D) unnoticed：未受注意的，work done unnoticed 表示默默工作。<br>把答案放回去：平凡英雄默默工作，卻改變他人的生命。",
+    23:"<b>解題關鍵：</b>a difference 前的動詞是固定搭配 make a difference，表示「帶來改變、造成影響」。<br>(A) make：make a difference in lives，正確。<br>(B) do：中文雖像「做出」，英文不說 do a difference。<br>(C) tell：告訴。<br>(D) count：計算或重要，不能接 a difference。<br>把答案放回去：這些平凡英雄對別人的人生帶來改變。",
+    24:"<b>解題關鍵：</b>空格後是完整的 they are willing to do，但 do 缺少「做什麼」的受詞，所以要用 what 同時補足受詞並引導子句。<br>(A) what：所做的事情，what they do 正確。<br>(B) who：誰，不能當 do 的事物受詞。<br>(C) those：那些人，後面不能直接接完整子句。<br>(D) where：哪裡，表示地點。<br>把答案放回去：英雄的標誌在於他們願意為別人做什麼。",
+    25:"<b>解題關鍵：</b>後句說英雄「失敗」，決心仍會流傳，前後是即使發生壞結果也不改變後果的讓步關係。<br>(A) Not until：直到……才，需要倒裝或主句配合。<br>(B) Even if：即使，符合語意。<br>(C) As if：彷彿。<br>(D) No sooner than：一……就……，句型不合。<br>把答案放回去：即使英雄失敗，他們的決心仍能引領後人。",
+    26:"<b>解題關鍵：</b>第一句說棒球迷和美式足球迷不斷爭論；下一句說雖然每季入場人數改變，有些「爭論觀點」始終不變。<br>(A) agreements：協議，和 argue 相反。<br>(B) arguments：爭論、論點，承接首句。<br>(C) accomplishments：成就。<br>(D) arrangements：安排。<br>把答案放回去：每季數字雖變，兩派的某些論點仍相同。",
+    27:"<b>解題關鍵：</b>空格和前面的 seems 並列，主詞都是單數 Baseball，因此現在式動詞要加 -s；語意是棒球吸引偏好安靜複雜比賽的人。<br>(A) attracted：過去式，和 seems 時態不一致。<br>(B) is attracted：被吸引，主被動顛倒。<br>(C) attract：未配合單數主詞。<br>(D) attracts：單數現在式且語意正確。<br>把答案放回去：棒球吸引喜歡安靜、複雜比賽的球迷。",
+    28:"<b>解題關鍵：</b>前面已比較兩種運動的節奏，後面繼續補充一年比賽場次的另一項差異，不是因果也不是反駁。<br>(A) In addition：此外，用來增加一項論點。<br>(B) As a result：因此，前後沒有因果。<br>(C) In contrast：相較之下，但真正的 baseball 對比在下一句。<br>(D) To some extent：某種程度上。<br>把答案放回去：此外，美式足球隊一年通常不超過十四場。",
+    29:"<b>解題關鍵：</b>however 對比美式足球一年只有少數場；棒球在六個月裡接近天天比賽，因此要用 almost。<br>(A) hardly：幾乎不，會變成幾乎不比賽。<br>(B) almost：幾乎，almost every day 合理。<br>(C) somehow：不知何故。<br>(D) rarely：很少，和場次多的對比相反。<br>把答案放回去：棒球隊六個月中幾乎每天都有比賽。",
+    30:"<b>解題關鍵：</b>前句說美式足球迷喜愛中場表演；後句說棒球迷反而專注比賽細節，兩者方向相反。<br>(A) Even so：即使如此，表示前項成立仍有意外結果。<br>(B) For that reason：因此，不是因果。<br>(C) On the contrary：相反地，符合兩種球迷的對照。<br>(D) By the same token：同樣地，與相反意思不合。<br>把答案放回去：相反地，棒球迷更專注比賽細節。",
+    31:"<b>解題關鍵：</b>空格前有 a quick，後有 to a doctor，因此需要可數名詞；a visit to a doctor 是「去看一次醫生」。<br>(B) visit：拜訪、看診，詞性與搭配都正確。<br>(F) responsibility 與 (H) key 雖也是名詞，卻不能說 a responsibility/key to a doctor；其餘選項不是名詞或意思不合。<br>把答案放回去：健康不是買得到的，也不能快速看一次醫生就完全恢復。",
+    32:"<b>解題關鍵：</b>your own 後面需要名詞；文章強調不能只依賴醫藥，保持健康是每個人自己的責任。<br>(F) responsibility：責任，your own responsibility 搭配正確。<br>(H) key：關鍵，若填入會變成「健康是自己的鑰匙」，意思不通；(B) visit 雖是名詞，也不符合自己負責的語意。<br>把答案放回去：保持自己的健康，必須是你自己的責任。",
+    33:"<b>解題關鍵：</b>by 後列出 keeping bad habits、空格 symptoms、and ignoring rules，三項要用相同的 -ing 形式。<br>(C) neglecting：忽視，neglecting symptoms 是忽略病徵。<br>(J) achieving 也是 -ing 形式，但「達成症狀」語意錯；其他選項不是能接 symptoms 的動名詞。<br>把答案放回去：若保留壞習慣、忽略病徵又不守健康規則，再好的藥也幫助有限。",
+    34:"<b>解題關鍵：</b>主詞 health specialists 後需要動詞，受詞是 the idea；專家是在「推廣」全民健康的觀念。<br>(I) promote：推廣、倡導，promote an idea 搭配自然。<br>(A) ruin 與 (D) lower 雖可當動詞，但分別是毀掉、降低，不符合專家的正面作法；其他選項詞性不合。<br>把答案放回去：現在健康專家提倡每個人都追求全人健康。",
+    35:"<b>解題關鍵：</b>means 後要說 wellness 的定義；空格後有受詞 the best possible health，因此需要能接受詞的 -ing 動詞。<br>(J) achieving：達成，表示達到身體能力範圍內最佳健康。<br>(C) neglecting 雖也是 -ing，卻是忽視健康，和 wellness 相反；(I) promote 是原形，句型也不合。<br>把答案放回去：全人健康是指在身體限制內達到最佳健康狀態。",
+    36:"<b>解題關鍵：</b>空格修飾 exercise，需要形容詞；後面用 to more challenging exercise 做比較，意思是有人寧可做大量「較容易的」運動。<br>(E) easier：較容易的，與 more challenging 形成清楚對比。<br>(G) chronic 也是形容詞，但 chronic exercise 不是本文要表達的意思；其他選項詞性不適合直接修飾 exercise。<br>把答案放回去：有些人偏好多做較輕鬆的運動，而不是難度高的運動。",
+    37:"<b>解題關鍵：</b>the 後需要名詞；此段列舉每個人的運動與熱量需求不同，最後總結了解自己的身體才是「關鍵」。<br>(H) key：關鍵，the key 可單獨作表語。<br>(F) responsibility 也是名詞，但這一句不是再談責任，而是在總結找到合適健康方式的重點；(B) visit 更不合語意。<br>把答案放回去：了解自己身體真正需要什麼，才是關鍵。",
+    38:"<b>解題關鍵：</b>空格直接修飾 disease，所以要用形容詞；文章說沒有人能保證不會得到長期疾病。<br>(G) chronic：慢性的，chronic disease 是「慢性病」的固定說法。<br>(E) easier 雖是形容詞，但「較容易的疾病」不合句意；其他選項不是適當形容詞。<br>把答案放回去：沒有人能確定自己可以避開慢性疾病。",
+    39:"<b>解題關鍵：</b>主詞是 poor diet、stress 等負面因素，can 後需要原形動詞，受詞是 good health；意思是這些因素會「毀掉」健康。<br>(A) ruin：毀壞，ruin good health 語意完整。<br>(D) lower：降低，通常接 risk、price 等程度；不能自然說 lower good health。(I) promote 則是促進，和負面因素相反。<br>把答案放回去：不良飲食、壓力和疏忽會破壞健康。",
+    40:"<b>解題關鍵：</b>or 連接兩個平行動作：空格 the risk 或 reduce the damage；因此空格要有「降低」之意。<br>(D) lower：降低，lower the risk 是常見搭配。<br>(A) ruin：毀壞風險，搭配不通；(I) promote：促進風險，與改善健康相反；其餘選項詞性不合。<br>把答案放回去：改變習慣或環境，可以降低罹病風險或減少傷害。",
+    41:"<b>解題關鍵：</b>主旨目的要特別看結尾：作者點出《Learn to Lighten Up and Live Longer》是本月暢銷書，接著叫讀者 grab a copy「拿一本來看」。<br>(A) 壓力較大的青少年只是開頭材料。<br>(B) 文章說壓力是身心互動，不只心理問題。<br>(C) 並未真正列出書中的減壓方法。<br>(D) 結尾直接推薦讀者買書，最符合寫作目的。<br>因此答案是 D：文章主要在推廣一本減壓書。",
+    42:"<b>解題關鍵：</b>不要單靠生字猜；第二段把 ulcer 和 high blood pressure、heart attack 並列，都是焦慮可能造成的身體疾病。<br>(A) mental illness 是心理疾病，但上下文談的是心對身體的傷害。<br>(B) physical problem 是身體問題，符合並列線索。<br>(C) spiritual healing 是心靈療癒。<br>(D) physiological treatment 是生理治療，不是疾病。<br>所以 ulcer 在此指某種身體問題，答案 B。",
+    43:"<b>解題關鍵：</b>第三段先說 stress is not always bad，再舉正面例子：壓力反應釋放荷爾蒙，使人在危險中反應更快、更有力。<br>(A) 看喜劇能減痛，但不是壓力的效果。<br>(B) 放鬆運動未提到。<br>(C) 文章說壓力可推動人做困難的事，不是逃避。<br>(D) 危險時快速反應正是原文例子。<br>因此正面效果是 D。",
+    44:"<b>解題關鍵：</b>逐項回原文核對，TRUE 題只能選文章確實支持的敘述。<br>(A) 原文說美國青少年壓力比例高於台灣，方向相反。<br>(B) 文末提出可控制壓力，並非複雜到無法控制。<br>(C) 書名後明寫 the best seller of the month，表示是當月暢銷書。<br>(D) 文章說壓力有好有壞，太多會傷身，不能說總是利大於弊。<br>答案是 C。",
+    45:"<b>解題關鍵：</b>第一段定位 early 1600s：tea was introduced to Europe, when trade began between Europe and the Far East。trade 就是商業貿易。<br>(A) revolution 革命，未提。<br>(B) marriage 婚姻，未提。<br>(C) business 商業，和 trade 同義。<br>(D) education 教育，未提。<br>因此茶傳到歐洲的原因是商業往來，答案 C。",
+    46:"<b>解題關鍵：</b>第二段開頭列三種茶，緊接著說 Most international tea trading is in black tea，國際交易大多是紅茶。<br>(A) Green tea 有介紹製法，但不是最大宗。<br>(B) Black tea 符合 most 的線索。<br>(C) Oolong tea 只說製法類似紅茶。<br>(D) European tea 不是文章列出的茶種。<br>因此全球最普遍的是紅茶，答案 B。",
+    47:"<b>解題關鍵：</b>第二段逐一寫製茶方法；烏龍茶的定位句是 prepared similarly to black tea, but without the fermentation time。<br>(A) 紅茶葉要晴天採，不是陰天。<br>(B) 炭火烘乾寫的是紅茶，不是綠茶。<br>(C) 烏龍茶製法和紅茶相似，完全符合原文。<br>(D) 蒸、揉、乾是綠茶流程，沒有說烏龍茶先蒸。<br>TRUE 題答案 C。",
+    48:"<b>解題關鍵：</b>推論要用文末證據：茶有 many varieties，而且是 refreshing and stimulating drink，所以世界各地的人持續飲用。<br>(A) 文章沒說喝茶能致富或健康。<br>(B) 印度 1834 年開始栽種，Java 是後來列出的產地，不能推成更早。<br>(C) 中國茶樹可活百年，和短命相反。<br>(D) 品種多又清爽提神，正好整合文末兩項理由。<br>答案 D。",
+    49:"<b>解題關鍵：</b>主旨要看全文流程：第一段寫任務中的研究、實驗與運動，第二段寫出艙工作，第三段寫任務結束後返地。<br>(A) 飛行太空梭只是局部。<br>(B) 從工作到返航都在說太空任務如何完成，涵蓋全文。<br>(C) 沒有介紹建造方式。<br>(D) 沒有討論飛行距離。<br>所以主旨是 B。",
+    50:"<b>解題關鍵：</b>conduct 出現在 conduct experiments，後面又說實驗目的是研究微重力影響；此處是「進行實驗」。<br>(A) behave 是表現、行為，常說 conduct oneself 才有此義。<br>(B) instruct 是指導。<br>(C) serve as 是擔任。<br>(D) carry out 是執行、進行，能替換 conduct。<br>把答案放回去：太空人在太空梭上進行實驗，答案 D。",
+    51:"<b>解題關鍵：</b>這是 NOT 題，要找和原文相反者。第二段說太空衣提供氧氣，並隔絕極熱與極冷。<br>(A) 出艙工作要穿太空衣，正確。<br>(B) 太空衣避免極冷，可保暖，正確。<br>(C) 氧氣與溫度保護讓太空人生存，正確。<br>(D) 說穿太空衣幾乎不能呼吸，卻和 provides necessary oxygen 相反。<br>所以不正確的是 D。",
+    52:"<b>解題關鍵：</b>第三段定位 drag parachute：它穩定飛行器、調整速度，並幫助輪煞車使太空梭完全停止，核心功能是減速。<br>(A) slow down 符合 get the speed right 和 stop。<br>(B) 不是防止墜落。<br>(C) 接近地球是在開傘前。<br>(D) 太空梭先滑翔穿越大氣層，著陸後才開傘。<br>因此答案 A。",
+    53:"<b>解題關鍵：</b>全文圍繞 Hirsch 的研究：用 MRI 比較兒童時期與成年後學第二語言的人，觀察他們使用哪些腦區。<br>(A) 沒有一般性說明人如何變雙語。<br>(B) 沒教提升學習的方法。<br>(C) 描述雙語者大腦研究，涵蓋研究對象、方法與結果。<br>(D) 最後只提出可能解釋，不是整理最佳學法。<br>文章目的為 C。",
+    54:"<b>解題關鍵：</b>第一段直接說 MRI 讓 Hirsch 看見哪些腦區得到較多血液、活動較強；受試者要分別用兩種語言思考。<br>(A) 觀察使用語言時的大腦活動，符合研究設計。<br>(B) 受試者不能出聲，因動作會干擾掃描。<br>(C) 沒有讓他們睡覺。<br>(D) 研究是比較活動區域，不是找最佳學習區。<br>答案 A。",
+    55:"<b>解題關鍵：</b>第二段明確定義兩個語言中心：Broca’s area 控制 speech production，Wernicke’s area 處理 meaning。<br>(A) MRI 是掃描儀器。<br>(B) native tongue 是母語。<br>(C) Wernicke’s area 處理語意，不是產生語言。<br>(D) Broca’s area 控制說話產出，完全符合題目。<br>因此答案 D。",
+    56:"<b>解題關鍵：</b>第二段說 both groups used the same part of Wernicke’s area no matter what language，兩組人不論用哪種語言都使用同一區。<br>(A) 符合原文。<br>(B) Broca 區只有兒童期學第二語言者使用同一區，不能說 always。<br>(C) 兩個區域都有使用，不是 never。<br>(D) Wernicke 區是相同，不是不同。<br>所以 TRUE 題答案 A。"
   };
   const q=(no,cat,tags,textType,answer,stem,options,group)=>({no,cat,tags,lang:group?"題組":"單題",textType,answer,stem,options,...(group?{group}:{}),...(explanations[no]?{explain:explanations[no]}:{})});
   const wellness={A:"ruin",B:"visit",C:"neglecting",D:"lower",E:"easier",F:"responsibility",G:"chronic",H:"key",I:"promote",J:"achieving"};
@@ -8445,62 +8445,62 @@ window.BANK.push({
 });
 
 [
-  "電腦價格下降後，今日已在學校與辦公室被廣泛使用；widely 表示「廣泛地」。",
-  "老師努力回答所有問題，即使問題聽來愚蠢也不會忽略；ignore 表示「忽略」。",
-  "約翰把舊信封拿來記電話留言，屬於回收再利用；recycles 符合語意。",
-  "起司、奶粉與優格都是乳製品；products 表示「產品、製品」。",
-  "Although 帶出轉折：他雖是名廚，卻很少親自做飯；rarely 表示「很少」。",
-  "公司刊登職缺以吸引應徵者；vacant positions 指「空缺職位」。",
-  "圖書館提供學生可使用的書籍、影片與其他媒體；available 表示「可取得、可使用的」。",
-  "煙火工廠起火後引發數次爆炸；explosions 表示「爆炸」。",
-  "官員應抵抗不當利益的誘惑；resist the temptation 是「抗拒誘惑」。",
-  "毒販販售古柯鹼時被逮捕；arrested 表示「逮捕」。",
-  "科學家尋找新能源來取代石油；replace 表示「取代」。",
-  "約翰與世隔絕，現代科技發明對他而言十分陌生；foreign 可表示「陌生的」。",
-  "藥物會引起嗜睡，因此服藥後不應開車；drowsiness 表示「昏昏欲睡」。",
-  "議員在電視上激烈爭論，是為爭取曝光與宣傳；publicity 表示「公眾注意、宣傳」。",
-  "先排定工作的優先順序，再從最重要的開始；priority 表示「優先次序」。",
-  "dare to 後接原形動詞；李安敢於反抗父親的期望，故選 rebel。",
-  "語意是他為自己的獨特之處感到驕傲；take pride in 表示「以……為榮」。",
-  "此處回顧李安年幼時的經驗；As a small child 意為「在他還是小孩時」。",
-  "逗點後為補充說明父親的關係子句，先行詞是人，故用 who。",
-  "父親聽見他的志向後以嘲笑回應；reacted with a scoff 符合語意。",
-  "圖片警語讓吸菸者直接看見吸菸如何傷害健康；how smoking damages their health 最完整。",
-  "前文談菸盒上的圖像警語，後文以研究說明其效果，故主詞為 warnings。",
-  "研究指出圖像警語使想戒菸者增加百分之四十四，故選 increase。",
-  "highlighting 是現在分詞，補充說明警語凸顯吸菸危害的作用。",
-  "圖像警語對所有人都有作用，尤其能影響容易受廣告吸引的青少年；especially 符合語意。",
-  "動物感到疼痛，是為了能避開危險、保護自己；so that 表示目的。",
-  "後句以動物觸碰高溫物體後縮回為例，故用 For example。",
-  "動物會從疼痛帶來的不適中學習；discomfort 與 pain 的語意相符。",
-  "植物無法像動物一樣從一地移動到另一地；from place to place 符合文意。",
-  "許多植物被採收部分後仍可繼續生長，這點不同於動物的身體部位；unlike 表示「不同於」。",
-  "戀愛初期，人們常以為愛情會永遠持續；forever 符合語意。",
-  "人們也以為愛能讓自己擺脫父母造成的問題；free from 表示「免於、擺脫」。",
-  "相處一段時間後，日常生活逐漸占據一切；takes over 表示「接管、占據」。",
-  "前句談男性的期待，後句說女性也有相似期待，故用 similarly。",
-  "他們沒有花時間了解差異，反而彼此要求；Instead of 表示「不是……而是……」。",
-  "彼此要求對方符合期待，結果就產生衝突；Consequently 表示「因此」。",
-  "當衝突持續，溝通便逐漸中斷；breaks down 表示「失靈、破裂」。",
-  "文章指出很少有人願意從衝突中成長；few 表示「少數、幾乎沒有」。",
-  "只要雙方尊重差異，愛情仍能成長；As long as 表示「只要」。",
-  "結尾強調這樣的愛確實可能很神奇；indeed 用來加強肯定語氣。",
-  "文章藉身材焦慮與自我接納說明：真正需要改變的是看待生命與自己的態度，而非身體大小。",
-  "作者以為變瘦後 everything 都會改善，這裡指她生活中的所有問題。",
-  "作者描述自己長期受體重與外貌困擾，因此最可能是親身經歷過身材焦慮的人。",
-  "文中說即使體重回升，人們仍相信下一次會不一樣，顯示他們持續抱持樂觀期待。",
-  "文章交代地震發生時間、死傷、救援與重建情形，具有災後新聞報導的特徵。",
-  "文中提到城內古老的泥磚城堡在地震中嚴重受損，故 castle 符合題意。",
-  "當地建物多以泥土與稻草等材料築成，抗震能力弱，因此造成嚴重倒塌。",
-  "約二萬五千人死亡，且約占全市人口三分之一；總人口約七萬五千人，故約五萬人倖存。",
-  "時差是身體內在生理時鐘尚未調整到目的地時間所造成，故選 adjusting one's biological clock。",
-  "文中說每跨一小時時差約需一天調整；跨三個時區約需三天，也就是七十二小時。",
-  "由西向東飛行時，身體必須把作息提前，通常比向西飛更難適應。",
-  "文章說明時差的成因、症狀及飛行方向造成的差異，主旨是介紹時差問題。",
-  "文中明確指出美國首次發現紅火蟻巢是在 1942 年。",
-  "紅火蟻巢中可有多隻蟻后同時繁殖，因此族群能迅速增加並擴散。",
-  "紅火蟻會危害農作與草地、破壞電線設備，也可能螫傷甚至致命，涵蓋農業、環境設施與健康問題。",
-  "全文介紹紅火蟻的來源、擴散、蟻巢與危害，目的在提供相關資訊。"
+  "<b>解題關鍵：</b>電腦價格變便宜，所以現在學校和辦公室到處都在使用，空格要表示使用範圍很廣。<br>(A) widely：廣泛地，widely used 是常見搭配，正確。<br>(B) expectedly：如預期地；(C) consciously：有意識地；(D) influentially：有影響力地，都沒有「各處普遍使用」的意思。<br>句意：電腦愈來愈便宜，因此今日廣泛用於學校與辦公室。",
+  "<b>解題關鍵：</b>前句說張老師總是努力回答全部問題，後句 even if 表示即使問題聽起來笨，他也不會不理。<br>(A) reform：改革；(B) depress：使沮喪；(C) ignore：忽略，正確；(D) confirm：確認。<br>把答案放回去：即使學生的問題很可笑，他也不會忽略任何一題。",
+  "<b>解題關鍵：</b>Irene 沒把舊信封丟掉，而是拿來記電話留言，這是把舊物再次使用。<br>(A) designs：設計；(B) recycles：回收再利用，正確；(C) disguises：偽裝；(D) manufactures：製造。<br>句意：她把用過的信封拿來記留言，達到再利用的目的。",
+  "<b>解題關鍵：</b>起司、奶粉和優格都是由牛奶製成的「產品」，空格需複數名詞。<br>(A) produces：動詞「生產」；(B) products：產品，milk products 即乳製品，正確；(C) productions：生產活動或製作；(D) productivities：生產力。<br>句意：這三樣都是常見乳製品。",
+  "<b>解題關鍵：</b>Although 是「雖然」，表示前後反差：他雖是廚師，卻不常煮自己的飯。<br>(A) rarely：很少，正確；(B) bitterly：痛苦地；(C) naturally：自然地；(D) skillfully：熟練地。後三項都無法形成「廚師卻不煮飯」的反差。<br>句意：Roberto 雖是廚師，卻很少為自己下廚。",
+  "<b>解題關鍵：</b>100 個 positions 吸引許多人 applicants（應徵），表示這些職位目前沒有人任職。<br>(A) loyal：忠誠的；(B) evident：明顯的；(C) typical：典型的；(D) vacant：空缺的，vacant positions 是「職缺」，正確。<br>句意：因有年終獎金，公司的一百個職缺吸引全島求職者。",
+  "<b>解題關鍵：</b>題幹說到圖書館就能借雜誌、錄音帶和光碟，表示這些資料在那裡可以取得。<br>(A) sufficient：足夠的；(B) marvelous：很棒的；(C) impressive：令人印象深刻的；(D) available：可取得、可使用的，正確。<br>句意：想借這些資料，可以去圖書館，那裡都有。",
+  "<b>解題關鍵：</b>煙火工廠發生火災，set off 是「引發」，且造成四人死亡，最合理的是一連串強烈爆炸。<br>(A) explosions：爆炸，正確；(B) extensions：延伸；(C) inspections：檢查；(D) impressions：印象。<br>句意：彰化煙火工廠大火引發多次強烈爆炸。",
+  "<b>解題關鍵：</b>好官員面對 money 的 temptation（誘惑）仍要做正確決定，所以必須抗拒。<br>(A) consist：由……組成，須接 of；(B) insist：堅持，常接 on；(C) resist：抵抗，resist the temptation 是固定搭配，正確；(D) persist：持續，也常接 in。<br>句意：好官員要抗拒金錢誘惑並做正確決定。",
+  "<b>解題關鍵：</b>毒販正在賣古柯鹼，主詞又接 by the police，警方會做的是逮捕。<br>(A) threatened：被威脅；(B) endangered：被置於危險；(C) demonstrated：被示範；(D) arrested：被逮捕，正確。<br>句意：毒販向高中生賣毒品時，被警方逮捕。",
+  "<b>解題關鍵：</b>油價上升，所以科學家尋找 new energy resources，目的是讓新能源取代石油。<br>(A) apply：應用；(B) replace：取代，replace oil 搭配正確；(C) inform：通知；(D) persuade：說服，後兩項需要人作受詞。<br>句意：油價上漲使科學家尋找能取代石油的新能源。",
+  "<b>解題關鍵：</b>John 多年沒接觸 outside world，所以許多科技發明對他而言不是熟悉常見，而是陌生。<br>(A) natural：自然的；(B) common：常見的；(C) foreign：外來的、陌生的，be foreign to someone 可表「某人不熟悉」，正確；(D) objective：客觀的。<br>句意：多年與外界隔絕，使許多科技發明令他感到陌生。",
+  "<b>解題關鍵：</b>後面提醒服藥後不要開車，表示感冒藥可能讓人昏昏欲睡。<br>(A) incident：事件；(B) violence：暴力；(C) bacteria：細菌；(D) drowsiness：嗜睡，正確。<br>句意：感冒藥可能引起嗜睡，因此吃藥後盡量別開車。",
+  "<b>解題關鍵：</b>立委故意打架，目的是出現在電視新聞上，也就是得到更多媒體曝光。<br>(A) publicity：公眾注意、宣傳，正確；(B) reputation：名聲，不一定靠上新聞；(C) significance：重要性；(D) communication：溝通。<br>句意：有些立委用肢體衝突爭取更多媒體曝光。",
+  "<b>解題關鍵：</b>後半句說 start with the most important ones，因此要先按「重要性先後」排列事情。<br>(A) authority：權威；(B) priority：優先順序，in order of priority 是固定搭配，正確；(C) regularity：規律性；(D) security：安全。<br>句意：有效率地生活，要先排優先順序，從最重要的事做起。",
+  "<b>解題關鍵：</b>dare 的句型是 dare to + 原形動詞，意思是「敢於做……」。<br>(A) rebel 少了 to；(B) to rebel 形成 dare to rebel，正確；(C) rebelling 是 ing 形；(D) be rebelled 是被動，但人是主動反抗傳統。<br>關鍵句：要有創意，就必須敢於反抗傳統並打破規則。",
+  "<b>解題關鍵：</b>空格後是 what makes you unique「讓你與眾不同之處」，作者鼓勵人珍惜自己的特色。<br>(A) take pride in：以……為榮，正確；(B) fall short of：未達到；(C) get out of：逃避；(D) keep up with：跟上。<br>句意：勇敢表達自己的觀點，並為獨特之處感到自豪。",
+  "<b>解題關鍵：</b>空格後 a small child 是名詞身分，句子要表示「李安小時候」。<br>(A) Since：自從／因為；(B) For：為了／長達；(C) To：向、為了；(D) As：身為、當……時，As a small child 正確。<br>句意：李安還是小孩時，就會拿掃把假裝彈吉他。",
+  "<b>解題關鍵：</b>兩個逗號中間補充說明 his father，先行詞是人，而且空格在子句中作主詞。<br>(A) who：指人並作主詞，正確；(B) while 和 (D) when 表時間；(C) that 在這種逗號隔開的補充子句不能使用。<br>句意：他的父親一直希望他讀博士、當教授。",
+  "<b>解題關鍵：</b>冒號後父親說「這些胡鬧是什麼！」並 scoff（嘲笑），表示父親對他的行為作出反應。<br>(A) relieved：使放心；(B) relaxed：放鬆；(C) relied：依靠，須接 on；(D) reacted：反應，reacted with a scoff 正確。<br>句意：父親以嘲笑回應他的表演志向。",
+  "<b>解題關鍵：</b>照片呈現受煙害的肺和牙齒，是要展示 smoking damages your health 的「方式與程度」。<br>(A) when：何時；(B) how：如何，how smoking damages... 正確；(C) where：哪裡；(D) what 後不能直接再接完整的 smoking damages。<br>句意：照片會呈現吸菸如何傷害健康。",
+  "<b>解題關鍵：</b>前文反覆談菸盒上的 shocking pictures 和 reminders；後面說加拿大使用四年並有效，所以空格指圖像警語。<br>(A) symbols：符號；(B) warnings：警語，正確；(C) commercials：廣告；(D) decorations：裝飾。<br>句意：這些圖像警語已在加拿大使用四年。",
+  "<b>解題關鍵：</b>加拿大措施 successful，並帶來 44% 的戒菸意願變化；成功表示想戒菸的人增加。<br>(A) increase：增加，正確；(B) change：變化，沒有說方向；(C) portion：部分；(D) drop：下降，和成功戒菸宣導相反。<br>句意：警語使想戒菸的人增加百分之四十四。",
+  "<b>解題關鍵：</b>句子已有主要動詞 have to put，空格不能再放一個有限動詞，而要用 ing 形補充說明 warnings 的內容。<br>(A) highlight、(B) highlights 都會形成第二個主要動詞；(C) highlighting：凸顯，正確；(D) highlighted 是被動意味。<br>句意：業者目前只須放上凸顯吸菸危險的文字警語。",
+  "<b>解題關鍵：</b>先說圖片符合 all people 的利益，後面特別點出可能開始吸菸的 teens，所以是從全部中強調一群。<br>(A) in fact：事實上；(B) rather than：而不是；(C) regarding：關於；(D) especially：尤其，正確。<br>句意：這對所有人都有益，尤其是可能受誘惑開始吸菸的青少年。",
+  "<b>解題關鍵：</b>動物能感到痛，後面說 use it for self-protection，疼痛的用途是讓牠們保護自己。<br>(A) although：雖然；(B) because：因為，但此處強調用途；(C) when：當……時；(D) so that：以便、為了，表示目的，正確。<br>句意：動物感到疼痛，才能用這種感覺自我保護。",
+  "<b>解題關鍵：</b>前句提出「疼痛能自我保護」，後句用碰到熱物後學會避開作具體例子。<br>(A) In contrast：相反地；(B) Before long：不久後；(C) For example：例如，正確；(D) To begin with：首先，不能清楚表示舉例。<br>句意：例如，碰到燙物感到痛，就會學會不再碰它。",
+  "<b>解題關鍵：</b>this 後需要名詞，且它回指觸碰燙物所感到的痛與不舒服。<br>(A) discomfort：不適、痛苦，正確；(B) prescription：處方；(C) enjoyment：享受；(D) satisfaction：滿足，後兩項與 pain 相反。<br>句意：動物會從這次不適中學到未來要避開燙物。",
+  "<b>解題關鍵：</b>植物與動物不同，不能移動；空格要完整表達「從一個地方到另一個地方」。<br>(A) from door to door：挨家挨戶；(B) from place to place：從各地移動，正確；(C) from top to toe：從頭到腳；(D) from case to case：視個案而定。<br>句意：植物不能四處移動，所以不需靠疼痛學習避開事物。",
+  "<b>解題關鍵：</b>動物的身體部位被取下通常會受重傷，但水果蔬菜可多次採收而植物不死，兩者形成對比。<br>(A) as with：和……一樣；(B) for：對於；(C) unlike：不同於，正確；(D) except for：除了。<br>句意：不同於動物身體部位，許多蔬果能重複採收而不使植物死亡。",
+  "<b>解題關鍵：</b>as if 表示「彷彿」，戀愛初期的人會覺得愛是 eternal（永恆的），所以後面要接時間副詞。<br>(F) forever：永遠，正確；(E) few 是很少；(I) free 是自由的，詞性和意思不合。<br>關鍵句：墜入愛河像魔法一般，彷彿愛會永遠持續。",
+  "<b>解題關鍵：</b>人們天真地以為自己的愛情不會遇到父母曾有的問題，也就是能「免受」那些問題影響。<br>(I) free：不受……影響，be free from 是固定搭配，正確；(F) forever 是時間副詞，不能接 from；(E) few 是數量詞。<br>句意：我們相信自己能避開父母遇過的感情問題。",
+  "<b>解題關鍵：</b>But 表示浪漫魔力漸退後，日常生活開始占滿兩人的相處。主詞 daily life 是單數。<br>(H) takes over：接管、占據，正確；(A) breaks down：故障、破裂，應用在後面的 communication；其他選項不能作此處的主要動詞。<br>句意：當魔力消退、日常生活占據一切，男女差異就浮現。",
+  "<b>解題關鍵：</b>前半說男性期待女性像男性一樣思考；分號後說女性也期待男性像女性一樣感受，兩者情況相似。<br>(C) similarly：同樣地，正確；(B) Consequently 表結果，但女性期待不是男性期待造成的；(D) indeed 只是加強語氣。<br>句意：同樣地，女性也期待男性用女性的方式感受與行動。",
+  "<b>解題關鍵：</b>後面說雙方變得 demanding、resentful，表示他們沒有花時間理解尊重，反而互相要求。<br>(G) Instead of：不是……而是……，後接 taking，正確；(J) As long as 是「只要」；(B) Consequently 是「因此」。<br>句意：我們不花時間理解彼此，反而變得苛求而不寬容。",
+  "<b>解題關鍵：</b>前句列出苛求、怨恨與批判，後句說關係充滿衝突，是前面態度造成的結果。<br>(B) Consequently：因此，正確；(C) similarly 表相似；(D) indeed 表強調，都沒有清楚因果。<br>句意：因此，關係中充滿原本可以避免的爭執。",
+  "<b>解題關鍵：</b>前面說問題出現、怨恨累積，接著「溝通」會失靈。主詞 communication 是單數。<br>(A) breaks down：失靈、破裂，正確；(H) takes over 是占據，不能表達溝通中斷；(F) forever 是副詞。<br>句意：問題與怨恨累積時，彼此的溝通就會破裂。",
+  "<b>解題關鍵：</b>Very 放在可數複數 people 前，且下一句 Yet, it does happen「但確實仍會發生」表示能在愛中成長的人不多。<br>(E) few：很少的，very few people 正確；(I) free 是自由的；(F) forever 是永遠。<br>句意：能讓愛持續成長的人非常少，但仍有人做得到。",
+  "<b>解題關鍵：</b>後句 love has a chance to blossom 是在「男女能尊重並接受差異」這個條件下發生。<br>(J) As long as：只要，表示條件，正確；(B) Consequently 是結果連接詞；(G) Instead of 後要接名詞或 ing。<br>句意：只要男女尊重彼此差異，愛就有機會開花。",
+  "<b>解題關鍵：</b>文章最後回到開頭的 magical，並肯定愛在尊重差異時確實可以長久。<br>(D) indeed：的確，用來加強肯定，正確；(C) similarly 是同樣地；(B) Consequently 是因此，都不符合插入語語氣。<br>句意：愛的確很神奇，只要記得並尊重彼此差異，就能長久。",
+  "<b>解題關鍵：</b>全文先寫作者以為變瘦能解決問題，最後卻領悟要改變對自己的態度、接納自己。<br>(A) 身體大小只是誤以為的問題；(B) 對生命與自己的態度，涵蓋結論，正確；(C)(D) 文化差異與美貌標準只是 Samoa 的例子。<br>主旨：幸福不由體重保證，而來自自我接納。",
+  "<b>解題關鍵：</b>第二段前句說 many people believe changing our bodies will fix everything；everything 回指他們希望身材改變後解決的所有傷痛、拒絕與生活問題。<br>(A) All the problems 正確；(B) properties 是財產；(C) whole world 範圍過大；(D) absolute truth 不是指涉內容。<br>句意：人們誤以為改變身體就能修好所有問題。",
+  "<b>解題關鍵：</b>第一段作者直接說多年來相信自己的 suffering 是體型造成，並期待減重帶走舊傷痛，表示長期受體重困擾。<br>(C) 符合原文。<br>(A) Samoa 只是文化例子；(B) 曾減重但又復胖，不算成功維持；(D) wounds 是心靈創傷，不是戰傷。<br>這是由第一人稱經歷合理推論。",
+  "<b>解題關鍵：</b>文中說體重減回來後，人們 even so 仍相信 next time it will be different，表示對下一次減重抱希望。<br>(C) 樂觀看待未來體重控制，正確。<br>(A) 沒寫憤怒；(B) 不是無所謂，仍很在意；(D) 與 continue to believe 相反。<br>關鍵證據是「下一次會不一樣」。",
+  "<b>解題關鍵：</b>文章開頭報導 2003 年地震，接著提供死傷數、建物損毀、國際救援與領袖引言，形式像即時新聞。<br>(A) newspaper 報紙，正確；(B) 歷史課本不會以災後救援現況為主；(C) 不是書評；(D) 絲路貿易只是城市背景。<br>所以最可能出自新聞報導。",
+  "<b>解題關鍵：</b>第二段明說 Bam was best known for its 2,000-year-old castle，並交代它由泥、稻草和棕櫚樹幹建成。<br>(C) 古老泥草城堡正確。<br>(A) 棕櫚只是建材之一；(B) 沒說以地震聞名；(D) 遠東珍寶是昔日絲路貿易物。<br>題目問 most famous，要找原文 best known for。",
+  "<b>解題關鍵：</b>第一段說建物多由 baked mud 製成，接著說這些建物在地震中崩成沙土堆，直接解釋損害嚴重的原因。<br>(D) 正確。<br>(A) 建材不會造成地震；(B) 珍寶來自絲路貿易；(C) 貿易站位置也不是建材造成。<br>句意：泥磚耐震力差，所以地震帶來巨大破壞。",
+  "<b>解題關鍵：</b>至少 25,000 人死亡，約占全市人口三分之一，可算出原有人口約 75,000，因此約 50,000 人活下來。<br>(A) 正確。<br>(B) 世界各地送來物資，與原文相反；(C) 只說十多年來最嚴重，非史上第一次；(D) 領袖承諾重建，不會棄城。<br>這題需結合比例計算和細節排除。",
+  "<b>解題關鍵：</b>第一段說 jet lag 由 internal biological clock 被打亂造成，會引發消化、疲勞與睡眠問題。<br>(A) 調整生理時鐘，正確；(B)(C) 不是不知道方向或距離；(D) 也不是適應天氣。<br>句意：時差者的身體時鐘還沒跟上目的地時間。",
+  "<b>解題關鍵：</b>文章說 The body takes about one day to get over each hour of time difference，每一小時時差約需一天。跨三時區就是三天。<br>(D) 72 小時正確；(A) 24、(B) 36、(C) 48 都不足三天。<br>計算：3 個時區 × 每區 24 小時＝72 小時。",
+  "<b>解題關鍵：</b>第四段說西向東旅行 makes us late，身體要追上更早的新作息，often demands even greater effort。<br>(B) west-to-east 最難適應，正確。<br>(A) 向西問題較少；(C)(D) 南北移動通常沒有時區改變。<br>文末也以洛杉磯飛紐約比反向更難作例證。",
+  "<b>解題關鍵：</b>各段說明時差由生理時鐘中斷造成、跨越多少時區會發生，以及東西方向為何嚴重度不同。<br>(A) 解釋時差問題的成因，最能涵蓋全文；(B)(D) 沒教避免或減輕方法；(C) 時區差異只是成因之一。<br>主旨不是提供旅行建議，而是解釋現象。",
+  "<b>解題關鍵：</b>第一段區分「1930 年代末進入美國」和「第一次發現蟻巢」；後者明確寫 not found until 1942。<br>(B) 1942 正確。<br>(A) 是隨貨船進入的時間；(C) 1975 是擴散面積紀錄；(D) 太晚。<br>作答時要分清進入、發現與擴散三個時間點。",
+  "<b>解題關鍵：</b>第二段說現在一個蟻丘可能有多隻蟻后，With multiple queens at work, its population increases rapidly。<br>(C) 能快速繁殖，符合。<br>(A) each nest one queen 是過去情況；(B) 原產南美；(D) 文中明說也會在室內築巢。<br>因此只有 C 與原文一致。",
+  "<b>解題關鍵：</b>末段列出三類危害：入侵農地和果樹、破壞電線設備，以及螫傷牲畜與人甚至致命。<br>(D) 健康、農業、環境／設施，三者都符合。<br>(A)(B)(C) 都加入文章沒有談的 social「社會」問題，並漏掉實際危害類別。<br>分類時要把每個具體例子歸到相應面向。",
+  "<b>解題關鍵：</b>全文依序介紹紅火蟻從南美進入美國、快速擴散、蟻巢特徵與多種危害，語氣是客觀說明。<br>(C) 提供紅火蟻資訊，涵蓋全文。<br>(A) 沒直接號召殺蟻；(B) 更不是保護害蟲；(D) 沒向政府求援。<br>主旨題要看文章做了什麼，而不是根據危害自行加上行動訴求。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -9695,61 +9695,61 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "出發前致電航空公司，是為確認訂位是否有效；confirm 表示「確認」。",
-  "要撰寫星星報告，必須每晚觀察天空中的星星；observe 表示「觀察」。",
-  "能在旅行時隨身攜帶的電腦應是便攜式的；portable 表示「便於攜帶的」。",
-  "祖母總突然造訪，從不事先打電話通知；beforehand 表示「事先」。",
-  "台北 101 成為代表臺北市的重要地標；landmark 表示「地標」。",
-  "各國學者專家受邀參加年度毒品管制會議；conference 表示「會議」。",
-  "約翰數月未繳電話費，因此電話被切斷；disconnected 表示「中斷連線」。",
-  "有機食品只用天然成分，不添加人工香料；artificial 表示「人工的」。",
-  "她相信神在精神層面支持自己；spiritually 表示「心靈上、精神上」。",
-  "她的購物由突如其來的欲望驅使；buy on impulse 是「衝動購物」。",
-  "連日降雨造成山區坍方與淹水；bring about 表示「導致、造成」。",
-  "游泳競賽安排船隻待命，以備緊急狀況；stand by 表示「待命」。",
-  "地面濕滑，抓緊繩子不要放手；let go 表示「鬆手、放開」。",
-  "無論天氣如何，運動會都會準時舉行；regardless of 表示「不論」。",
-  "若持續污染河川，長期下來魚類將無法存活；in the long run 表示「長期而言」。",
-  "句意是「被選中的男童」須具備特定條件；chosen 是過去分詞作形容詞。",
-  "後文列舉多項條件，此處表示其中一項能力，故用 One。",
-  "requirement 後接 that 名詞子句，說明另一項條件是他應有特定外貌。",
-  "表示候選人通常年齡為兩、三歲，應用 aged two or three。",
-  "轉世領袖出身低下家庭，而非貴族家庭；rather than 表示「而不是」。",
-  "捐款全數用於購買蚊帳；go towards 表示「用於、資助」。",
-  "蚊帳的用途是消除瘧疾傳播；eliminating 表示「消除」。",
-  "報社將與衛生部及瘧疾中心合作發放蚊帳；in conjunction with 表示「與……共同」。",
-  "蚊帳要送往受瘧疾影響最嚴重的地區；affected 表示「受影響的」。",
-  "句首不定詞 To contribute 表示目的並引出捐款方式：「若要捐助……」。",
-  "後文比較男孩與女孩的學習差異，故為 gender differences「性別差異」。",
-  "比較兩個群體時用 differences between boys and girls。",
-  "女孩「既」對聲音敏感，「又」擅長精細動作；both 與後面的 and 呼應。",
-  "前文說女孩的優勢，後文轉談男孩視覺較強，故用 in contrast。",
-  "串珠是精細動作活動的一個例子；such as 表示「例如」。",
-  "來自外太空且可能造訪地球的應是 beings「生物、生命體」。",
-  "有人認為地球生命起源於外太空；originated 表示「起源」。",
-  "外星人監看地球發生的事；kept an eye on 表示「留意、監視」。",
-  "希臘羅馬諸神以及童話中的仙子與矮人都被說成太空人；as well as 表示「以及」。",
-  "前面已列兩種說法，此處引出另一些人的看法，故用 others。",
-  "現在完成式 have 後接 since，表示那些文明此後已消亡。",
-  "埃及、印度、希臘與馬雅是古文明的例子；like 表示「例如、像」。",
-  "與 writings 並列且能顯示接觸外星生命的，是 drawings「圖畫」。",
-  "與「外星人來幫助人類」相對，另一些人認為外星人意圖傷害人類；harm 符合語意。",
-  "這些外星人只想研究人類，無意以任何方式提供幫助；in any way 表示「以任何方式」。",
-  "全文焦點是兩名雙胞胎兄弟先後接受心臟移植的特殊經歷。",
-  "首句明確指出兄弟共享的特點之一是幽默感。",
-  "兄弟雖知道遺傳可能有關，也承認高油脂飲食習慣可能造成心臟問題。",
-  "阿爾弗雷德新移植的心臟來自十九歲捐贈者，比安東尼移植的二十一歲心臟更年輕。",
-  "博物館主張，古物集中展示才能讓世界各地的人充分欣賞古文明。",
-  "文中提及土耳其、埃及與希臘為古物原屬地，沒有把英國列為此類國家。",
-  "「show the world to the world」前一個 world 指館藏所呈現的古代文明，後一個則指國際大眾。",
-  "文章同時介紹魚與螢火蟲以自身發光溝通，最佳標題是「生物之光與動物溝通」。",
-  "紅海的手電筒魚在夜晚浮到海面覓食，此時會發出光。",
-  "文章提到發光可求偶、誘捕獵物及逃避敵害，沒有提到用來尋找回家的路。",
-  "雌螢火蟲聚集地面，辨認同種雄蟲訊號後會回傳光訊號。",
-  "四本書頁數分別為 70、180、52、32 頁，因此 180 頁的 Tuck Everlasting 最厚。",
-  "書目資料明載 Everywhere 由 HarperCollins 於 1990 年出版。",
-  "Beyond the Ridge 以美洲平原印第安人的習俗與死亡觀為主題，作者是 Paul Goble。",
-  "The Table Where Rich People Sit 說明財富不只以金錢衡量，作者是 Byrd Baylor。"
+  "<b>解題關鍵：</b>出發前一週打電話給航空公司，是再次核對機位訂購是否成立。<br>(A) expand：擴大；(B) attach：附上；(C) confirm：確認，confirm a reservation 是常見搭配，正確；(D) strengthen：加強。<br>句意：我去加拿大前一週致電航空公司確認班機訂位。",
+  "<b>解題關鍵：</b>為了寫星星報告，必須每晚看天空並記錄，空格是「觀察」。<br>(A) design：設計；(B) seize：抓住；(C) quote：引用；(D) observe：觀察，正確。<br>句意：我們決定每晚觀察星星，以便完成報告。",
+  "<b>解題關鍵：</b>so that 後說旅行時能帶著走，因此電腦要容易攜帶。<br>(A) memorable：難忘的；(B) portable：可攜式的，正確；(C) predictable：可預測的；(D) readable：可閱讀的。<br>句意：Julie 想買一臺旅行時方便攜帶的電腦。",
+  "<b>解題關鍵：</b>祖母喜歡給人驚喜，所以來訪前不會先打電話通知。<br>(A) beforehand：事先，正確；(B) anyhow：無論如何；(C) originally：原本；(D) consequently：因此。<br>句意：祖母從不預先告知來訪，才能讓大家驚喜。",
+  "<b>解題關鍵：</b>臺北 101 是當時世界最高建築，成為能代表臺北、讓人辨認城市的標誌。<br>(A) incident：事件；(B) geography：地理；(C) skylight：天窗；(D) landmark：地標，正確。<br>句意：臺北 101 已成為臺北市的新地標。",
+  "<b>解題關鍵：</b>世界各地學者專家受邀 attend，且每年討論 drug control，應是正式會議。<br>(A) reference：參考；(B) intention：意圖；(C) conference：會議，正確；(D) interaction：互動。<br>句意：各國專家將參加每年舉辦的毒品管制會議。",
+  "<b>解題關鍵：</b>John 好幾個月沒繳電話費，所以電信公司把電話線路切斷。<br>(A) interrupted：被打斷，通常是暫時事件；(B) disconnected：被斷線，正確；(C) excluded：被排除；(D) discriminated：受歧視。<br>句意：因長期欠費，他的電話上週被停話。",
+  "<b>解題關鍵：</b>organic food 強調天然成分，with no...added 表示沒有加入人造香料。<br>(A) accurate：精確的；(B) regular：一般的；(C) superficial：表面的；(D) artificial：人工的，正確。<br>句意：有機食品使用天然材料，不添加人工香料。",
+  "<b>解題關鍵：</b>Jessica 很虔誠，believes...supported by her god 指神在心靈層面支持她。<br>(A) spiritually：精神上，正確；(B) typically：典型地；(C) historically：歷史上；(D) officially：正式地。<br>句意：她相信神一直在精神上支持自己。",
+  "<b>解題關鍵：</b>後句解釋購買行為由 sudden force or desire 驅動，也就是沒有計畫、突然想買。<br>(A) on accident 不是標準搭配；(B) compliment：稱讚；(C) justification：理由；(D) on impulse：一時衝動，固定搭配，正確。<br>句意：Jane 常衝動購物。",
+  "<b>解題關鍵：</b>一週大雨之後出現土石流與淹水，前者是造成後者的原因。<br>(A) set about：開始做；(B) brought about：造成，正確；(C) come about：發生，主詞不能直接造成受詞；(D) put about：散播。<br>句意：連日降雨造成山區土石流和淹水。",
+  "<b>解題關鍵：</b>in case of an emergency 表示為緊急情況預作準備，因此比賽時有船在旁等候。<br>(A) standing by：待命，正確；(B) turning on：開啟；(C) getting on：上車／進展；(D) running down：撞倒／耗盡。<br>句意：橫渡湖泊比賽會有船隻待命救援。",
+  "<b>解題關鍵：</b>地面滑，前句要人 hold onto the rope「抓住繩子」，後面自然是不要放手。<br>(A) put off：延後；(B) turn up：出現／調高；(C) let go：鬆手，正確；(D) take apart：拆開。<br>句意：地面很滑，要抓緊繩子別放開。",
+  "<b>解題關鍵：</b>運動會 will be held on time，表示天氣不會改變舉辦時間。<br>(A) Instead of：而不是；(B) In relation to：關於；(C) On behalf of：代表；(D) Regardless of：不論，正確。<br>句意：不論天氣如何，運動會都會準時舉行。",
+  "<b>解題關鍵：</b>keep polluting 指污染持續，魚不是立刻全部消失，而是長期累積後無法生存。<br>(A) at all cost：不惜代價；(B) for a long while：一段長時間；(C) in the long run：長期而言，正確；(D) by no means：絕不。<br>句意：若持續污染，長期下來河裡不會有魚存活。",
+  "<b>解題關鍵：</b>空格修飾 male child，且孩子是搜尋後「被選出」的，所以要用過去分詞當形容詞。<br>(A) chosen：被選中的，正確；(B) searching：正在搜尋的，會變成孩子找人；(C) dead：死去的；(D) previous：先前的。<br>句意：被選中的男童必須具備特定條件。",
+  "<b>解題關鍵：</b>前句說 certain qualities，後面先列辨認前世物品的能力，再說 Another requirement，所以此處是「其中一項」。<br>(A) It：它，沒有明確指涉；(B) All：全部，與 another 矛盾；(C) One：其中一項，正確；(D) This：這個，未先提出。<br>句意：其中一項條件是能認出前任達賴喇嘛的物品。",
+  "<b>解題關鍵：</b>was 後要接能完整說明 requirement 內容的子句「他應有大耳、上斜眼睛和眉毛」。<br>(A) what 會在子句中作成分，但子句已完整；(B) whether 是是否；(C) why 是原因；(D) that 只負責連接完整敘述，正確。<br>句意：另一項要求是男童必須有特定外貌。",
+  "<b>解題關鍵：</b>逗號中的片語補充候選人的年齡，意思是「通常是兩、三歲」。<br>(A) having aged 是已經老化；(B) aging 是逐漸變老；(C) to age 是去老化；(D) aged two or three：年齡為兩或三歲，正確。<br>句意：成功入選者通常只有兩、三歲。",
+  "<b>解題關鍵：</b>為避免強大貴族家族世襲頭銜，轉世領袖總是在低下家庭被發現，「而不是」貴族家庭。<br>(A) relative to：相對於；(B) rather than：而不是，正確；(C) as a result of：因為；(D) with regard to：關於。<br>句意：人選來自平民家庭而非貴族。",
+  "<b>解題關鍵：</b>捐出的每一美元都會拿去購買五美元的家庭用防蟲蚊帳。go 後要接表示用途的介系詞。<br>(A) towards：用於、資助，go towards the purchase 正確；(B) against：反對；(C) down：向下；(D) over：越過。<br>句意：所有捐款都用來購買蚊帳。",
+  "<b>解題關鍵：</b>活動目標是 wipe out malaria，蚊帳是阻止瘧疾擴散的方法。for 後接 ing。<br>(A) expanding：擴大；(B) eliminating：消除，正確；(C) deleting：刪除，多用資料；(D) assisting：協助。<br>句意：醫療專家認為蚊帳最有希望消除瘧疾傳播。",
+  "<b>解題關鍵：</b>報社不是單獨發蚊帳，而是和衛生部、瘧疾中心共同合作。<br>(A) In view of：鑑於；(B) In spite of：儘管；(C) In case of：萬一；(D) In conjunction with：與……合作，正確。<br>句意：報社將與兩個單位合作，把蚊帳送往需要地區。",
+  "<b>解題關鍵：</b>蚊帳應送到瘧疾問題最嚴重、受到影響最大的地區；most 後需要可被程度修飾的形容詞。<br>(A) affected：受影響的，正確；(B) frequent：頻繁的，不能自然形容地區；(C) effective：有效的；(D) included：包含的。<br>句意：蚊帳會分送到受瘧疾影響最深的地區。",
+  "<b>解題關鍵：</b>句首表示「若要為這場活動捐款並救三條命」，接著才提供寄款地址，所以用不定詞表目的。<br>(A) Contributing 是動名詞；(B) Contribute 是命令但會和後面 send 形成兩個命令；(C) To contribute：為了捐款，正確；(D) For contributing 語意不完整。<br>句意：若要捐助，請把款項寄到指定地址。",
+  "<b>解題關鍵：</b>後面整段比較 boys and girls 的聽覺、精細動作、視覺和全身協調，所以是性別差異。<br>(A) cultural：文化的；(B) racial：種族的；(C) age：年齡的；(D) gender：性別的，正確。<br>句意：學習風格研究發現性別差異。",
+  "<b>解題關鍵：</b>boys 和 girls 是兩個明確群體，比較兩者之間的差異用 between。<br>(A) for：對於；(B) within：在同一群體內；(C) between：在兩者之間，正確；(D) into：進入。<br>句意：研究發現男孩與女孩在感官學習方式上有多種差異。",
+  "<b>解題關鍵：</b>句中已有 and 連接 sensitive 與 skillful，空格要和 and 組成 both A and B「兩者都」。<br>(A) very 只能修飾第一個形容詞；(B) both：既……又……，正確；(C) still：仍然；(D) thus：因此。<br>句意：女孩既對聲音較敏感，也較擅長精細動作。",
+  "<b>解題關鍵：</b>前句說女孩在聲音和精細動作較強，後句改說男孩視覺較優，兩者形成對照。<br>(A) similarly：同樣地；(B) moreover：此外；(C) in contrast：相較之下，正確；(D) in consequence：因此，男孩優勢不是前句造成。<br>句意：相較之下，男孩較早展現視覺優勢。",
+  "<b>解題關鍵：</b>arranging a row of beads「排列一串珠子」是 detailed activity 的具體例子。<br>(A) according to：根據；(B) next to：在旁邊；(C) such as：例如，正確；(D) because of：因為。<br>句意：男孩在像串珠這類精細活動表現較差，但全身協調活動較好。",
+  "<b>解題關鍵：</b>空格後 from outer space，且 have visited 是複數動詞，需用能指外星生命的複數名詞。<br>(B) beings：生物、生命體，正確；(C) drawings 是圖畫；(G) others 需先有同類人群可回指；其他選項詞性不合。<br>句意：許多人相信外太空生命幾百年來曾造訪地球。",
+  "<b>解題關鍵：</b>句子說地球生命在 out there 發生，後來 seeded here「播種到這裡」，所以先在外太空起源。<br>(H) originated：起源，正確；(I) since 是連接詞；(E) kept an eye on 是監看，不能說生命監看外太空。<br>句意：有人認為地球生命起源於外太空，之後才被帶到地球。",
+  "<b>解題關鍵：</b>空格受詞是 what happens on Earth，後面又說外星人與傳說有關，表示牠們一直監看地球。<br>(E) kept an eye on：留意、監視，正確；(H) originated 是起源；(J) harm 是傷害，句型不合。<br>句意：另有人說外星人一直監看地球發生的事。",
+  "<b>解題關鍵：</b>句子把 ancient Greek and Roman gods 與 fairies and dwarfs 並列，兩者都被說成 space people。<br>(A) as well as：以及，正確；(F) like 表舉例，會改變原文「兩組都包含」的意思；(I) since 表原因或時間。<br>句意：希臘羅馬神祇，以及童話仙子與矮人，都被認為是太空人。",
+  "<b>解題關鍵：</b>前面已有 Some say、Others say，這裡用 Still 引出「還有另一些人」的第三種理論。<br>(G) others：其他人，Still others 是常見搭配；(B) beings 是生命體；(C) drawings 是圖畫。<br>句意：還有一些人說外星人促成高度文明的成長。",
+  "<b>解題關鍵：</b>have 後面需要能和 perished 組成現在完成式的時間詞；Inca、Maya、Atlantis 已經消失。<br>(I) since：此後、後來，have since perished 正確；(H) originated 也是動詞，不能放在 have 與 perished 之間；(D) in any way 意思不合。<br>句意：那些高度文明後來都已消亡。",
+  "<b>解題關鍵：</b>Egyptians、Hindus、Greeks、Mayans 是 ancient civilizations 的具體例子。<br>(F) like：像、例如，正確；(A) as well as 是以及，需要前後並列完整項目；(G) others 不能直接引出列舉。<br>句意：許多古文明，例如埃及、印度、希臘與馬雅，都留下相關資料。",
+  "<b>解題關鍵：</b>and 連接 writings 與另一個複數名詞，兩者都能顯示古人接觸星際生命。<br>(C) drawings：圖畫，正確；(B) beings 是生命，不能說文明留下生命；(J) harm 是傷害，詞性與意思不合。<br>句意：古文明留下文字和圖畫，似乎記錄與星際生命接觸。",
+  "<b>解題關鍵：</b>while 表示兩派相反看法：一派相信外星人來幫忙，另一派認為外星人有惡意。intend + 人 + to do，此處題庫句型省略 to 的語境目標是「傷害我們」。<br>(J) harm：傷害，正確；(B) beings、(C) drawings 都不是動詞；(H) originated 不合受詞 us。<br>句意：另一些人認為外星人意圖傷害人類。",
+  "<b>解題關鍵：</b>前面說這些外星人只想研究人類，have no interest in helping us 表示完全不想幫忙。<br>(D) in any way：以任何方式，正確；(A) as well as 是以及；(F) like 是像；(I) since 是因為／自從。<br>句意：牠們只研究我們，無意以任何方式提供幫助。",
+  "<b>解題關鍵：</b>第一段介紹 64 歲雙胞胎 Alfred、Anthony 分別在 1992 與 2002 年接受心臟移植，後文都圍繞兩人的手術、飲食與復原。<br>(D) 雙胞胎兄弟接受心臟移植，涵蓋全文；(A) 不是談手術危險；(B) 年輕只是笑話；(C) 遺傳只是可能原因。<br>主旨選 D。",
+  "<b>解題關鍵：</b>文章第一句直接說 A sense of humor is one of the many things shared，記者也常被兩人的笑話逗笑。<br>(C) 幽默感，正確。<br>(A) 兩人仍在世，無從比較壽命；(B) 沒說共同職涯；(D) 只有 Anthony 的復健包含騎車。<br>題目問共同點，要找 shared 的明確證據。",
+  "<b>解題關鍵：</b>第三段說兄弟知道 genetics 可能有關，但也承認 eating habits contributed；並舉牛排放半磅奶油為例。<br>(B) 飲食，正確。<br>(A) 運動是術後復健；(C) 手術是治療；(D) 藥物是術後服用，都不是他們認為的病因。<br>關鍵證據是高油脂飲食。",
+  "<b>解題關鍵：</b>Alfred 雖比弟弟早出生 15 分鐘，但他新心臟來自 19 歲捐贈者；Anthony 的來自 21 歲捐贈者，所以他開玩笑說自己變年輕。<br>(D) 新心臟較年輕，正確。<br>(A)(B) Alfred 才剛復原，不能說手術更成功或復原更快；(C) 文中沒有他的運動計畫較好。<br>笑點來自心臟年齡。",
+  "<b>解題關鍵：</b>第一段轉述主要博物館理由：藝術品在歐美大館廣泛公開，國際大眾才能充分欣賞古文明。<br>(A) 只有領先博物館能讓世界充分欣賞，最符合其主張。<br>(B) 沒談搬運風險；(C) 吸引觀眾可能是現實，但不是文中提出的理由；(D) 把「更廣為欣賞」誇成只能移走才可欣賞。<br>答案 A。",
+  "<b>解題關鍵：</b>文章提到古物歸還給 Turkey、Egyptian mummies，以及來自 Athens, Greece 的 Elgin Marbles。<br>(B) Britain 是收藏這些古物的博物館所在國，不是文中列出的原屬國。<br>(A) 土耳其、(C) 埃及、(D) 希臘都有出現。<br>NOT 題要找唯一未列為 country of origin 的選項。",
+  "<b>解題關鍵：</b>館長說博物館目標是 show the world to the world；前一個 world 是館藏呈現的世界各地古文明，後一個才是觀看的全球大眾。<br>(C) ancient civilizations 正確。<br>(A) global village 不是館藏；(B) leading museums 是展示者；(D) international public 是後一個 world。<br>同一字在句中可有不同指涉。",
+  "<b>解題關鍵：</b>全文先說動物用光傳訊，再分別介紹手電筒魚與螢火蟲如何以光覓食、避敵、求偶及欺騙。<br>(C) 生物之光與動物溝通，涵蓋海陸兩例。<br>(A) 沒有魚和螢火蟲交配；(B) 太籠統；(D) 只分海陸，漏掉發光溝通核心。<br>最佳標題選 C。",
+  "<b>解題關鍵：</b>第二段說 When night falls，手電筒魚 rise to the surface for food，並利用眼下發光器官。<br>(A) 出來覓食時，符合。<br>(B) 牠們不是找同伴，而是保持距離；(C) 細菌負責產光，不是魚想擺脫；(D) 光讓牠們避免靠太近。<br>答案 A。",
+  "<b>解題關鍵：</b>首段列發光用途：向同類傳訊、引誘獵物、逃離天敵；後文魚與螢火蟲也分別示範這些功能。<br>(D) 找回家的路，全文沒有提到，所以兩者都不會為此發光。<br>(A) 求偶主要是螢火蟲；(B) 誘捕獵物見雌螢火蟲；(C) 魚會用光迷惑天敵。<br>NEITHER 題選 D。",
+  "<b>解題關鍵：</b>螢火蟲段說雌蟲聚在地面，辨認同種雄蟲飛在上方的閃光後，signals back。<br>(D) 雌蟲從地面回應雄蟲訊號，正確。<br>(A) 各物種有自己訊號；(B) headlamps 是魚的器官；(C) 欺騙的是飢餓雌蟲用假回應騙雄蟲，不是雄蟲騙雌蟲。<br>答案 D。",
+  "<b>解題關鍵：</b>逐一查看書目頁數：Everywhere 70 頁、Tuck Everlasting 180 頁、The Table Where Rich People Sit 52 頁、Beyond the Ridge 32 頁。<br>(B) 180 頁最多，因此最厚。<br>(A)(C)(D) 都少於 180 頁。<br>書目題直接比數字即可，不需由故事長短猜測。",
+  "<b>解題關鍵：</b>每本書名後列出版社與年份。Everywhere 的資料是 HarperCollins, 1990。<br>(A) 正確。<br>(B) Tuck Everlasting 是 1975；(C) The Table... 是 1994；(D) Beyond the Ridge 是 1989。<br>定位年份 1990，不要把 ISBN 或頁數當出版年。",
+  "<b>解題關鍵：</b>Beyond the Ridge 的簡介明說 based on the customs of the Plains Indians in America，內容是死亡只是轉換世界。作者欄為 Goble, Paul。<br>(D) Paul Goble 正確。<br>(A)(B)(C) 分別是其他三本書作者，題材不同。<br>因此談美洲原住民族死亡觀的是 Paul Goble。",
+  "<b>解題關鍵：</b>The Table Where Rich People Sit 中，女孩原以為家裡要賺更多錢，父母卻算出沙漠、仙人掌、老鷹叫聲與相伴的價值，她才懂真正財富不只金錢。<br>(C) Byrd Baylor 是此書作者，正確。<br>(A)(B)(D) 各自寫其他作品。<br>故事主旨與作者欄要一起定位。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -9797,331 +9797,331 @@ window.BANK.push({
       "no": 1, "originalNo": 1, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "All the flights to and from Kaohsiung were _____ because of the heavy thunderstorm.",
       "options": {"A": "advised", "B": "disclosed", "C": "cancelled", "D": "benefited"},
-      "explain": "雷雨使高雄往返航班被 cancelled「取消」。"
+      "explain": "<b>解題關鍵：</b>heavy thunderstorm（大雷雨）會讓航班無法起降，而且主詞 flights 是「被」處理，所以需要過去分詞。<br>(A) advised「被建議」不能用於航班；(B) disclosed「被揭露」用於消息；(C) cancelled「被取消」最合理；(D) benefited「受益」與災害語意相反。<br>把答案放回去：所有高雄往返航班都因雷雨而取消。"
     },
     {
       "no": 2, "originalNo": 2, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "The woman told the truth to her lawyer without ____ because he was the only person she could rely on.",
       "options": {"A": "reservation", "B": "combination", "C": "impression", "D": "foundation"},
-      "explain": "without reservation 表示「毫無保留地」說出真相。"
+      "explain": "<b>解題關鍵：</b>律師是她唯一能信任的人，所以她會毫不隱瞞地說出真相。without reservation 是「毫無保留地」。<br>(A) reservation「保留」符合固定搭配；(B) combination「組合」；(C) impression「印象」；(D) foundation「基礎」，後三者放在 without 後都不能表達坦白。<br>把答案放回去：她毫無保留地把真相告訴律師。"
     },
     {
       "no": 3, "originalNo": 3, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "The man was severely injured in last weekend’s tragic car accident and died _____ afterwards.",
       "options": {"A": "mostly", "B": "shortly", "C": "easily", "D": "hardly"},
-      "explain": "重傷後不久死亡，shortly afterwards 符合。"
+      "explain": "<b>解題關鍵：</b>男子在嚴重車禍中重傷，接著死亡；空格和 afterwards 組成時間片語。<br>(A) mostly「大多」；(B) shortly afterwards「不久之後」最符合事件順序；(C) easily「容易地」不能修飾死亡時間；(D) hardly「幾乎不」，會變成幾乎沒有死亡。<br>把答案放回去：他重傷後不久便去世。"
     },
     {
       "no": 4, "originalNo": 4, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Mr. Smith’s work in Taiwan is just _____. He will go back to the U.S. next month.",
       "options": {"A": "liberal", "B": "rural", "C": "conscious", "D": "temporary"},
-      "explain": "下月即返美，表示在臺工作只是 temporary「暫時的」。"
+      "explain": "<b>解題關鍵：</b>下一句說 Smith 先生下個月就回美國，可知他在臺灣的工作不長久。<br>(A) liberal「自由開放的」；(B) rural「鄉村的」；(C) conscious「有意識的」；(D) temporary「暫時的」最符合時間線索。這些字本身都可用，但前三者不適合此處語境。<br>把答案放回去：他在臺工作只是暫時的。"
     },
     {
       "no": 5, "originalNo": 5, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Helen _____ with anger when she saw her boyfriend kissing an attractive girl.",
       "options": {"A": "collided", "B": "exploded", "C": "relaxed", "D": "defeated"},
-      "explain": "explode with anger 表示「勃然大怒」。"
+      "explain": "<b>解題關鍵：</b>Helen 看到男友親吻別人，情緒突然爆發；explode with anger 是「勃然大怒」。<br>(A) collided「碰撞」通常接 with 人或物；(B) exploded「爆發」最符合；(C) relaxed「放鬆」與生氣相反；(D) defeated「擊敗」通常要接受詞。<br>把答案放回去：Helen 看到那一幕時氣炸了。"
     },
     {
       "no": 6, "originalNo": 6, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "Dr. Liu’s new book is a collection of his _____ of the daily life of tribal people in Africa.",
       "options": {"A": "observations", "B": "interferences", "C": "preventions", "D": "substitutions"},
-      "explain": "書中收錄他對部落日常生活的 observations「觀察」。"
+      "explain": "<b>解題關鍵：</b>新書是劉博士針對非洲部落日常生活所看見、記錄的內容合集。<br>(A) observations「觀察、觀察紀錄」正確；(B) interferences「干涉」；(C) preventions「預防」；(D) substitutions「替代」，都不能表示他記下的生活所見。<br>把答案放回去：這本書收錄他對部落生活的觀察。"
     },
     {
       "no": 7, "originalNo": 7, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The young couple decided to ______ their wedding until all the details were well taken care of.",
       "options": {"A": "announce", "B": "maintain", "C": "postpone", "D": "simplify"},
-      "explain": "細節處理好前先 postpone「延期」婚禮。"
+      "explain": "<b>解題關鍵：</b>until all the details were well taken care of 表示要等細節都處理好才結婚，所以婚禮先延後。<br>(A) announce「宣布」不表示等待；(B) maintain「維持」；(C) postpone「延期」正確；(D) simplify「簡化」不能搭配婚禮日期。<br>把答案放回去：這對新人決定延後婚禮。"
     },
     {
       "no": 8, "originalNo": 8, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "The conflicts between John and his teacher made it difficult for the teacher to judge his performance _____.",
       "options": {"A": "objectively", "B": "painfully", "C": "excitedly", "D": "intimately"},
-      "explain": "師生衝突使老師難以 objectively「客觀地」評量。"
+      "explain": "<b>解題關鍵：</b>老師與 John 有衝突，私人情緒可能影響評分，因此很難保持不偏不倚。<br>(A) objectively「客觀地」最符合；(B) painfully「痛苦地」；(C) excitedly「興奮地」；(D) intimately「親密地」，都不能表達公平評量。<br>把答案放回去：衝突使老師難以客觀判斷他的表現。"
     },
     {
       "no": 9, "originalNo": 9, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["詞義辨析"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Living in a highly _____ society, you definitely have to arm yourself with as much knowledge as possible.",
       "options": {"A": "tolerant", "B": "permanent", "C": "favorable", "D": "competitive"},
-      "explain": "在高度 competitive「競爭的」社會需充實知識。"
+      "explain": "<b>解題關鍵：</b>句子說必須用盡可能多的知識武裝自己，顯示社會競爭激烈。<br>(A) tolerant「寬容的」；(B) permanent「永久的」；(C) favorable「有利的」；(D) competitive「競爭的」最能解釋為何要充實知識。<br>把答案放回去：身處高度競爭的社會，必須增加知識。"
     },
     {
       "no": 10, "originalNo": 10, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "The 70-year-old professor sued the university for age _____, because his teaching contract had not been renewed.",
       "options": {"A": "possession", "B": "commitment", "C": "discrimination", "D": "employment"},
-      "explain": "因年齡未獲續聘而提告，指 age discrimination。"
+      "explain": "<b>解題關鍵：</b>教授已七十歲，又因未獲續聘而控告大學，表示他認為自己因年齡受到不公平待遇。<br>(A) possession「擁有」；(B) commitment「承諾」；(C) age discrimination「年齡歧視」正確；(D) employment「就業」不能說明提告理由。<br>把答案放回去：教授以年齡歧視為由提告。"
     },
     {
       "no": 11, "originalNo": 11, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "Kevin burst into tears _____ because his teacher punished him in front of the whole class.",
       "options": {"A": "on the side", "B": "on the spot", "C": "on any account", "D": "on the mark"},
-      "explain": "Kevin 當場哭出來，on the spot 表「當場」。"
+      "explain": "<b>解題關鍵：</b>Kevin 在全班面前被處罰，立即就在那個場合哭出來。<br>(A) on the side「在一旁／兼職地」；(B) on the spot「當場」正確；(C) on any account 常用於否定句表示「無論如何」；(D) on the mark「準確」。<br>把答案放回去：Kevin 當場放聲大哭。"
     },
     {
       "no": 12, "originalNo": 12, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "C",
       "stem": "As soon as the couple realized that they didn’t love each other anymore, they _____.",
       "options": {"A": "fell off", "B": "cut in", "C": "broke up", "D": "stood by"},
-      "explain": "不再相愛後便 broke up「分手」。"
+      "explain": "<b>解題關鍵：</b>這對情侶發現彼此不再相愛，合理結果就是結束關係。<br>(A) fell off「掉落／減少」；(B) cut in「插嘴／插入」；(C) broke up「分手」最符合；(D) stood by「支持、待命」與結束關係相反。<br>把答案放回去：他們一發現不再相愛，就分手了。"
     },
     {
       "no": 13, "originalNo": 13, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "A",
       "stem": "The power workers had to work _____ to repair the power lines since the whole city was in the dark.",
       "options": {"A": "around the clock", "B": "in the extreme", "C": "on the house", "D": "in the majority"},
-      "explain": "全城停電，工人需 around the clock「日夜不停」搶修。"
+      "explain": "<b>解題關鍵：</b>整座城市都在黑暗中，電力工人必須不分日夜趕快修復。<br>(A) around the clock「日夜不停、二十四小時」正確；(B) in the extreme「極度地」不自然；(C) on the house「店家免費招待」；(D) in the majority「占多數」。<br>把答案放回去：工人日夜不停地搶修電線。"
     },
     {
       "no": 14, "originalNo": 14, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "B",
       "stem": "After retirement, Mr. Wang _____ ice skating, which he had always loved but had not had time for.",
       "options": {"A": "appealed to", "B": "took to", "C": "related to", "D": "saw to"},
-      "explain": "退休後開始從事並喜愛滑冰，took to 符合。"
+      "explain": "<b>解題關鍵：</b>王先生一直喜歡滑冰，只是以前沒時間；退休後便開始規律從事。<br>(A) appealed to「吸引／呼籲」；(B) took to「開始喜歡並養成做某事的習慣」正確；(C) related to「與……有關」；(D) saw to「負責處理」。<br>把答案放回去：退休後他開始愛上並從事滑冰。"
     },
     {
       "no": 15, "originalNo": 15, "section": "一、詞彙與慣用語", "cat": "C1", "tags": ["語境搭配"], "lang": "單題", "textType": "詞彙題", "answer": "D",
       "stem": "Why do we have to _____ Sue’s selfish behavior? We have to teach her to care for others.",
       "options": {"A": "get over with", "B": "hang out with", "C": "make up with", "D": "put up with"},
-      "explain": "put up with 表示「忍受」Sue 的自私行為。"
+      "explain": "<b>解題關鍵：</b>後句說應教 Sue 關心別人，前句反問為何還要容忍她的自私行為。<br>(A) get over with「趕快做完」；(B) hang out with「和……相處玩樂」；(C) make up with「與……和好」；(D) put up with「忍受」正確。<br>把答案放回去：我們為何必須忍受 Sue 的自私？"
     },
     {
       "no": 16, "originalNo": 16, "section": "二、句子配合題", "cat": "C2", "tags": ["邏輯關係"], "lang": "單題", "textType": "綜合測驗", "answer": "B",
       "stem": "Since it was a holiday, _____",
       "options": {"A": "so he went abroad to study.", "B": "I stayed in bed an extra hour.", "C": "or she might miss the class.", "D": "he will fail the exam.", "E": "who changed him into a gentleman.", "F": "she had gone bankrupt.", "G": "is more likely to look young.", "H": "and is sure to have a healthy body.", "I": "I admired her most in the world.", "J": "I would have taken action right away."},
-      "explain": "既然是假日，合理結果是多睡一小時。"
+      "explain": "<b>解題關鍵：</b>Since 在此是「既然、因為」，前半已交代假日原因，後面需要一個完整且合理的結果。<br>(B) I stayed in bed an extra hour「我多賴床一小時」語法、因果都完整。(A) 多一個 so；(C) 以 or 開頭；(D) 未來考試失敗與假日無直接關係；其餘選項不是完整結果或主詞不合。<br>整句：因為是假日，我多睡了一小時。"
     },
     {
       "no": 17, "originalNo": 17, "section": "二、句子配合題", "cat": "C2", "tags": ["邏輯關係"], "lang": "單題", "textType": "綜合測驗", "answer": "D",
       "stem": "Unless he prepares well, _____",
       "options": {"A": "so he went abroad to study.", "B": "I stayed in bed an extra hour.", "C": "or she might miss the class.", "D": "he will fail the exam.", "E": "who changed him into a gentleman.", "F": "she had gone bankrupt.", "G": "is more likely to look young.", "H": "and is sure to have a healthy body.", "I": "I admired her most in the world.", "J": "I would have taken action right away."},
-      "explain": "unless 表「若不」，若不充分準備就會考試失敗。"
+      "explain": "<b>解題關鍵：</b>Unless 是「除非、如果不」，等於 If he does not prepare well；後面要接可能發生的結果。<br>(D) he will fail the exam「他會考試失敗」因果合理。(A) 前有 so 造成連接詞重複；(B) 主詞換成 I；(C) or 不完整；其他片段也無法接成條件句。<br>整句：如果他沒有充分準備，就會考試失敗。"
     },
     {
       "no": 18, "originalNo": 18, "section": "二、句子配合題", "cat": "C2", "tags": ["時態語意"], "lang": "單題", "textType": "綜合測驗", "answer": "J",
       "stem": "If I had known the fact, _____",
       "options": {"A": "so he went abroad to study.", "B": "I stayed in bed an extra hour.", "C": "or she might miss the class.", "D": "he will fail the exam.", "E": "who changed him into a gentleman.", "F": "she had gone bankrupt.", "G": "is more likely to look young.", "H": "and is sure to have a healthy body.", "I": "I admired her most in the world.", "J": "I would have taken action right away."},
-      "explain": "過去反事實條件句搭配 would have taken action。"
+      "explain": "<b>解題關鍵：</b>If I had known 表示「如果我當時知道」，但事實是當時不知道。這叫過去反事實條件句，白話就是對已錯過的過去做假設；結果用 would have＋過去分詞。<br>(J) I would have taken action right away 形式和語意都符合；其他選項沒有這個時態配對，或主詞、內容接不上。<br>整句：如果我當時知道事實，我早就立刻採取行動了。"
     },
     {
       "no": 19, "originalNo": 19, "section": "二、句子配合題", "cat": "C2", "tags": ["篇章指涉"], "lang": "單題", "textType": "綜合測驗", "answer": "E",
       "stem": "Belle was the person _____",
       "options": {"A": "so he went abroad to study.", "B": "I stayed in bed an extra hour.", "C": "or she might miss the class.", "D": "he will fail the exam.", "E": "who changed him into a gentleman.", "F": "she had gone bankrupt.", "G": "is more likely to look young.", "H": "and is sure to have a healthy body.", "I": "I admired her most in the world.", "J": "I would have taken action right away."},
-      "explain": "person 後接 who 引導的關係子句。"
+      "explain": "<b>解題關鍵：</b>Belle was the person 後面要補充「她是怎樣的人」。先行詞 person 是人，所以用 who 接一段描述；關係子句白話就是緊接名詞、補充說明的句子。<br>(E) who changed him into a gentleman 完整修飾 person；(G) 缺關係詞，(I) 變成另一完整句，其餘時態或內容接不上。<br>整句：Belle 就是那位把他改變成紳士的人。"
     },
     {
       "no": 20, "originalNo": 20, "section": "二、句子配合題", "cat": "C2", "tags": ["主旨連貫"], "lang": "單題", "textType": "綜合測驗", "answer": "G",
       "stem": "A person who exercises regularly _____",
       "options": {"A": "so he went abroad to study.", "B": "I stayed in bed an extra hour.", "C": "or she might miss the class.", "D": "he will fail the exam.", "E": "who changed him into a gentleman.", "F": "she had gone bankrupt.", "G": "is more likely to look young.", "H": "and is sure to have a healthy body.", "I": "I admired her most in the world.", "J": "I would have taken action right away."},
-      "explain": "主詞 A person 需要完整謂語，G 語法與語意皆通順。"
+      "explain": "<b>解題關鍵：</b>A person who exercises regularly 是完整主詞，who exercises regularly 只是補充「固定運動的人」，後面還缺主要動詞。<br>(G) is more likely to look young 有 is，可完成「較可能看起來年輕」；(H) 以 and 開頭卻沒有前一個動詞，其他選項主詞、邏輯或標點不合。<br>整句：固定運動的人比較可能看起來年輕。"
     },
     {
       "no": 21, "originalNo": 21, "section": "三、綜合測驗", "cat": "C2", "tags": ["轉承語"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G1",
       "stem": "Choose the best answer for blank 21.",
       "options": {"A": "therefore", "B": "similarly", "C": "however", "D": "otherwise"},
-      "explain": "原定只飛十五分鐘，卻延誤數小時，however 表轉折。"
+      "explain": "<b>解題關鍵：</b>前句說飛行原定只有十五分鐘，因此沒準備如廁設備；後句卻說飛行延誤數小時，前後方向相反。<br>(A) therefore「因此」表結果；(B) similarly「同樣地」；(C) however「然而」表轉折，正確；(D) otherwise「否則」表另一種結果。<br>關鍵句：然而，這次飛行延誤了好幾個小時。"
     },
     {
       "no": 22, "originalNo": 22, "section": "三、綜合測驗", "cat": "C2", "tags": ["篇章指涉"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G1",
       "stem": "Choose the best answer for blank 22.",
       "options": {"A": "Each", "B": "This", "C": "Their", "D": "Another"},
-      "explain": "This problem 回指太空人無處如廁的問題。"
+      "explain": "<b>解題關鍵：</b>上一句剛說 Shepard 只能在太空衣裡解決生理需求，下一句說「這個問題」促使 NASA 研發太空廁所。<br>(A) Each 需接複數中的每一個；(B) This 可回指前述單一問題，正確；(C) Their 表「他們的」，沒有合適複數所有人；(D) Another 是另一個，但文章只承接同一問題。<br>關鍵句：這個問題促使 NASA 研發第一種太空廁所。"
     },
     {
       "no": 23, "originalNo": 23, "section": "三、綜合測驗", "cat": "C2", "tags": ["時態語意"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 23.",
       "options": {"A": "rather", "B": "almost", "C": "ever", "D": "still"},
-      "explain": "尿布至今仍用於太空衣外出任務，選 still。"
+      "explain": "<b>解題關鍵：</b>文章從早期太空任務談到現在，說太空人穿太空衣外出時「仍然」使用尿布。<br>(A) rather「相當／寧可」；(B) almost「幾乎」會變成幾乎使用，語意不完整；(C) ever「曾經」常用於疑問或最高級；(D) still「仍然」最符合時間延續。<br>關鍵句：太空人現在外出任務仍會使用尿布。"
     },
     {
       "no": 24, "originalNo": 24, "section": "三、綜合測驗", "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G1",
       "stem": "Choose the best answer for blank 24.",
       "options": {"A": "the one", "B": "someone", "C": "no one", "D": "one"},
-      "explain": "one for... and the other for... 是兩者分列句型。"
+      "explain": "<b>解題關鍵：</b>前面明說 a set of two collection bags「兩個收集袋」，後面用 one...the other... 分別說明兩者用途。<br>(A) the one 通常先有明確比較對象；(B) someone 指某人；(C) no one 指沒有人；(D) one 指兩者中的一個，和 the other 配對，正確。<br>關鍵句：一個裝液體廢物，另一個裝固體廢物。"
     },
     {
       "no": 25, "originalNo": 25, "section": "三、綜合測驗", "cat": "C2", "tags": ["篇章指涉"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G1",
       "stem": "Choose the best answer for blank 25.",
       "options": {"A": "where", "B": "what", "C": "which", "D": "whether"},
-      "explain": "where 回指 the earth，表示回地球後在那裡處理。"
+      "explain": "<b>解題關鍵：</b>袋子先密封帶回 the earth，接著「在地球那裡」丟棄。where 是關係副詞，白話就是代替 in which，說明事情發生的地點。<br>(A) where 正確；(B) what 不能回指已出現的地點；(C) which 前需要介系詞 on；(D) whether 是「是否」。<br>關鍵句：袋子被帶回地球，在那裡處理掉。"
     },
     {
       "no": 26, "originalNo": 26, "section": "三、綜合測驗", "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G2",
       "stem": "Choose the best answer for blank 26.",
       "options": {"A": "another", "B": "one another", "C": "other", "D": "the other"},
-      "explain": "動物彼此移動混居，intermix with one another。"
+      "explain": "<b>解題關鍵：</b>盤古大陸尚未分裂時，各地動物能移動並「彼此」混居；主詞 animals 是複數。<br>(A) another 是「另一個」，通常接單數名詞；(B) one another 是「彼此」，intermix with one another 搭配正確；(C) other 後缺名詞；(D) the other 通常指兩者中的另一個。<br>關鍵句：動物可以四處移動並彼此混居。"
     },
     {
       "no": 27, "originalNo": 27, "section": "三、綜合測驗", "cat": "C2", "tags": ["篇章指涉"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 27.",
       "options": {"A": "which", "B": "where", "C": "what", "D": "that"},
-      "explain": "what later became... 表示後來形成的各大陸。"
+      "explain": "<b>解題關鍵：</b>broke up into 後面缺「分裂成的東西」，而後半 became South America... 又缺主詞。what 同時表示「……的事物」並在子句中當主詞。<br>(A) which、(D) that 都要有先行詞；(B) where 表地點；(C) what 正確。<br>關鍵句：岡瓦那大陸分裂成後來成為南美洲、非洲等地的陸塊。"
     },
     {
       "no": 28, "originalNo": 28, "section": "三、綜合測驗", "cat": "C2", "tags": ["時態語意"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G2",
       "stem": "Choose the best answer for blank 28.",
       "options": {"A": "is isolated", "B": "had isolated", "C": "has isolated", "D": "has been isolated"},
-      "explain": "Since then 搭配現在完成被動 has been isolated。"
+      "explain": "<b>解題關鍵：</b>Since then 是「從那時起到現在」，要用現在完成式；澳洲是「被海洋隔離」，還要用被動。<br>(A) is isolated 只說現在狀態；(B) had isolated 是過去完成主動；(C) has isolated 是現在完成主動；(D) has been isolated 同時有延續和被動，正確。<br>關鍵句：從那時起，澳洲一直被廣大海洋隔開。"
     },
     {
       "no": 29, "originalNo": 29, "section": "三、綜合測驗", "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "C", "group": "G2",
       "stem": "Choose the best answer for blank 29.",
       "options": {"A": "confusion", "B": "marriage", "C": "contact", "D": "transaction"},
-      "explain": "隔離後澳洲動物不再與其他地區動物有 contact。"
+      "explain": "<b>解題關鍵：</b>澳洲被海洋隔離後，當地動物無法再接觸其他地區的動物，因此各自演化。<br>(A) confusion「混亂」；(B) marriage「婚姻」；(C) contact「接觸」，have contact with 是固定搭配，正確；(D) transaction「交易」。<br>關鍵句：牠們不再與世界其他地方的動物接觸。"
     },
     {
       "no": 30, "originalNo": 30, "section": "三、綜合測驗", "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "A", "group": "G2",
       "stem": "Choose the best answer for blank 30.",
       "options": {"A": "nowhere", "B": "somewhere", "C": "everywhere", "D": "anywhere"},
-      "explain": "澳洲多數哺乳類與蛙類在世界其他地方 nowhere else 可見。"
+      "explain": "<b>解題關鍵：</b>澳洲動物長期獨立演化，所以約九成五的哺乳類和九成四的青蛙，在世界其他地方都找不到。<br>(A) nowhere else「其他任何地方都沒有」正確；(B) somewhere else 是某處仍有；(C) everywhere else 是到處都有；(D) anywhere else 常用於疑問、否定或條件句。<br>關鍵句：這些動物只出現在澳洲。"
     },
     {
       "no": 31, "originalNo": 31, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "I", "group": "G3",
       "stem": "Choose the best word for blank 31.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "談論壓力很常見，因此 not unusual to hear。"
+      "explain": "<b>解題關鍵：</b>前句說壓力已成為日常談話熱門主題，所以聽見親友談壓力「並不罕見」。<br>not unusual to hear 是「聽到……並不奇怪」，unusual 為形容詞，能接在 is not 後。leading 是「主要的」要修飾名詞；even、about 等詞性都不能完成此結構。<br>關鍵句：聽人談生活壓力並不罕見。"
     },
     {
       "no": 32, "originalNo": 32, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "E", "group": "G3",
       "stem": "Choose the best word for blank 32.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "difficulty in managing stress 表示管理壓力的困難。"
+      "explain": "<b>解題關鍵：</b>difficulty in 後面要接 V-ing，表示「在做某事方面的困難」；此處意思是處理日常壓力很困難。<br>managing 是「管理、處理」，difficulty in managing stress 搭配完整；about、from、to 是介系詞，無法在 in 後再直接使用；其他選項語意也不合。<br>關鍵句：他們談自己處理日常壓力時遇到的困難。"
     },
     {
       "no": 33, "originalNo": 33, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "H", "group": "G3",
       "stem": "Choose the best word for blank 33.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "events that cause stress，以 that 引導關係子句。"
+      "explain": "<b>解題關鍵：</b>空格後 cause stress 缺主詞，前面的 events 正是「造成壓力的事件」。that 引導關係子句，白話就是接在 events 後補充說明哪些事件。<br>that 可代替複數事物並在子句當主詞；as、like 表「像」，不能直接當 cause 的主詞；what 前不能已有 events。<br>關鍵句：人們努力控制那些會造成壓力的事件。"
     },
     {
       "no": 34, "originalNo": 34, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "G", "group": "G3",
       "stem": "Choose the best word for blank 34.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "reaction to stress 是「對壓力的反應」。"
+      "explain": "<b>解題關鍵：</b>固定搭配 reaction to... 是「對……的反應」，文章談沒有控制自己對壓力反應的結果。<br>to 能接在 reactions 後表示反應對象；from 表來源，about 表主題，as 表身分，都不能形成此搭配。<br>關鍵句：多數人知道，不控制自己對壓力的反應會有什麼後果。"
     },
     {
       "no": 35, "originalNo": 35, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "B", "group": "G3",
       "stem": "Choose the best word for blank 35.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "suffer effects from stress 表示健康影響來自壓力。"
+      "explain": "<b>解題關鍵：</b>百分之四十三的成人承受可怕健康影響，而這些影響的來源是壓力。suffer effects from... 是「受到來自……的影響」。<br>from 表來源，正確；about 只是「關於」，to 常表方向，as 表「作為」，都不能說明健康問題由壓力造成。<br>關鍵句：許多成人因壓力而承受嚴重健康影響。"
     },
     {
       "no": 36, "originalNo": 36, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "J", "group": "G3",
       "stem": "Choose the best word for blank 36.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "the six leading causes of death 指六大死因。"
+      "explain": "<b>解題關鍵：</b>後面列出心臟病、癌症等六項主要死因；空格要用形容詞修飾 causes。<br>leading 是「主要的、居首的」，the six leading causes of death 即「六大死因」。unusual 是不尋常的，managing 是處理中的，其他介系詞也不能修飾 causes。<br>關鍵句：壓力與六大死因都有關聯。"
     },
     {
       "no": 37, "originalNo": 37, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "A", "group": "G3",
       "stem": "Choose the best word for blank 37.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "約占 GDP 12%，選 about。"
+      "explain": "<b>解題關鍵：</b>twelve percent 是一個比例，文章用近似語氣表示醫療支出「約」占 GDP 百分之十二。<br>about 是「大約」，可直接放在數字前；even 是「甚至」強調意外，from、to 是介系詞，like 是「像」，都不表示約數。<br>關鍵句：目前醫療費用約占國內生產毛額的百分之十二。"
     },
     {
       "no": 38, "originalNo": 38, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "C", "group": "G3",
       "stem": "Choose the best word for blank 38.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "壓力有時必要，甚至 desirable，選 even。"
+      "explain": "<b>解題關鍵：</b>Yet 表示轉折：壓力雖傷身，有時卻不只必要，還可能是人們想要的。空格要加強 desirable。<br>even 是「甚至」，形成 necessary, even desirable；about、from、to 是介系詞；like 是舉例，都不能表遞進。<br>關鍵句：壓力有時是必要的，甚至是值得期待的。"
     },
     {
       "no": 39, "originalNo": 39, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "F", "group": "G3",
       "stem": "Choose the best word for blank 39.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "like 引出新生兒、完成專案、搬家等例子。"
+      "explain": "<b>解題關鍵：</b>後面列出孩子出生、完成大專案、搬到新城市，都是令人興奮或有挑戰的事件例子。<br>like 是「像、例如」，可直接引出名詞例子；as 通常表身分或搭配 such as；about、from、to 不能引出這份例子清單。<br>關鍵句：像孩子出生等事件也會產生壓力。"
     },
     {
       "no": 40, "originalNo": 40, "section": "四、文意選填", "cat": "C2", "tags": ["文意選填"], "lang": "題組", "textType": "文意選填", "answer": "D", "group": "G3",
       "stem": "Choose the best word for blank 40.",
       "options": {"A": "about", "B": "from", "C": "even", "D": "as", "E": "managing", "F": "like", "G": "to", "H": "that", "I": "unusual", "J": "leading"},
-      "explain": "as much stress as 是同等比較句型。"
+      "explain": "<b>解題關鍵：</b>句子比較「令人興奮的事件」與「悲劇或災難」產生的壓力一樣多。as much＋不可數名詞＋as 是同等比較，白話就是「和……一樣多」。<br>第一個空格必須用 as；about 是大約，even 是甚至，like 是像，都無法和後面的 as 配對。<br>關鍵句：好事也可能產生和災難一樣多的壓力。"
     },
     {
       "no": 41, "originalNo": 41, "section": "五、閱讀測驗", "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G4",
       "stem": "The passage is written mainly to describe __________.",
       "options": {"A": "what the author looks like", "B": "what “life” means to the author", "C": "what a typical day is like for the author", "D": "what kinds of people the author works with"},
-      "explain": "全文依時間與工作內容描寫作者典型的一天。"
+      "explain": "<b>解題關鍵：</b>第一段從上班、換制服、值勤、午休一路寫到下班；第二段再說值勤時遇到的人與工作內容，合起來就是典型工作日。<br>(A) 外貌只提整潔；(B) 沒討論生命意義；(C) 描述作者平常一天，最完整；(D) 各種乘客只是工作日的一部分。<br>所以全文主要描寫作者典型的一天。"
     },
     {
       "no": 42, "originalNo": 42, "section": "五、閱讀測驗", "cat": "C4", "tags": ["推論判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G4",
       "stem": "We may infer from the passage that the author is a(n) __________.",
       "options": {"A": "policeman", "B": "driver", "C": "floor cleaner", "D": "elevator operator"},
-      "explain": "作者報樓層、在 car 中上下移動，推知是電梯操作員。"
+      "explain": "<b>解題關鍵：</b>文章沒有直接說職稱，但可由線索推論：作者會清楚報樓層、乘客在他的 car 裡，生活是一連串 ups and downs。這裡的 car 是電梯廂。<br>(A) 警察不會報樓層；(B) 司機的車不會上下樓；(C) 清潔工不負責乘客；(D) 電梯操作員符合全部線索。<br>所以選 D。"
     },
     {
       "no": 43, "originalNo": 43, "section": "五、閱讀測驗", "cat": "C4", "tags": ["語境推義"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G4",
       "stem": "The expression “constantly on the move” in the passage refers to the fact that __________.",
       "options": {"A": "the author always calls out floors very clearly", "B": "the author seldom stays in one place for a long while", "C": "the author meets all kinds of people and talks to everyone", "D": "the author frequently helps passengers move their baggage"},
-      "explain": "on the move 指不斷移動，很少長時間停在同一地點。"
+      "explain": "<b>解題關鍵：</b>作者的電梯整天在樓層間上下移動，因此 constantly on the move 是「一直移動中」。<br>(A) 清楚報樓層是另一項工作；(B) 很少長時間停在同一處，符合；(C) 和人談話不等於移動；(D) 文中沒說常搬行李。<br>所以這個片語指作者不斷移動、很少久留一處。"
     },
     {
       "no": 44, "originalNo": 44, "section": "五、閱讀測驗", "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G5",
       "stem": "What is the best title for the passage?",
       "options": {"A": "Magical Tricks", "B": "A Great Magician", "C": "Magic as Entertainment", "D": "The History of Magic"},
-      "explain": "文章依年代介紹魔術從古埃及到現代的演變。"
+      "explain": "<b>解題關鍵：</b>三段依序從西元前 1700 年埃及、古希臘羅馬、1800 年以前與十九世紀，一直談到今日魔術，重點是時間發展。<br>(A) 不是介紹招式；(B) 不只一位魔術師；(C) 娛樂只是現代結果；(D) 魔術史能統整全文。<br>最佳標題是 The History of Magic。"
     },
     {
       "no": 45, "originalNo": 45, "section": "五、閱讀測驗", "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G5",
       "stem": "In ancient Greece, what did the priests do to show people they had unusual power?",
       "options": {"A": "They performed magical tricks to entertain people.", "B": "They made the statues in the temples drink wine as they wished.", "C": "They treated the people with wine flowing down from statues’ mouths.", "D": "They built magic devices in the temples to make doors open by themselves."},
-      "explain": "祭司在神殿裝設機關，讓門自動開啟以顯示力量。"
+      "explain": "<b>解題關鍵：</b>第二段直接說祭司在神殿建造魔術裝置，讓門自行開啟、酒從雕像嘴裡流出，以說服人們他們有力量。<br>(A) 目的不是娛樂；(B) 原文是酒從雕像嘴裡流出，不是雕像喝酒；(C) 也不是用酒治療人；(D) 裝置使門自動開啟，完全符合。<br>因此祭司是靠預先裝設的機關製造神奇效果，答案選 D。"
     },
     {
       "no": 46, "originalNo": 46, "section": "五、閱讀測驗", "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G5",
       "stem": "What did people think of magic before 1800?",
       "options": {"A": "Magic should be used only in temples.", "B": "Magic could only be performed in a circus.", "C": "Magic was performed by freaks and doctors.", "D": "Magic was the major daily activity for the pharaohs."},
-      "explain": "1800 年前魔術師被視為怪人，只准在馬戲團演出。"
+      "explain": "<b>解題關鍵：</b>第三段直接指出，1800 年以前魔術不被社會接受，魔術師被當成 freaks，且 only allowed to perform in a circus。<br>(A) 沒說只能在神殿；(B) 只能在馬戲團表演，符合；(C) 醫師稱號是 Houdin 之後；(D) 法老的日常活動未提。<br>所以選 B。"
     },
     {
       "no": 47, "originalNo": 47, "section": "五、閱讀測驗", "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G5",
       "stem": "Which of the following statements is true?",
       "options": {"A": "Magic began about 3,700 years ago.", "B": "Dedi of Dedsnefu performed magic for kings only.", "C": "Robert Houdin was the first magician to perform magic.", "D": "The “Cups and Balls” trick has been performed for about 1,700 years."},
-      "explain": "魔術據信始於西元前 1700 年，距考試時約 3,700 年。"
+      "explain": "<b>解題關鍵：</b>第一段說魔術始於西元前 1700 年，距題目年代約 3,700 年。<br>(A) 符合時間計算；(B) Dedi 也為建金字塔的奴隸表演，不只國王；(C) Houdin 是改變十九世紀觀感，不是第一位；(D) 杯球戲法已有約 3,700 年，不是 1,700 年。<br>所以正確敘述是 A。"
     },
     {
       "no": 48, "originalNo": 48, "section": "五、閱讀測驗", "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G6",
       "stem": "Doctor medicine __________.",
       "options": {"A": "has a longer history than folk medicine", "B": "has been practiced for around 1,600 years", "C": "bases its treatments on observation and logic", "D": "was very successful in curing sicknesses in ancient times"},
-      "explain": "科學醫學觀察疾病、找邏輯規律，再推導治療方式。"
+      "explain": "<b>解題關鍵：</b>第一段對 scientific medicine 的流程寫得很清楚：觀察疾病、找邏輯規律、了解人體，再判斷治療方法。<br>(A) 民俗療法更早；(B) 科學醫學從西元前四世紀起，不是約 1,600 年；(C) 以觀察與邏輯為基礎，符合；(D) 古代成功率不高。<br>所以選 C。"
     },
     {
       "no": 49, "originalNo": 49, "section": "五、閱讀測驗", "cat": "C4", "tags": ["細節檢索"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G6",
       "stem": "According to the passage, which of the following is NOT used in health spas?",
       "options": {"A": "Magic power.", "B": "Various herbs.", "C": "Religious faith.", "D": "A healthy life style."},
-      "explain": "health spas 涉及魔法、宗教與健康生活，草藥屬 folk medicine。"
+      "explain": "<b>解題關鍵：</b>這是 NOT 題。第三段的 health spas 包含聖人觸摸、魔法護符或咒語、祈禱，以及睡眠、健康飲食、喝水和運動。<br>(A) magic power 有提；(B) various herbs 只在第二段民俗療法出現，是答案；(C) religious faith 有祭司與祈禱；(D) healthy lifestyle 有作息飲食。<br>所以選 B。"
     },
     {
       "no": 50, "originalNo": 50, "section": "五、閱讀測驗", "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "D", "group": "G6",
       "stem": "According to the passage, which of the following statements is true?",
       "options": {"A": "Folk healers choose different herbs to cure diseases without any sound basis.", "B": "People who practice folk medicine need lots of formal education on herbs.", "C": "The success of folk medicine led to the development of doctor medicine.", "D": "Natural cures worked better than scientific medicine in ancient times."},
-      "explain": "文中明說古代 folk medicine 比 doctor medicine 更成功。"
+      "explain": "<b>解題關鍵：</b>第二段最後直接說，民俗療法在古代比科學醫學更成功；這是文章明說的資訊，不需要再推測。<br>(A) 民俗醫者會反覆嘗試並觀察，不是毫無根據；(B) 他們受教育較少，不是接受大量正式教育；(C) 原文只比較發展與成效，沒說它導致科學醫學；(D) 自然療法古代效果較好，符合。<br>所以選 D。"
     },
     {
       "no": 51, "originalNo": 51, "section": "五、閱讀測驗", "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G6",
       "stem": "The author’s primary purpose in this passage is to __________.",
       "options": {"A": "describe different types of medicine", "B": "argue for the importance of medicine in health care", "C": "show the crucial role religion plays in medical treatments", "D": "compare the educational background of three different types of patients"},
-      "explain": "全文分別描述科學醫學、民俗療法與信仰療癒三類醫療。"
+      "explain": "<b>解題關鍵：</b>文章開頭就說有三類醫療，三段分別介紹 scientific medicine、folk medicine、faith healing 的方法與特色。<br>(A) 描述不同醫療類型，最完整；(B) 沒有論證醫療保健的重要；(C) 宗教只占第三類；(D) 不是比較病人的教育背景。<br>所以作者主要目的是介紹三種醫療。"
     },
     {
       "no": 52, "originalNo": 52, "section": "五、閱讀測驗", "cat": "C4", "tags": ["主旨判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "B", "group": "G7",
       "stem": "What is the best title for this passage?",
       "options": {"A": "The Importance of Marketing", "B": "The Power of Youth Culture", "C": "The Popularity of Hip-hop Fashion", "D": "The Success of Tommy Hilfiger"},
-      "explain": "文章以嘻哈、Madonna 與 Hilfiger 說明青年文化的影響力。"
+      "explain": "<b>解題關鍵：</b>第一段談青少年市場與嘻哈，第二段以 Madonna 說明青年模仿潮流，第三段再寫 Hilfiger 如何利用青年文化行銷；共同核心是青年文化的力量。<br>(A) 行銷只是應用；(B) 最能統整；(C) 嘻哈只是例子；(D) Hilfiger 只占一段。<br>最佳標題是 The Power of Youth Culture。"
     },
     {
       "no": 53, "originalNo": 53, "section": "五、閱讀測驗", "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G7",
       "stem": "How much money do sales of rap music and videos together make each year?",
       "options": {"A": "More than $1 billion.", "B": "Between $750 million and $1 billion.", "C": "Between $500 million and $750 million.", "D": "Less than $500 million."},
-      "explain": "rap music 與 videos 各自銷售額都超過 7.5 至 10 億美元，合計必超過十億。"
+      "explain": "<b>解題關鍵：</b>第一段說 hip-hop fashion 每年有 7.5 億到 10 億美元，rap music 與 videos 的銷售額「各自」都超過這個數字；兩者合計一定超過 10 億。<br>(A) More than $1 billion 正確；(B)(C)(D) 都低估了兩項相加的金額。<br>所以選 A。"
     },
     {
       "no": 54, "originalNo": 54, "section": "五、閱讀測驗", "cat": "C4", "tags": ["篇章理解"], "lang": "題組", "textType": "閱讀測驗", "answer": "C", "group": "G7",
       "stem": "According to the passage, which of the following statements is true?",
       "options": {"A": "The purchasing power of teenagers has been decreasing over the years.", "B": "Many teenagers make a lot of profits in the fashion market today.", "C": "Madonna led the fashion of wearing underwear outside clothes.", "D": "Marketers recognize youth culture as a part of hip-hop culture."},
-      "explain": "Madonna 公開穿胸罩登台後，全球少女開始把內衣穿在外面。"
+      "explain": "<b>解題關鍵：</b>第二段說 Madonna 露出胸罩登上排行榜後，世界各地少女很快開始把內衣穿在衣服外面。<br>(A) 青少年購買力沒有說下降；(B) 青少年是消費者，不是靠時尚獲利者；(C) Madonna 帶起外穿內衣潮流，符合；(D) 行銷者把青年文化用於產品，不等於青年文化只是嘻哈一部分。<br>所以選 C。"
     },
     {
       "no": 55, "originalNo": 55, "section": "五、閱讀測驗", "cat": "C4", "tags": ["推論判讀"], "lang": "題組", "textType": "閱讀測驗", "answer": "A", "group": "G7",
       "stem": "It can be inferred from the passage that Hilfiger __________.",
       "options": {"A": "believed that MTV stars could drive fashion trends among teens", "B": "sold Nintendo terminals together with teens’ clothes in his stores", "C": "sponsored a Nintendo competition out of his own interest in computer games", "D": "was rated by teens and adults as the best designer of jeans around the world in 2000"},
-      "explain": "他送衣給 MTV 明星並以青少年明星做廣告，顯示相信明星能帶動潮流。"
+      "explain": "<b>解題關鍵：</b>文章沒有直接寫 Hilfiger 的信念，但可由行動推論：他送衣給 MTV 明星，又讓青少年明星拍平面廣告，顯示相信明星會影響青少年穿著。<br>(A) 符合這項推論；(B) Nintendo 機台裝在店裡，不是和衣服一起販售；(C) 贊助是掌握青少年興趣，不是本人愛玩；(D) 調查只問青少年，沒含成人。<br>所以選 A。"
     }
   ]
 });
@@ -10210,61 +10210,61 @@ window.BANK.push({
 })();
 
 [
-  "在激烈競爭中僅以些微差距奪冠；narrowly 表示「勉強地、以些微差距」。",
-  "公司財務問題嚴重，已無法再有效管理；manageable 表示「可處理、可管理的」。",
-  "桌上堆滿不必要物品，所以必須移除一些；remove 表示「移除」。",
-  "商人較關心產品的商業成功，而非教育價值；commercial 表示「商業的」。",
-  "包裹數小時內送達，說明郵政的特殊遞送服務效率高；delivery 表示「遞送」。",
-  "兒童並非有意識地學習母語，卻能自然流利掌握；consciously 表示「有意識地」。",
-  "節目其實廣受歡迎，與對方的看法相反；Contrary to 表示「與……相反」。",
-  "人的能力有其限度，不應讓自己過度疲累；limitation 表示「限制、限度」。",
-  "對方無法理解這一點，因此需要說清楚；clarify 表示「釐清、闡明」。",
-  "球員動機強烈，所以球隊很可能獲勝；motivated 表示「有動機的」。",
-  "後文從整體評價故事引出許多有趣角色；on the whole 表示「整體而言」。",
-  "多數同學贊成去墾丁國家公園旅行；in favor of 表示「贊成」。",
-  "很久沒見到約翰，事實上已失去他的消息；lose track of 表示「與……失去聯絡」。",
-  "製造業逐漸讓位給資訊業；give way to 表示「讓位於、被……取代」。",
-  "他在派對上的行為不合場合，令大家驚訝；out of place 表示「不合宜」。",
-  "There is no doubt that 後需接完整子句；no place is like home 表示「毫無疑問，沒有地方比得上家」。",
-  "What I can never understand 作主詞，後接 is why John failed in this exam 才形成完整句意。",
-  "Only by 放句首時主句需倒裝，故接 can you succeed in achieving your goal。",
-  "逗點後用 trying to make him relaxed 補充護士靠近孩子的目的。",
-  "nothing more than 是固定用法，意為「只不過是」；此畫只不過是另一幅畫的複製品。",
-  "not unlike 是「並非不像」，即看似平常午後，與後文突發異狀形成對比。",
-  "人與動物失去意識，當他們醒來時才發現婦女都已懷孕；When 表示時間。",
-  "give birth to 是固定搭配，表示「生下」。",
-  "孩子在成長過程中成群活動；As 表示「隨著」。",
-  "空格引導名詞子句作主詞，表示「一個孩子所學會的事」，故用 What。",
-  "村民開始表達孩子們共享同一心智的看法；express one's belief 表示「表達信念」。",
-  "四十年前的故事竟以某種方式預示複製技術；somehow 表示「不知怎地、以某種方式」。",
-  "省略結構為 as it is described in this story，故用過去分詞 described。",
-  "what will become of it 是固定問法，表示「它將會變成什麼、結果如何」。",
-  "have yet to 表示「尚未」，人們仍未找出如何處理複製技術。",
-  "on the way 是固定片語，表示阿米爾與驢子在前往市場途中經過溪流。",
-  "驢子跳進水裡讓自己涼快；主詞與受詞同一者，使用反身代名詞 himself。",
-  "鹽溶於水使驢子背負的重量變輕；lightening 表示「減輕」。",
-  "play the same trick 表示「重施同樣把戲」。",
-  "驢子反覆毀掉鹽貨，使阿米爾十分困擾；troubled 表示「煩惱的」。",
-  "teach someone a lesson 是固定片語，表示「給某人一個教訓」。",
-  "想了三天之後，他終於想到好辦法；finally 表示「終於」。",
-  "not A but B 表示「不是 A 而是 B」；袋中裝的不是鹽而是沙。",
-  "沙吸水後重量增加，因此袋子變得更重；heavier 符合語意。",
-  "驢子受過教訓後，便盡責地把鹽運到市場；dutifully 表示「盡責地」。",
-  "兩人五月十七日出發，九月十七日遇難，正好在海上約四個月。",
-  "多姆說漁船駕駛臺上沒有人，因此無人看見他們並避免撞擊。",
-  "多姆雖對未抵達舊金山失望，仍說兩人活著比一切都重要。",
-  "文章說人進入幻想世界是為逃離現實、獲得美好結局與實現願望，並非因幻想世界令人害怕。",
-  "超人、彼得潘與哈利波特吸引人，是因他們擁有一般人沒有的神奇能力。",
-  "全文從現實的不如意說明幻想故事的吸引力，目的在解釋人們為何喜愛幻想文學。",
-  "她 1917 年因種族被音樂學校拒絕，之後為教會聚會演唱，直到 1929 年赴歐洲學聲樂。",
-  "托斯卡尼尼稱她的聲音百年難得一聞，表示她擁有極罕見的歌聲。",
-  "她的歌聲先在歐洲獲得廣泛讚譽，1935 年返美後才成為頂尖演唱家。",
-  "文章呈現她藉持續磨練歌唱藝術、取得卓越成就，最終戰勝種族歧視。",
-  "他過去甚至帶一套乾淨西裝更換，以免衣服皺掉，顯示他總要服裝保持整潔。",
-  "大衛說自己工作更努力，需要感到舒適，因此改穿休閒服。",
-  "文中只有部分雇主反對休閒服裝，並非全美所有雇主都支持，所以 D 為錯誤敘述。",
-  "休閒星期五最初是雇主每週提供一天的額外福利，之後才逐漸成為日常現象。",
-  "文中提到省錢、提升士氣與幸福感，沒有提到休閒服能使員工更有吸引力。"
+  "<b>解題關鍵：</b>keen competition 表示競爭激烈，所以她是以些微差距險勝。<br>(A) privately「私下」；(B) distantly「遙遠地」；(C) locally「在本地」；(D) narrowly「勉強、以些微差距」最符合。<br>把答案放回去：她在激烈競爭中險勝冠軍。",
+  "<b>解題關鍵：</b>serious financial problems 說財務問題嚴重，no longer 表示公司已難以處理。<br>(A) achievable「可達成的」形容目標；(B) stretchable「可伸展的」；(C) repeatable「可重複的」；(D) manageable「可管理的」最符合。<br>把答案放回去：這家公司已難以管理。",
+  "<b>解題關鍵：</b>桌面被 unnecessary things 擠滿，要整理就得拿走一些。<br>(A) remain「留下」不能接受詞；(B) resist「抵抗」；(C) remove「移除」正確；(D) renew「更新」不表示清掉雜物。<br>把答案放回去：你必須移除一些不必要物品。",
+  "<b>解題關鍵：</b>句子把產品成功與 educational values 對比，商人關心的是銷售獲利。<br>(A) cultural「文化的」；(B) commercial「商業的」正確；(C) classical「古典的」；(D) criminal「犯罪的」。<br>把答案放回去：商人較重視產品的商業成功。",
+  "<b>解題關鍵：</b>包裹幾小時內就能收到，談的是郵局把物品送達的服務。<br>(A) delivery「遞送」正確；(B) directory「名錄」；(C) discovery「發現」；(D) dormitory「宿舍」。<br>把答案放回去：郵政特別遞送服務效率很高。",
+  "<b>解題關鍵：</b>but 表轉折：兒童沒有刻意規劃學母語，幾年後卻自然流利。<br>(A) previously「先前」；(B) variously「以不同方式」；(C) consciously「有意識地」正確；(D) enviously「羨慕地」。<br>把答案放回去：孩子並非有意識地學母語。",
+  "<b>解題關鍵：</b>節目其實受到許多觀眾喜愛，和對方想法相反；Contrary to 是固定搭配「與……相反」。<br>(A) Intensive「密集的」；(B) Contrary 正確；(C) Fortunate「幸運的」；(D) Objective「客觀的」。<br>把答案放回去：與你的想法相反，節目很受歡迎。",
+  "<b>解題關鍵：</b>後句提醒不要讓自己過度疲累，表示每個人的能力都有上限。<br>(A) relaxation「放鬆」；(B) contribution「貢獻」；(C) hesitation「猶豫」；(D) limitation「限制」最符合。<br>把答案放回去：人的能力有限，不應過度勉強。",
+  "<b>解題關鍵：</b>We simply cannot understand it 指出聽者不明白，所以需要把這點說清楚。<br>(A) clarify「釐清、闡明」正確；(B) falsify「造假」；(C) purify「淨化」；(D) notify「通知」。<br>把答案放回去：你必須把這一點解釋清楚。",
+  "<b>解題關鍵：</b>because 後要提供球隊會贏的理由，球員都有強烈動力最合理。<br>(A) illustrated「被圖解的」；(B) estimated「被估計的」；(C) motivated「有動力的」正確；(D) dominated「被支配的」。<br>把答案放回去：球員很有鬥志，所以球隊會贏。",
+  "<b>解題關鍵：</b>句子先總評故事迷人，再舉角色有趣作理由，需要表整體觀點。<br>(A) on the whole「整體而言」正確；(B) under no circumstances「絕不」；(C) in no time「立刻」；(D) out of the question「不可能」。<br>把答案放回去：整體來說，故事很迷人。",
+  "<b>解題關鍵：</b>空格在說同學對墾丁旅行的態度。<br>(A) in honor of「向……致敬」；(B) in favor of「贊成」正確；(C) in search of「尋找」；(D) in place of「代替」。<br>把答案放回去：多數同學贊成去墾丁旅行。",
+  "<b>解題關鍵：</b>很久沒見 John，表示不知道他的近況或所在地。<br>(A) made up for「彌補」；(B) run out of「用完」；(C) come to pass「發生」；(D) lost track of「失去消息」正確。<br>把答案放回去：我們已失去 John 的消息。",
+  "<b>解題關鍵：</b>句子比較臺灣近年的產業變化，資訊業上升，製造業退居其次。<br>(A) found a way of「找到方法」；(B) changed the way of「改變方式」；(C) given way to「讓位給」正確；(D) had a way of「有方法」。<br>把答案放回去：製造業逐漸讓位給資訊業。",
+  "<b>解題關鍵：</b>他的行為讓大家驚訝，表示舉動與派對場合不搭。<br>(A) out of practice「生疏」；(B) out of place「不合場合」正確；(C) out of politeness「出於禮貌」；(D) out of pity「出於同情」。<br>把答案放回去：他的行為很不合宜。",
+  "<b>解題關鍵：</b>There is no doubt that 是「毫無疑問……」，that 後需完整子句。<br>(E) no place is like home 有主詞與動詞，語意自然；(A) 是倒裝片段，(G) 以 and 開頭，(F)(H) 不完整，其餘內容也接不上。<br>整句：毫無疑問，沒有地方比得上家。",
+  "<b>解題關鍵：</b>What I can never understand 是「我一直無法理解的事」，整段當主詞，後面需要主要動詞。<br>(J) is why John failed... 用 is 完成句子；其他選項不是可接此主詞的完整述語，或人稱、語意不合。<br>整句：我無法理解的是 John 為何考試失敗。",
+  "<b>解題關鍵：</b>Only by working hard 是「只有靠努力」。Only＋方法放句首時，把 you can 改成 can you，這叫倒裝，白話就是助動詞提前。<br>(A) can you succeed 符合；其他選項沒有此語序且內容接不上。<br>整句：只有努力，你才能成功達成目標。",
+  "<b>解題關鍵：</b>主句「護士走近孩子」已完整，逗點後要補充同時做的事或目的。<br>(H) trying to make him relaxed 是「試著讓他放鬆」，可看成省略 and she was；(F) after proposing 情境不合，其餘片段也無法接續。<br>整句：護士走近孩子，試著讓他放鬆。",
+  "<b>解題關鍵：</b>nothing more than 是固定片語「只不過是」。<br>(C) more than a copy of the other 可和題幹組成完整意思；其他選項不能與 nothing 組成這個搭配，或句型、內容不合。<br>整句：這幅畫只不過是另一幅畫的複製品。",
+  "<b>解題關鍵：</b>後面突然發生全村昏迷，前面先說這個午後看似和平常沒有不同。not unlike 是雙重否定，白話就是「很像」。<br>(A) unlike 可接在 not 後；(B) dislike 是動詞；(C) not like 會變成不像；(D) alike 前不用這種搭配。<br>關鍵句：這看起來像村中任何一個午後。",
+  "<b>解題關鍵：</b>人和動物先失去意識，接著在「醒來時」發現婦女懷孕，需要時間連接詞。<br>(A) Then 是副詞，不能直接接子句；(B) When「當……時」正確；(C) Since 表從那時起或原因；(D) And 只表並列。<br>關鍵句：當他們醒來時，所有育齡婦女都懷孕了。",
+  "<b>解題關鍵：</b>give birth to 是固定搭配「生下」。<br>(A) send「送」；(B) make「製作」；(C) take「拿取」；(D) give 與 birth to 組成正確片語。這些動詞本身都可用，但只有 give 能搭配 birth。<br>關鍵句：故事中的婦女生下外表相同的孩子。",
+  "<b>解題關鍵：</b>孩子一邊成長，一邊開始成群在村裡活動；兩件事同步發展，需要表示「隨著」。<br>(A) If「如果」，會變成不確定條件；(B) For「因為」，因果不合；(C) As「隨著」正確；(D) So「所以」不能直接接子句。<br>關鍵句：隨著孩子長大，他們成群在村裡跑動。",
+  "<b>解題關鍵：</b>整段「一個孩子所學會的事」要當句子主詞；learns 後也缺學會的內容。<br>(A) Which 需有選擇範圍；(B) While 表同時；(C) Where 表地點；(D) What 同時表示「所……的事」，正確。<br>關鍵句：一個孩子學到的事，其他孩子也立刻知道。",
+  "<b>解題關鍵：</b>村民開始把「孩子共享一個心智」這項信念說出來。express one’s belief 是「表達信念」。<br>(A) express 正確；(B) wonder「想知道」不能直接接 belief；(C) select「挑選」；(D) ignore「忽略」與開始談論相反。<br>關鍵句：村民開始表達他們的看法。",
+  "<b>解題關鍵：</b>四十年前的故事竟然以某種難以說明的方式預示了複製技術。<br>(A) sometimes「有時」；(B) anyway「無論如何」；(C) somehow「不知怎地、以某種方式」正確；(D) anyhow 雖近似 anyway，但此句慣用 somehow 表驚訝。<br>關鍵句：故事竟以某種方式預見複製技術。",
+  "<b>解題關鍵：</b>as 後省略了 it is，完整意思是 as it is described in this story「如故事中所描述」。複製人是「被描述」，所以用過去分詞。<br>(A) describes 主動單數；(B) described 正確；(C) describe 原形；(D) describing 表主動。<br>關鍵句：人類複製體真會像故事描述的那樣共享心智嗎？",
+  "<b>解題關鍵：</b>what will become of... 是固定問法「……會有什麼結果」。<br>(A) happen 和 (B) occur 不接 of；(C) appear「出現」也不能形成此片語；(D) become 正確。<br>關鍵句：這情況太陌生，我們不知道最後會如何。",
+  "<b>解題關鍵：</b>have yet to V 是「尚未做……」，表示到目前仍沒找出方法。<br>(A) have not to 不是「尚未」的自然說法；(B) yet 與 have to 組成固定結構，正確；(C) till 是「直到」；(D) though 是「雖然」。<br>關鍵句：人們尚未找出如何處理複製技術。",
+  "<b>解題關鍵：</b>Amir 正帶驢子去市場，途中經過溪流。on the way 是固定片語「在路上、途中」。<br>the way 能和 On 組成完整搭配；himself 是反身代名詞，heavier 是比較級，其他動詞或副詞也不能放在 On 後。<br>關鍵句：在前往市場途中，他們經過一條溪流。",
+  "<b>解題關鍵：</b>驢子跳進溪裡讓「自己」涼快；做動作的 donkey 和接受動作的是同一個。<br>himself 是陽性單數反身代名詞，表示「牠自己」，最符合。the way、heavier 等詞性不合；not 也無法當 cool 的受詞。<br>關鍵句：驢子跳進溪裡讓自己涼快。",
+  "<b>解題關鍵：</b>鹽在水中融化，Amir 的貨物毀了，但驢子背上的重量變輕；but 表示兩種相反結果。<br>lightening 是「使變輕」，與前面的 ruining 同為 V-ing，形式平行；heavier 是更重，與鹽融化相反。<br>關鍵句：水毀了鹽，卻減輕驢子的負擔。",
+  "<b>解題關鍵：</b>後來幾天驢子又跳進水中，重複先前讓鹽融化的把戲。play a trick 是「耍花招」。<br>played 是過去式，與 ruined 時態一致；finally 是副詞，teach 是原形，其他詞也不能接受詞 the same trick。<br>關鍵句：驢子故技重施，又毀了鹽。",
+  "<b>解題關鍵：</b>驢子反覆毀掉貨物，Amir 當然很煩惱。be troubled by 是「被……困擾」。<br>troubled 是形容人的感受，符合 was very much；heavier 形容重量，dutifully 是副詞，其他選項詞性或語意不合。<br>關鍵句：Amir 被驢子的把戲弄得很困擾。",
+  "<b>解題關鍵：</b>Amir 想出方法讓驢子不再耍花招。teach someone a lesson 是「給某人一個教訓」。<br>to 後要接原形動詞 teach；played 是過去式，lightening 是 V-ing，troubled 是形容詞。<br>關鍵句：他想找方法給驢子一個教訓。",
+  "<b>解題關鍵：</b>他想了三天，到了第三天才想到方法，因此要用表示長時間等待後終於出現結果的副詞。<br>finally 是「終於」，能修飾 came up with；dutifully 是「盡責地」，不表示思考結果；heavier 是「更重的」，其他詞性也不合。<br>關鍵句：第三天，他終於想到一個能教訓驢子的好主意。",
+  "<b>解題關鍵：</b>這次 Amir 改變內容物，袋子裡「不是鹽，而是沙」。not A but B 是固定對比句型。<br>not 放在 with salt 前，與後面的 but 配對；the way、himself 等詞無法形成對比。<br>關鍵句：袋中裝的不是鹽，而是沙。",
+  "<b>解題關鍵：</b>沙吸水不會像鹽一樣溶掉，反而增加重量，所以袋子變得「更重」。<br>heavier 是 heavy 的比較級，可接在 became much 後；lightening 表減輕，方向相反；troubled 通常形容人困擾。<br>關鍵句：袋子吸水後變得重得多。",
+  "<b>解題關鍵：</b>From then on 表示「從此以後」；驢子受到濕沙教訓後，不再故意毀鹽，而是改變態度、盡責地運送。<br>dutifully 是「盡責地」，副詞可修飾 carried；finally 雖是副詞，但重點不是時間，而是態度改變；played、teach 等詞性也不合。<br>關鍵句：從此以後，驢子盡責地把鹽運到市場。",
+  "<b>解題關鍵：</b>第二段提供兩個明確日期：兩人 2001 年 5 月 17 日從日本出發，9 月 17 日被漁船撞上。月份與日期逐一相減，從同日算正好四個月。<br>(A) 一個月、(B) 兩個月、(C) 三個月都少算；(D) 四個月符合日期。<br>所以他們在海上航行約四個月後遇到事故。",
+  "<b>解題關鍵：</b>Dom 在訪談中直接說 fishing ship came towards us with nobody on the bridge，表示駕駛臺沒有人看見他們。<br>(A) 沒說兩人粗心；(B) 無人看見他們，符合；(C) 沒把原因歸於速度；(D) 小艇強度影響損壞，不是撞船主因。<br>所以選 B。",
+  "<b>解題關鍵：</b>Dom 最後說 We are alive. That above everything is the most important，直接把存活放在一切之上。<br>(A) 兩人都生還，符合；(B) 沒說享受事故；(C) 小艇嚴重受損；(D) 未到舊金山是失望，不是最重要的事。<br>所以選 A。",
+  "<b>解題關鍵：</b>這是 EXCEPT 題。第一段說現實常令人失望，幻想世界事情順心且有快樂結局。<br>(A) 幻想世界嚇人並非進入原因，是答案；(B) 現實令人失望有提；(C) 幻想有快樂結局有提；(D) things go our way 表願望可實現。<br>所以選 A。",
+  "<b>解題關鍵：</b>第三段以三位角色舉例：超人及時阻止災難、Peter Pan 會飛、Harry Potter 有魔法，都是普通人沒有的能力。<br>(A) 壞人並非總占上風；(B) 只有前段一般幻想提公主；(C) 他們的方法正是 magical；(D) 擁有特殊力量符合共同點。<br>所以選 D。",
+  "<b>解題關鍵：</b>第一段說人想逃離不公平現實，第二段說對魔法的想望，第三段再用三位角色說明幻想提供解決問題的出口；各段都在回答「為何喜歡幻想」。<br>(A) 作者沒有批評幻想不真實；(B) 沒嘲笑讀者；(C) 解釋人們為何喜歡幻想文學，最完整；(D) 防災只是超人例子，不能代表全文。<br>所以選 C。",
+  "<b>解題關鍵：</b>第一段的時間線：1917 年她因種族被音樂學校拒絕，之後 began her career as a singer for church gatherings；1929 年才去歐洲。<br>(A) 沒能進音樂學校；(B) 為宗教聚會唱歌，符合；(C) Town Hall 是 1935 年後；(D) 歐洲學聲樂從 1929 年開始。<br>所以選 B。",
+  "<b>解題關鍵：</b>Toscanini 說她的歌聲 heard only once in a hundred years，是形容百年難得一見，不是說她真的一百年只唱一次。<br>(A) 歌聲極罕見、卓越，符合比喻；(B)(C)(D) 都把「百年一遇」誤解成演唱或被聽見的頻率。<br>所以選 A。",
+  "<b>解題關鍵：</b>第一段說 Anderson 1929 年到歐洲學聲樂並演出，Her voice was widely praised throughout Europe；之後 1935 年才返美。<br>(A)(B) 美國的重要演出在後；(C) 歐洲最早廣受肯定；(D) 聯合國代表是 1958 年。<br>所以選 C。",
+  "<b>解題關鍵：</b>文章沒有寫 Anderson 上街示威，而是一路學習、演出，以卓越歌聲取得 Town Hall、歌劇院與國際成就，最後 triumph over racism。<br>(A) 沒向政府抗議；(B) 她是聯合國代表，不是向聯合國申訴；(C) 沒示威；(D) 精進藝術並以成就突破歧視，符合。<br>所以選 D。",
+  "<b>解題關鍵：</b>第一段直接舉例：David 每天穿昂貴西裝，甚至帶一套乾淨西裝，衣服皺了就換。<br>(A) 卡其褲是現在；(B) 他正是不能忍受不整潔；(C) 總想讓衣服整齊，符合 clothes addict；(D) 當時穿昂貴西裝，不是為省錢。<br>所以選 C。",
+  "<b>解題關鍵：</b>David 自己說 I need to feel comfortable，並說現在工作比以前更努力，休閒服讓他工作時舒服。<br>(A) feel at ease 符合 comfortable；(B) 沒說買不起；(C) 沒談外表帥氣；(D) 他仍在公司上班。<br>所以選 A。",
+  "<b>解題關鍵：</b>這是 FALSE 題。文中調查說 85% 雇主認為休閒服提升士氣，只有 4% 認為傷害生產力，表示不是所有雇主都贊成。<br>(A) 年輕人不愛保守規定；(B) 舒適有助生產力；(C) 年輕員工歡迎；(D)「所有」雇主支持，把多數誇大成全部，錯誤。<br>所以選 D。",
+  "<b>解題關鍵：</b>第二段說 casual Friday 起初是公司給員工每週一天的 extra benefit，後來才逐漸變成日常。<br>(A) 文中只說五年前個案，不能推二十年前；(B) 九○年代初只有星期五，不是每天；(C) 最初是雇主提供的福利，符合；(D) 目的是舒適，不是吸引目光。<br>所以選 C。",
+  "<b>解題關鍵：</b>這是 EXCEPT 題。末段列出休閒服可吸引年輕員工、讓人更快樂更有生產力、提升士氣並省下西裝費。<br>(A) 省錢有提；(B) 變得更有吸引力沒提，是答案；(C) motivation 對應 morale；(D) happier 直接出現。<br>所以選 B。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -11492,61 +11492,61 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "芭蕾舞者的動作優雅，因而使觀眾愉悅；graceful 表示「優美的、優雅的」。",
-  "閉幕式上運動員向觀眾揮手道別；wave good-bye 是「揮手告別」。",
-  "毒品問題遍及全球，並不限於單一國家；be restricted to 表示「限於」。",
-  "這項新計畫值得投入心力；be worthy of 表示「值得……的」。",
-  "新課本比另一本難讀許多；considerably 用來加強比較級，表示「相當多地」。",
-  "琳達對音樂的強烈熱愛促使她赴維也納求學；intensity 表示「強烈程度」。",
-  "電子郵件在現代通訊中扮演不可或缺的角色；vital 表示「極重要的」。",
-  "說話者大致接受計畫，但認為措辭仍需調整；basically 表示「基本上、大致上」。",
-  "同一首詩可有數種合理解讀；interpreted 表示「詮釋、解讀」。",
-  "布料太粗，指的是表面質地；texture 表示「質地、紋理」。",
-  "計畫雖獲支持，最後仍以失敗告終；end up in failure 表示「最終失敗」。",
-  "莎拉編故事逗朋友開心；make up stories 表示「編造故事」。",
-  "掌聲逐漸減弱時，舞臺布幕緩緩落下；die down 表示「逐漸平息」。",
-  "沒有人能事先知道地震何時發生；in advance 表示「事先」。",
-  "建造實驗室的預算龐大，使計畫受到質疑；be called into question 表示「遭到質疑」。",
-  "given that 是固定連接語，表示「考量到、既然」聖誕節只剩幾週。",
-  "here is a gift idea 用來引出接下來提出的禮物點子。",
-  "形容喜愛科技新品的人不難取悅；hard to please 為主動形式表被動意義。",
-  "make life more enjoyable 是固定使役結構，表示「讓生活更愉快」。",
-  "be capable of 後接事物能做到的程度；how much 表示「能有多大能耐」。",
-  "For a student 表示「對於總是不準時的學生而言」，引出適合的鬧鐘。",
-  "普通時鐘清晨難以看清，因此造成學生遲到；therefore 表示因果。",
-  "anywhere else 表示除了牆壁、天花板之外的任何其他地方。",
-  "鬧鈴會愈來愈大聲，直到被關掉為止；until 表示持續到某時點。",
-  "make 後接動名詞片語作受詞；make waking up a little easier 表示讓起床容易些。",
-  "People in this village 是複數主詞，接 have carried out many welfare programs 才構成完整句。",
-  "After his graduation from college 後接 he found a job in a computer company，交代畢業後的結果。",
-  "be attracted to 是固定搭配，故接 to this new form of art。",
-  "It has been many years since... 是固定句型，表示「自從上次見他已過多年」。",
-  "過去進行式 I was taking a walk 與 when 引導的突發事件搭配，表示散步時遇見老友。",
-  "insist on 後接動名詞；my leaving my legs behind 表示堅持要我留下雙腿。",
-  "quite 修飾 annoyed，表示雖不驚訝，卻相當惱火。",
-  "服務員對規定帶來的不便感到抱歉；be sorry about 表示「對……感到抱歉」。",
-  "in the way 是固定片語，表示別人的腿總是「擋路」。",
-  "既然雙腿妨礙他人，劇院決定讓觀眾把腿留在外面；outside 符合文意。",
-  "under normal circumstances 表示「在正常情況下」，說話者原本會提出爭辯。",
-  "make a disturbance 是固定搭配，表示「引起騷動」。",
-  "說話者一直以為腿牢固地連在身上；securely 表示「牢固地」。",
-  "come off 表示「脫落、拆下」，此處說雙腿竟能輕易拆下。",
-  "not ... any more than... 表示前後兩件事同樣不令人驚訝，故用 any。",
-  "文中說手工削皮耗時且常缺貨，直到機械削皮器發明後才得以大量生產。",
-  "廚師故意把馬鈴薯切得極薄，是想讓抱怨的客人無話可說，結果反而創造新食品。",
-  "洋芋片於 1853 年在餐廳誕生，自十九世紀起便在美國流行。",
-  "文章明說杜馬缺乏正規教育，因此「受過良好教育」是錯誤敘述。",
-  "杜馬的小說雖寫於一百五十年前，至今仍吸引世界各地數百萬讀者。",
-  "杜馬致富後把宅邸開放給挨餓的藝術家、朋友甚至陌生人，可推知他慷慨且富同情心。",
-  "柔伊僅兩週大便失去母親、孤身在市場遊蕩，因此被送往大象孤兒院。",
-  "孤兒院設在達芙妮家中並依靠私人捐款運作，故屬私人資金支持。",
-  "柔伊在保護區由照護員逐步學習尋找食物與水，以適應野外生活。",
-  "最終目標是把幼象放回野生象群，顯示達芙妮希望大象回到自己的群體生活。",
-  "這只普通女鞋之所以特殊，在於發現地是著名淘金路線 Chilkoot Pass。",
-  "許多淘金者不了解路途嚴酷、準備不足，因飢餓與寒冷而死。",
-  "政府要求攜帶足供一年使用的物資，是為讓淘金者能避免飢寒、存活下來。",
-  "鞋主人結局雖無從得知，但她參與艱險旅程所展現的勇氣與決心值得欽佩。",
-  "全文由一只普通舊鞋引發對淘金者旅程的想像，強調簡單物件也能激發想像力。"
+  "<b>解題關鍵：</b>芭蕾舞者的動作讓所有觀眾感到愉悅，應是優美而不是令人懷疑。<br>(A) truthful：誠實的，通常形容人或話；(B) doubtful：可疑的；(C) graceful：優美、優雅的，最符合芭蕾；(D) helpful：有幫助的。<br>把答案放回去：舞者優雅的動作使觀眾開心。",
+  "<b>解題關鍵：</b>奧運閉幕式上，選手要向觀眾道別；wave good-bye 是「揮手告別」的固定說法。<br>(A) charmed：使著迷；(B) waved：揮手，正確；(C) dared：敢於；(D) gazed：凝視，不能和 good-bye 搭配。<br>把答案放回去：所有選手向觀眾揮手道別。",
+  "<b>解題關鍵：</b>前句說毒品問題 universal「全世界都有」，後句就要說它不只限於一國。<br>(A) protected：受保護；(B) detected：被發現；(C) admitted：被承認、准入；(D) restricted：受限制，be restricted to 是「限於」。<br>因此選 D。",
+  "<b>解題關鍵：</b>句意是這項新計畫值得你投入心力；be worthy of 是「值得……」的固定搭配。<br>(A) cautious：小心的；(B) fruitful：有成果的，通常不接 of effort；(C) worthy：值得的，正確；(D) patient：有耐心的。<br>把答案放回去：這項計畫值得你的努力。",
+  "<b>解題關鍵：</b>空格修飾比較級 more difficult，需要表示「困難許多」的程度副詞。<br>(A) considerably：相當、大幅地，可加強比較級；(B) favorably：有利地；(C) desirably：理想地；(D) respectably：值得尊敬地。<br>把答案放回去：這本課本難讀得多。",
+  "<b>解題關鍵：</b>Linda 對音樂的愛強到讓她飛往維也納求學，重點是感情的強烈程度。<br>(A) quantity：數量；(B) intensity：強度，符合語意；(C) creativity：創造力；(D) formality：正式程度。<br>把答案放回去：她對音樂的熱愛非常強烈。",
+  "<b>解題關鍵：</b>電子郵件是現代通訊中不可缺少的重要工具。<br>(A) vital：極重要、必要的，play a vital role 是「扮演關鍵角色」；(B) violent：暴力的；(C) vivid：生動的；(D) various：各式各樣的。<br>因此選 A。",
+  "<b>解題關鍵：</b>but 後說計畫仍需改寫，表示說話者只是在大方向接受，不是完全同意每個細節。<br>(A) basically：基本上、大致上；(B) leisurely：悠閒地；(C) modestly：謙虛地；(D) properly：適當地。<br>因此選 A。",
+  "<b>解題關鍵：</b>同一首詩可以有數種不同方式，而且每種都說得通，指的是不同「解讀」。<br>(A) negotiated：協商；(B) designated：指定；(C) interpreted：詮釋、解讀；(D) substituted：取代。<br>把答案放回去：這首詩能以數種方式詮釋。",
+  "<b>解題關鍵：</b>後句問有沒有 finer one「更細緻的」，所以 coarse「粗糙」描述的是布面觸感。<br>(A) content：內容；(B) display：展示；(C) extent：程度；(D) texture：質地、紋理，正確。<br>把答案放回去：這塊布的質地太粗。",
+  "<b>解題關鍵：</b>though 表示雖獲多人支持，結果仍失敗；end up in failure 是「以失敗告終」。<br>(A) held on：堅持；(B) ended up：最後成為，正確；(C) put away：收起；(D) brought about：造成，後面不能接 in failure。<br>因此選 B。",
+  "<b>解題關鍵：</b>Sara 用故事逗朋友開心，表示故事是她編出來的。<br>(A) speaking out：公開說；(B) setting off：出發、引發；(C) making up：編造，make up stories 是固定搭配；(D) giving away：送出、洩露。<br>因此選 C。",
+  "<b>解題關鍵：</b>舞臺布幕慢慢落下時，掌聲也逐漸變小。<br>(A) took off：起飛、脫下；(B) died down：逐漸平息，符合 applause；(C) passed out：昏倒、分發；(D) stayed up：熬夜。<br>把答案放回去：掌聲漸弱，布幕緩緩落下。",
+  "<b>解題關鍵：</b>地震發生時間無法預知，空格要表示「事前」。<br>(A) in advance：預先、事先，正確；(B) in particular：尤其，用來特別指出某項；(C) in vain：徒勞地，表示努力沒有結果；(D) in case：以防萬一，後面通常接子句。<br>把答案放回去：沒有人可能事先知道地震何時來襲。",
+  "<b>解題關鍵：</b>on account of 指出原因是預算龐大，因此建實驗室的計畫遭人懷疑是否可行。<br>(A) taken for granted：視為理所當然；(B) started out：開始；(C) got into difficulty：陷入困難，但此處前已有 was；(D) called into question：受到質疑。<br>因此選 D。",
+  "<b>解題關鍵：</b>空格後 that Christmas is... 是完整子句；given that 是「考量到、既然」，用來引出聖誕節快到的背景。<br>(A) given 可組成連接語；(B) give、(C) giving、(D) to give 都不能在此形成完整連接。<br>因此選 A。",
+  "<b>解題關鍵：</b>前句說不知道送什麼，後句準備提出一個點子；here is... 表示「這裡有……」，常用來介紹接下來內容。<br>(A) it 會缺少明確指涉；(B) here 正確；(C) that 是指示詞；(D) where 需引導子句。<br>因此選 B。",
+  "<b>解題關鍵：</b>aren't hard 後接不定詞，句意是喜愛科技新品的人「不難取悅」。物品取悅人，所以用主動 to please。<br>(A) to be pleased 是自己感到高興；(B) to please 是取悅，正確；(C) to be pleasing 結構與意思不合；(D) to have pleased 表已完成。<br>因此選 B。",
+  "<b>解題關鍵：</b>空格後有受詞 life 和形容詞 more enjoyable，句型 make＋受詞＋形容詞表示「使……變得……」。<br>(A) do、(B) take、(D) find 都不能形成此使役結構；(C) make 正確。<br>把答案放回去：幾樣新品可讓生活更愉快。",
+  "<b>解題關鍵：</b>be surprised 後要接「它們能做到多少」，how much 表程度或能力大小。<br>(A) how much：多少、多大能耐，正確；(B) at that：而且；(C) what if：如果……會怎樣；(D) such as：例如。<br>把答案放回去：你會驚訝它們有多大能耐。",
+  "<b>解題關鍵：</b>這句針對總是遲到的學生推薦鬧鐘；For a student 表示「對某學生而言」。<br>(A) Once：一旦；(B) Like：像；(C) Just：只是；(D) For：對於，正確。<br>把答案放回去：對總不準時的學生來說，有這款投影鬧鐘。",
+  "<b>解題關鍵：</b>普通鬧鐘清晨難看清，讓學生看錯時間，結果使他們遲到，前因後果很清楚。<br>(A) though：雖然，表示讓步；(B) therefore：因此，正確；(C) otherwise：否則，表示另一條件的結果；(D) however：然而，表示轉折。<br>把答案放回去：鬧鐘難看清，因此造成學生上學遲到。",
+  "<b>解題關鍵：</b>投影可把時間顯示在牆、天花板或「任何其他地方」。anywhere else 是固定說法。<br>(A) else：其他的，放在不定代名詞後，正確；(B) too：也，通常放句尾；(C) also：也，常放一般動詞前；(D) then：那時、然後。<br>把答案放回去：時間能投影到牆、天花板或任何其他地方。",
+  "<b>解題關鍵：</b>鬧鈴會持續愈來愈大聲，到被關掉才停止；until 表示「一直到……為止」。<br>(A) when：當……時，只指出時間；(B) as：隨著、當；(C) until：直到，能表示聲音持續到關機，正確；(D) since：自從／因為，不符合未來終點。<br>把答案放回去：鬧鈴會愈來愈大聲，直到被關掉。",
+  "<b>解題關鍵：</b>make 後面要接當作受詞的「起床這件事」，動名詞 waking up 可把動作當名詞使用。<br>(A) to wake up 是不定詞；(B) wake up 是原形；(C) woke up 是過去式；(D) waking up 是動名詞，正確。<br>全句：它可能讓起床容易一點。",
+  "<b>解題關鍵：</b>句首 People in this village 是複數主詞，後面需要完整動詞述語。<br>(E) have carried out many welfare programs 正好是「已推動許多福利計畫」；(J) he found... 主詞不合；(F) still nobody... 接在此會成為兩個主詞。<br>因此選 E。",
+  "<b>解題關鍵：</b>After his graduation from college 是時間開頭，後面要交代他畢業後做了什麼。<br>(J) he found a job in a computer company 句法完整、時間合理；(G) since I last saw him 需搭現在完成式；(A) unlikely... 前面缺 be 動詞。<br>因此選 J。",
+  "<b>解題關鍵：</b>Ruth is attracted 後需要固定搭配 be attracted to「被……吸引」。<br>(H) to this new form of art 可接成「被這種新藝術形式吸引」；(A) unlikely that 與 (D) whether 都不能補完 attracted；(B) in that 意思也不合。<br>因此選 H。",
+  "<b>解題關鍵：</b>It has been many years 後常接 since＋過去式，表示某事距今已過多久。<br>(G) since I last saw him 組成「自從我上次見他已過多年」；(C) when I met... 只說當時，不能表示延續至今；(D) whether... 是是否。<br>因此選 G。",
+  "<b>解題關鍵：</b>I was taking a walk 是過去進行式，表示正在散步；when 可接突然發生的短動作。<br>(C) when I met an old friend of mine 組成「散步時遇到老友」；(G) since 需配現在完成概念；(J) he found a job 主詞與情境不合。<br>因此選 C。",
+  "<b>解題關鍵：</b>insist on 後接 V-ing；故事荒謬地說劇院人員堅持要說話者留下雙腿。<br>(C) leaving 是動名詞，可接 my leaving；(H) came 是過去式，(I) make 是原形，皆不合 on 後結構；(B) outside 是地點，留待後文。<br>因此選 C。",
+  "<b>解題關鍵：</b>前面說 not surprised，but 卻轉到 annoyed「惱火」，空格需程度副詞。<br>(G) quite 是「相當」，可修飾 annoyed；(D) securely 是牢固地，修飾方式不合；(F) normal 是形容詞。<br>因此選 G：他不驚訝，卻相當惱火。",
+  "<b>解題關鍵：</b>服務員提出不合理規定後，要表示對此感到抱歉；be sorry about 是固定搭配。<br>(A) sorry 是形容詞，可接在 was very 後；(G) quite 是副詞，但後面已有 about，不能單獨表情緒；(F) normal 意思不合。<br>因此選 A。",
+  "<b>解題關鍵：</b>人們抱怨別人的腿總是妨礙通行；in the way 是「擋路」。<br>(J) way 可和 in the 組成固定片語；(B) outside 是外面，(D) securely 是牢固地，不能接在 the 後；(E) any 也不能完成意思。<br>因此選 J。",
+  "<b>解題關鍵：</b>前句說腿會擋路，因此劇院決定觀眾要把腿留在「外面」。<br>(B) outside 是地點副詞，直接修飾 leave；(C) leaving 已在前面完成 insist on 結構；(D) securely 會變成牢固留下，與理由不合。<br>因此選 B。",
+  "<b>解題關鍵：</b>句型 under ___ circumstances 表示「在……情況下」；作者說平常會爭辯，但夢中卻沒有。<br>(F) normal 可組成 under normal circumstances「在正常情況下」；(G) quite 是副詞，(D) securely 修飾方式，都不能修飾 circumstances。<br>因此選 F。",
+  "<b>解題關鍵：</b>作者不想引起騷動，所以決定服從規定；make a disturbance 是「製造騷動」的固定搭配。<br>(I) make 正確；(H) came 是過去式，不能接 a disturbance；(C) leaving 與 (D) securely 也不合句型。<br>因此選 I。",
+  "<b>解題關鍵：</b>作者原以為人的腿牢牢固定在身上；空格修飾 fixed，需要副詞。<br>(D) securely 是「牢固地」，符合；(F) normal 是形容詞，不能直接修飾 fixed；(G) quite 雖可修飾，但 more quite 結構不合。<br>因此選 D。",
+  "<b>解題關鍵：</b>服務員示範如何拆腿，作者發現腿很容易「脫落」。come off 是「脫落、拆下」。<br>(H) came 可和 off 組成過去式，並和前文 showed、found 的過去時間一致；(I) make off 是逃走，主詞與意思不合；(C) leaving 不能接 off；(B) outside 是地點。<br>把答案放回去：他發現雙腿很容易就拆下來。",
+  "<b>解題關鍵：</b>not ... any more than... 是「前者不比後者更……」，也就是兩件事同樣沒有使他驚訝。<br>(E) any 可完成固定句型；(G) quite、(D) securely 都不能放在 more 前形成此比較；(F) normal 也不合。<br>因此選 E。",
+  "<b>解題關鍵：</b>最後一段說手工削皮費時、洋芋片常缺貨；1920 年代機械削皮器出現後，才有大量洋芋片。<br>(A) 能用機器削皮，正是大量生產的條件。<br>(B) 原文沒說增加廚師。<br>(C) 需求早已成長，卻仍缺貨。<br>(D) 1853 年餐廳首創時仍是手工。<br>因此選 A。",
+  "<b>解題關鍵：</b>故事中客人兩次抱怨薯條太厚，廚師生氣後故意切到薄得不能用叉子，原想讓客人停止抱怨。<br>(A) 他當時生氣，不是享受製作。<br>(B) 全國販售是後來受歡迎的結果，並非原計畫。<br>(C) 想讓抱怨者無話可說，符合文中的 stop...complaining。<br>(D) 結果客人喜歡，卻不是廚師原先目的。<br>因此選 C；要分清楚「行動目的」和「意外結果」。",
+  "<b>解題關鍵：</b>文章明確把洋芋片誕生放在 1853 年，屬於十九世紀，幾年後已賣遍美國。<br>(A) 兩百多年前會早於 1800 年，不符。<br>(B) 1920 年只是機械削皮器出現。<br>(C) 從 1853 至題本年代已超過百年。<br>(D) 自十九世紀起流行，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>這是 FALSE 題。第二段直接說 Dumas 克服 lack of formal education「缺乏正規教育」、貧窮與種族歧視。<br>(A) 他遭遇 racism，正確敘述。<br>(B) 受過良好教育，與原文相反，是答案。<br>(C) 父親是將軍，原文有。<br>(D) 祖父是海地奴隸，原文有。<br>因此選 B。",
+  "<b>解題關鍵：</b>首段說作品寫於 150 年前，仍 excite millions of readers around the world，表示長期吸引讀者。<br>(A) 少於百年，與 150 年相反。<br>(B) 是接近一百種語言，不是超過一百。<br>(C) 不是最近才受歡迎。<br>(D) 多年來迷住讀者，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>這是推論題。末段直接說 Dumas 致富後，讓挨餓藝術家、朋友甚至陌生人都可到他的宅邸；由此可合理推出他願意分享、關心他人。<br>(A) 他參加革命，人生多彩。<br>(B) 開放宅邸顯示不把財富只留給自己。<br>(C) 慷慨善良，符合推論。<br>(D) 他參加革命與打鬥，不能推論愛好和平。<br>因此選 C。",
+  "<b>解題關鍵：</b>第一段直接說 Zoe 才兩週大，母親已死，牠孤單在市場遊蕩，所以被送往孤兒院。<br>(A) 不是國家公園需要幼象。<br>(B) 找不到路不是主要原因。<br>(C) 幼年失去母親，符合完整因果。<br>(D) Daphne 經營的是救援孤兒院，不是收作寵物。<br>因此選 C。",
+  "<b>解題關鍵：</b>第一段說孤兒院在 Daphne 家中開設，並明說 depends on private contributions「依靠私人捐款」。<br>(A) 不是政府資助。<br>(B) 地點在 Nairobi 的住家，不在 Tsavo 園內。<br>(C) 文中只說大象孤兒。<br>(D) 以私人資金運作，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>第二段說 Zoe 到 Tsavo 保護區後，照護員 gradually introduced her to the ways of the wild，教牠尋找食物與水。<br>(A) 尚未放入野生象群，那是最終目標。<br>(B) 正在學習適應野外，符合。<br>(C) 市場遊蕩是獲救前。<br>(D) 照護員教導牠，但未說永遠陪伴。<br>因此選 B。",
+  "<b>解題關鍵：</b>第二段說 final aim 是把所有幼象 release...to a wild herd，也就是回到野生象群生活。<br>(A) 讓大象回到自己的群體，符合。<br>(B) 她沒說要設更多孤兒院。<br>(C) 她希望禁止象牙，並非販售。<br>(D) 目標是野放，不是送動物園。<br>因此選 A。",
+  "<b>解題關鍵：</b>第一段說鞋本身是普通的 1890 年代女鞋，真正 unique 的是發現地：著名淘金路線 Chilkoot Pass。<br>(A) 它確實引發歷史想像，但題目問「不尋常的原因」。<br>(B) 在著名路線旁發現，符合直接證據。<br>(C) 不知道主人是誰。<br>(D) 款式當時很普通。<br>因此選 B。",
+  "<b>解題關鍵：</b>第二段說許多淘金者不了解嚴酷荒野，對危險旅程 unprepared，因飢餓與受寒而死。<br>(A) 只有少數可能成功，非很多人成富翁。<br>(B) 攜帶的是一年物資，不是很多鞋。<br>(C) 沒提與愛斯基摩人衝突。<br>(D) 許多人裝備與準備不足，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>加拿大政府要求每人帶一噸、足供一年的物資；前句已說準備不足者會死於 starvation and exposure to cold。<br>(A) 避免飢餓與寒冷而死，符合因果。<br>(B) 不是供軍隊作戰。<br>(C) 沒說拿去交易。<br>(D) 目的不是繁榮阿拉斯加。<br>因此選 A。",
+  "<b>解題關鍵：</b>末段坦白說沒人知道鞋主人成功或失敗，但能確定她參與十九世紀最偉大的冒險之一，且必定勇敢堅定。<br>(A) 無法知道她是否幸福。<br>(B) 鞋可能意外掉落，也可能丟棄，不能確定。<br>(C) 冒險精神值得敬佩，符合作者評價。<br>(D) 沒找到其他鞋。<br>因此選 C。",
+  "<b>解題關鍵：</b>首段提出 Every object tells a story，接著由一只普通舊鞋想像主人如何越過冰階、準備物資及可能的命運，全文示範物件如何帶出故事。<br>(A) 文章沒有把重點放在批判淘金熱。<br>(B) 簡單物件能激發想像，能涵蓋全文。<br>(C) 不是呼籲所有鞋送博物館。<br>(D) 也不是討論阿拉斯加適居性。<br>因此選 B。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -11938,6 +11938,66 @@ window.BANK.push({
   ]
 });
 
+[
+  "<b>解題關鍵：</b>後面用 polite、kind、shows respect 說明 Jack 有禮、友善又尊重人。<br>(A) courteous：有禮貌的，能統整三項特質；(B) handsome：英俊的，只談外表；(C) hateful：可恨的，語意相反；(D) sensitive：敏感的，不一定有禮。<br>因此選 A。",
+  "<b>解題關鍵：</b>Jane 比平常更早到家，表示今天車流少、道路較順。<br>(A) heavy：繁忙、車多，會較晚到；(B) weak：虛弱的，不形容交通量；(C) scarce：稀少的，通常形容資源；(D) light：車流量小，light traffic 是常見搭配。<br>因此選 D。",
+  "<b>解題關鍵：</b>Jonathan 已取得醫師資格，後來放棄行醫，改成全職寫作。the practice of medicine 是「從事醫療」。<br>(A) treatment：治療；(B) diagnosis：診斷；(C) practice：執業，正確；(D) consumption：消耗。<br>把答案放回去：他放棄行醫工作。",
+  "<b>解題關鍵：</b>Bill 因說謊而受到 severe punishment，空格要說他是明知仍故意騙母親。<br>(A) notoriously：惡名昭彰地；(B) purposefully：故意地，符合責任程度；(C) roughly：粗略、粗暴地；(D) strongly：強烈地。<br>因此選 B。",
+  "<b>解題關鍵：</b>調查完成前，兩位警衛暫時不能執行職務；be suspended from duties 是「被停職」。<br>(A) collapsed：倒塌；(B) measured：測量；(C) declared：宣布；(D) suspended：暫停職務，正確。<br>把答案放回去：他們在調查期間被停職。",
+  "<b>解題關鍵：</b>so that everyone could follow easily 說明指示讓所有人容易照做，因此必須清楚明白。<br>(A) tentative：暫定、試探的；(B) explicit：明確的，與 direct 並列；(C) plausible：看似合理的；(D) informal：非正式的。<br>因此選 B。",
+  "<b>解題關鍵：</b>新產品要賣得好，廠商會花大筆錢讓更多人知道並購買，也就是促銷。<br>(A) liberation：解放；(B) promotion：宣傳促銷，正確；(C) destruction：破壞；(D) concentration：專注、濃度。<br>把答案放回去：廠商投資產品促銷。",
+  "<b>解題關鍵：</b>士兵受審，是因不服從指揮官命令；for 後接 V-ing，refuse to obey 是「拒絕服從」。<br>(A) refusing：拒絕，正確；(B) regretting：後悔，不能直接表違令；(C) resigning：辭職；(D) restricting：限制。<br>因此選 A。",
+  "<b>解題關鍵：</b>Michael 是最佳人選，所以委員會沒有分歧，全部投票支持。<br>(A) anonymously：匿名地；(B) drastically：劇烈地；(C) customarily：照慣例地；(D) unanimously：一致地，符合全體同意。<br>把答案放回去：委員會一致投票支持他。",
+  "<b>解題關鍵：</b>學生健行整天沒有喝水，坐到溪邊自然是為了解渴。quench one's thirst 是固定搭配。<br>(A) hunger：飢餓，通常用 satisfy；(B) energy：精力；(C) thirst：口渴，正確；(D) nutrition：營養。<br>因此選 C。",
+  "<b>解題關鍵：</b>The more..., the better... 是「越……就越……」。越常接觸英語環境，語言學得越好。<br>(A) filled in：填寫；(B) exposed to：接觸到，be exposed to environment 搭配正確；(C) caught on：理解／流行；(D) kept up：維持。<br>因此選 B。",
+  "<b>解題關鍵：</b>Peter 突然過世帶給 Jane 巨大打擊，她花很久才走出悲傷。<br>(A) put out：熄滅；(B) come across：偶遇；(C) go round：四處走、足夠分配；(D) get over：克服、走出，get over grief 最合語意。<br>因此選 D。",
+  "<b>解題關鍵：</b>句尾說這種人不容易相處，所以空格應是常欺負或找別人麻煩。<br>(A) leave out：遺漏；(B) let off：放過；(C) pick on：欺負、挑剔，符合；(D) turn up：出現、調大。<br>把答案放回去：喜歡欺負別人的人很難相處。",
+  "<b>解題關鍵：</b>老屋因地震嚴重受損，後面又說 rebuilt，重建前要先拆除。<br>(A) put out：熄滅；(B) run down：耗盡、說壞話；(C) knocked out：擊昏、淘汰；(D) pulled down：拆除建物，正確。<br>因此選 D。",
+  "<b>解題關鍵：</b>說話者代表整個團體向對方的款待致謝。<br>(A) on behalf of：代表，正確；(B) instead of：代替而不是；(C) because of：因為；(D) as a result of：由於……的結果。<br>把答案放回去：我謹代表本團感謝您的款待。",
+  "<b>解題關鍵：</b>as soon as 引導未來時間時，時間子句用現在式，主句才表未來。<br>(A) finish 是現在式，正確；(B) finished 是過去式；(C) are finishing 強調正在；(D) will finish 不用在此時間子句。<br>因此選 A。",
+  "<b>解題關鍵：</b>說話者現在要離開，表示「稍後再回來」；空格需能直接修飾 come back。<br>(A) later：稍後，正確；(B) late：遲到的／晚地，會變成晚回來；(C) latter：兩者中的後者，是名詞或形容詞；(D) latest：最新的／最晚的。<br>把答案放回去：我稍後再回來。",
+  "<b>解題關鍵：</b>paper 在此是報告，work on 是「著手處理、撰寫」。空格要和 work 形成固定搭配。<br>(A) by：在旁／藉由；(B) in：在裡面，work in 通常接工作場所或領域；(C) on：work on a paper 表示撰寫報告，正確；(D) along：沿著。<br>把答案放回去：我正在處理這篇報告。",
+  "<b>解題關鍵：</b>Joe 問的是 Sue 星期五是否已交報告，turn it in 是過去動作，所以問句用 Didn't。<br>(A) Mustn't：禁止；(B) Needn't：不必；(C) Couldn't：不能；(D) Didn't：難道沒……嗎，符合過去時間。<br>因此選 D。",
+  "<b>解題關鍵：</b>Sue 是接收教授通知的人，意思是「我被告知要多加十頁」，需要被動語態。<br>(A) told：主動告訴；(B) was told：被告知，正確；(C) had told：過去完成主動；(D) had been telling：一直告訴別人。<br>因此選 B。",
+  "<b>解題關鍵：</b>前句剛介紹 REM sleep，In this 中 this 回指這一種睡眠。<br>(A) this：這個，單數回指 REM sleep；(B) each：每一個；(C) both：兩者都，但此刻只談一種；(D) those：那些，需複數。<br>因此選 A。",
+  "<b>解題關鍵：</b>文章說睡眠有兩種，前面已講 REM sleep，剩下另一種要用 the other。<br>(A) Other：其他的，後要接名詞；(B) Another：三個以上的另一個；(C) The other：兩者中的另一個，正確；(D) Others：其他人／物的複數。<br>因此選 C。",
+  "<b>解題關鍵：</b>後面舉出最令人意外的情況：連自稱不作夢的人也有 REM 睡眠，所以要用表示加強意外程度的字。<br>(A) Even：甚至，正確；(B) For：為了／對於；(C) Except：除了，會把這些人排除；(D) Unless：除非，需連接條件子句。<br>把答案放回去：甚至自稱不作夢的人也有快速動眼睡眠。",
+  "<b>解題關鍵：</b>句子先提出條件：如果這些人在實驗室睡覺，研究者就能在 REM 時喚醒詢問。<br>(A) If：如果，正確；(B) No matter：無論，後需疑問詞；(C) No wonder：難怪；(D) Although：雖然，前後沒有讓步。<br>因此選 A。",
+  "<b>解題關鍵：</b>laboratory 是地點，空格後 they can be awakened 是完整子句，要用表示「在那裡」的關係詞。<br>(A) that、(C) which 需在子句中當主詞或受詞；(B) where 等於 in which，正確；(D) who 只能指人。<br>因此選 B。",
+  "<b>解題關鍵：</b>實驗最後證明，自稱不作夢的人其實也會作夢。turn out 表示「結果證明是」。<br>(A) shows off：炫耀；(B) crosses out：劃掉；(C) brings up：提出／養育；(D) turns out：結果是，正確。<br>因此選 D。",
+  "<b>解題關鍵：</b>前句說夢會用不同方式呈現現實衝突；後面開始講一位受欺負男孩的夢，是具體例子。<br>(A) In general：一般而言；(B) As a result：因此；(C) For example：例如，正確；(D) In contrast：相對地。<br>因此選 C。",
+  "<b>解題關鍵：</b>男孩在夢中變成一位英雄，空格再補充他當時正面對獅子的畫面；逗號後用 V-ing 表示伴隨狀態。<br>(A) face 是原形，前面沒有可搭配的動詞；(B) faced 是過去式，會多出另一個主要動詞；(C) facing：正面對，正確；(D) to face 常表目的或尚未發生。<br>把答案放回去：男孩夢見自己是面對獅子的英雄。",
+  "<b>解題關鍵：</b>前句較抽象地說夢重演真實經驗，後句改用白話說「也就是，夢見白天發生的事」。<br>(A) for instance：例如；(B) in addition：此外；(C) in a word：總之；(D) that is：也就是說，正確。<br>因此選 D。",
+  "<b>解題關鍵：</b>科學研究帶來結果：我們現在更了解睡眠與夢，所以空格要表示原因。<br>(A) Due to：由於，後接名詞 research；(B) As far as：就……而言；(C) In spite of：儘管，語意相反；(D) Consisting of：由……組成。<br>因此選 A。",
+  "<b>解題關鍵：</b>Mary 回答完自己的近況後，要自然反問 Jane「你呢？」。<br>(A) It's a small world：世界真小；(B) And you?：那你呢，最連貫；(C) Thanks a lot：謝謝；(D) Where are you going?：你要去哪，話題不同。<br>因此選 B。",
+  "<b>解題關鍵：</b>前文說那位久住不走的房客終於離開，Mary 感到如釋重負。<br>(A) 期待再見她，與後面嫌困擾矛盾；(B) What a shame：真可惜；(C) We had a great time：我們很開心；(D) Thank goodness：謝天謝地，正確。<br>因此選 D。",
+  "<b>解題關鍵：</b>下一句交代 Mary 假稱父母要來，表示她先承認自己對房客說了謊。<br>(A) I got no clue：我不知道；(B) Well done：做得好；(C) Well, I lied to her：我騙了她，正確；(D) 不關你的事，無法接續解釋。<br>因此選 C。",
+  "<b>解題關鍵：</b>Mary 問 Jane：如果你當時在我的情況，會怎麼做？這是與過去事實不同的假設。<br>(A) 現在完成式問實際行為；(B) What would you have done? 問過去假設，正確；(C) 問對房客看法；(D) 問你實際對她做了什麼。<br>因此選 B。",
+  "<b>解題關鍵：</b>Mary 才剛費力讓長住客離開，Jane 卻問能否搬來，她必定立即拒絕。<br>(A) No way：不可能，正確；(B) Sure：當然，與前文心情相反；(C) Big deal：有什麼了不起；(D) Let's check it out：去看看。<br>因此選 A。",
+  "<b>解題關鍵：</b>後面說她鎖車、衝進商店，表示母親決定把孩子暫留車內。<br>(A) 開車送她們回家，便不會進店；(B) 帶孩子同行，與鎖車矛盾；(C) leave the children in the car，符合動作；(D) 自己留車內，也不會衝進店。<br>因此選 C。",
+  "<b>解題關鍵：</b>母親回到車邊後開始四處尋找女孩，所以首先發現她們已不見。but 帶出意外轉折。<br>(A) 女孩仍坐著，故事不會尋人；(B) 她們自行回家沒有根據；(C) 哭泣仍在車內；(D) but the girls had vanished：女孩消失，正確。<br>因此選 D。",
+  "<b>解題關鍵：</b>兩個孩子突然不見，母親急忙跑到街角問人，心情一定是驚慌。<br>(A) In a panic：驚慌地，正確；(B) With delight：欣喜地；(C) Out of sorrow：出於悲傷，較非當下反應；(D) Filled with embarrassment：尷尬。<br>因此選 A。",
+  "<b>解題關鍵：</b>母親正在找兩個女孩，所以她向路人問的線索也應是是否看見兩名小女孩。<br>(A) 看見我的車，不足以找孩子；(B) 附近有商店，早已知道；(C) they had seen two small girls，直接符合尋人；(D) 警察局資訊不是此刻所問。<br>因此選 C。",
+  "<b>解題關鍵：</b>故事結尾在後車廂找到女孩；她們把躲藏當遊戲，應是玩得臉紅又興奮。<br>(A) 害怕發抖與玩耍情境不合；(B) red-faced and excited children，符合；(C) 路人不會在後車廂；(D) 若空無一物就還找不到孩子。<br>因此選 B。",
+  "<b>解題關鍵：</b>Nasreddin 先多還小鍋，讓 Ali 接受「鍋會生小孩」的荒謬說法，第二次才用「大鍋死了」騙走大鍋。<br>(A) 文章只說兩人是鄰居，不是因友情送禮。<br>(B) 沒說他家鍋太多。<br>(C) 他不是真的想要小鍋生子，那只是謊話。<br>(D) 這是騙 Ali 的布局，符合整個故事。<br>因此選 D。",
+  "<b>解題關鍵：</b>第一段 Ali 原先說小鍋不是自己的，但聽到是大鍋生的後便收下；下一次還 gladly 借鍋，期待再拿兩只。<br>(A) 這說法本來就值得懷疑。<br>(B) 他想保有額外小鍋，所以選擇相信，符合。<br>(C) 沒看過鍋生子。<br>(D) 結尾顯示他不相信鍋會死，並非什麼都信。<br>因此選 B。",
+  "<b>解題關鍵：</b>這是推論題。第一次 Ali 原有大鍋並多得小鍋；第二次大鍋借出後 Nasreddin 說它死了，沒有歸還。<br>(A) 他不是兩鍋都沒有。<br>(B) 大鍋在 Nasreddin 手上。<br>(C) 小鍋仍由 Ali 保有，合理推論。<br>(D) 大鍋未歸還。<br>因此選 C。",
+  "<b>解題關鍵：</b>這是 NOT 題。第一段明說郵局 cannot just throw the mail away，所以直接丟棄不是處理方式。<br>(A) 第二段會找線索。<br>(B) 丟掉死信不被允許，是答案。<br>(C) 會打開包裹找資料。<br>(D) 會登錄電腦供人查詢。<br>因此選 B。",
+  "<b>解題關鍵：</b>第二段直接說人員打開包裹，希望裡面的東西顯示 where the package came from or is going to，也就是寄件或收件地址。<br>(A) 錢不是目的。<br>(B) 不是找遺失物本身。<br>(C) 地址線索，符合。<br>(D) 電腦是登錄工具，不在包裹中尋找。<br>因此選 C。",
+  "<b>解題關鍵：</b>末段直接說 Every three months 舉辦拍賣；一年十二個月，12 ÷ 3 = 4，所以一年四次。<br>(A) once a year 是一年一次，等於每十二個月；(B) twice 是兩次，等於每六個月；(C) three times 是三次，等於每四個月；(D) four times 是四次，正確換算每三個月一次。<br>因此選 D。",
+  "<b>解題關鍵：</b>主旨題要涵蓋三段：第一段說死信如何產生，第二段說找線索與電腦登錄，第三段說堆積後拍賣。<br>(A) Dead Mail 涵蓋形成與各種處理。<br>(B) 拍賣只在末段。<br>(C) Unknown Mail 不是文中正式名稱。<br>(D) 辦公室是處理地點，範圍較窄。<br>因此選 A。",
+  "<b>解題關鍵：</b>詩中出現 vales and hills「山谷與丘陵」、湖邊、樹下和海灣邊的水仙花，都是鄉野自然景色。<br>(A) 花園不會同時有山谷丘陵與海灣。<br>(B) dancing 是比喻花搖動，不是舞廳。<br>(C) countryside 最能涵蓋場景。<br>(D) Milky Way 只是拿星星比喻花朵。<br>因此選 C。",
+  "<b>解題關鍵：</b>這是推論題。詩人仔細觀看湖邊成千上萬的水仙花，還把花隨風搖動寫成快樂舞蹈，顯示他親近並欣賞自然。<br>(A) 跳舞的是花的比喻，不能證明詩人會跳舞。<br>(B) 喜愛親近自然，符合。<br>(C) 詩中沒有陪伴者。<br>(D) lonely as a cloud 描寫當時獨行，不等於個性一直孤僻。<br>因此選 B。",
+  "<b>解題關鍵：</b>第三段揭露真正錄音機藏在廚房；可見一到二十的可見錄音只是幌子，讓朋友以為任務結束，之後忘記麥克風而自然聊天。<br>(A) 讓他們以為只錄數數，符合。<br>(B) 地區口音是對朋友說的理由，不是研究真正目的。<br>(C) 不是測機器。<br>(D) 沒比較最佳口音。<br>因此選 A。",
+  "<b>解題關鍵：</b>第三段直接說 lengthy absence 讓作者取得 as natural a piece of conversation as possible；研究者不在場，朋友談話會更自然。<br>(A) 電話只是掩飾，沒訂飲料。<br>(B) 被批評不是離開原因。<br>(C) 真錄音機在廚房持續運作，不是去關掉。<br>(D) 讓其他人沒有他在場而交談，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>第三段說眼前錄音機關掉了，但麥克風其實接到 another one，且那臺錄音機在 kitchen 持續運作。<br>(A) 地板中央那臺只是幌子。<br>(B) 麥克風就在椅子前，不是隱藏。<br>(C) 由另一房間的錄音機錄下，符合。<br>(D) 房間看似錄音室，但不是真正錄音地點。<br>因此選 C。",
+  "<b>解題關鍵：</b>末段作者坦白後，也讓朋友選擇銷毀錄音；none of them wanted to 表示沒人要求刪除，只是往後常讓作者買飲料。<br>(A) 與「沒人想銷毀」相反。<br>(B) 他們沒有真正受冒犯，符合整體反應。<br>(C) 若非常生氣，通常會要求刪除。<br>(D) 是請飲料，不是付錄音費。<br>因此選 B。",
+  "<b>解題關鍵：</b>Shaw 送兩張票，卻在 Bring a friend 後加 if you have one「如果你有朋友的話」，是在諷刺 Churchill 可能沒有任何朋友。<br>(A) 不是關心他別獨自看戲。<br>(B) 兩張票不涉及帶太多人。<br>(C) 沒說票會浪費。<br>(D) 嘲笑他沒有朋友，符合話中話。<br>因此選 D。",
+  "<b>解題關鍵：</b>Churchill 表面說首晚忙，真正反擊藏在 second night 後的 if there is one「如果還有第二晚」：他諷刺 Shaw 的戲可能首晚後就停演，不接受對方侮辱。<br>(A) 不願吞下侮辱並回擊，符合。<br>(B) 沒談人潮。<br>(C) 忙碌只是表面理由，不能解釋反擊。<br>(D) 他沒有朋友是 Shaw 的嘲諷，不是事實。<br>因此選 A。"
+].forEach((explain, index) => {
+  window.BANK.at(-1).questions[index].explain = explain;
+});
+
 /* g88.js */
 // 88 學年度學科能力測驗英文考科（單選題 55 題）；題目與答案取自大考中心官方資料。
 (() => {
@@ -12018,61 +12078,61 @@ window.BANK.push({
 })();
 
 [
-  "句子有不只一種意思，因此語意模稜兩可；ambiguous 表示「有歧義的」。",
-  "王先生不斷改變主意，所以難以預測下一步；constantly 表示「持續不斷地」。",
-  "假期逐漸接近時，學生較難專心讀書；approaching 表示「接近中的」。",
-  "人類演化中展現適應環境的能力；adapt to 是「適應」。",
-  "科學家把成功也歸功於運氣，展現謙遜；modesty 表示「謙虛」。",
-  "能在特殊場合向眾人致詞是一種榮幸；privilege 表示「殊榮、榮幸」。",
-  "家人得知他在山區嚴寒中生還而鬆了一口氣；relief 表示「寬慰」。",
-  "颱風後坍方顯示環境保護值得關注；deserve attention 表示「值得注意」。",
-  "未來汽車將以高效率使用汽油為特色；efficient 表示「有效率的」。",
-  "Peter 體格強健，但情感上脆弱且依賴他人；emotionally 表示「情感上」。",
-  "Kevin 打破客廳窗戶，因此惹上麻煩；in trouble 表示「有麻煩」。",
-  "金融危機中若製造商都能撐下去，經濟可能改善；hang on 表示「堅持下去」。",
-  "專心與努力往往能激發一個人最好的一面；bring out the best in 表示「發揮最佳潛能」。",
-  "許多人促成他的成功，尤其是父母；in particular 表示「尤其、特別是」。",
-  "他因大雨而遲到；as a result of 表示「由於、因為」。",
-  "主詞是 I，動作由電話造成，需用被動式 was woken up。",
-  "this is the second time 後接現在完成式，故用 has happened。",
-  "most 可修飾形容詞形成正式的加強語氣；most terribly sorry 表示「非常抱歉」。",
-  "there should be 表示「應該還有」，此處指應另有四頁傳真。",
-  "助動詞 do 用來加強 apologize 的語氣，表示「我確實向您道歉」。",
-  "多數人愛說卻少有人愛聽，然而善於傾聽很珍貴；Yet 表示轉折。",
-  "善於傾聽者往往知道更多；tend to 表示「往往、傾向於」。",
-  "他們傾向接納容忍，而不是評斷批評；rather than 表示「而不是」。",
-  "enemies 是可數複數，表示較少應用 fewer。",
-  "承接前述優點並作進一步判斷，In fact 表示「事實上」。",
-  "後文以史坦貝克為反例，故此處說一般情況也有 exceptions「例外」。",
-  "be said to have been 是「據說曾是」，符合被動報導句型。",
-  "contribute to 是固定搭配，表示傾聽能力有助於寫作能力。",
-  "雖然善於傾聽幫助寫作，結果卻未使他受歡迎；Nevertheless 表示讓步轉折。",
-  "depending on 是分詞片語，表示受傾聽者如何運用所得資訊而定。",
-  "陌生人是在我走向海灘時靠近；As 表示兩件事同時發生。",
-  "敘事者完全認不出陌生人的臉；recognize 表示「認出」。",
-  "陌生人指先前在機場看見敘事者，為明確完成的過去事件，故用 saw。",
-  "敘事者想不起對方，卻因尷尬而不敢坦白；embarrassed 表示「尷尬的」。",
-  "前句說他很友善，接著他提議去餐廳；Then 表示事件順序。",
-  "敘事者禮貌道謝、婉拒邀請，但對方仍堅持；politely 符合語境。",
-  "對方向他保證一定會喜歡海鮮；assure someone 表示「向某人保證」。",
-  "現在分詞 overlooking 修飾 window，表示窗戶「俯瞰海灣」。",
-  "not until 是固定結構，表示直到隔日上午十點才醒來。",
-  "錢已全數不見，應用 gone 表示「消失了、沒有了」。",
-  "文章先說作者可為娛樂或提供資訊而寫，再以兩段示例說明不同寫作目的。",
-  "第一段人物進行生物專題且在辦公室互開玩笑，沒有任何軍官身分，因此 B 錯誤。",
-  "Nelson 把空箱偷放進 Adam 辦公室，後來 Adam 用堆積物反制，使 Nelson 得到教訓。",
-  "第二段定義軟體動物並列舉貝殼形狀，目的在陳述關於貝殼的事實。",
-  "全文介紹 Kauai 的地形、降雨、山脈與戶外特色，主題是某地的地理資訊。",
-  "文章開頭即強調 Kauai 擁有夏威夷最壯麗的景色之一，故以自然美景聞名。",
-  "島中央山區年雨量近五百英吋，但數英里外僅六英吋，顯示降雨集中於特定地點。",
-  "Kauai 的主要魅力在戶外活動，並不適合偏愛室內活動者，因此 C 為錯誤敘述。",
-  "文章明說分解者是自然生命循環中不可或缺的一環，並非只扮演次要角色。",
-  "死亡物與排泄物成為分解者食物，再釋出化學物質供其他生物利用，因此死亡支持多種生命。",
-  "報導主題是葛倫相隔三十六年重返太空後，第二次在紐約接受遊行歡迎。",
-  "葛倫回憶 1962 年遊行時最深刻的是漫天大量紙屑，甚至難以抬頭。",
-  "第二次遊行人潮稀少且觀眾反應平淡，文中指出許多美國人已把太空成就視為平常。",
-  "文中提到 1962 年 Mercury 飛行與三十六年後的重返太空，共兩次太空飛行。",
-  "現場人潮按紐約標準顯得稀少，因此聲稱有五十萬人的數字被認為誇大。"
+  "<b>解題關鍵：</b>後句直接解釋板上的句子 has more than one meaning，也就是不只一種意思、容易有不同解讀。<br>(A) ambiguous：有歧義的，符合線索。<br>(B) convincing：有說服力的，和意思多寡無關。<br>(C) elegant：優雅的，只描述風格。<br>(D) universal：普遍的、全世界的，不表示語意不清。<br>把答案放回去：板上的句子有歧義，因為它不只一種意思。",
+  "<b>解題關鍵：</b>王先生一直改變主意，才會讓人很難 predict 下一步；空格要表示變心發生得很頻繁。<br>(A) additionally：此外，用來增加資訊。<br>(B) honorably：光榮地。<br>(C) probably：可能地，只表示機率，無法說明為何難預測。<br>(D) constantly：不斷地，符合一再改變主意。<br>把答案放回去：因為王先生不斷改變主意，很難預測他接下來要做什麼。",
+  "<b>解題關鍵：</b>學生在假期快到時容易期待放假，所以難專心；空格需要表示 holidays 正在「接近」。<br>(A) approaching：接近中，符合語意。<br>(B) dismissing：解散或駁回，假期不會解散。<br>(C) expanding：擴大，沒有假期變長的意思。<br>(D) presenting：呈現或贈送，不能說假期呈現中。<br>把答案放回去：假期逐漸接近時，許多學生很難專心讀書。",
+  "<b>解題關鍵：</b>演化過程中，人能隨環境改變而調整自己；固定搭配 adapt to the environment 是「適應環境」。<br>(A) adorn：裝飾，不能表生存調整。<br>(B) adopt：採用、收養，拼字相近但不接 to 表適應。<br>(C) adore：喜愛。<br>(D) adapt：適應，與 to 搭配正確。<br>把答案放回去：在人類演化中，人展現了適應環境的卓越能力。",
+  "<b>解題關鍵：</b>科學家沒有把成功全歸功於自己，還說 good luck 和 talent 同樣重要，顯示他很謙虛。<br>(A) dignity：尊嚴。<br>(B) modesty：謙虛，符合不居功的態度。<br>(C) intensity：強度。<br>(D) identity：身分。<br>其餘選項都不能說明他願意承認運氣的幫助。把答案放回去：年輕科學家對成功表現得很謙遜。",
+  "<b>解題關鍵：</b>講者在 special occasion 對眾人致詞，客氣地表示這是一份榮幸；it is my privilege to... 是正式說法。<br>(A) company：陪伴或公司。<br>(B) dignity：尊嚴，不能說「我的尊嚴去演講」。<br>(C) privilege：殊榮、榮幸，搭配正確。<br>(D) eloquence：口才，句意不是炫耀口才。<br>把答案放回去：能在這個特別場合向各位致詞，是我的榮幸。",
+  "<b>解題關鍵：</b>家人原本擔心他在寒冷山區遇難，得知 survived「活下來」後，緊張解除，因此感到安心。<br>(A) moral：道德或寓意。<br>(B) promise：承諾。<br>(C) relief：寬慰、放心，a great relief 是「令人非常安心的事」。<br>(D) success：成功，生還雖是好結果，但此句重點是家人的感受。<br>把答案放回去：他在山中寒冷天候下生還，讓家人非常寬慰。",
+  "<b>解題關鍵：</b>颱風後發生 landslide，這個警訊表示環境保護值得大家重視；deserve attention 是「值得關注」。<br>(A) accuses：指控，環保不能指控注意力。<br>(B) stretches：伸展。<br>(C) obtains：獲得，雖可接 attention，但只是得到注意，沒有「應該重視」的語氣。<br>(D) deserves：值得，最符合 signals 的警告意味。<br>把答案放回去：土石流顯示環境保護值得我們關注。",
+  "<b>解題關鍵：</b>未來汽車的特色應是用較少汽油完成更多行駛，也就是有效率地使用燃料。空格修飾 use。<br>(A) affective：情感上的或能引起情感的，不是省油。<br>(B) efficient：有效率的，efficient use of gasoline 正確。<br>(C) immediate：立即的。<br>(D) traditional：傳統的，與 future 的改進不合。<br>把答案放回去：未來汽車將以有效率使用汽油為特色。",
+  "<b>解題關鍵：</b>yet 表示前後對比：Peter physically 體格健壯，但 weak and dependent 描述他的心理情感面脆弱依賴。<br>(A) passionately：熱情地。<br>(B) relentlessly：不間斷地、無情地。<br>(C) emotionally：情感上，能和 physically 形成對比。<br>(D) heartily：真心地、盡情地。<br>把答案放回去：Peter 身體強壯，但情感上很脆弱且依賴他人。",
+  "<b>解題關鍵：</b>Kevin 打破客廳窗戶，通常會被責備或處罰，所以是「有麻煩」。<br>(A) in control：掌控中，和闖禍不合。<br>(B) in trouble：陷入麻煩，符合打破窗戶的後果。<br>(C) in turn：依序、反過來。<br>(D) in vain：徒勞地。<br>其餘都是常見片語，但不能描述 Kevin 此刻的處境。把答案放回去：Kevin 因下午打破窗戶而惹上麻煩。",
+  "<b>解題關鍵：</b>financial crisis 是困難時期；若製造商能繼續撐住、不倒閉，下一季經濟才可能好轉。<br>(A) call up：打電話或召集。<br>(B) give in：屈服，會使情況更差。<br>(C) hang on：堅持下去、撐住，符合危機語境。<br>(D) let in：讓……進入。<br>把答案放回去：若所有製造商都能熬過金融危機，經濟可能改善。",
+  "<b>解題關鍵：</b>前句叫人別擔心分數，專心學習；hard work 的效果是讓人的最佳能力展現出來。<br>(A) brings out：激發、使顯現；bring out the best in you 是固定搭配。<br>(B) gives away：贈送或洩漏。<br>(C) looks over：快速查看。<br>(D) splits off：分離。<br>把答案放回去：努力常能激發你最好的一面。",
+  "<b>解題關鍵：</b>many people 幫助他成功，後面特別點出 parents，表示在許多人中尤其要強調父母。<br>(A) after all：畢竟，用來補充理由。<br>(B) by chance：偶然地。<br>(C) on purpose：故意地。<br>(D) in particular：尤其、特別是，符合列舉後強調一項。<br>把答案放回去：他把成功歸功於許多人，尤其是父母。",
+  "<b>解題關鍵：</b>heavy rain 是遲到的原因，空格要表「因為」。<br>(A) as a result of：由於、因為，後接名詞 heavy rain 正確。<br>(B) in accordance with：依照，不會依照大雨遲到。<br>(C) in spite of：儘管，會表示大雨沒有造成阻礙，邏輯不同。<br>(D) apart from：除了，不能表原因。<br>把答案放回去：他因為大雨而開會遲到。",
+  "<b>解題關鍵：</b>旅客本人不是主動打電話，而是「被一通打錯的電話叫醒」；by a telephone call 是被動線索。<br>(A) awoke 是不及物「醒來」，不能接 by 表被叫醒。<br>(B) woke up 主動，主詞會變成自己醒來。<br>(C) was woken up 是過去式被動，正確。<br>(D) wakened 若作主動缺受詞，且沒有被動助動詞。<br>句意：今早六點，我被一通不是找我的電話吵醒。",
+  "<b>解題關鍵：</b>this is the second time 表示到現在已發生第二次，空格描述過去到現在的累積經驗，要用現在完成式。<br>(A) happens 是一般現在式，像固定習慣。<br>(B) is happening 表正在發生，不能表累積兩次。<br>(C) has happened 表示已發生，正確。<br>(D) had happened 是過去完成式，需要另一個過去基準點。<br>句意：這已經是此事第二次發生。",
+  "<b>解題關鍵：</b>櫃檯人員要加強道歉語氣；most 在較正式英文中可表示「非常」，most terribly sorry 就是「萬分抱歉」。<br>(A) most 可修飾 terribly，正確。<br>(B) much 通常不直接說 much terribly sorry。<br>(C) more 是比較級，但沒有比較對象。<br>(D) many 修飾可數複數，不能修飾 sorry。<br>句意：Hagen 先生，我真的萬分抱歉。",
+  "<b>解題關鍵：</b>旅客只收到前兩頁，接著說應該「還有」四頁。there be 表示某物存在；There should be four more 是「應該還有四頁」。<br>(A) They should be 需要補充四頁應該成為什麼。<br>(B) These 指眼前兩頁，不能說這兩頁應是另外四頁。<br>(C) Those 指較遠的特定頁，但尚未出現。<br>(D) There 表存在，正確。<br>句意：我只有前兩頁，應該還有四頁。",
+  "<b>解題關鍵：</b>櫃檯再次正式道歉，do 放在原形動詞 apologize 前可加強語氣，意思是「我確實道歉」。<br>(A) could apologize 是「可以道歉」，不像實際道歉。<br>(B) do apologize 是加強肯定，正確。<br>(C) ought 後要加 to，ought to apologize。<br>(D) may apologize 是「可能道歉」，語氣不真誠。<br>句意：Hagen 先生，我確實向您道歉。",
+  "<b>解題關鍵：</b>前句說多數人愛說、少人愛聽；後句卻說善於傾聽是珍貴才能，前後有「雖然少見，卻很珍貴」的轉折。<br>(A) Yet：然而，能清楚接出前後反差，正確。<br>(B) And：而且，只是把兩件事並列，轉折不足。<br>(C) Or：或者，沒有選擇關係。<br>(D) So：所以，前句不能直接推出傾聽珍貴。<br>句意：然而，善於傾聽是大家都應珍惜的少見才能。",
+  "<b>解題關鍵：</b>Because they hear more 說明好聽眾接收資訊較多，因此通常知道更多；tend to 是「往往、傾向於」。<br>(A) mean to：打算，並非刻意要知道更多。<br>(B) like to：喜歡，文章沒談喜好。<br>(C) tend to：往往，符合一般傾向。<br>(D) act to：採取行動去，搭配不自然。<br>句意：因為聽得多，好聽眾往往知道更多，也更敏銳。",
+  "<b>解題關鍵：</b>accept or tolerate 和 judge and criticize 是兩種相反態度；好聽眾選擇接納容忍，而不是評斷批評。<br>(A) instead of 雖也可表示「而不是」，但前面已有 or，標準搭配為 or... rather than...。<br>(B) rather than：而不是，正確。<br>(C) in order 要接 to 表目的。<br>(D) in addition：此外，不表對比。<br>句意：好聽眾傾向接納或包容，而非評斷批評。",
+  "<b>解題關鍵：</b>好聽眾較能包容，所以 enemies 的數量比別人少。enemies 是可數複數，比較「較少」要用 fewer。<br>(A) little 修飾不可數名詞。<br>(B) least 是最高級「最少」，但句中 than 需要比較級。<br>(C) lesser 常指程度或地位較低，不用來計算敵人數量。<br>(D) fewer 修飾可數複數，正確。<br>句意：因此，他們的敵人比別人少。",
+  "<b>解題關鍵：</b>前文說好聽眾敏銳、包容、敵人少；接著加強結論，說他們很可能是最受喜愛的人。<br>(A) In contrast：相反地，但後句不是反面。<br>(B) In particular：尤其，通常挑出特定例子。<br>(C) In fact：事實上，用來進一步加強結論。<br>(D) In other words：換句話說，但「最受喜愛」不是敵人少的完全同義改寫。<br>句意：事實上，他們可能是最受喜愛的人。",
+  "<b>解題關鍵：</b>However 表示轉折，前面是一般原則「好聽眾受歡迎」，後面以 Steinbeck 被人討厭作反例，所以一般原則也有例外。<br>(A) situations：情況，沒有「不符合規則」的意思。<br>(B) exceptions：例外，exceptions to a generality 搭配正確。<br>(C) perceptions：看法。<br>(D) observations：觀察。<br>句意：不過，這項一般說法也有例外。",
+  "<b>解題關鍵：</b>文章報導大家對 Steinbeck 的看法，而不是某人直接對他說話；be said to have been 表示「據說曾經是」。<br>(A) called 常指被稱為某名稱，不能自然接 to have been。<br>(B) named 是命名。<br>(C) said：據說，be said to 結構正確。<br>(D) told 的對象應是人，常說 he was told to do，會變成有人叫他成為好聽眾。<br>句意：據說 Steinbeck 曾是優秀的聽眾。",
+  "<b>解題關鍵：</b>傾聽能力讓他蒐集素材並提升寫作能力；固定搭配 contribute to 是「有助於、促成」。<br>(A) contribute on 不是此義搭配。<br>(B) to 正確，後接名詞 his capacity。<br>(C) for 不搭配 contribute 表幫助。<br>(D) in 有時說 contribute in a role，但不能表「有助於能力」。<br>句意：他的傾聽能力無疑有助於他的寫作才能。",
+  "<b>解題關鍵：</b>前句說傾聽幫助 Steinbeck 寫作，後句卻說傾聽所得的結果沒有讓他受歡迎，意思有轉折。<br>(A) Nevertheless：儘管如此，正確。<br>(B) Conversely：反過來說，通常提出對稱相反情況。<br>(C) Consequently：因此，會變成因為寫得好所以不受歡迎，因果過強。<br>(D) Moreover：此外，不表轉折。<br>句意：儘管如此，他聽來並寫出的內容沒有使他受歡迎。",
+  "<b>解題關鍵：</b>主句已有 he may become，空格不能再放完整動詞；depending on... 是補充條件，白話說就是「視他如何使用聽到的內容而定」。<br>(A) depend 原形會缺主詞。<br>(B) depends 是完整動詞，和 may become 衝突。<br>(C) depended 是過去式，也會形成兩個動詞。<br>(D) depending 是 -ing 片語，正確。<br>句意：好聽眾受歡迎或被討厭，取決於他如何運用所聽到的事。",
+  "<b>解題關鍵：</b>「我正走向海灘」時，陌生人走近；兩件事在同一時間發生，需要表「當……時」的連接詞。<br>(A) As：當……時，能連接兩個同時發生的動作，正確。<br>(B) But：但是，沒有轉折。<br>(C) Though：雖然，句中沒有讓步關係。<br>(D) For：因為，陌生人靠近不是因為我走路。<br>句意：當我走向海灘時，一名陌生人走近並想握手。",
+  "<b>解題關鍵：</b>敘事者剛到城裡，一個人也不認識，所以完全無法「認出」對方的臉。<br>(A) analyze：分析，看到臉不是分析臉，也不是研究五官。<br>(B) emphasize：強調，不能把一張臉「強調出來」。<br>(C) recognize：認出曾見過的人，符合對方假裝熟識的情況。<br>(D) memorize：記住；若從未認識，不是努力把臉背起來。<br>句意：但我完全認不出他的臉。",
+  "<b>解題關鍵：</b>陌生人聲稱在 airport 看過敘事者；那是到市區以前已完成的明確過去事件，用簡單過去式 saw 即可。<br>(A) have seen 現在完成式通常不與已結束的特定過去情境搭配。<br>(B) saw 簡單過去式，正確。<br>(C) had seen 需有另一個過去基準來強調先後，此處直接對話不需要。<br>(D) was seeing 表當時持續看，語意不自然。<br>句意：我在機場看過你。",
+  "<b>解題關鍵：</b>敘事者記不起對方，卻因對方太友善而不好意思說「我不認識你」，這是尷尬。too... to... 表示「太……而不能」。<br>(A) exhausted：筋疲力盡，jetlag 不等於累到不能說。<br>(B) interested：有興趣，不會阻止說明。<br>(C) frightened：害怕，當時對方友善，尚無恐懼線索。<br>(D) embarrassed：尷尬，正確。<br>句意：我想不起他，卻尷尬得不敢說。",
+  "<b>解題關鍵：</b>故事按時間順序發展：陌生人先友善交談，「接著」提議帶他去叔叔的餐廳。<br>(A) Even：甚至，後面通常要接被強調內容，但此處重點是下一步。<br>(B) Then：然後，清楚表示事件先後，正確。<br>(C) When：當……時，後面需接子句，不能單獨接完整句。<br>(D) While：在……期間，也需兩件同時事件。<br>句意：他非常友善，接著提議帶我去海鮮餐廳。",
+  "<b>解題關鍵：</b>but he insisted 表示敘事者原本沒有接受；他先客氣道謝、婉拒，對方才仍堅持。<br>(A) eagerly：急切地，會像很想去，與但他堅持不合。<br>(B) happily：開心地，可能表示接受。<br>(C) politely：有禮貌地，符合禮貌婉拒。<br>(D) willingly：自願地，也像願意赴約。<br>句意：我禮貌地向他道謝，但他堅持一起吃晚餐。",
+  "<b>解題關鍵：</b>陌生人說 You’ll love...，是在向敘事者保證海鮮一定好吃；assure someone 是「向某人保證」。<br>(A) declared：宣布，通常直接接內容，不接 me 再接引號的方式不自然。<br>(B) proposed：提議，常接計畫。<br>(C) responded：回應，通常接 to someone。<br>(D) assured：向……保證，可直接接 me。<br>句意：他向我保證，我會喜歡那裡的海鮮。",
+  "<b>解題關鍵：</b>句子的完整動詞是 sat，空格用來修飾 window，表示「一扇俯瞰海灣的窗」。用 -ing 形式 overlooking。<br>(A) overlook 原形會變成第二個動詞，卻沒有連接詞。<br>(B) overlooking 是現在分詞，修飾 window，正確。<br>(C) overlooks 是單數動詞，也會和 sat 衝突。<br>(D) overlooked 表「被忽略」或過去式，不是窗戶面向海灣。<br>句意：我們坐在一扇俯瞰海灣的窗邊。",
+  "<b>解題關鍵：</b>固定結構 not... until... 表示「直到……才……」；敘事者喝了奇怪咖啡後，直到隔天十點才醒。<br>(A) not before 有「不早於」之意，但本句強調延遲到某時才發生，標準用 until。<br>(B) not after 會變成不晚於十點。<br>(C) until 正確。<br>(D) towards 是接近某時間，不能形成直到才。<br>句意：我直到隔天上午十點才終於醒來。",
+  "<b>解題關鍵：</b>後面說假朋友還拿走手錶和鞋，可知錢也全被偷走、已不見。be gone 表示「消失、不在了」。<br>(A) gone：不見了，可放在 was 後。<br>(B) none 是代名詞「一個也沒有」，不能說 money was none。<br>(C) no 要放名詞前，如 no money。<br>(D) nothing 也是代名詞，不能當此處形容狀態。<br>句意：我所有的錢都不見了。",
+  "<b>解題關鍵：</b>主旨題要看全文架構：開頭說作者會為 entertain 或 inform 寫作，接著各給一個例子，因此核心是不同寫作目的。<br>(A) 第一個故事雖涉及朋友，但不是全文主題。<br>(B) 貝殼只在第二例。<br>(C) 文章不是列出適合寫的題材，而是說同一類題材可有不同目的。<br>(D) Writing for Different Purposes「為不同目的而寫」完整涵蓋說明與兩例。",
+  "<b>解題關鍵：</b>這是 FALSE 題。第一例提到辦公室、生物專題與惡作劇，沒有任何軍隊情境。<br>(A) Nelson 沒時間丟垃圾，卻把空箱塞進 Adam 辦公室，可看出不負責任。<br>(B) 兩人是軍官，文章完全沒說，故為錯誤敘述。<br>(C) Nelson 確實把空箱留在 Adam 辦公室。<br>(D) 後來門一開許多東西掉下，顯示 Adam 用同類方式反過來捉弄 Nelson。",
+  "<b>解題關鍵：</b>第一例中 Nelson 偷把空箱放入 Adam 辦公室，下午回來開門時，箱子和許多東西全掉在他身上；這是 Adam 給他的教訓。<br>(A) 兩人會一起做專題，不能說從不喜歡彼此。<br>(B) Adam 後來能安排反制，不能推定他完全不知道。<br>(C) 是 Nelson 對 Adam 大喊，不是 Peter 抱怨。<br>(D) Nelson 因自己的惡作劇遭到回敬、學到教訓，符合情節。",
+  "<b>解題關鍵：</b>前言區分 entertain 與 inform；第二例客觀說明貝殼形狀、曾有軟體動物居住及 mollusks 定義，目的在提供事實。<br>(A) 沒有表達作者贊成或反對的意見。<br>(B) present facts about seashells，符合 inform。<br>(C) 雖提形狀，沒有用情感語言讚美美麗。<br>(D) 描述形狀只是其中一部分，還有動物與定義；此選項範圍太窄。",
+  "<b>解題關鍵：</b>全文介紹 Kauai 的河流、峭壁、峽谷、火山、降雨分布、颶風與戶外活動，都是一個地方的自然地理資訊。<br>(A) 沒有介紹當地人的文化習俗。<br>(B) 只簡短提 1992 颶風，並非歷史沿革。<br>(C) 沒有討論污染等環境問題。<br>(D) Geographical information of a place 能涵蓋地形、氣候與活動，正確。",
+  "<b>解題關鍵：</b>第一段直接說 Kauai 有 the state’s most stunning scenery，並列叢林河流、壯麗峭壁與峽谷，顯示以自然美景聞名。<br>(A) 文中沒有寒冷天氣，反而是夏威夷島嶼。<br>(B) natural beauty 符合景觀描寫。<br>(C) Mt. Waialeale 是 extinct volcano「死火山」，不是活火山。<br>(D) 主要景點在戶外自然環境，沒提遊樂園。",
+  "<b>解題關鍵：</b>第二段說島中央年雨量近 500 英吋，但只往西幾英里便僅有 6 英吋，並直接稱雨量 surprisingly localized「集中在局部」。<br>(A) 降雨集中於某些地點，正確。<br>(B) 高山 Mt. Waialeale 反而最溼，不是高山以外都下很多雨。<br>(C) 乾燥區否定了全島都多雨。<br>(D) 文章比較地點，不是季節變化。",
+  "<b>解題關鍵：</b>這是 FALSE 題。文章說 Kauai 不適合愛人群與夜生活者，main attractions lie outdoors，主打健行、露營、潛水。<br>(A) nearly round 明說島幾乎呈圓形。<br>(B) 旅館仍重建，顯示 1992 颶風造成嚴重損害。<br>(C) 適合喜歡室內活動者，和戶外魅力相反，故錯。<br>(D) Mt. Waialeale 位於島中央且超過五千英尺，正確。",
+  "<b>解題關鍵：</b>這是 NOT true 題。末句直接稱 decomposers 是 natural cycle 中 a vital link「不可或缺的一環」，所以不能說作用次要。<br>(A) 細菌等分解者分解廢物，釋出物質供其他生命使用，正確。<br>(B) 分解過程會釋出二氧化碳，正確。<br>(C) 植物供氧與食物，支撐動物生命，正確。<br>(D) 說分解者只扮演次要角色，與 vital 相反，故為答案。",
+  "<b>解題關鍵：</b>這是推論題。死去生物與排泄物成為分解者食物，分解後的化學物質回到空氣、土壤、水，再被其他生命使用，所以死亡開啟新的生命循環。<br>(A) supports many forms of life，能概括死亡物質供分解者、植物、動物繼續利用。<br>(B) 借用地球物質的是活著時，不是死亡本身的結果。<br>(C) 細菌是分解者，不是變成化學物質。<br>(D) 沒有控制土壤數量。",
+  "<b>解題關鍵：</b>報導開頭即說 Glenn made his second trip through New York’s Canyon of Heroes，為相隔 36 年重返太空接受第二次遊行。<br>(A) 1962 Mercury 飛行是第一次遊行背景，不是這篇當下報導。<br>(B) 他是首位進入軌道的美國人，不是首位登月者。<br>(C) 第二次在紐約受歡迎，符合全文。<br>(D) 他下月才退休，退休不是遊行原因。",
+  "<b>解題關鍵：</b>定位倒數第二段 Glenn 的回憶：It was just so enormous，接著特別說 a blizzard of paper，紙多到抬頭就會進眼睛。<br>(A) 第一次人潮確實較多，但他引用的鮮明回憶集中在漫天紙屑。<br>(B) 大量紙張灑落令他印象深刻，符合原話。<br>(C) 聖誕樹是第二次遊行當天先做的活動。<br>(D) 文章沒提市長送城市鑰匙。",
+  "<b>解題關鍵：</b>第二次遊行 turnout sparse、spectators restrained，並有人解釋太空計畫已變得 everyday、ordinary，沒有人在意。<br>(A) Glenn 進入太空軌道，不是多次登月。<br>(B) 末段說他加入多次受遊行表揚的個人與隊伍名單，不是只有他。<br>(C) 許多美國人不再對太空成就興奮，符合觀眾說法。<br>(D) 第二次路線、人潮與熱情都比第一次小。",
+  "<b>解題關鍵：</b>文章提兩次太空任務：1962 年 Mercury flight 使他成為首位繞地球軌道的美國人；36 年後他 return to space，第二次上太空。<br>(A) 一次漏掉此次重返太空。<br>(B) 兩次，符合兩個時間點。<br>(C) 三次與 (D) 四次都沒有第三、第四趟的文章證據。<br>注意：題目問 space flights，不是遊行中其他活動。答案為兩次。",
+  "<b>解題關鍵：</b>inflated 在此不是「充氣」，而是「把數字誇大」。第三段先說人潮按紐約標準很稀少，路線不到一英里，再說警方估五十萬看起來 generously inflated。<br>(A) 第二次人潮沒有比第一次大。<br>(B) 是否有人兩次都參加，和估算誇大無關。<br>(C) 現場看來遠少於五十萬，所以數字被認為灌水，正確。<br>(D) 觀眾反而 surprisingly restrained，不是更熱情。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -13441,66 +13501,66 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "依照說明操作，就能輕鬆組裝腳踏車；instructions 表示「操作說明」。",
-  "若需要幫忙，別猶豫打電話；hesitate to do 表示「猶豫是否要做」。",
-  "好友間的衝突應被解決而非忽視；conflicts 表示「衝突」。",
-  "不接受團體報名，所以每位成員必須個別註冊；individually 表示「個別地」。",
-  "王先生的論證有說服力，委員會才接受提案；persuasive 表示「有說服力的」。",
-  "她每聽到悲傷故事就哭，表示十分多愁善感；sentimental 表示「感傷的」。",
-  "對其聰明與努力抱持堅定信心；firmly believe 表示「堅信」。",
-  "照這麼慢的速度走會無法準時抵達；pace 表示「步調、速度」。",
-  "領土爭端可追溯到 1917 年；be traced back to 表示「追溯至」。",
-  "先訂明確目標，再努力達成；attain a goal 表示「達成目標」。",
-  "雙胞胎似乎沒有任何共同點；have nothing in common 表示「毫無共同之處」。",
-  "詢問交通事故如何發生；come about 表示「發生」。",
-  "午休時 Jane 快速複習筆記以準備考試；run over 表示「迅速複習」。",
-  "補充說這是非正式晚宴；by the way 表示「順帶一提」。",
-  "採取更嚴格措施以防範吸菸的潛在危害；ward off 表示「防止、避開」。",
-  "ask someone to do something 是固定句型，故用 asked you to help。",
-  "until 引導時間子句時，以現在式 comes 表達未來。",
-  "early enough to see it 表示「回家夠早，來得及看電影」。",
-  "說話者希望自己能同意，但實際不能；wish 後用 could 表示與現在事實相反。",
-  "ask 後的間接問句使用陳述句語序；where he went 符合過去時間。",
-  "世上沒有另一隻相同的鸚鵡，表示牠獨一無二；unique 表示「獨特的」。",
-  "鸚鵡任何字都會說，只有一個例外；except 表示「除了」。",
-  "do everything one can 是固定說法，過去式為 did everything he could。",
-  "主人努力教牠，但始終沒有成功；succeeded 表示「成功」。",
-  "主人逐漸失去耐性並發怒；lose one's temper 表示「發脾氣」。",
-  "責問鸚鵡「為什麼」學不會這個字，故用 Why。",
-  "主人多次說出 Catano，鸚鵡仍不肯重複；repeat 表示「複誦」。",
-  "雞是等著被做成星期日的晚餐；for 表示用途。",
-  "看見雞舍中的景象超乎預期，主人感到震驚；shocked 表示「震驚的」。",
-  "地點副詞置首形成倒裝：On the floor lay three dead chickens。",
-  "諺語固定為 Laugh and the world laughs with you。",
-  "前句引用熟悉的諺語，後句轉問研究發現，故用 But。",
-  "失去笑的能力可能對健康造成嚴重影響；serious effect 符合語意。",
-  "以 1980 為基準，笑的時間此前已降至六分鐘，故用過去完成式 had decreased。",
-  "成人笑得變少，另一方面兒童仍常看見事物有趣的一面；on the other hand 表示對照。",
-  "bursts of laughter 是固定搭配，表示「一陣陣笑聲」。",
-  "as much good as 表示笑聲帶來的益處與騎十分鐘健身車同等。",
-  "encouraging 與後面的 increasing 並列，說明笑能促進白血球生成。",
-  "It 指前文的 laughter，作 makes a difference 的主詞。",
-  "really 用來強調「笑確實是最好的藥」。",
-  "文章特別討論這場畢業演說，是因讓機器人致詞引起正反爭議。",
-  "Robot Redford 是受邀致詞的機器人，不是該學院的畢業生，因此 D 不正確。",
-  "文中明載 William Bakaleinikoff 創造 Robot Redford，故可稱機器人是他的構想成果。",
-  "課程包括打結、規畫航線與獨自駕船，navigation 在此指航船技術。",
-  "父親安排游泳、健行與古代史等學習，沒有把上教堂列入暑期課程。",
-  "父親認為一般學校忽略古代史與航海等內容，因此辦暑期學校加以補足。",
-  "新木塔是千禧年慶祝計畫的一部分，為迎接西元 2000 年而建。",
-  "市長要把「光之城」變成「光之都」，並規畫多處燈光裝飾，故主要使用燈光。",
-  "文中說建築將沿 the banks of the Seine 點亮；banks 表示河岸，可知 Seine 是河流。",
-  "建築師說木塔是保護地球與尊嚴生活的生態象徵，代表環境關懷。",
-  "used to 表示過去常做而現在不再如此；美國人過去比現在更常說故事。",
-  "人們會因自己所說及別人談論自己的故事而被認識；known 表示「為人所知」。",
-  "stories that were told about them 表示「別人講述關於他們的故事」。",
-  "a way of doing 是固定結構，表示說故事是傳遞家族史的一種方式。",
-  "understanding what happens 引導名詞子句，表示了解人生中發生的事。",
-  "前文透過故事形成對經驗的理解，此處把那份 knowledge 傳下去。",
-  "Today 與 earlier days 形成時間對比，引出今日媒體取代口述故事。",
-  "說故事原是個人且親密的活動；intimate 表示「親密的」。",
-  "come to believe 表示「逐漸開始相信」，此處指人們漸認為故事只給兒童。",
-  "shown 後接 that 名詞子句，說明成人說故事的興趣正在回歸。"
+  "<b>解題關鍵：</b>要把腳踏車 assemble「組裝」好，最需要照著一步一步的操作說明。<br>(A) functions：功能，不是告訴你怎麼裝。<br>(B) diagnoses：診斷，多用於疾病或問題判斷。<br>(C) appointments：約會、預約。<br>(D) instructions：指示、操作說明，follow the instructions 是固定搭配。<br>把答案放回去：仔細依照說明，就會覺得組裝腳踏車很容易。",
+  "<b>解題關鍵：</b>說話者表示願意幫忙，所以鼓勵對方需要時直接打電話，不必猶豫。hesitate to do 是「猶豫是否做某事」。<br>(A) concern：使擔心或關於，不能接 to call 表不敢。<br>(B) hesitate：猶豫，搭配正確。<br>(C) notify：通知，通常 notify someone。<br>(D) submit：提交或屈服。<br>把答案放回去：如果我能幫忙，請別猶豫，打電話給我。",
+  "<b>解題關鍵：</b>後面說 should be resolved, not ignored「應解決而非忽視」，能被解決的是朋友之間的衝突。<br>(A) Compliments：讚美，不需要解決。<br>(B) Concerns：擔憂，雖可處理，但 between good friends 不如衝突自然。<br>(C) Conflicts：衝突，resolve conflicts 是固定搭配。<br>(D) Connections：連結，不會被忽視或解決。<br>把答案放回去：好友間的衝突應處理，不應忽略。",
+  "<b>解題關鍵：</b>Group registrations are not allowed 表示不能團體報名，因此 each member 必須一個一個分別登記。<br>(A) comfortably：舒適地，和報名方式無關。<br>(B) individually：個別地，正好和 group 相反。<br>(C) intelligently：聰明地。<br>(D) respectfully：尊敬地。<br>把答案放回去：不接受團體報名，每位成員都要個別註冊會議。",
+  "<b>解題關鍵：</b>委員會 finally accepted his proposal，表示王先生的論點成功說服大家。<br>(A) artificial：人工的、不自然的，不能解釋提案獲接受。<br>(B) inappropriate：不適當的，應導致拒絕。<br>(C) persuasive：有說服力的，符合結果。<br>(D) descriptive：描述性的，只說明細節，不一定能說服。<br>把答案放回去：王先生的論證很有說服力，因此委員會接受提案。",
+  "<b>解題關鍵：</b>她 every time 聽到 sad story 都哭，代表容易因感傷內容流淚，十分多愁善感。<br>(A) casual：隨意的。<br>(B) harsh：嚴厲的，反而不容易動情。<br>(C) intimate：親密的，通常形容關係。<br>(D) sentimental：多愁善感的，符合聽悲傷故事就哭。<br>把答案放回去：這位女士非常感性，每聽悲傷故事都會哭。",
+  "<b>解題關鍵：</b>說話者根據對方的 intelligence and hard work，相信他一定能通過考試；空格表示信念很堅定。<br>(A) firmly：堅定地，firmly believe 是「堅信」。<br>(B) extremely：極度地，通常修飾形容詞，不直接修飾 believe。<br>(C) strictly：嚴格地。<br>(D) inquiringly：探詢地，和相信相反。<br>把答案放回去：我們堅信你的聰明與努力會讓你順利通過。",
+  "<b>解題關鍵：</b>walk at this slow... 描述走路速度；若速度太慢，就無法 on time 抵達。<br>(A) mood：心情，不能量走路快慢。<br>(B) pace：步調、速度，at a slow pace 是「以緩慢步調」。<br>(C) tide：潮汐。<br>(D) access：進入權、管道。<br>把答案放回去：若照這麼慢的步調走，我們永遠無法準時到目的地。",
+  "<b>解題關鍵：</b>領土爭議起源於 1917 年兩國交戰時；be traced back to 是「可追溯到」。<br>(A) held back：阻止、保留，不表示起源。<br>(B) recalled back 語意重複，recall 是回想。<br>(C) traced back：追溯，固定搭配正確。<br>(D) switched back：切換回去。<br>把答案放回去：這場領土爭議可追溯至 1917 年兩國交戰時。",
+  "<b>解題關鍵：</b>成功的關鍵是先有 definite goal，再盡力把目標「達成」。<br>(A) attain：達成、獲得，attain a goal 搭配正確。<br>(B) contest：競爭或質疑，不能達成目標。<br>(C) encounter：遇到，通常遇到問題或人。<br>(D) struggle：奮鬥，常接 to attain，不能直接 struggle the goal。<br>把答案放回去：先訂明確目標，再盡力達成，是成功的重要因素。",
+  "<b>解題關鍵：</b>Jane 和 Sue 雖是雙胞胎，but 表示轉折，後面說兩人似乎「沒有共同點」。固定搭配 have nothing in common。<br>(A) in common：共同，正確。<br>(B) in comparison：比較之下，不能接 have nothing。<br>(C) in contact：保持聯絡，have nothing in contact 不成立。<br>(D) in contrast：相較之下，也不接 nothing。<br>把答案放回去：她們是雙胞胎，卻似乎毫無共同之處。",
+  "<b>解題關鍵：</b>How did... 問交通事故是如何「發生」的；come about 可表示事件發生。<br>(A) come about：發生，正確。<br>(B) come around：順道拜訪、恢復意識或改變想法。<br>(C) come off：脫落或成功舉行。<br>(D) come over：過來拜訪、突然感到。<br>這四個片語長得相近，但只有 come about 能直接問事故如何發生。",
+  "<b>解題關鍵：</b>午休時 Jane 為考試複習 notes，空格要表示快速查看一遍。<br>(A) ran into：偶遇、撞上。<br>(B) ran off：跑掉或印出。<br>(C) ran out of：用完，若用完筆記不合準備考試。<br>(D) ran over：快速複習、瀏覽，符合 so she would remember them。<br>把答案放回去：午休時 Jane 快速複習筆記，好在考試時記得。",
+  "<b>解題關鍵：</b>先告知八點見面，接著順便補充晚餐是 informal；by the way 用來轉入附帶資訊。<br>(A) by accident：意外地，晚餐不是意外變非正式。<br>(B) by all means：一定、當然可以。<br>(C) by the way：順帶一提，正確。<br>(D) by then：到那時以前，和晚餐性質無關。<br>把答案放回去：我們八點等你；順帶一提，這是非正式晚餐。",
+  "<b>解題關鍵：</b>stricter measures 的目的是防止吸菸的 potential dangers；ward off 是「避開、防止危險」。<br>(A) ward off：防止、抵擋，搭配 dangers 正確。<br>(B) give in：屈服。<br>(C) check out：查看、退房，不能防範危害。<br>(D) hang up：掛電話或掛起。<br>把答案放回去：已採取更嚴格措施，以防範吸菸可能造成的危險。",
+  "<b>解題關鍵：</b>Henry 重述剛才的請求。ask 的句型是 ask someone to do something「請某人做某事」，所以要用 to help。<br>(A) help 少了 to。<br>(B) to help 和 asked you 搭配完整。<br>(C) helped 會變成「請你幫過」，結構錯誤。<br>(D) would help 常用於問句 Do you think you would help，不直接接 asked you。<br>句意：我請你幫我把書還到圖書館。",
+  "<b>解題關鍵：</b>Betty 要等待「郵件來了」才離開。until 引導時間子句時，即使說未來，也用現在式代替 will。<br>(A) will come 在 until 子句中通常不用。<br>(B) comes 是第三人稱單數現在式，主詞 mail 為單數，正確。<br>(C) to come 缺完整動詞。<br>(D) come 原形與單數 mail 不一致。<br>句意：謝謝，但我想等郵件來了再走。",
+  "<b>解題關鍵：</b>John 希望到家時間「夠早」，因此來得及看八點電影。形容詞＋enough＋to do 表示「足夠……可以做」。<br>(A) so early 通常要接 that 結果子句。<br>(B) much early 錯誤；比較級才可說 much earlier。<br>(C) early enough to see 結構正確。<br>(D) too early 表太早，通常意指超過所需，不是趕得上。<br>句意：也許我會夠早到家，來得及看電影。",
+  "<b>解題關鍵：</b>Mr. Liu 說 I wish... but I don’t，表示他希望能同意，實際上卻不能。wish 談與現在不同的願望時，用過去形式 could。<br>(A) had to：必須，重點不是義務。<br>(B) could：能夠，符合「希望能同意但不能」。<br>(C) do agree 表確實同意，與 but I don’t 矛盾。<br>(D) have to 是現在義務。<br>句意：我希望我能同意你，但我不能。",
+  "<b>解題關鍵：</b>Did you ask 是過去式，問的是 Tom 暑假去了哪裡；間接問句不用疑問句倒裝，要用 where＋主詞＋動詞。<br>(A) where had he gone 使用疑問語序。<br>(B) where was he going 也把 was 放在主詞前。<br>(C) where he goes 是現在式，和 did ask、summer vacation 的已發生情境不合。<br>(D) where he went 是陳述語序與過去式，正確。",
+  "<b>解題關鍵：</b>破折號後解釋 there was no other bird like him in the whole world，世上找不到另一隻相同的鳥，表示牠獨一無二。<br>(A) lonely：孤單的，並非沒有同伴。<br>(B) unique：獨特、獨一無二，正確。<br>(C) sorrowful：悲傷的。<br>(D) personal：個人的。<br>句意：這隻鸚鵡非常獨特，全世界沒有另一隻像牠。",
+  "<b>解題關鍵：</b>牠能學會 any word，後文卻說唯獨 Catano 不會；空格表示「除了一個字之外」。<br>(A) without：沒有，但不能自然形成 any word without one。<br>(B) beyond：超出。<br>(C) except：除了，符合只有一個例外。<br>(D) despite：儘管，後面應接讓步名詞，不能表排除。<br>句意：牠任何字都能學會，只有一個字例外。",
+  "<b>解題關鍵：</b>主人用盡所有方法教鸚鵡；固定說法 do everything one can，全文用過去式，所以是 did everything he could。<br>(A) did 和 everything 搭配，正確。<br>(B) put everything he could 缺介系詞或放置地點。<br>(C) had everything he could 變成擁有所有東西。<br>(D) made everything he could 是製作所有能做的東西，不是盡一切努力。<br>句意：那人做了所有能做的事來教牠。",
+  "<b>解題關鍵：</b>but 表轉折：主人盡一切努力，卻「從未成功」讓鸚鵡說出 Catano。<br>(A) failed 表失敗，若加 never 就成「從未失敗」，意思相反。<br>(B) attempted：嘗試，never attempted 與前句努力矛盾。<br>(C) changed：改變。<br>(D) succeeded：成功，never succeeded 正確。<br>句意：他用盡方法教鸚鵡，但始終沒有成功。",
+  "<b>解題關鍵：</b>一開始主人 gentle，後來 gradually 對鸚鵡大叫並威脅殺牠，表示逐漸發脾氣。lose one’s temper 是固定片語。<br>(A) pet：寵物，lose his pet 會是弄丟鳥。<br>(B) thing：東西，語意不清。<br>(C) temper：脾氣，正確。<br>(D) possession：財產。<br>句意：起初他很溫和，後來漸漸失去耐性、發起脾氣。",
+  "<b>解題關鍵：</b>主人在質問鸚鵡學不會的原因：「你為什麼不能學會那個字？」需要疑問詞 Why。<br>(A) How：如何，會問學習方式，不符合責問原因。<br>(B) Why：為什麼，正確。<br>(C) What：什麼，後面已有 learn to say that one word，不能再問事物。<br>(D) When：何時，故事不是問時間。<br>句意：你這隻笨鳥！為什麼學不會那一個字？",
+  "<b>解題關鍵：</b>主人多次示範並要求 Say Catano，但鸚鵡就是不願把這個名稱再說一遍。<br>(A) tell：告訴，通常 tell someone something，不能直接表複誦名稱。<br>(B) talk：談話，不直接接 the name。<br>(C) repeat：重複、複誦，可直接接 the name。<br>(D) converse：交談，通常不及物。<br>句意：主人多次大叫，但鳥仍不肯重複那個名字。",
+  "<b>解題關鍵：</b>四隻老雞 waiting to be killed，目的或用途是成為 Sunday’s dinner；for 可表示「供……之用」。<br>(A) in Sunday’s dinner 不表示被做成晚餐。<br>(B) on Sunday’s dinner 把 on 錯接 dinner；若說日期是 on Sunday。<br>(C) at Sunday’s dinner 表在晚餐場合，沒有被宰來當食物。<br>(D) for Sunday’s dinner：作為星期日晚餐，正確。<br>句意：雞等著被宰作星期日晚餐。",
+  "<b>解題關鍵：</b>主人看到三隻死雞，鸚鵡還威脅第四隻；這超乎預期，且他 could not believe his eyes and ears，表示震驚。<br>(A) worried：擔心，程度不足且不是看到前的焦慮。<br>(B) shocked：震驚的，符合不敢相信。<br>(C) delighted：高興的，看到死雞不會高興。<br>(D) blinded：失明的，但他能看見現場。<br>句意：他被眼前景象震驚得不敢相信。",
+  "<b>解題關鍵：</b>句子把地點 On the floor 放在最前面，為了描寫場景，後面用「動詞＋主詞」倒裝：On the floor lay three dead chickens。<br>(A) lay 是 lie「躺」的過去式，符合故事過去時態。<br>(B) laid 是 lay「放置」的過去式，需要受詞。<br>(C) lied 是「說謊」。<br>(D) lying 是 -ing 形式，前面還需要 were。<br>句意：地板上躺著三隻死雞。",
+  "<b>解題關鍵：</b>這是固定諺語 Laugh and the world laughs with you，意思是你笑時全世界和你一起笑；主詞 the world 為單數。<br>(A) fights：打架。<br>(B) sings：唱歌。<br>(C) laughs：笑，符合諺語與全文主題。<br>(D) cries：哭，後半句反而說 weep and you weep alone。<br>句意：笑，全世界陪你笑；哭，你獨自哭。",
+  "<b>解題關鍵：</b>前句說大家熟悉「笑」的諺語，後句卻問是否知道人們正失去笑的能力，與原先正面印象形成轉折。<br>(A) How：如何，不能連接兩句。<br>(B) But：但是，轉折正確。<br>(C) So：所以，研究發現不是諺語造成的結果。<br>(D) When：何時，後面 did you know 已是完整問句。<br>句意：但你知道嗎？研究指出人們正逐漸失去笑的藝術。",
+  "<b>解題關鍵：</b>失去笑的能力可能傷害 health，下一段也說笑有助呼吸、心跳與免疫，所以缺少笑可能產生嚴重影響。<br>(A) good effect 是好影響，與 losing laughter 的警告語氣不合。<br>(B) serious effect：嚴重影響，正確。<br>(C) few 不能修飾單數 effect。<br>(D) heavy 通常不說 heavy effect。<br>句意：失去笑的能力可能嚴重影響健康。",
+  "<b>解題關鍵：</b>文章以 1980 年為過去基準，說每日笑的時間從 1930 年的 19 分鐘「到那時已降」為六分鐘，因此用過去完成式。<br>(A) has been decreasing 連到現在，和明確 1980 不合。<br>(B) was decreasing 強調當時正在下降，不表示已降至六分鐘。<br>(C) should have decreased 是「本應下降」，不是事實。<br>(D) had decreased 表在 1980 前已完成，正確。",
+  "<b>解題關鍵：</b>前句說成人每日笑的時間大減，後句 children 卻一天可笑 400 次，兩者形成鮮明對照。<br>(A) as a result：結果是，但兒童常笑不是成人少笑的結果。<br>(B) in addition：此外，轉折不夠。<br>(C) by chance：偶然地。<br>(D) on the other hand：另一方面，用來對照成人與兒童。<br>句意：另一方面，兒童較常看到事情有趣的一面。",
+  "<b>解題關鍵：</b>笑時會一陣一陣短促呼氣，固定搭配 bursts of laughter 是「一陣陣笑聲」。<br>(A) bursts：突然的一陣，符合短促呼氣。<br>(B) breaks：休息、中斷，breaks of laughter 不自然。<br>(C) circles：圓圈。<br>(D) pieces：碎片，笑聲不能切成實體碎片。<br>句意：一陣陣笑聲把空氣從肺中呼出，使呼吸與心跳加快。",
+  "<b>解題關鍵：</b>句子比較笑的益處與騎十分鐘健身車的益處；good 在此是不可數名詞「好處」，不可用 many。as much... as 表示同等多。<br>(A) as many 修飾可數複數。<br>(B) as much good as：帶來同樣多好處，正確。<br>(C) so many 和 (D) so much 通常不搭後面的 as 形成肯定同級比較。<br>句意：笑帶來的好處和騎十分鐘健身車一樣多。",
+  "<b>解題關鍵：</b>空格和後面的 increasing 並列，都在補充 laughter 對免疫系統做的兩件事；並列形式要一致，都用 -ing。<br>(A) encourages 是現在式，形式不平行。<br>(B) encouraged 是過去式或分詞。<br>(C) encouraging 與 increasing 同為 -ing，正確。<br>(D) to encourage 不定詞，和 increasing 不平行。<br>句意：笑能促進白血球生成，並提高抵抗感染的能力。",
+  "<b>解題關鍵：</b>前一句談 laughter 對免疫系統有益，下一句說放鬆臉部肌肉也會改善外表；空格需要代名詞回指 laughter 並當 makes 的主詞。<br>(A) It：它，回指 laughter，正確。<br>(B) There 常用 there is，不能當 makes 的主詞。<br>(C) What 會引出名詞子句，但後面沒有完整結構。<br>(D) Where 表地點。<br>句意：當我們放鬆臉部肌肉時，笑也會讓外表有所不同。",
+  "<b>解題關鍵：</b>全文列出笑對呼吸、運動效果、免疫與外表的益處，結尾因此強調「笑確實是最好的藥」。<br>(A) hardly：幾乎不，會否定全文。<br>(B) kindly：友善地，不修飾 is 表肯定。<br>(C) rarely：很少，會說笑很少是良藥。<br>(D) really：真的、確實，用來加強結論。<br>句意：笑確實是最好的藥，所以今天好好笑一場吧。",
+  "<b>解題關鍵：</b>文章最後一段直接說選機器人當畢業致詞者引起 quite a bit of controversy，有人覺得冒犯，有人覺得創新，因此值得報導。<br>(A) 演說內容是人與科技合作，不是政治。<br>(B) 沒有心理學主題。<br>(C) controversial「有爭議的」概括正反意見。<br>(D) insensitive 只是部分學生的負面看法，不能涵蓋支持者。<br>所以文章主要因爭議性討論這場演說。",
+  "<b>解題關鍵：</b>這是 NOT true 題。Robot Redford 是受邀的 speaker，不是 658 名 graduates 之一。<br>(A) 它被設定能說話，屬 talking machine，正確。<br>(B) arrived on stage under its own power，自己移動上台，正確。<br>(C) 文章開頭說它在 1983 commencement 致詞，正確。<br>(D) 它從馬里蘭的學院畢業，全文沒說且把講者誤當畢業生，故錯。",
+  "<b>解題關鍵：</b>定位後段：William Bakaleinikoff had created Robot Redford，還提供它演講的聲音，所以機器人是他的創造成果。<br>(A) 機器人是幫人 increase workload「增加可完成的工作量」，不是降低生產力。<br>(B) brainchild 指某人的創意成果，符合他創造機器人。<br>(C) 學生意見分歧，不是人人滿意。<br>(D) 爭議在講者身分，不是內容太難懂。答案 B 有直接文章支持。",
+  "<b>解題關鍵：</b>父親的 navigation 課包含打結、規畫航線、查潮汐表及獨自駕小船過夜，從活動可判斷是航船技術。<br>(A) 暑期學校是課程場合，不是 navigation 的意思。<br>(B) the practice of sailing a boat，符合所有練習。<br>(C) 沒有飛機，不能解作駕機。<br>(D) 正式考試只是學習方式之一，不是詞義本身。這是由上下文判斷詞義。",
+  "<b>解題關鍵：</b>這是 NOT planned 題。第一段說父親安排許多活動與暑期課程，但 there never seemed enough time to go to church，顯示上教堂未列入他的教育計畫。<br>(A) Going to church 沒被安排，正確答案。<br>(B) hiking 和 (C) swimming 在開頭活動清單中。<br>(D) ancient history 明說是父親暑期課程內容。注意「朋友親戚在意教會」不等於父親安排。",
+  "<b>解題關鍵：</b>父親被指忽略宗教教育，still instituted summer school；接著說他認為一般學校 neglected 古代史，還教航海，表示要補正式學校不足。<br>(A) 暑校反而沒安排上教堂，不是教宗教重要。<br>(B) 船上過夜只是航海課的一部分。<br>(C) 沒有獎勵內容。<br>(D) make up for things missing in a regular classroom，涵蓋古代史與航海，正確。",
+  "<b>解題關鍵：</b>新聞第一句說木製新塔是 for the millennium，市長介紹的是 year 2,000 慶祝計畫，所以建塔是迎接千禧年。<br>(A) 舊塔沒有要拆。<br>(B) 是另建一座較矮木塔，不是把舊鐵塔重建。<br>(C) 建築師曾負責 Seville 展區，但新塔不是慶祝該展覽。<br>(D) 慶祝西元 2000 年到來，直接符合 for the millennium。",
+  "<b>解題關鍵：</b>市長要讓「city of light」成為千禧年的「capital of light」；後文列建築、塞納河岸、聖母院與雷射時鐘的照明。<br>(A) 花朵只在塔頂造型。<br>(B) lights 燈光是各項裝飾的共同元素。<br>(C) 新建築只是被照亮的物件。<br>(D) 只有一座新塔，不是主要裝飾材料。<br>答案 B 能概括市長整體燈光計畫。",
+  "<b>解題關鍵：</b>文章說 buildings would be illuminated along the banks of the Seine；banks 除了銀行，也可指「河岸」，有河岸的 Seine 就是一條河。<br>(A) 高大紀念碑不會有兩側河岸。<br>(B) 新塔沒有取名 Seine。<br>(C) A river，從 banks 及巴黎地理情境可判斷。<br>(D) 街道通常說 sides，不說 river banks。這是用搭配線索推知詞義。",
+  "<b>解題關鍵：</b>建築師明說木塔是 ecological symbol，象徵人在 protected Earth 上有尊嚴生活的權利，重點是環境保護。<br>(A) 作為環境關懷的象徵，符合原話。<br>(B) 文章沒說木材為減重安全。<br>(C) 工程仍要 2.5 億法郎，未說因預算有限。<br>(D) 雖和舊鐵塔材質不同，但設計者明示的原因是 ecological，不只是視覺對比。",
+  "<b>解題關鍵：</b>第一句把 earlier days 與 today 對比：美國人以前說故事比現在多。used to＋原形表示「過去常做，現在已不再如此」。<br>(I) used to 可接 tell，時態與對比皆正確。<br>(A) come to 後需接 believe 等狀態，不能直接表過去習慣。<br>(C) Today 放入會與 earlier days 矛盾。<br>句意：美國人過去比今天更常說故事。",
+  "<b>解題關鍵：</b>空格前有 were、後有 by，需要過去分詞形成被動；人們透過自己說的故事與別人談他們的故事而「為人所知」。<br>(K) known：被認識、為人所知，were known by 搭配正確。<br>(G) interested 通常接 in，不接 by stories 表身分。<br>(J) intimate 是形容詞，不能表示被故事認識。<br>句意：早期人們會因所說及別人講述的故事而被認識。",
+  "<b>解題關鍵：</b>stories that were told ___ them 的意思是「別人講述關於他們的故事」；tell a story about someone 使用介系詞 about。<br>(F) about 正確。<br>(E) that 是連接詞或代名詞，不能放在 told 後當介系詞。<br>(K) known 不是介系詞。<br>若填 about，前後成為 the stories that were told about them，結構與意思都完整。",
+  "<b>解題關鍵：</b>空格前是 a，後面接 of passing，固定結構 a way of doing 表示「做某事的一種方式」。<br>(L) way：方法，a way of passing on family history 正確。<br>(B) knowledge 雖是名詞，但 a knowledge of 是對某事的知識，不能表示傳承手段。<br>(J) intimate 是形容詞，不能接 a。<br>句意：說故事是傳遞家族史的一種方式。",
+  "<b>解題關鍵：</b>understanding 後需要一整塊「人們生命中發生的事情」作受詞；what 同時表示「……的事」並在子句中當 happens 的主詞。<br>(H) what 正確，what happens 是「發生的事」。<br>(E) that 只連接，不能當 happens 缺少的主詞。<br>(F) about 是介系詞，無法引導完整子句。<br>句意：說故事幫助理解人們生命中發生的事。",
+  "<b>解題關鍵：</b>前面說故事讓經驗有意義、理解人生，這些理解形成「知識」，並能 passing that knowledge on 傳給下一代。<br>(B) knowledge：知識，能被傳遞。<br>(L) way 若填會變成 passing that way on，但 that 指前面理解內容，不是方法。<br>(E) that 已在空格前作限定詞，不能再填。<br>句意：說故事也能把這些知識傳下去。",
+  "<b>解題關鍵：</b>前文談 earlier days，空格後說電視、電影與書籍已取代口述故事，因此要用時間詞「今天」形成今昔對比。<br>(C) Today：今天、如今，正確。<br>(D) Therefore：因此，但媒體取代不一定是前文用途造成的結果。<br>(I) used to 需接原形動詞，不能單獨放句首。<br>句意：如今，電視、電影和書籍接手了說故事的活動。",
+  "<b>解題關鍵：</b>空格與 personal 並列，都修飾 activity；早期面對面說故事不只是個人的，也使家人關係親近。<br>(J) intimate：親密的，personal and intimate 搭配自然。<br>(G) interested 用來形容人感興趣，不能說活動本身 interested。<br>(K) known 是知名的，和前文「個人性」不相連。<br>句意：媒體取代了原本個人且親密的說故事活動。",
+  "<b>解題關鍵：</b>空格後是 believe，選項中 come to believe 是固定搭配「逐漸開始相信」，表示社會慢慢形成故事只給兒童的觀念。<br>(A) come to 正確。<br>(I) used to believe 表過去相信但現在不信，和下一句成人興趣正在回歸的脈絡不同。<br>(C) Today 不能直接接 believe，主詞 We 後仍缺動詞形式。<br>句意：我們逐漸開始相信說故事只適合兒童。",
+  "<b>解題關鍵：</b>shown 後要接一個完整子句說明研究顯示的內容；that 可只負責連接，後面的 interest... is returning 已有主詞與動詞。<br>(E) that 正確，引導名詞子句。<br>(H) what 會在子句中兼任成分，但後句結構已完整，會多餘。<br>(D) Therefore 是副詞，不能直接作 shown 的受詞連接詞。<br>句意：近期研究顯示，成人對說故事的興趣正在回歸。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -14688,61 +14748,61 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "看到小電腦時詢問它是否真的能運作；work 表示「運作、有效」。",
-  "火車完全停下前不要開門，是為自身安全；safety 表示「安全」。",
-  "Peter 已先有約，因此不能參加；previously engaged 表示「先前已有安排」。",
-  "聽了數小時負面批評，希望對方提出較有建設性的意見；constructive 表示「建設性的」。",
-  "任何主題的書都找得到，表示館藏種類廣泛；a wide variety of 表示「多種多樣的」。",
-  "孩子只是坐著等待，沒有主動行動；passive 表示「被動的」。",
-  "Richard 想付全額，但 May 堅持各付各的；separately 表示「分開地」。",
-  "節目能拓展年輕觀眾對變動世界的理解；broaden 表示「拓展」。",
-  "公寓其他方面都喜歡，只有昂貴房租例外；except for 表示「除了」。",
-  "由於報紙與電視廣泛關注，兒虐問題廣為人知；as a result of 表示「由於」。",
-  "there is a name 表示包包裡「有」姓名，符合存在句型。",
-  "詢問對方今晚是否有能力或方便參加派對，使用 Can。",
-  "前句承認有錢的好處，後句提醒金錢之愛亦是萬惡之源；But 表示轉折。",
-  "left 是過去分詞作後位修飾；there doesn't seem to be any left 表示似乎沒有剩下。",
-  "推測 John 下午可能已去看電影，對過去情況的推測用 might have gone。",
-  "on purpose 表示「故意地」，同義詞是 intentionally。",
-  "stand for 表示縮寫「代表」什麼，與 represents 同義。",
-  "give rise to 表示「造成、引起」，與 caused 同義。",
-  "appeal to 表示「吸引」，與 attracts 同義。",
-  "昏倒後 came to 表示「恢復意識、醒來」，與 awoke 相近。",
-  "因為攀登者正在進行極困難的活動，所有感官都必須協同；Because 表示原因。",
-  "與 sees、hears 並列的是 feels，表示看見、聽見或感受到的一切。",
-  "身體各部位協調運作，如同每一部分都感受到其他部分；as 表示「好像、如同」。",
-  "沒有餘裕想其他事，所有思考都須集中當下；All 符合完整涵蓋的語意。",
-  "Only by 置於句首時主句倒裝，故用 can a climber really do。",
-  "後文說多數時間天氣很好、末幾天才下雨，因此回答 Not too bad。",
-  "原定瀑布行程因雨取消，John 以 What a pity 表示惋惜。",
-  "聽到騎腳踏車深入森林，John 驚訝詢問「究竟怎麼到那麼遠」；How on earth 加強疑問。",
-  "after all 用於補充大家都知道的背景：「畢竟是在露營」。",
-  "John 說忘帶開罐器，Jack 以 That's nothing 表示自己的遭遇更糟。",
-  "五位年輕工程師與其上司開會；後文由 the boss 指出重複提案，故選 boss。",
-  "a solution to the problem 是固定搭配，表示「問題的解決方案」。",
-  "提案說完後迎來令人不安的沉默；be greeted by 表示「受到……回應」。",
-  "同一提案先前已被提出並否決；turn down 表示「拒絕」。",
-  "at the time 是固定片語，表示「當時」覺得事件好笑。",
-  "專案完成後，多數參與工程師獲得升遷；promoted 表示「升職」。",
-  "前文說年輕工程師未列入升遷名單，接著用 What had happened? 引出原因。",
-  "他堅稱沒聽過先前提案，而文章說他確實是壞習慣受害者，所以 He was right。",
-  "主詞 Much of your success 為單數概念，搭配 is related to，表示成功與傾聽方式有關。",
-  "後句說產業與大學設立傾聽診所及課程，顯示它們已非常關切不良傾聽習慣。",
-  "dispose of 舊家具指把不再需要的物品處理掉；get rid of 同義。",
-  "商店收集良好舊家用品再分送給有需要者，目的是幫助無力購買的人。",
-  "文章讚揚捐贈不再需要但仍可用的物品，作者認為應把它們捐作慈善用途。",
-  "Disk Doctor 從磁碟救回遺失資料；rescued 在此等於 recovered「復原」。",
-  "建築師寄空白支票，表示他認為救回資料的服務無法估價、極其珍貴。",
-  "Jack 與朋友把所有收入捐給慈善機構，並未靠服務累積財富，因此 B 不正確。",
-  "Jack 說多數人不聽預防建議，暗示相同問題可能再發生、客戶可能再次求助。",
-  "全文解釋關係並提出建立長久關係的方法，目的在協助讀者建立健全關係。",
-  "第二段的 tips 是接下來幾項建立關係的方法，意為 suggestions「建議」。",
-  "文章說信任需在安全地敞開心扉中發展，親密也需讓他人看見內在，因此揭露內心是必要的。",
-  "愛來自與人互動、信任和親密；「喜愛胚胎」只是關係成長的比喻延伸，並非愛的來源。",
-  "父子從俄羅斯出發的目的，是展開環遊世界的航程。",
-  "航線沿中國東北海岸往下，經東海、臺灣海峽至澎湖，整體方向向南。",
-  "八月十八日出發，出事前航行順利，直到十一月下旬前四天主帆才受損，已超過三個月。",
-  "報導說尚不確定船能否修復及何時再出發，表示獲救後尚未作成決定。"
+  "<b>解題關鍵：</b>看到體積很小的電腦，說話者懷疑它是否真的「能運作」。<br>(A) bite：咬；(B) type：打字，通常由人操作；(C) work：運作、有效，主詞可直接是機器；(D) use：使用，需要有使用者作主詞或用被動 be used。<br>把答案放回去：這臺電腦這麼小，真的能正常運作嗎？判斷時也要確認 computer 是執行動作的主詞。",
+  "<b>解題關鍵：</b>火車完全停下前不要開門，是避免跌落或受傷，固定說法 for your own safety 是「為了你自身安全」。<br>(A) humanity：人性、人類；(B) safety：安全，正確；(C) liberty：自由；(D) vanity：虛榮。四者都是名詞，但只有安全能解釋禁令目的。<br>把答案放回去：為了自身安全，請等火車完全停妥再開門。",
+  "<b>解題關鍵：</b>Peter 不能參加生日會，因為在收到邀請之前「已經另有安排」。previously engaged 是先前已有約。<br>(A) necessarily：必然地；(B) previously：先前地，與過去完成式 had been 搭配；(C) cautiously：小心地；(D) possibly：可能地，不足以說明確定缺席。<br>把答案放回去：Peter 之前已有約，所以無法出席。",
+  "<b>解題關鍵：</b>前句只有 negative criticism「負面批評」，問句希望聽到更能幫助改善的意見。<br>(A) ambitious：有企圖心的；(B) synthetic：合成的；(C) determined：堅決的；(D) constructive：有建設性的，constructive criticism 會提出改進方向。<br>把答案放回去：別只批評，能不能提出更有建設性的意見？",
+  "<b>解題關鍵：</b>任何感興趣主題的書都找得到，表示館藏「種類很多」。a wide variety of 是「各式各樣的」。<br>(A) technology：科技；(B) connection：連結；(C) variety：種類、多樣性，搭配正確；(D) amazement：驚訝。<br>把答案放回去：這座圖書館以種類豐富的藏書聞名。後句 any topic 正是多樣性的直接證據。",
+  "<b>解題關鍵：</b>孩子只是坐著等事情發生，沒有自己採取行動，因此態度是被動的。<br>(A) passive：被動的，符合線索；(B) expressive：善於表達的；(C) extensive：廣泛的；(D) persuasive：有說服力的。四字字尾相似，但語意不同。<br>把答案放回去：孩子很被動，只坐著等待。sat and waited 和主動採取行動形成對比。",
+  "<b>解題關鍵：</b>Richard 提議付帳，但 May 堅持 they do it ______，表示兩人各自支付自己的部分。<br>(A) generously：慷慨地；(B) separately：分開地、各付各的，正確；(C) completely：完全地；(D) extensively：廣泛地。<br>把答案放回去：May 堅持兩人分開付帳。",
+  "<b>解題關鍵：</b>節目讓年輕觀眾對變動世界了解更多、視野更廣，要用 broaden understanding。<br>(A) broaden：拓寬，能和 understanding 搭配；(B) soften：軟化；(C) tighten：縮緊；(D) lengthen：延長，通常指長度或時間。<br>把答案放回去：這個節目會拓展年輕觀眾對世界的理解。",
+  "<b>解題關鍵：</b>第一句說公寓各方面都喜歡，第二句卻說房租太貴，因此房租是唯一例外。<br>(A) as for：至於；(B) except for：除了……以外，正確；(C) instead of：而不是；(D) in place of：取代。<br>把答案放回去：除了房租太高，我喜歡這間公寓的一切。此處是從整體中排除一項，不是用另一項取代。",
+  "<b>解題關鍵：</b>報紙與電視大量報導是原因，兒虐問題廣為人知是結果。<br>(A) As a result of：由於，後接名詞原因；(B) Apart from：除了；(C) In addition to：此外；(D) Regardless of：不管。<br>把答案放回去：由於媒體關注，兒虐問題已廣為人知。注意 of 後面接 all the attention 這個名詞片語。",
+  "<b>解題關鍵：</b>Sam 要 Tim 查看包內「是否有姓名」，表達某處存在某物要用 there is。<br>(A) it was：它曾是，後面不能直接接 a name；(B) this has：這有，不自然；(C) there is：有、存在，正確；(D) they had：他們有，沒有複數人可指。<br>把答案放回去：看看包包裡是否有姓名。",
+  "<b>解題關鍵：</b>Sue 回答 No, but I wish I could，其中 could 重複問句的 can come，表示詢問能力或是否方便。<br>(A) Must：必須，語氣成命令；(B) Shall：常用於提議 I/we；(C) Can：能否、可否，和回答 could 呼應；(D) May：徵求許可，但不是問 Sue 是否有空做到。<br>把答案放回去：你今晚能來參加派對嗎？",
+  "<b>解題關鍵：</b>Jane 先承認有錢能買想要的東西，接著提醒愛錢也是萬惡根源，前後觀點轉折。<br>(A) So：所以，表示結果；(B) Or：或者，表示選擇；(C) For：因為，補充原因；(D) But：但是，正確。<br>把答案放回去：有錢或許很好，但是我們也要記得貪愛金錢的危險。may be true 和 must bear in mind 不是因果，而是提醒另一面。",
+  "<b>解題關鍵：</b>there doesn't seem to be 後接 any；left 是過去分詞放在代名詞後，表示「剩下的」。<br>(A) left any：順序錯；(B) any left：任何剩下的咖啡，正確；(C) leaving any：主動「留下」不合；(D) any leaving：像是咖啡正離開。<br>把答案放回去：抱歉，似乎沒有咖啡剩下了。",
+  "<b>解題關鍵：</b>Tom 問的是 John 下午在哪裡；Pete 不確定，只能推測他「可能已經去」看電影。對過去的可能推測用 might have＋過去分詞。<br>(A) would go：會去；(B) might go：現在或未來可能去；(C) would have gone：本來會去，常需條件；(D) might have gone：過去可能已去，正確。<br>把答案放回去：他當時可能去看電影了。",
+  "<b>解題關鍵：</b>on purpose 是「故意地」，題目要找同義副詞。<br>(A) accidentally：意外地，意思相反；(B) gradually：逐漸地；(C) intentionally：有意地、故意地，正確；(D) permanently：永久地。<br>把答案放回去：你認為 Teresa 是故意問那個問題嗎？判斷重點是行動有沒有出於本人意圖。",
+  "<b>解題關鍵：</b>M.I.T. 是縮寫，stand for 表示字母「代表」完整名稱。<br>(A) holds：持有；(B) orders：命令；(C) means：意思是，接近但本題片語最直接同義是代表；(D) represents：代表，正確。<br>把答案放回去：每位臺灣學生都應知道 M.I.T. 代表什麼。縮寫與全名的對應最常用 stand for。",
+  "<b>解題關鍵：</b>魯莽行為與父母無盡麻煩是因果；give rise to 表示「造成、引起」。<br>(A) caused：造成，完全同義；(B) covered：覆蓋；(C) lifted：舉起；(D) saved：拯救，方向不合。<br>把答案放回去：John 的魯莽行為給父母造成無盡麻煩。trouble 是行為帶來的結果，不是被掩蓋或解救的對象。",
+  "<b>解題關鍵：</b>appeal to someone 表示某想法對某人有吸引力；成名的想法吸引很多人。<br>(A) attracts：吸引，正確；(B) enjoys：享受，主詞和受詞關係不合；(C) claims：聲稱；(D) requires：要求。<br>把答案放回去：成名這個想法吸引許多人。主詞是 idea，因此要選能表示「想法吸引人」的動詞。",
+  "<b>解題關鍵：</b>Mike 先 fainted 昏倒，之後看見陌生人；came to 在此表示恢復意識、醒來。<br>(A) Rose：起身，若用過去式應是 rose，但不一定恢復意識；(B) discovered：發現；(C) entered：進入；(D) awoke：醒來，與 came to 同義。<br>把答案放回去：他醒來時，看見身旁有陌生人。",
+  "<b>解題關鍵：</b>後半句說視覺、聽覺與感受必須結合幫助攀登；原因是攀登者正在做非常困難的事。<br>(A) Despite：儘管，後接名詞；(B) Because：因為，引導完整子句並說明原因；(C) Unless：除非；(D) Although：雖然，和後文沒有反差。<br>把答案放回去：因為攀登非常困難，所有感官都要協同。空格後是完整子句，Because 的句型也符合。",
+  "<b>解題關鍵：</b>空格和 sees、hears 並列，主詞是 he or she，需第三人稱單數感官動詞。<br>(A) points：指向；(B) says：說；(C) walks：走；(D) feels：感覺，與看見、聽見同屬感官。<br>把答案放回去：攀登者看見、聽見或感受到的一切都要協助攀登。三個動詞需同時符合感官意義與相同文法形式。",
+  "<b>解題關鍵：</b>身體各部分平順合作，後面用「好像每一部分都知道其他部分狀況」來比喻。<br>(A) or：或者，表示選擇；(B) if：如果，表示條件；(C) as：如同、好像，正確；(D) but：但是，沒有轉折。<br>把答案放回去：身體協調運作，彷彿各部分都能感受彼此。前後是方式比喻，不是選擇、條件或相反關係；as 最能連起兩個畫面。",
+  "<b>解題關鍵：</b>前句說沒有空間想時間或外表，接著強調思緒全部集中在當下。<br>(A) One：一個，不能修飾不可數 thinking；(B) All：所有，All thinking 指全部思考；(C) Some：一些，強度不足；(D) Few：很少，只修飾可數名詞，詞性也不合。<br>把答案放回去：所有思緒都必須聚焦此刻。no room for other thoughts 呼應 All 的完整集中。",
+  "<b>解題關鍵：</b>Only by entering... 放句首，主句需倒裝，把助動詞 can 放在主詞 a climber 前。<br>(A) can：形成 can a climber really do，正確；(B) shall、(C) must、(D) should 雖也可倒裝，但語意變成承諾、必須、應該，不是「才能做到最好」。<br>把答案放回去：只有進入安靜心境，攀登者才能發揮最佳表現。",
+  "<b>解題關鍵：</b>Jack 說最後幾天下雨，但 mostly it was fine，多數時間很好，因此整體評價是「還不錯」。<br>(A) It couldn't be better：好得不能再好，和下雨取消行程不符；(B) Don't mention it：不客氣；(C) Not too bad：不算太差，正確；(D) It was terrible：很糟，和 mostly fine 矛盾。<br>把答案放回去：天氣還不錯，只是最後幾天下雨。",
+  "<b>解題關鍵：</b>Jack 說原定 Rainbow Waterfalls 行程因雨未成，John 應表達惋惜。<br>(A) What a pity!：真可惜，符合；(B) how wonderful、(C) that was great 都表示高興，方向相反；(D) No big deal 是「沒什麼大不了」，會淡化對方遺憾。<br>把答案放回去：沒去成瀑布，真可惜！",
+  "<b>解題關鍵：</b>John 聽到他們深入森林的原住民村落，驚訝問「究竟怎麼到那麼遠」。<br>(A) How often：多常；(B) How on earth：究竟如何，on earth 加強驚訝；(C) How hard：多困難；(D) How was that：那如何，句型不能接 did。<br>把答案放回去：你們究竟怎麼到那麼遠的地方？",
+  "<b>解題關鍵：</b>John 問露營時住在哪裡，after all 有「畢竟」之意，提醒對話雙方本來就在談露營。<br>(A) at all：完全、到底，常用否定或疑問加強；(B) after all：畢竟，正確；(C) above all：最重要的是；(D) at most：至多。<br>把答案放回去：畢竟你們是在露營，那住在哪裡？後文 valley 是回答地點，並不回答頻率或最高數量。",
+  "<b>解題關鍵：</b>John 說忘了開罐器，Jack 接著要說自己的遭遇更慘：山羊吃掉大半食物，因此先說「那沒什麼」。<br>(A) That's great：太好了；(B) You deserve it：你活該；(C) That's nothing：那不算什麼，用來引出更誇張經歷；(D) That's terrible：太糟了，不能自然接 Do you know what happened to us。<br>答案 C。",
+  "<b>解題關鍵：</b>五位工程師在會議中，後面明確說 The boss laughed and pointed out，所以他們是和上司開會。<br>(A) boss：上司，與後文同一人；(B) friend：朋友；(C) client：客戶，文章說 plant site 是 for a major client，不代表客戶在場；(D) doctor：醫師。<br>把答案放回去：五位年輕工程師正與上司討論。",
+  "<b>解題關鍵：</b>固定搭配 a solution to a problem 是「問題的解決方法」，介系詞用 to。<br>(A) of：……的；(B) at：在；(C) to：針對、對應，正確；(D) in：在……裡。不要照中文「對問題」隨意猜介系詞，要記完整搭配。<br>把答案放回去：工程師提出他認為不錯的解決方案。類似搭配還有 answer to a question，都用 to。",
+  "<b>解題關鍵：</b>工程師說完提案後，得到的回應是一片不舒服的沉默。be greeted by 可表示「迎來、受到……回應」。<br>(A) turned：轉向；(B) created：創造，若用此字主詞應是提案造成沉默；(C) greeted：被迎接、迎來，和 by 搭配；(D) generated：產生，但 be generated by 方向會變成話被沉默產生。<br>答案 C。",
+  "<b>解題關鍵：</b>上司指出相同提案幾分鐘前已提出並「被拒絕」，所以年輕工程師顯然沒聽進去。<br>(A) agreed to：同意；(B) put up：張貼、忍受；(C) called upon：要求；(D) turned down：拒絕，正確。<br>把答案放回去：同一提案稍早已被提出並否決。had been made and turned down 共用過去完成被動結構。",
+  "<b>解題關鍵：</b>at the time 是固定片語，表示事件發生「當時」；後來幾個月後看來就不好笑，形成時間對比。<br>(A) in the time：在那段時間內；(B) at the time：當時，正確；(C) on the time：不是此義搭配；(D) for the time：暫時。<br>把答案放回去：這件事當時似乎好笑，後來卻不是。",
+  "<b>解題關鍵：</b>專案成功完成後，工程師得到職場上的獎勵；後面說那位出糗者不在名單上，指的是升遷名單。<br>(A) succeeded：成功，通常不用被動 were succeeded；(B) promoted：被升職，正確；(C) exhausted：筋疲力盡；(D) aroused：被喚起。<br>把答案放回去：大多數參與者都獲得升遷。",
+  "<b>解題關鍵：</b>前文說年輕工程師沒獲升遷，空格後開始解釋他聲稱沒聽過提案，因此空格應問發生了什麼。<br>(A) What had happened? 正好引出原因；(B) 問為何必須完成，專案已完成；(C) 地點已知是會議；(D) 問下一專案時間，與升遷無關。<br>段落用問題轉入事件真相，答案 A。過去完成式也符合回頭追問先前原因與結果。",
+  "<b>解題關鍵：</b>年輕人堅稱自己從沒聽到先前提案；下一句證實他是不自知的壞傾聽習慣受害者，所以從他的主觀經驗而言，他說得沒錯。<br>(A) 太年輕未提；(B) 一個月未提；(C) 上司是否滿意不是焦點；(D) He was right 承接他的誓言並引出原因。<br>答案不是替他辯護能力，而是說他確實沒聽進去。下一句 victim of a bad listening habit 是直接證據。",
+  "<b>解題關鍵：</b>主詞 Much of your success 是單數概念，後面 how you listen 表示成功「和傾聽方式有關」。<br>(A) is related to：單數動詞且意思正確；(B) has an impact on 變成成功影響傾聽，因果顛倒；(C) have 和單數不合；(D) are 也不合。<br>把答案放回去：工作與社交成功很大部分和你如何傾聽有關。",
+  "<b>解題關鍵：</b>後句說許多產業和大學設立 listening clinics 與課程，顯示它們非常關切不良傾聽習慣。<br>(A) 對被拒提案有興趣太侷限；(B) 已解決聽力理解之謎，和 find out what is wrong 矛盾；(C) 研究年輕工程師，主題太窄；(D) have become very concerned... 能解釋設立課程。<br>答案 D 統整整段。",
+  "<b>解題關鍵：</b>第一段問買新家具後，舊物仍可用卻不知如何 dispose of；此處是把不需要的物品「處理掉」。<br>(A) put up with：忍受；(B) get rid of：丟掉、處理掉，正確；(C) look down upon：看不起；(D) take notice of：注意。<br>把答案放回去：家庭常不知道如何處理仍堪用的舊家具。",
+  "<b>解題關鍵：</b>商店收集多餘、品質良好的用品，保存後再分給需要者，包括單親、身心障礙者、長者與受災戶。<br>(A) 幫助買不起特定家用品的人，符合；(B) 志工經營是真的，但目的不是開一般家具店；(C) 沒教人破壞拋棄式家具；(D) 是免費重新分配，不是售賣。<br>因此設立目的為 A。重新分配物品是手段，幫助無力購買者才是計畫的核心目的。",
+  "<b>解題關鍵：</b>作者稱計畫 admirable，也鼓勵讀者查家鄉是否有類似組織，並說捐贈不花錢卻能幫助他人。<br>(A) 不再需要不等於過時；(B) 應捐給慈善用途，符合作者態度；(C) admirable project 是對商店的評價，不是物品；(D) 文中說物品仍有 life left，並非有問題。<br>答案 B。作者認為仍可使用的物品應轉交真正需要的人。",
+  "<b>解題關鍵：</b>Disk Doctor 的工作是把遺失的磁碟資料救回；rescued things 包括研究、劇本與書稿，意思是「復原」。<br>(A) recovered：找回、恢復，正確；(B) prescribed：開處方；(C) examined：檢查；(D) discovered：首次發現。<br>把答案放回去：那些被 Disk Doctor 復原的資料很難估價。",
+  "<b>解題關鍵：</b>blank check 是未填金額的支票，讓收款人自己填；前句又說資料價值難以估計，因此建築師認為服務無價。<br>(A) 沒錢反而不會寄支票；(B) 安全理由是 Thatcher 案件親訪；(C) 醫師建議是磁碟預防措施；(D) 覺得服務 priceless，故用空白支票表達感謝。<br>答案 D。空白支票不是忘記填，而是把金額決定權交給 Jack。",
+  "<b>解題關鍵：</b>這是 NOT true 題。首段說費用固定，客戶從各行各業且包含 Thatcher 等重要人物，也說 Jack 把收入全捐慈善。<br>(A) 固定費用是真的；(B) 他和公司靠服務致富是假的，因收入捐出；(C) Thatcher 的旅行計畫高度機密，顯示重要；(D) 客戶含石油、建築、醫療、媒體、法律、作家，背景多元。<br>答案 B。",
+  "<b>解題關鍵：</b>Jack 把修好的磁碟連同 diagnosis 和避免再犯的 prescription 寄回，但感嘆多數人不理會建議。這暗示問題可能重演。<br>(A) doctor 是比喻磁碟醫師，不是服藥；(B) 原文沒把客戶當病人；(C) 不採預防措施的人可能再次遺失資料、再來求助，合理；(D) 不是說不讀電腦說明書。<br>因此可推論 C。",
+  "<b>解題關鍵：</b>文章先解釋 relationship，再列 know our steps、trust、be intimate、treat it as an organism 等做法，目的在教人建立長久健康關係。<br>(A) embryo 是比喻，不是叫人堆積木；(B) 感受只是互動一部分；(C) help readers establish sound relationships 涵蓋全文；(D) dancing 也是比喻，不是要成舞蹈專家。<br>主旨答案 C。",
+  "<b>解題關鍵：</b>Here are a few tips 後面立刻列出四項建立關係的方法，所以 tips 是「實用建議」。<br>(A) fees：小費或費用，此處不是給錢；(B) services：服務；(C) limitations：限制；(D) suggestions：建議，符合後面列點功能。<br>同一字 tip 在餐廳可指小費，但要依文章語境判斷，本題答案 D。",
+  "<b>解題關鍵：</b>trust 段說安全地 open their hearts；intimacy 段說要 be seen and known by another person，兩者都強調讓對方了解內心。<br>(A) 文中明說親密不只性關係；(B) trust 是長久關係的 key building block，不是阻礙；(C) dancing 是比喻，不會跳舞仍能建立關係；(D) 展露內在想法是長久關係必要條件，符合。<br>答案 D。",
+  "<b>解題關鍵：</b>這是 EXCEPT 題。首段說愛來自 relationship with others，後文具體談互動、信任與親密。<br>(B) interacting with people 是關係本身；(C) trusting friends 建立連結；(D) being intimate 讓彼此看見與了解，都能帶來愛；(A) being fond of the embryo 不在文中，embryo 只是比喻新關係需要照顧。<br>答案 A。",
+  "<b>解題關鍵：</b>新聞第二段直接說父子從俄羅斯港口出發 to begin an ambitious around-the-world cruise。<br>(A) 環遊世界是原始目的；(B) 澎湖是故障漂流後獲救地；(C) 沒有尋找家人；(D) 啟動引擎是主帆損壞後的應變。<br>原因題要區分「出發目的」和「途中發生的事情」，答案 A。ambitious 表示這是一趟雄心勃勃的長程航行。",
+  "<b>解題關鍵：</b>航線由俄羅斯東部出發，沿中國東北海岸 down，經東海、Taiwan Strait 到臺灣西南外海澎湖，整體往南。<br>(A) East：向東；(B) West：向西；(C) South：向南，符合 repeated down 與地理位置；(D) North：向北，方向相反。<br>把地點依序畫在地圖上，也可確認答案 C。",
+  "<b>解題關鍵：</b>時間線：8 月 18 日出發；新聞日期 11 月 24 日；four days ago 主帆被強風吹壞，這是首次出狀況，已航行超過三個月。<br>(A) 不到兩天是引擎啟動後才壞；(B) 主帆先壞才啟動引擎，不是四天前；(C) 超過三個月後，正確；(D) 到澎湖前已多處故障。<br>答案 C。計算時要用出發日和首次故障日，不是獲救日。",
+  "<b>解題關鍵：</b>末句說目前尚不清楚船能否修好，也不知父子何時能再出發繼續旅程，表示獲救後還沒有決定下一步。<br>(A) 沒說留在澎湖捕魚；(B) 沒決定賣船返俄；(C) 修船再航行只是可能，尚未確定；(D) 尚未作決定，符合 not immediately known。<br>因此答案 D。新聞只報導當下狀態，不能把任何可能行動當成已確定的決定。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -14821,56 +14881,56 @@ window.BANK=window.BANK||[];window.BANK.push({
 })();
 
 [
-  "測驗的主要目的，是了解高中階段學會多少；objective 表示「目的、目標」。",
-  "每天搭擁擠公車往返學校令人厭倦；commuting 表示「通勤」。",
-  "進度落後時需要額外人力才能準時完工；extra 表示「額外的」。",
-  "收到禮物後寫謝卡，是出於禮貌與體貼；courtesy 表示「禮貌」。",
-  "男孩為不當行為向老師道歉；apologize to someone for something 是固定搭配。",
-  "Jane 把批評視為針對自己而容易生氣；take criticism personally 表示「把批評當成人身攻擊」。",
-  "人會對不同對象展現不同面貌，因此是多種特質的組合；combination 表示「組合」。",
-  "John 已連續用電腦二十四小時，顯然需要好好休息；obviously 表示「顯然地」。",
-  "學生可從電腦、電視等來源取得資訊；access 作動詞表示「存取、取得」。",
-  "錯誤的指示使人完全迷路；faulty 表示「有錯誤的」。",
-  "effect 在句中指噪音對聽力造成的影響，與 impact 同義。",
-  "determined 指意志堅定、不易被阻止，與 strong-willed 同義。",
-  "橋梁承受不了重車重量而坍塌；give in 可表示「支撐不住而倒塌」。",
-  "initial offer 指第一次、最初的提議，與 original 同義。",
-  "演唱會因雨取消；call off 表示「取消」。",
-  "next to impossible 表示「幾乎不可能」，故與 almost impossible 相同。",
-  "every now and then 表示「偶爾」，與 occasionally 同義。",
-  "塞車使我耽擱約一小時；hold up 表示「延誤」。",
-  "once and for all 在警告語境中表示「最後一次、斷然地」，故選 for the last time。",
-  "come by a large sum of money 表示「取得一大筆錢」，與 obtained 同義。",
-  "English 是不可數名詞；表示懂得很少用 very little。",
-  "移民前往美國是為尋找更好的生活；look for 表示「尋找」。",
-  "淘金熱時他加入數千人行列前往加州；joined 表示「加入」。",
-  "因為打算在舊金山開店，所以帶了許多貨品；Because 表示原因。",
-  "including 引出所帶貨品中的一項，即大量帆布。",
-  "it 代指前句不可數的 canvas，表示想把帆布賣作帳篷或車篷材料。",
-  "however 顯示轉折：生意不如預期好；not as good as 符合比較結構。",
-  "敘述過去某次在咖啡館想到點子，應用 One day。",
-  "看見破褲管後，他突然想到加州人需要什麼；suddenly 表示「突然」。",
-  "全文是過去敘事，間接問句描述當時需求，故用 needed。",
-  "前句主詞 all forms of life 為複數，代名詞用 them。",
-  "人類從較低等的動物生命形式學到生存方式；lower forms 符合語意。",
-  "蜥蜴是動物求生方式的一個例子；for instance 表示「例如」。",
-  "蜥蜴改變膚色以融入周圍樹葉；blend with 表示「與……融合」。",
-  "融入環境使牠們不被威脅者發現；As a result 表示結果。",
-  "protection against danger 是固定搭配，表示「抵禦危險的保護」。",
-  "人類也被賦予特殊防護機制；have been given 是現在完成被動式。",
-  "主詞 Human beings 為複數，反身代名詞用 themselves。",
-  "皮膚能感受溫度變化；be sensitive to 表示「對……敏感」。",
-  "在溫暖天氣期間，流汗幫助調節體溫；During 表示「在……期間」。",
-  "信中祝賀升學、送字典、告知父母來訪並邀 Tom 相聚，沒有要求他回自己家過週末。",
-  "Scrabble 與朋友一起玩，且字典可解決爭議，可知它是一種文字遊戲。",
-  "Sally 說她與 Jack 教 Tom 字母，並稱 Tom 的父母為 Mom and Dad，最可能是姊弟關係。",
-  "美國人在免簽國籍名單內；停留一週仍須護照入境時至少有六個月效期。",
-  "英國人免簽最多十四天；要停留約三週，須在機場申請落地簽證。",
-  "落地簽須先持十四天免簽入境資格、有效六個月以上護照並繳一千五百元，故以上皆是。",
-  "左腦型學習者偏重邏輯、規則與數學；藝術性與浪漫感受較符合右腦型。",
-  "學生使用左右腦的偏好不同，教師最重要的是找出個別學生最適合的學習方式。",
-  "語言學習需兩個腦半球共同參與，因此單一半球受損不必然造成語言能力完全喪失。",
-  "全文從大腦複雜性談左右半球、記憶與學習方式，最佳標題是「神奇的人腦」。"
+  "<b>解題關鍵：</b>後半句說測驗是為了了解高中學了多少，所以空格要填「目的」。<br>(A) countenance：臉部表情或支持；(B) discipline：紀律、學科；(C) objective：目標、目的，main objective 是常見搭配；(D) procedure：程序、步驟，不是舉辦測驗的原因。<br>把答案放回去：這項測驗的主要目的，是了解你在高中學會多少。",
+  "<b>解題關鍵：</b>說話者厭倦每天搭擁擠公車往返學校，希望住進宿舍；這種固定往返叫 commuting。<br>(A) commuting：通勤，commute to school 表示每天往返學校；(B) dropping：掉落或順道送人；(C) swaying：搖擺；(D) wandering：漫遊、閒晃，都不是固定上學交通。<br>把答案放回去：我受夠每天擠公車通勤上學，所以想住宿舍。",
+  "<b>解題關鍵：</b>behind schedule 是進度落後，為了 in time 準時完成，需要在原有人力之外增加人手。<br>(A) basic：基本的；(B) extra：額外的，extra manpower 是額外人力；(C) introductory：入門的；(D) profound：深奧的，後兩者不形容所需人數。<br>把答案放回去：他們進度落後，只好申請額外人力趕上期限。",
+  "<b>解題關鍵：</b>收到禮物後寫謝卡，是對送禮者有禮貌又體貼的表現；out of 表示「出於」。<br>(A) concentration：專心；(B) convenience：方便；(C) courtesy：禮貌，courtesy and consideration 意思相近且搭配自然；(D) courtship：求愛期。<br>把答案放回去：出於禮貌與體貼，我收到禮物都會寫謝卡。",
+  "<b>解題關鍵：</b>improper behavior 是不當行為，對做錯的事應向老師「道歉」。固定搭配是 apologize to 人 for 事情。<br>(A) apologized：道歉，句型完整；(B) appealed：呼籲或上訴，常接 to 但意思不同；(C) approached：接近，不接 to；(D) attached：附上，attach A to B。<br>把答案放回去：男孩為自己的不當行為向老師道歉。",
+  "<b>解題關鍵：</b>Jane 一被批評就生氣，表示她把意見當成針對自己。take criticism personally 是「把批評看成針對個人」。<br>(A) eventually：最後；(B) positively：正面地，若如此反而不易生氣；(C) intimately：親密地；(D) personally：就個人而言、針對自己，正確。<br>把答案放回去：Jane 太把批評往心裡去，所以容易動怒。",
+  "<b>解題關鍵：</b>分號後解釋：我們對不同人展現不同面貌，因此每個人像由多種特質「組合」而成。<br>(A) combination：組合，a combination of 是固定搭配；(B) communication：溝通；(C) competition：競爭；(D) complication：複雜問題。<br>把答案放回去：幾乎每個人都是多種不同面貌的組合。",
+  "<b>解題關鍵：</b>連續使用電腦二十四小時，依常理一定非常疲累，所以「顯然」需要休息。<br>(A) accidentally：意外地；(B) efficiently：有效率地；(C) obviously：顯然地，承接明確事實；(D) previously：先前地，只表示時間。<br>把答案放回去：John 已工作二十四小時，顯然需要好好休息。",
+  "<b>解題關鍵：</b>電腦、電視、光碟都是資訊來源；學生能從這些來源「取得／存取」資訊。<br>(A) press：按壓；(B) express：表達；(C) oppress：壓迫；(D) access：存取、取得，access information 搭配正確。四字外形相近但字首改變意思。<br>把答案放回去：現代學生能從多種來源取得資訊。source 和 information 是判斷 access 的搭配線索。",
+  "<b>解題關鍵：</b>說話者得到 directions 後 completely lost，表示指示內容有錯。<br>(A) dreary：沉悶的；(B) faulty：有缺點、有錯誤的，faulty directions 會使人迷路；(C) handy：方便好用的；(D) steady：穩定的。<br>把答案放回去：有人給我錯誤方向，所以我完全迷路而遲到。",
+  "<b>解題關鍵：</b>本題找 effect 的同義字；noise 對 hearing 造成 serious effect，就是嚴重「影響」。<br>(A) curve：曲線；(B) impact：影響、衝擊，與 effect 同義；(C) increase：增加；(D) shortcoming：缺點。後三項中只有 impact 能接 on hearing 表示影響。<br>把答案放回去：醫師多次警告噪音對聽力有嚴重影響。",
+  "<b>解題關鍵：</b>determined 的人不容易被阻止，因為他們有堅強意志。<br>(A) happy-natured：天性快樂；(B) strong-willed：意志堅定的，和 determined 同義；(C) warm-hearted：熱心的；(D) well-intentioned：出於善意的。這些都是個性形容詞，但只有 B 談決心。<br>把答案放回去：意志堅定的人不會輕易放棄想做的事。",
+  "<b>解題關鍵：</b>collapsed 表示橋承受不了重車重量而「倒塌、屈服」。<br>(A) gave up：放棄，主詞通常是人；(B) gave off：散發氣味、光熱；(C) gave over：停止或交付；(D) gave in：屈服、支撐不住，符合橋梁受壓倒塌。<br>把答案放回去：橋在重車重量下支撐不住而坍塌。under the weight 是結構承受不住的直接線索。",
+  "<b>解題關鍵：</b>後文說 tried again，表示 initial offer 是第一次、最初的提議。<br>(A) numerous：許多的；(B) original：最初的、原先的，在此與 initial 同義；(C) responsible：負責的；(D) talented：有才華的。<br>把答案放回去：我最初的提議被拒絕，第二次誠懇提出才獲接受。",
+  "<b>解題關鍵：</b>canceled 是活動因故「取消」；要找同義片語。<br>(A) called off：取消，和 canceled 同義；(B) cut off：切斷；(C) put off：延期，活動仍可能改日舉行；(D) taken off：脫下或起飛。取消和延期不同，雨使本次演唱會不再舉行。<br>把答案放回去：戶外演唱會因雨取消。",
+  "<b>解題關鍵：</b>next to 在這個片語中不是「旁邊」，而是「幾乎」；next to impossible 等於 almost impossible。<br>(A) second：第二；(B) never：從不，不能修飾 impossible；(C) almost：幾乎，正確；(D) usually：通常。<br>把答案放回去：要我三天內完成作業，幾乎不可能。",
+  "<b>解題關鍵：</b>every now and then 是頻率片語，表示「偶爾、有時候」。<br>(A) Always：總是；(B) Never：從不；(C) Occasionally：偶爾，完全同義；(D) Seldom：很少，頻率比 occasionally 更低。<br>把答案放回去：他們偶爾會一起去看電影，不是每次都去，也不是幾乎不去。",
+  "<b>解題關鍵：</b>held up 在塞車情境表示行程被耽擱；後面的 for about an hour 是延誤時間。<br>(A) delayed：延遲，與 held up 同義；(B) maintained：維持；(C) raised：提高；(D) supported：支持。<br>把答案放回去：高速公路塞車使我延誤了大約一小時。此處 hold up 不是把物品舉高，而是阻礙行程。",
+  "<b>解題關鍵：</b>once and for all 用於嚴正警告，表示事情到此為止、這是「最後一次」說明。<br>(A) at times：有時；(B) for the last time：最後一次，語氣相符；(C) more than once：不只一次；(D) once more：再一次。<br>把答案放回去：我最後一次警告你，不准再做這種蠢事。",
+  "<b>解題關鍵：</b>come by 在這裡不是「經過」，而是「取得」；說話者好奇 John 如何得到大筆金錢。<br>(A) brought：帶來；(B) spent：花費；(C) paid：支付；(D) obtained：取得，與 came by 同義。<br>把答案放回去：我好奇 John 是怎麼取得這麼大一筆錢的。a large sum of money 是他得到的東西，不是花掉或支付的款項。",
+  "<b>解題關鍵：</b>English 是不可數名詞；Levi 初到美國、年僅十七又貧窮，英文也懂得很少。<br>(A) easy：容易的，不能表示數量；(B) some：一些，但 very some 錯誤；(C) small：小，通常不用來修飾語言能力的量；(D) little：很少，very little English 正確。<br>把答案放回去：他剛到美國時只懂很少英文。",
+  "<b>解題關鍵：</b>移民離鄉通常是為了「尋找」更好的生活。<br>(A) looking after：照顧；(B) looking at：看著；(C) looking for：尋找，a better life 是想得到的目標；(D) looking into：調查。<br>把答案放回去：和多數移民一樣，他正在尋找更好的生活。四個 look 片語都常見，要看後面的受詞是人、景物、目標或事件。",
+  "<b>解題關鍵：</b>發現黃金後，數千人 rushed to California；Levi 也加入這群人。<br>(A) took：拿取；(B) avoided：避開；(C) paid：支付；(D) joined：加入，join thousands of others 表示和眾人一起前往。<br>把答案放回去：淘金消息傳出後，他加入數千人行列奔往加州。",
+  "<b>解題關鍵：</b>「打算開店」解釋了「帶許多貨物」的原因，前後是因果。<br>(A) Although：雖然，表示反差；(B) Because：因為，正確；(C) If：如果；(D) Unless：除非，都是條件而非已發生原因。<br>把答案放回去：因為他計畫在舊金山開店，所以帶了很多貨品。planned 和 took 都是已發生事實，不是假設條件。",
+  "<b>解題關鍵：</b>逗號後補充 many goods 其中一項是大量帆布，需要用 including「包括」。<br>(A) including：介系詞用法，後接名詞；(B) included：被包括的，位置通常在名詞後；(C) being included：表示正在被包括，不合；(D) was including：會多出主要動詞。<br>把答案放回去：他帶了許多貨品，包括大量帆布。",
+  "<b>解題關鍵：</b>空格回指前一句 a large quantity of canvas；canvas 是不可數名詞，單數代名詞用 it。<br>(A) much：許多，不能單獨清楚回指特定帆布；(B) one：一個，用於可數名詞；(C) it：它，正確；(D) others：其他複數物。<br>把答案放回去：他希望把這批帆布賣作帳篷或篷車罩材料。",
+  "<b>解題關鍵：</b>however 表示轉折，說明實際生意沒有達到預期的好。比較結構是 not as＋形容詞＋as。<br>(A) as far as：遠到、就……而言；(B) as good as：和……一樣好，放入 not 後表示不如；(C) as soon as：一……就；(D) as well as：以及或和……一樣好地，well 是副詞。<br>把答案放回去：然而，生意並沒有他預期的那麼好。",
+  "<b>解題關鍵：</b>文章敘述過去人生故事，空格引出某一天在咖啡館突然有點子。<br>(A) One day：有一天，用於故事中未指定的過去日子；(B) Another day：另一天，需要先有對照日期；(C) Someday：未來某一天；(D) The other day：前幾天，通常靠近說話當下。<br>把答案放回去：有一天，他坐在小鎮咖啡館時想到一個點子。",
+  "<b>解題關鍵：</b>看見男子褲腿破洞的那一刻，他立刻想到工人需要耐用長褲，這是突然出現的靈感。<br>(A) casually：隨意地；(B) frequently：常常；(C) regularly：規律地；(D) suddenly：突然地，符合單一瞬間。<br>把答案放回去：他看到破褲子，突然明白加州人需要什麼。an idea 和 saw a man 都把時間鎖定在這一刻。",
+  "<b>解題關鍵：</b>全文用過去式 saw、realized、were doing；what 引導的間接問句也描述當時需求，應用過去式。<br>(A) needed：過去式且作主要動詞；(B) need：現在式；(C) needing：V-ing，句子缺動詞；(D) have needed：現在完成式，和過去敘事時間不合。<br>把答案放回去：他明白加州人從事粗重工作時需要耐用長褲。",
+  "<b>解題關鍵：</b>them 回指前一句 All forms of life，意思是大自然提供所有生命生存方法。<br>(A) it：單數；(B) them：複數受格，符合 provides 人 with 物 的句型；(C) this：單數指示詞；(D) which：關係代名詞，不能在此直接作受詞。<br>把答案放回去：大自然為所有生命提供生存手段。",
+  "<b>解題關鍵：</b>後面以蜥蜴為例，人類從構造較簡單、演化層級較低的動物學到生存方式。<br>(A) better：更好的；(B) fewer：較少的，修飾可數數量；(C) less：較少，不能自然修飾 forms；(D) lower：較低等的，lower forms of animal life 是固定說法。<br>把答案放回去：我們從較低等的動物生命形式學到很多。",
+  "<b>解題關鍵：</b>前句總說人類從動物學習，接著用蜥蜴說明一種生存方法，因此需要舉例語。<br>(A) however：然而，表示轉折；(B) for instance：例如，正確；(C) in case：以防萬一；(D) more or less：差不多。<br>把答案放回去：例如，蜥蜴能改變皮膚顏色。先總說再舉單一動物例子，是典型的例證關係。",
+  "<b>解題關鍵：</b>蜥蜴變色的目的，是讓身體和周圍樹木葉片看起來一致，避免被發現。<br>(A) blend with：融入、和……混在一起；(B) differ from：與……不同，方向相反；(C) gaze upon：凝視；(D) migrate to：遷徙到。<br>把答案放回去：蜥蜴能改變膚色，融入周遭樹葉。下一句 cannot be detected 證明這是保護色，而非遷徙或觀察。",
+  "<b>解題關鍵：</b>前句說蜥蜴融入環境，後句「不被天敵發現」是這個能力造成的結果。<br>(A) Nevertheless：然而；(B) As a result：因此，正確；(C) In contrast：相較之下；(D) On the other hand：另一方面。<br>把答案放回去：因此，威脅牠們的動物就不容易發現牠們。前後方向一致，不需要 nevertheless 或 contrast 來轉折。",
+  "<b>解題關鍵：</b>固定搭配 protection against danger 表示「抵禦危險的保護」。<br>(A) about：關於；(B) above：在上方；(C) against：抵抗、防範，正確；(D) around：在周圍。介系詞選擇要看 protection 和 danger 的關係：保護是用來抵抗危險。<br>把答案放回去：大自然也提供抵禦環境危險的其他保護方式。",
+  "<b>解題關鍵：</b>主詞 Human beings 是接受者，人類「被大自然賦予」保護裝置；內容從過去延續到現在，用現在完成被動。<br>(A) give：主動，會變成人類給東西；(B) are going to give：將要給；(C) have given：已給予，仍是主動；(D) have been given：已被給予，正確。<br>把答案放回去：人類也被賦予特殊的自我保護機制。",
+  "<b>解題關鍵：</b>protect 的受詞和主詞 Human beings 是同一群人，要用反身代名詞「他們自己」。<br>(A) himself：他自己，單數男性；(B) itself：它自己，單數事物；(C) themselves：他們自己，複數，正確；(D) yourselves：你們自己，第二人稱。<br>把答案放回去：人類被賦予特殊裝置來保護自己。",
+  "<b>解題關鍵：</b>皮膚能察覺 temperature changes，固定搭配 be sensitive to 是「對……敏感」。<br>(A) sensational：轟動的；(B) sensible：明智的、實用的；(C) sensitive：敏感的，正確；(D) sentimental：多愁善感的。四字相似，但只有 sensitive 描述感受溫度變化。<br>把答案放回去：人的皮膚對溫度變化非常敏感。",
+  "<b>解題關鍵：</b>空格後是 warm weather 這段時間；溫暖天氣時，流汗幫助調節體溫。<br>(A) During：在……期間，後接名詞；(B) Instead of：取代；(C) Over：在……上方或跨越；(D) Through：穿過、透過，不用來表示一般天氣期間。<br>把答案放回去：在溫暖天氣中，流汗有助人體調節溫度。這裡描述時間背景，不是流汗的方法或位置。",
+  "<b>解題關鍵：</b>這是 NOT mentioned 題。信中祝賀 Tom 升學、送字典、告知父母下月來訪，也請他到 Sally 那裡相聚。<br>(A) proud、congratulation 支持祝賀；(B) Mom and Dad are coming 支持告知來訪；(C) come to join us 支持家庭聚會；(D) 沒叫 Tom 回自己的家過週末，只邀他到 Sally 處。<br>因此未提到的是 D。",
+  "<b>解題關鍵：</b>信中說 Tom 可和 friends playing Scrabble，還可用字典解決爭論；能「和朋友一起玩」的 Scrabble 是遊戲。<br>(A) argument-saver 是字典的作用，不是 Scrabble 本身；(B) big dictionary 是寄的禮物；(C) game 符合 playing；(D) gift 指字典。<br>由動詞 playing 和朋友情境可判定答案 C。",
+  "<b>解題關鍵：</b>Sally 說自己和 Jack 曾教 Tom 字母，又把 Tom 的父母稱為 Mom and Dad，表示雙方共享父母，最可能是手足。<br>(A) 若是母親不會把自己與 Jack、Tom 的父母分開說；(B) sister and brother 符合共同父母與年齡差；(C) 祖母通常說 your parents；(D) 姪姨關係也不會共享 Mom and Dad。<br>所以最合理是姊弟。",
+  "<b>解題關鍵：</b>美國列在十五個免簽國家內，一週少於十四天，可免事先簽證；但免簽要求護照至少還有效六個月。<br>(A) 少於十四天不需落地簽；(B) 不必離美前申請；(C) May 1, 1995 是政策生效日，不是護照核發日；(D) 護照抵達時效期超過六個月，正確。<br>定位第二段 requirements 即可。題目給的一週停留時間也符合十四天上限。",
+  "<b>解題關鍵：</b>英國在免簽名單，但免簽最多十四天；商人要停留約三週，即超過十四天而少於三十天。<br>(A) 不必登機前先取得一般簽證；(B) 同行者國籍無關；(C) 第三段規定此情況須在機場申請 landing-visa，正確；(D) 只辦免簽只能停十四天。<br>答案要同時核對國籍與停留天數。about three weeks 正好落在十四至三十天範圍。",
+  "<b>解題關鍵：</b>第三段說申請落地簽者先持十四天免簽入境，第二段規定護照至少六個月效期，第三段又列費用 NT$1,500。<br>(A) 有效護照需要；(B) 十四天免簽資格需要；(C) 一千五百元費用也需要；(D) All of the above 因三項都符合而正確。<br>這題須把第二、三段條件合併，不能只看最後一句。三項都能在原文找到依據。",
+  "<b>解題關鍵：</b>第三段說左腦型學習者重規則、清單、邏輯、定義和反覆練習；右腦則偏感受、顏色、聯想與直覺。題目問 NOT fit。<br>(A) 邏輯符合左腦；(B) 藝術、浪漫較接近右腦，因此不符合；(C) 句型組合涉及規則；(D) 數學常用邏輯。<br>所以 Mary 的描述中最不相符的是 B。NOT 題要選唯一與左腦型學習特質相反的選項。",
+  "<b>解題關鍵：</b>末段指出學習者可能偏用不同半腦；教師若知道學生偏左腦或右腦，就能幫助他們學得更好。<br>(A) 背規則、(B) 用邏輯只適合偏左腦者；(C) 聯結舊知較偏右腦；(D) 找出每位學生最適合的學習型態，能照顧個別差異，正確。<br>最重要的教育啟示不是所有人用同一方法，而是因材施教。這也直接呼應末句 help them learn better。",
+  "<b>解題關鍵：</b>文章說兩個半球在學習與溝通都扮演重要角色，語言學習包含兩邊，因此一邊受損不一定讓語言完全消失。<br>(A) 符合兩半球共同參與的推論；(B) 認路較屬長期記憶，不是短期；(C) 與 both hemispheres 相反；(D) 首段明說科學家尚未解開所有謎團。<br>逐項比對後只有 A 正確。always、only、all 這類絕對字眼也要特別核對。",
+  "<b>解題關鍵：</b>主旨涵蓋大腦的複雜、左右半球功能、記憶、語言和個人學習方式，標題要能包住全文。<br>(A) 只涵蓋記憶一小部分；(B) 只談半球研究，未涵蓋整體大腦與學習；(C) 文章列多項研究，不是單一近期發現；(D) The Amazing Human Brain 範圍完整，也呼應首段 amazing organ。<br>因此最佳標題為 D。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -14949,63 +15009,63 @@ window.BANK.push((() => {
       }
     },
     questions: [
-      q(1, "C2", ["語境選詞"], "題組", "綜合測驗", "A", "Choose the best answer for blank 1.", {A:"Certainly.",B:"Not at all.",C:"What's the matter?",D:"All right."}, {group:"G1",explain:"Certainly 表示同意對方暫時離開接電話。"}),
-      q(2, "C2", ["篇章指涉"], "題組", "綜合測驗", "D", "Choose the best answer for blank 2.", {A:"Shall we continue our discussion?",B:"What are you going to say?",C:"What did you say?",D:"Where were we?"}, {group:"G1",explain:"談話中斷後以 Where were we? 詢問剛才談到哪裡。"}),
-      q(3, "C2", ["邏輯關係"], "題組", "綜合測驗", "A", "Choose the best answer for blank 3.", {A:"but I'm afraid",B:"so I think",C:"unless it seems",D:"as you know"}, {group:"G1",explain:"想去看表演與恐怕要改天之間是轉折，故選 but I'm afraid。"}),
-      q(4, "C2", ["語境選詞"], "題組", "綜合測驗", "D", "Choose the best answer for blank 4.", {A:"Do you speak English?",B:"Are you a worker, too?",C:"How do you like it?",D:"How about you?"}, {group:"G2",explain:"Bill 說完自己的工作後反問 John，How about you? 最恰當。"}),
-      q(5, "C2", ["語境選詞"], "題組", "綜合測驗", "C", "Choose the best answer for blank 5.", {A:"Do you know each other?",B:"Where have you been?",C:"What do you do?",D:"How are you?"}, {group:"G2",explain:"Sue 回答職業，前句應問 What do you do?。"}),
-      q(6, "C2", ["語境選詞"], "題組", "綜合測驗", "D", "Choose the best answer for blank 6.", {A:"Hold on. I'll connect you.",B:"Sure. Wait a moment, please.",C:"I'm sorry, he's not come yet.",D:"I'm sorry, he's out at this moment."}, {group:"G3",explain:"下句詢問 Eric 何時回來，表示他目前外出。"}),
-      q(7, "C2", ["語境選詞"], "題組", "綜合測驗", "C", "Choose the best answer for blank 7.", {A:"I'm not sure. May I leave a message?",B:"Any moment. Do you want to talk to him?",C:"I'm not sure. Can I take a message?",D:"I'm sorry, his line is busy."}, {group:"G3",explain:"Jane 不確定 Eric 何時回來，接著主動問是否要留言。"}),
-      q(8, "C2", ["語境選詞"], "題組", "綜合測驗", "B", "Choose the best answer for blank 8.", {A:"That's all right.",B:"Moskovik, M-O-S-K-O-V-I-K.",C:"It's an unusual name.",D:"Don't worry. Eric and I are old friends."}, {group:"G3",explain:"對方沒聽清楚姓氏，應重述並拼出 Moskovik。"}),
-      q(9, "C2", ["語境選詞"], "題組", "綜合測驗", "A", "Choose the best answer for blank 9.", {A:"Don't worry. All we have to do is ask.",B:"What should we see next?",C:"I'm scared. Let's go home.",D:"Yes, we just lost a tire."}, {group:"G4",explain:"下句追問要問誰，故此處先提議問路。"}),
-      q(10, "C2", ["語境選詞"], "題組", "綜合測驗", "B", "Choose the best answer for blank 10.", {A:"Who knows!",B:"You ask a policeman.",C:"There is a police station there.",D:"I don't see any police station."}, {group:"G4",explain:"後句問哪裡能找到一位，指的是 policeman。"}),
+      q(1, "C2", ["語境選詞"], "題組", "綜合測驗", "A", "Choose the best answer for blank 1.", {A:"Certainly.",B:"Not at all.",C:"What's the matter?",D:"All right."}, {group:"G1",explain:"<b>解題關鍵：</b>Julia 說 Would you excuse me for a moment? 是禮貌詢問「可以讓我離開一下嗎？」因為媽媽打電話來，May 應直接表示同意。<br>(A) Certainly.：當然可以，最自然。<br>(B) Not at all.：常回應道歉或感謝，此處容易造成意思不清。<br>(C) What's the matter?：怎麼了，但 Julia 已說明原因。<br>(D) All right.：也可表示好，但面對正式禮貌請求，Certainly 更完整得體。<br>所以 May 是允許 Julia 暫離去接電話。"}),
+      q(2, "C2", ["篇章指涉"], "題組", "綜合測驗", "D", "Choose the best answer for blank 2.", {A:"Shall we continue our discussion?",B:"What are you going to say?",C:"What did you say?",D:"Where were we?"}, {group:"G1",explain:"<b>解題關鍵：</b>電話讓談話中斷二十分鐘，Julia 回來先道歉，May 下一句立刻重述「剛才談到出去看表演」，表示 Julia 在問先前進度。<br>(A) Shall we continue...?：要繼續嗎？後文不是回答 yes/no。<br>(B) What are you going to say?：你要說什麼？時間指向未來，不合。<br>(C) What did you say?：你剛說什麼？通常是沒聽清楚一句話。<br>(D) Where were we?：我們剛談到哪裡？最符合長時間中斷後接回話題。<br>May 的回答正是在幫 Julia 找回談話位置。"}),
+      q(3, "C2", ["邏輯關係"], "題組", "綜合測驗", "A", "Choose the best answer for blank 3.", {A:"but I'm afraid",B:"so I think",C:"unless it seems",D:"as you know"}, {group:"G1",explain:"<b>解題關鍵：</b>前半說兩人原本討論出去看表演，後半卻說 might have to do it some other time（可能得改天），計畫與結果方向相反，還帶有遺憾語氣。<br>(A) but I'm afraid：但是恐怕，既表轉折也表遺憾，正確。<br>(B) so I think：所以我想，會變成因果，但前後不是順向結果。<br>(C) unless it seems：除非看起來，句型與意思都不完整。<br>(D) as you know：如你所知，不能連接取消計畫的反差。<br>整句是：本來談看表演，但恐怕得改天。"}),
+      q(4, "C2", ["語境選詞"], "題組", "綜合測驗", "D", "Choose the best answer for blank 4.", {A:"Do you speak English?",B:"Are you a worker, too?",C:"How do you like it?",D:"How about you?"}, {group:"G2",explain:"<b>解題關鍵：</b>John 問 Bill 在哪裡工作，Bill 回答從事外貿；下一句 John 說自己是英文老師，表示 Bill 把同一個職業問題問回去。<br>(A) Do you speak English?：問語言能力，不能引出職業回答。<br>(B) Are you a worker, too?：是否也是工人，範圍太特定。<br>(C) How do you like it?：覺得外貿工作如何，應由 Bill 回答感受。<br>(D) How about you?：那你呢？可把原問題反問 John。<br>因此 John 才接著說自己的職業。"}),
+      q(5, "C2", ["語境選詞"], "題組", "綜合測驗", "C", "Choose the best answer for blank 5.", {A:"Do you know each other?",B:"Where have you been?",C:"What do you do?",D:"How are you?"}, {group:"G2",explain:"<b>解題關鍵：</b>整段都在交換職業資訊，Sue 回答 I'm a flight attendant，空格必須是詢問「你做什麼工作？」<br>(A) Do you know each other?：問彼此是否認識，不能用職業回答。<br>(B) Where have you been?：問去過哪裡，應回答地點。<br>(C) What do you do?：日常會話中詢問職業，正確。<br>(D) How are you?：問近況，應回答 fine 等。<br>注意 What do you do? 不是問「你現在正在做什麼」，在社交場合常是問職業。"}),
+      q(6, "C2", ["語境選詞"], "題組", "綜合測驗", "D", "Choose the best answer for blank 6.", {A:"Hold on. I'll connect you.",B:"Sure. Wait a moment, please.",C:"I'm sorry, he's not come yet.",D:"I'm sorry, he's out at this moment."}, {group:"G3",explain:"<b>解題關鍵：</b>Maria 要找 Eric，Jane 回答後，Maria 說 I see 並問「你預計他何時回來？」可見 Eric 此刻不在。<br>(A) 請稍候，我幫你接：表示 Eric 可接電話，與問何時回來矛盾。<br>(B) 當然，請等一下：同樣表示人就在附近。<br>(C) he's not come yet：文法不自然，應說 hasn't come；也未清楚表達外出。<br>(D) 他現在外出了：直接解釋為何不能接電話，也能銜接回來時間。<br>所以選 D。"}),
+      q(7, "C2", ["語境選詞"], "題組", "綜合測驗", "C", "Choose the best answer for blank 7.", {A:"I'm not sure. May I leave a message?",B:"Any moment. Do you want to talk to him?",C:"I'm not sure. Can I take a message?",D:"I'm sorry, his line is busy."}, {group:"G3",explain:"<b>解題關鍵：</b>Maria 問 Eric 何時回來；她下一句 Yes. Just tell him... 是答應讓 Jane 留話，因此空格後半必須是 Jane 問「要我代為留言嗎？」<br>(A) May I leave a message?：是打電話的人要留言，角色顛倒。<br>(B) 隨時會回來；你想和他談嗎？Maria 本來就已說要找他，問題多餘。<br>(C) 我不確定；可以幫你留言嗎？語意及角色都正確。<br>(D) 線路忙：前文已知 Eric 外出，不是占線。<br>所以選 C。"}),
+      q(8, "C2", ["語境選詞"], "題組", "綜合測驗", "B", "Choose the best answer for blank 8.", {A:"That's all right.",B:"Moskovik, M-O-S-K-O-V-I-K.",C:"It's an unusual name.",D:"Don't worry. Eric and I are old friends."}, {group:"G3",explain:"<b>解題關鍵：</b>Jane 說 didn't catch your last name，意思是沒聽清楚 Maria 的姓；為確保留言正確，Maria 應重說並逐字母拼出來。<br>(A) That's all right.：沒關係，卻沒有提供姓氏。<br>(B) Moskovik 加上拼字：直接解決聽不清楚的問題，正確。<br>(C) 那是個不尋常的姓：只是評論，Jane 仍不知道拼法。<br>(D) 我和 Eric 是老朋友：也不能補足留言者姓名。<br>電話中遇到姓名不清楚，最實用的回應就是重複並拼字。"}),
+      q(9, "C2", ["語境選詞"], "題組", "綜合測驗", "A", "Choose the best answer for blank 9.", {A:"Don't worry. All we have to do is ask.",B:"What should we see next?",C:"I'm scared. Let's go home.",D:"Yes, we just lost a tire."}, {group:"G4",explain:"<b>解題關鍵：</b>Tom 說迷路，Jack 回答後，Tom 緊接著問「在陌生城鎮要問誰？」所以 Jack 前一句一定先建議向人問路。<br>(A) 別擔心，我們只要開口問：可直接引出 ask who，正確。<br>(B) 下一個景點看什麼？沒有處理迷路。<br>(C) 我害怕，回家吧：若要回家，不會繼續討論問誰。<br>(D) 我們只是爆胎：把 lost 誤解成遺失輪胎，也與情境不符。<br>所以 Jack 是安慰 Tom 並提出問路方法。"}),
+      q(10, "C2", ["語境選詞"], "題組", "綜合測驗", "B", "Choose the best answer for blank 10.", {A:"Who knows!",B:"You ask a policeman.",C:"There is a police station there.",D:"I don't see any police station."}, {group:"G4",explain:"<b>解題關鍵：</b>Tom 問 Who do you ask? 需要回答一種人；接著又問 Where can we find one?，one 代替前面提到的單數人物，Jack 並看見「一位」在那裡。<br>(A) 誰知道：沒有提供可問路的人。<br>(B) 問警察：回答 who，也讓 one 指 policeman，前後完整。<br>(C) 那裡有警察局：回答的是地點，而且後句再問哪裡會重複。<br>(D) 我沒看到警察局：和最後 See, there is one 相反。<br>因此選 B。"}),
 
-      q(11, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "I sometimes take John's coat for my own, because the two of them look so _____.", {A:"original",B:"cheerful",C:"curious",D:"similar"}, {explain:"兩件外套容易混淆，是因為看起來 similar「相似」。"}),
-      q(12, "C1", ["語境搭配"], "單題", "詞彙題", "A", "George at first had difficulty swimming across the pool, but he finally succeeded on his fourth _____.", {A:"attempt",B:"process",C:"instance",D:"display"}, {explain:"on his fourth attempt 表示在第四次嘗試時成功。"}),
-      q(13, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "Several motorists were _____ waiting for the light to change.", {A:"impossibly",B:"impracticably",C:"importantly",D:"impatiently"}, {explain:"駕駛「不耐煩地」等待紅綠燈；副詞 impatiently 修飾 waiting 的動作。"}),
-      q(14, "C1", ["語境搭配"], "單題", "詞彙題", "A", "Mary wrote a letter of _____ to the manufacturer after her new car broke down three times in the same week.", {A:"complaint",B:"repair",C:"depression",D:"madness"}, {explain:"letter of complaint 是「投訴信」的固定搭配。"}),
-      q(15, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "John's poor math score must have _____ him a lot, because he is not attending the class any more.", {A:"expelled",B:"discouraged",C:"impressed",D:"finished"}, {explain:"低分使 John discouraged「感到挫折」，所以不再上課。"}),
-      q(16, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "The issue of environmental protection has not received much attention until very _____.", {A:"seriously",B:"recently",C:"amazingly",D:"dangerously"}, {explain:"until very recently 表示直到最近才受到注意。"}),
-      q(17, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "The old man could _____ swallow because his throat was too dry.", {A:"actually",B:"strictly",C:"exactly",D:"hardly"}, {explain:"喉嚨太乾，所以幾乎無法吞嚥，選 hardly。"}),
-      q(18, "C1", ["語境搭配"], "單題", "詞彙題", "B", "We are more than willing to _____ our ties with those countries that are friendly to us.", {A:"appeal",B:"strengthen",C:"expect",D:"connect"}, {explain:"strengthen our ties 表示加強彼此關係。"}),
-      q(19, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "The artist is famous for his genius and great _____.", {A:"fragrance",B:"originality",C:"sculptor",D:"therapy"}, {explain:"藝術家以天分與 originality「原創性」聞名。"}),
-      q(20, "C1", ["詞義辨析"], "單題", "詞彙題", "C", "Although some things are _____, they nevertheless exist.", {A:"important",B:"intelligible",C:"invisible",D:"interesting"}, {explain:"雖然有些事物 invisible「看不見」，卻仍然存在。"}),
+      q(11, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "I sometimes take John's coat for my own, because the two of them look so _____.", {A:"original",B:"cheerful",C:"curious",D:"similar"}, {explain:"<b>解題關鍵：</b>take John's coat for my own 是「把 John 的外套誤認成我的」，會認錯是因兩件外套外觀看起來很相像。<br>(A) original：原創的、最初的，不能解釋混淆。<br>(B) cheerful：開朗的，通常形容人或氣氛，不形容外套相像。<br>(C) curious：好奇的或奇特的，也不是兩物比較。<br>(D) similar：相似的；look similar 表示看起來相像，正確。<br>整句是：我有時會拿錯外套，因兩件看起來非常相似。"}),
+      q(12, "C1", ["語境搭配"], "單題", "詞彙題", "A", "George at first had difficulty swimming across the pool, but he finally succeeded on his fourth _____.", {A:"attempt",B:"process",C:"instance",D:"display"}, {explain:"<b>解題關鍵：</b>at first had difficulty 與 finally succeeded 顯示 George 前幾次沒成功，到第四次才游過泳池；需要可計數的「嘗試」。<br>(A) attempt：嘗試；on his fourth attempt 是「在第四次嘗試時」。<br>(B) process：過程，通常不是一試、二試地計算。<br>(C) instance：例子、情況，fourth instance 不能自然表示第四次挑戰。<br>(D) display：展示，和游泳成功無關。<br>整句是：他起初很困難，但第四次嘗試終於成功。"}),
+      q(13, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "Several motorists were _____ waiting for the light to change.", {A:"impossibly",B:"impracticably",C:"importantly",D:"impatiently"}, {explain:"<b>解題關鍵：</b>空格修飾 waiting，要用副詞描述駕駛等紅綠燈時的樣子；等待交通號誌常讓人不耐煩。<br>(A) impossibly：不可能地，不能描述等待態度。<br>(B) impracticably：不切實際地，通常形容方法不可行。<br>(C) importantly：重要地或自以為重要地，語境沒有地位線索。<br>(D) impatiently：不耐煩地，符合等燈改變的情境。<br>整句是：幾名駕駛不耐煩地等著號誌變換。"}),
+      q(14, "C1", ["語境搭配"], "單題", "詞彙題", "A", "Mary wrote a letter of _____ to the manufacturer after her new car broke down three times in the same week.", {A:"complaint",B:"repair",C:"depression",D:"madness"}, {explain:"<b>解題關鍵：</b>新車一週故障三次，Mary 寫信給製造商，目的應是反映問題、表達不滿；固定搭配 a letter of complaint 是投訴信。<br>(A) complaint：抱怨、申訴，最符合。<br>(B) repair：修理，通常說 request for repair，不說 letter of repair。<br>(C) depression：憂鬱、低潮，不是寫給廠商的信件類型。<br>(D) madness：瘋狂，也不能表示正式申訴。<br>整句是：Mary 因新車連續故障而寫信向製造商投訴。"}),
+      q(15, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "John's poor math score must have _____ him a lot, because he is not attending the class any more.", {A:"expelled",B:"discouraged",C:"impressed",D:"finished"}, {explain:"<b>解題關鍵：</b>because 後說 John 已不再上課，表示低分打擊他的信心，使他失去繼續學習的動力。<br>(A) expelled：開除，通常是學校把學生開除；成績本身不會執行此動作。<br>(B) discouraged：使氣餒、使灰心，能解釋他停課。<br>(C) impressed：使印象深刻，偏中性或正面，沒有退出的因果。<br>(D) finished：完成或結束，不能自然說分數 finished him。<br>整句是：低分一定讓他很灰心。"}),
+      q(16, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "The issue of environmental protection has not received much attention until very _____.", {A:"seriously",B:"recently",C:"amazingly",D:"dangerously"}, {explain:"<b>解題關鍵：</b>現在完成式 has not received 搭配 until，表示從過去到某個最近時間點以前都沒受到太多關注；固定時間語是 until very recently。<br>(A) seriously：認真地，very seriously 可修飾動作，但放在 until 後不能當時間。<br>(B) recently：最近，until very recently 結構完整。<br>(C) amazingly：令人驚訝地，不是時間。<br>(D) dangerously：危險地，也不能回答「直到何時」。<br>整句是：環保議題直到最近才得到較多關注。"}),
+      q(17, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "The old man could _____ swallow because his throat was too dry.", {A:"actually",B:"strictly",C:"exactly",D:"hardly"}, {explain:"<b>解題關鍵：</b>because 說明喉嚨太乾，造成吞嚥很困難，所以空格要表「幾乎不能」；could hardly + 原形動詞正是這個意思。<br>(A) actually：實際上，會變成「其實能吞」，與原因不合。<br>(B) strictly：嚴格地，不能形容吞嚥程度。<br>(C) exactly：精確地，也與喉嚨乾無關。<br>(D) hardly：幾乎不；could hardly swallow 表示幾乎吞不下去。<br>注意 hardly 本身已有否定意味，不需再加 not。"}),
+      q(18, "C1", ["語境搭配"], "單題", "詞彙題", "B", "We are more than willing to _____ our ties with those countries that are friendly to us.", {A:"appeal",B:"strengthen",C:"expect",D:"connect"}, {explain:"<b>解題關鍵：</b>對友善國家，我們非常願意讓彼此 ties（關係、連結）更穩固；英文固定說 strengthen ties with。<br>(A) appeal：吸引或上訴，通常 appeal to someone，不能直接接 ties。<br>(B) strengthen：加強；strengthen our ties 表示鞏固關係。<br>(C) expect：期待，受詞應是事情或人，不是讓關係變強。<br>(D) connect：連接，通常 connect A with/to B；原句已用 ties 表現連結，且搭配不完整。<br>整句是：我們很願意加強和友好國家的關係。"}),
+      q(19, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "The artist is famous for his genius and great _____.", {A:"fragrance",B:"originality",C:"sculptor",D:"therapy"}, {explain:"<b>解題關鍵：</b>and 連接 genius（天分）和另一項藝術家的優點；great 後要名詞，最合理是能創作新作品的原創性。<br>(A) fragrance：香氣，除非談香水作品，否則不會是藝術家以此聞名。<br>(B) originality：原創性、創意，和 genius 同為正面能力。<br>(C) sculptor：雕刻家，指人，不能說 his great sculptor。<br>(D) therapy：治療，與藝術才華無關。<br>整句是：這位藝術家以天分與高度原創性聞名。"}),
+      q(20, "C1", ["詞義辨析"], "單題", "詞彙題", "C", "Although some things are _____, they nevertheless exist.", {A:"important",B:"intelligible",C:"invisible",D:"interesting"}, {explain:"<b>解題關鍵：</b>Although 與 nevertheless 都表轉折：雖然有些東西＿＿，它們仍然存在。能和「存在」形成合理反差的是「看不見」。<br>(A) important：重要的；重要且存在並不矛盾。<br>(B) intelligible：可理解的；可理解也不妨礙存在。<br>(C) invisible：看不見的；人看不到仍可能存在，反差完整。<br>(D) interesting：有趣的，與是否存在無關。<br>整句是：有些事物雖然肉眼看不見，卻仍真實存在。"}),
 
-      q(21, "C2", ["邏輯關係"], "題組", "綜合測驗", "C", "Choose the best answer for blank 21.", {A:"For example",B:"Afterwards",C:"For one thing",D:"On the whole"}, {group:"G5",explain:"下文先列社會慶典，再以 Secondly 列第二點，故先用 For one thing。"}),
-      q(22, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 22.", {A:"so as",B:"such as",C:"as such",D:"such that"}, {group:"G5",explain:"such as 用來列舉 weddings、promotions 等慶典。"}),
-      q(23, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 23.", {A:"simply",B:"clumsily",C:"closely",D:"carefully"}, {group:"G5",explain:"be closely linked with 表示與飲酒密切相連。"}),
-      q(24, "C2", ["語境選詞"], "題組", "綜合測驗", "A", "Choose the best answer for blank 24.", {A:"Few",B:"Little",C:"Small",D:"Many"}, {group:"G5",explain:"children 是可數複數，且語意為很少有孩子看不到成人飲酒，選 Few。"}),
-      q(25, "C2", ["語境搭配"], "題組", "綜合測驗", "D", "Choose the best answer for blank 25.", {A:"drink",B:"to drink",C:"drinking",D:"drunk"}, {group:"G5",explain:"get drunk 表示喝醉。"}),
-      q(26, "C2", ["語境搭配"], "題組", "綜合測驗", "A", "Choose the best answer for blank 26.", {A:"almost",B:"mostly",C:"altogether",D:"hardly"}, {group:"G5",explain:"almost every soap opera 表示幾乎每一齣肥皂劇。"}),
-      q(27, "C2", ["篇章指涉"], "題組", "綜合測驗", "C", "Choose the best answer for blank 27.", {A:"Stories",B:"Drinks",C:"Characters",D:"Messages"}, {group:"G5",explain:"會坐在酒吧、夜店中的應是影片裡的 characters。"}),
-      q(28, "C2", ["轉承語"], "題組", "綜合測驗", "D", "Choose the best answer for blank 28.", {A:"furthermore",B:"consequently",C:"moreover",D:"however"}, {group:"G5",explain:"此處轉而指出最強的鼓勵來自廣告商，用 however。"}),
-      q(29, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 29.", {A:"attentive",B:"attributive",C:"attractive",D:"accustomed"}, {group:"G5",explain:"廣告展示對年輕人 attractive「有吸引力的」情境。"}),
-      q(30, "C2", ["邏輯關係"], "題組", "綜合測驗", "B", "Choose the best answer for blank 30.", {A:"where",B:"while",C:"what",D:"why"}, {group:"G5",explain:"while 引導同時發生的情境：人們從事活動時舉杯。"}),
+      q(21, "C2", ["邏輯關係"], "題組", "綜合測驗", "C", "Choose the best answer for blank 21.", {A:"For example",B:"Afterwards",C:"For one thing",D:"On the whole"}, {group:"G5",explain:"<b>解題關鍵：</b>主題句說美國社會鼓勵年輕人喝酒，接著先談慶典，後面明寫 Secondly 再談電視，因此此處要標示「第一個理由」。<br>(A) For example：例如，但此句是在開始第一大類原因，不只是單一例子。<br>(B) Afterwards：之後，表示時間先後。<br>(C) For one thing：首先、一方面，可和 Secondly 配對，正確。<br>(D) On the whole：整體而言，通常用來總結。<br>篇章結構是第一點社會慶典、第二點電視、之後廣告。"}),
+      q(22, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 22.", {A:"so as",B:"such as",C:"as such",D:"such that"}, {group:"G5",explain:"<b>解題關鍵：</b>前面是 personal celebrations，後面列 weddings、promotions、graduations、anniversaries 四個具體例子，需要「例如」。<br>(A) so as：為了，通常接 to + 動詞。<br>(B) such as：例如，後接名詞列舉，正確。<br>(C) as such：就其本身、因此，不能放在名詞與例子中間。<br>(D) such that：如此以致於，後面通常接完整子句。<br>整句是：我們的個人慶典，例如婚禮、升遷、畢業與週年紀念，都和飲酒密切相關。"}),
+      q(23, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 23.", {A:"simply",B:"clumsily",C:"closely",D:"carefully"}, {group:"G5",explain:"<b>解題關鍵：</b>文章主張社會把飲酒放進各種慶祝中，所以婚禮、畢業等和飲酒之間的關係很密切；固定搭配 be closely linked with。<br>(A) simply：簡單地、只是，不能表關聯程度。<br>(B) clumsily：笨拙地，通常形容人的動作。<br>(C) closely：緊密地；closely linked 表示密切相連，正確。<br>(D) carefully：小心地，不會說慶典被小心地連結。<br>整句是：個人慶典與飲酒密切相連。"}),
+      q(24, "C2", ["語境選詞"], "題組", "綜合測驗", "A", "Choose the best answer for blank 24.", {A:"Few",B:"Little",C:"Small",D:"Many"}, {group:"G5",explain:"<b>解題關鍵：</b>作者要說家庭聚會中成人喝酒很常見，因此「很少有孩子」能參加聚會卻完全沒看到成人喝酒。children 是可數複數。<br>(A) Few：很少的，修飾可數複數，符合。<br>(B) Little：很少的，修飾不可數名詞，不能接 children。<br>(C) Small：小的，可形容孩子體型，但不能表示數量少。<br>(D) Many：許多，會變成很多孩子看不到成人喝酒，削弱作者主張。<br>所以用 Few 表示幾乎每個孩子都看得到。"}),
+      q(25, "C2", ["語境搭配"], "題組", "綜合測驗", "D", "Choose the best answer for blank 25.", {A:"drink",B:"to drink",C:"drinking",D:"drunk"}, {group:"G5",explain:"<b>解題關鍵：</b>新年前夕被描述為整晚都在鼓吹 everyone must get ___，get 後接形容詞表示「變成某狀態」；飲酒後的狀態是 drunk。<br>(A) drink：動詞原形，get drink 結構錯誤。<br>(B) to drink：get to drink 可表示有機會喝，但原句已有 must，且不符合「整夜飲酒文化」的強烈語氣。<br>(C) drinking：get drinking 可口語表示開始喝，但此處固定語是 get drunk。<br>(D) drunk：喝醉的；get drunk 正確。<br>整句是：跨年夜彷彿人人都必須喝醉。"}),
+      q(26, "C2", ["語境搭配"], "題組", "綜合測驗", "A", "Choose the best answer for blank 26.", {A:"almost",B:"mostly",C:"altogether",D:"hardly"}, {group:"G5",explain:"<b>解題關鍵：</b>空格後是 every soap opera，英文用 almost every + 單數名詞表示「幾乎每一個」；作者要強調電視飲酒畫面非常普遍。<br>(A) almost：幾乎；almost every soap opera 正確。<br>(B) mostly：大多地，通常不能直接放在 every 前。<br>(C) altogether：總共、完全地，altogether every 不成搭配。<br>(D) hardly：幾乎不，hardly every 也不自然，且和常看到喝酒相反。<br>整句是：幾乎每齣肥皂劇中的角色都常隨意喝酒。"}),
+      q(27, "C2", ["篇章指涉"], "題組", "綜合測驗", "C", "Choose the best answer for blank 27.", {A:"Stories",B:"Drinks",C:"Characters",D:"Messages"}, {group:"G5",explain:"<b>解題關鍵：</b>前句說 rock videos 也呈現酒精，後句空格作主詞，動作是 sit in bars, nightclubs, and roadhouses；能坐在這些場所的是影片中的人物。<br>(A) Stories：故事本身不能坐下。<br>(B) Drinks：飲料可放在酒吧，卻不能主動 sit。<br>(C) Characters：角色、人物，可在影片畫面中坐在酒吧，正確。<br>(D) Messages：訊息不能執行坐的動作。<br>判斷時看動詞 sit 需要「人」作主詞，因此選 C。"}),
+      q(28, "C2", ["轉承語"], "題組", "綜合測驗", "D", "Choose the best answer for blank 28.", {A:"furthermore",B:"consequently",C:"moreover",D:"however"}, {group:"G5",explain:"<b>解題關鍵：</b>前面已列社會慶典和電視，這句改變語氣，指出「最強的」鼓勵其實來自廣告商；插入語前後有逗號，需要表轉折的副詞。<br>(A) furthermore：而且，僅補充同方向資訊，無「其實最強」的轉向。<br>(B) consequently：因此，廣告不是前文造成的結果。<br>(C) moreover：此外，也只是補充。<br>(D) however：然而，凸顯廣告比前述來源更強，正確。<br>文章由一般來源轉向最重要來源。"}),
+      q(29, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 29.", {A:"attentive",B:"attributive",C:"attractive",D:"accustomed"}, {group:"G5",explain:"<b>解題關鍵：</b>後文列滑雪小屋、航海、跳舞、足球賽等愉快畫面，廣告把喝酒放進年輕人覺得有吸引力的情境，藉此鼓勵飲酒。<br>(A) attentive：專心的，通常形容人，不形容情境吸引人。<br>(B) attributive：定語的，是文法術語。<br>(C) attractive：有吸引力的；be attractive to the young 搭配正確。<br>(D) accustomed：習慣的，通常是人 be accustomed to 事物，方向相反。<br>整句是：酒類廣告呈現吸引年輕人的情境。"}),
+      q(30, "C2", ["邏輯關係"], "題組", "綜合測驗", "B", "Choose the best answer for blank 30.", {A:"where",B:"while",C:"what",D:"why"}, {group:"G5",explain:"<b>解題關鍵：</b>主句 People hoist their glasses 是舉杯，後面 they are sitting...sailing, dancing... 描述同一時間正在進行的活動，需要「當……時」。<br>(A) where：在……的地方，但後面列的是多個動作，不是一個地點子句。<br>(B) while：當……同時，能連接舉杯與正在從事活動，正確。<br>(C) what：什麼，不能連接兩個完整子句。<br>(D) why：為什麼，後文不是原因解釋。<br>整句是：人們在滑雪小屋、航海、跳舞或看球時舉杯。"}),
 
-      q(31, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 31.", {A:"far from",B:"by far",C:"a bit far",D:"as far"}, {group:"G6",explain:"by far 用來強調最高級；by far the most popular 意為「遠遠是最受歡迎的」。"}),
-      q(32, "C2", ["邏輯關係"], "題組", "綜合測驗", "D", "Choose the best answer for blank 32.", {A:"also",B:"but",C:"for",D:"or"}, {group:"G6",explain:"rafting 與 swimming 是可選擇的兩種水上活動，用 or。"}),
-      q(33, "C2", ["轉承語"], "題組", "綜合測驗", "A", "Choose the best answer for blank 33.", {A:"In addition",B:"In due time",C:"For instance",D:"By and large"}, {group:"G6",explain:"接續補充露營地資訊，用 In addition。"}),
-      q(34, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 34.", {A:"About",B:"For",C:"With",D:"In"}, {group:"G6",explain:"For those who prefer... 表示對偏好住城裡的人而言。"}),
-      q(35, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 35.", {A:"the",B:"this",C:"a",D:"that"}, {group:"G6",explain:"a number of 表示許多。"}),
-      q(36, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 36.", {A:"to make",B:"make",C:"made",D:"making"}, {group:"G6",explain:"items made from... 是過去分詞片語修飾 items。"}),
-      q(37, "C2", ["語境選詞"], "題組", "綜合測驗", "A", "Choose the best answer for blank 37.", {A:"activity",B:"advice",C:"proposal",D:"sport"}, {group:"G6",explain:"在露天市場購物是另一項有趣的 activity。"}),
-      q(38, "C2", ["轉承語"], "題組", "綜合測驗", "D", "Choose the best answer for blank 38.", {A:"fairly",B:"happily",C:"gorgeously",D:"finally"}, {group:"G6",explain:"finally 引出最後一項旅遊資訊：用餐地點。"}),
-      q(39, "C2", ["語境搭配"], "題組", "綜合測驗", "A", "Choose the best answer for blank 39.", {A:"As",B:"Since",C:"Until",D:"Then"}, {group:"G6",explain:"As you can see 表示「如你所見」。"}),
-      q(40, "C2", ["邏輯關係"], "題組", "綜合測驗", "C", "Choose the best answer for blank 40.", {A:"Where",B:"What",C:"If",D:"That"}, {group:"G6",explain:"If 引導條件：若想給家人美好假期，就造訪此鎮。"}),
+      q(31, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 31.", {A:"far from",B:"by far",C:"a bit far",D:"as far"}, {group:"G6",explain:"<b>解題關鍵：</b>空格後直接接最高級 the most popular，要用能加強最高級程度的片語 by far，表示水上運動明顯最受歡迎。<br>(A) far from：遠非、離……很遠，far from the most popular 會變成「遠遠不是最受歡迎」，與後文大量水上活動相反。<br>(B) by far：遠遠、明顯地，常修飾最高級，正確。<br>(C) a bit far：有點遠，談距離。<br>(D) as far：和……一樣遠，結構未完成。<br>整句是：水上運動遠遠是最熱門的景點活動。"}),
+      q(32, "C2", ["邏輯關係"], "題組", "綜合測驗", "D", "Choose the best answer for blank 32.", {A:"also",B:"but",C:"for",D:"or"}, {group:"G6",explain:"<b>解題關鍵：</b>句型 Visitors can go rafting... ___ swimming... 列出遊客可以選的兩種水上活動：在 Rogue River 泛舟，或在 Applegate River 游泳。<br>(A) also：也，通常需改成 can also go swimming，不能直接連接目前結構。<br>(B) but：但是，兩項都是正面活動，沒有轉折。<br>(C) for：因為或為了，不能並列選項。<br>(D) or：或者，連接兩種可選活動，正確。<br>整句是：遊客可以去泛舟，或到另一條河游泳。"}),
+      q(33, "C2", ["轉承語"], "題組", "綜合測驗", "A", "Choose the best answer for blank 33.", {A:"In addition",B:"In due time",C:"For instance",D:"By and large"}, {group:"G6",explain:"<b>解題關鍵：</b>前文列泛舟、游泳、釣魚、採莓果，這句再補充乾淨漂亮的露營地，是新增另一項旅遊資源。<br>(A) In addition：此外，用來補充新資訊，正確。<br>(B) In due time：到適當時候，表示時間，文章未談先後。<br>(C) For instance：例如，但露營地不是上一句採野莓的例子。<br>(D) By and large：大致上、整體而言，通常用於總結。<br>所以作者是在活動清單之外，再加入住宿露營選項。"}),
+      q(34, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 34.", {A:"About",B:"For",C:"With",D:"In"}, {group:"G6",explain:"<b>解題關鍵：</b>前一句介紹露營地，這句轉向「偏好住在城裡的人」，說城內有好旅館；英文用 For those who... 表示「對那些……的人而言」。<br>(A) About：關於，不能表示旅館提供給某群人。<br>(B) For：對、給；For those who prefer... 結構完整。<br>(C) With：和……一起，後面會缺少主要關係。<br>(D) In：在……裡，不能接 those 表示對象。<br>整句是：對偏好住在市區的人，Grants Pass 提供數家好旅館。"}),
+      q(35, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 35.", {A:"the",B:"this",C:"a",D:"that"}, {group:"G6",explain:"<b>解題關鍵：</b>空格與 number of 組成數量片語，後面是複數 shops；a number of 表示「許多」，正好說市區有多家有趣商店。<br>(A) the：the number of 是「……的數量」，後面動詞通常視為單數，文意重點會變成數字本身。<br>(B) this：this number of 需有前文特定數量，這裡沒有。<br>(C) a：a number of + 複數名詞，表示許多，正確。<br>(D) that：that number of 也需指前面特定數量。<br>整句是：遊客可逛許多有趣商店。"}),
+      q(36, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 36.", {A:"to make",B:"make",C:"made",D:"making"}, {group:"G6",explain:"<b>解題關鍵：</b>items 與 make 的關係是「物品由桃金孃木製成」，物品是被製造的；用過去分詞 made from... 縮短被動關係子句 which are made from。<br>(A) to make：為了製作，會變成物品自己要製作別物。<br>(B) make：原形動詞，前面已有 sells，不能再直接放主要動詞。<br>(C) made：被製成的，修飾 items，正確。<br>(D) making：主動製作，items 不能主動製造。<br>整句是：商店販售由奧勒岡美麗桃金孃木製成的物品。"}),
+      q(37, "C2", ["語境選詞"], "題組", "綜合測驗", "A", "Choose the best answer for blank 37.", {A:"activity",B:"advice",C:"proposal",D:"sport"}, {group:"G6",explain:"<b>解題關鍵：</b>空格後用 is shopping，表示「另一項有趣的＿＿就是逛露天市場」；購物是旅遊時可以從事的活動。<br>(A) activity：活動，可包含購物，正確。<br>(B) advice：建議，shopping 是行為，不是一則建議。<br>(C) proposal：提案，文章沒有提出正式計畫。<br>(D) sport：運動，逛市場通常不算運動項目。<br>前文一路列舉泛舟、釣魚、採莓、逛商店等可做的事，因此用概括性的 activity。"}),
+      q(38, "C2", ["轉承語"], "題組", "綜合測驗", "D", "Choose the best answer for blank 38.", {A:"fairly",B:"happily",C:"gorgeously",D:"finally"}, {group:"G6",explain:"<b>解題關鍵：</b>本段依序列水上活動、釣魚、採莓、住宿、購物，這句最後補上餐廳，接著下一段就總結，因此需要表示清單最後一項的轉承語。<br>(A) fairly：相當地或公平地，不能安排篇章順序。<br>(B) happily：快樂地，無法修飾整個資訊段落。<br>(C) gorgeously：華麗地，雖後面有美景，仍不合句首功能。<br>(D) finally：最後，引出最後一項用餐資訊，正確。<br>所以作者最後介紹當地各種飲食選擇。"}),
+      q(39, "C2", ["語境搭配"], "題組", "綜合測驗", "A", "Choose the best answer for blank 39.", {A:"As",B:"Since",C:"Until",D:"Then"}, {group:"G6",explain:"<b>解題關鍵：</b>前一整段已列出許多活動，這句總結「正如你從上述內容可以看見，Grants Pass 夏天有很多事可做」；固定說法 As you can see。<br>(A) As：正如；As you can see 是常用總結語，正確。<br>(B) Since：因為或自從，Since you can see 會變成因果，語氣不同。<br>(C) Until：直到，無時間終點。<br>(D) Then：然後，不能直接接完整子句 you can see 形成此意思。<br>這句用來把前面的例子收束成結論。"}),
+      q(40, "C2", ["邏輯關係"], "題組", "綜合測驗", "C", "Choose the best answer for blank 40.", {A:"Where",B:"What",C:"If",D:"That"}, {group:"G6",explain:"<b>解題關鍵：</b>後半是祈使句 try visiting this charming town，前半提出採取此建議的條件：「如果你想給家人健康美好的假期」。<br>(A) Where：哪裡，不能引導這個條件。<br>(B) What：什麼，後面已有完整主詞 you 和動詞 want。<br>(C) If：如果；If 條件句加祈使句，是自然建議句型。<br>(D) That：那、引導名詞子句，不能直接形成條件。<br>整句是：如果想給家人一個美好健康的假期，就試著造訪這座迷人小鎮。"}),
 
-      q(41, "C4", ["語境推義"], "題組", "閱讀測驗", "C", "The preceding passage refers to the word 'hacking' in the context of", {A:"climbing Mount Everest.",B:"a game for young individuals.",C:"breaking into computer codes.",D:"physically dismantling a solid object."}, {group:"G7",explain:"首句直接將 hacking 解釋為 breaking into computer codes。"}),
-      q(42, "C4", ["細節檢索"], "題組", "閱讀測驗", "B", "According to the passage, breaking into computer codes of banks, large companies, and government departments is", {A:"a widespread criminal practice.",B:"a game for computer literate individuals.",C:"being studied by the Mafia for fun.",D:"soon to replace coding bank safes."}, {group:"G7",explain:"文章稱這是聰明青少年的最新遊戲，且需熟悉電腦。"}),
-      q(43, "C4", ["細節檢索"], "題組", "閱讀測驗", "D", "Based on the passage, in order to break into computer codes, one needs", {A:"an elaborate and expensive multi-media computer.",B:"a group of computer science students.",C:"the help and financial support from the Mafia.",D:"a thorough understanding of a variety of computers."}, {group:"G7",explain:"駭客指出不需昂貴電腦，但必須了解各種電腦。"}),
-      q(44, "C4", ["細節檢索"], "題組", "閱讀測驗", "A", "For the five highway deaths, the author blames", {A:"a large heavy station wagon.",B:"the lack of more smaller vehicles.",C:"the woman's ill-timed heart attack.",D:"a weak highway-dividing fence."}, {group:"G8",explain:"作者將死亡部分歸因於女子選擇大型汽車。"}),
+      q(41, "C4", ["語境推義"], "題組", "閱讀測驗", "C", "The preceding passage refers to the word 'hacking' in the context of", {A:"climbing Mount Everest.",B:"a game for young individuals.",C:"breaking into computer codes.",D:"physically dismantling a solid object."}, {group:"G7",explain:"<b>解題關鍵：</b>定位第一段首句：Breaking into the computer codes (known as 'hacking')，括號直接把 hacking 定義為闖入電腦程式碼或系統。<br>(A) 攀登聖母峰：駭客只是用它比喻智力挑戰，不是 hacking 本身。<br>(B) 年輕人的遊戲：文章說它目前像遊戲，這是性質，不是字義。<br>(C) 闖入電腦程式碼：和括號定義完全一致。<br>(D) 實際拆解固體：hack 雖可有劈砍意思，但本文明確是電腦語境。<br>所以應依文章內的直接定義選 C。"}),
+      q(42, "C4", ["細節檢索"], "題組", "閱讀測驗", "B", "According to the passage, breaking into computer codes of banks, large companies, and government departments is", {A:"a widespread criminal practice.",B:"a game for computer literate individuals.",C:"being studied by the Mafia for fun.",D:"soon to replace coding bank safes."}, {group:"G7",explain:"<b>解題關鍵：</b>第一段稱 hacking 是 super-intelligent teenagers 的 latest game，並說必須了解各種電腦；第二段也說 at the moment most...are just fun。<br>(A) 普遍犯罪行為：文章擔心未來犯罪集團利用，但目前多數仍是遊戲。<br>(B) 熟悉電腦者的遊戲：符合聰明青少年與電腦知識兩項線索。<br>(C) 黑手黨為娛樂研究：作者只是假設未來可能用於犯罪。<br>(D) 很快取代銀行保險箱編碼：原文說未來搶匪可能靠破解程式，不是取代保險箱。<br>所以選 B。"}),
+      q(43, "C4", ["細節檢索"], "題組", "閱讀測驗", "D", "Based on the passage, in order to break into computer codes, one needs", {A:"an elaborate and expensive multi-media computer.",B:"a group of computer science students.",C:"the help and financial support from the Mafia.",D:"a thorough understanding of a variety of computers."}, {group:"G7",explain:"<b>解題關鍵：</b>定位第一段駭客的話：You don't even need a very expensive computer—but you must understand everything about all kinds of computers。重點是不需昂貴設備，但要有廣泛深入知識。<br>(A) 昂貴多媒體電腦：與 don't need expensive computer 相反。<br>(B) 一群資工學生：文章說一個有能力的人即可，未提團隊。<br>(C) 黑手黨支援：只是假想犯罪風險。<br>(D) 徹底了解各類電腦：直接對應 must understand everything...，正確。<br>所以必要條件是知識，不是昂貴硬體。"}),
+      q(44, "C4", ["細節檢索"], "題組", "閱讀測驗", "A", "For the five highway deaths, the author blames", {A:"a large heavy station wagon.",B:"the lack of more smaller vehicles.",C:"the woman's ill-timed heart attack.",D:"a weak highway-dividing fence."}, {group:"G8",explain:"<b>解題關鍵：</b>文章明說 Those unnecessary deaths are attributable in part to the woman's choice of a large automobile，並解釋小而輕的車可能穿不過分隔欄，剩餘能量也較少。<br>(A) 大而重的旅行車：正是作者歸因的對象。<br>(B) 缺乏更多小車：文章比較大小車，未責怪道路上小車數量。<br>(C) 心臟病發作時機：它引發失控，但作者論點特別針對大型車放大傷害。<br>(D) 分隔欄太弱：作者沒有批評欄杆品質。<br>依作者明寫的 attributable 選 A。"}),
       {
-        ...q(45, "C4", ["主旨判讀"], "題組", "閱讀測驗", "B", "What is the author's main point in the passage above?", {A:"Large cars should be banned by the government.",B:"Large cars are less safe and less economical than small cars.",C:"Small cars are safer for the occupants than large cars.",D:"A woman's heart attack caused the death of five people."}, {group:"G8",explain:"正式參考答案明列 B 或 C；兩項皆掌握作者對大型車安全性問題的核心主張。"}),
+        ...q(45, "C4", ["主旨判讀"], "題組", "閱讀測驗", "B", "What is the author's main point in the passage above?", {A:"Large cars should be banned by the government.",B:"Large cars are less safe and less economical than small cars.",C:"Small cars are safer for the occupants than large cars.",D:"A woman's heart attack caused the death of five people."}, {group:"G8",explain:"<b>解題關鍵：</b>全文先以事故說大型車造成更嚴重傷亡，末句再列大型車消耗石油、污染環境及使城市壅塞；主旨同時包含安全與資源成本。<br>(A) 政府應禁大型車：文章批評大型車，但沒提出禁令。<br>(B) 大型車比小型車不安全且不經濟：同時涵蓋事故、石油與城市問題，最完整。<br>(C) 小型車對車內乘客更安全：正式答案亦接受此核心安全主張，但原文主要談大型車對整體道路造成的危險，不只乘客。<br>(D) 心臟病造成五死：只是例子。<br>本站保留正式答案接受 B、C；就全文涵蓋面以 B 最完整。"}),
         acceptedAnswers: ["B", "C"]
       },
-      q(46, "C4", ["推論判讀"], "題組", "閱讀測驗", "A", "The author's statement about the highway fence's ability to retain a smaller and lighter car", {A:"is the author's assumption.",B:"derives from scientific evidence.",C:"rests upon fact.",D:"can never be verified."}, {group:"G8",explain:"作者使用 probably 與 might，顯示這是推測而非已證實事實。"}),
-      q(47, "C4", ["細節檢索"], "題組", "閱讀測驗", "B", "The 60 pilot whales swam ashore as a result of", {A:"a large winter storm off the coast of Cape Cod.",B:"a behavior currently unknown to scientists.",C:"a genetic phenomenon currently being studied by whale experts.",D:"the return to their annual spawning ground near Cape Cod."}, {group:"G9",explain:"文中說科學家仍在探究鯨魚為何有這種自毀行為。"}),
-      q(48, "C4", ["篇章理解"], "題組", "閱讀測驗", "C", "The pilot whales died on the beaches of Cape Cod due to", {A:"the lack of salt water to facilitate their respiration.",B:"the lack of nutrition to maintain their enormous body weight.",C:"their body structure unable to support their body weight out of water.",D:"a phenomenon yet to be figured out by scientists."}, {group:"G9",explain:"牠們在沙灘上被自身重量壓死，表示離水後身體無法承受體重。"}),
-      q(49, "C4", ["細節檢索"], "題組", "閱讀測驗", "C", "The three whales Tag, Notch, and Baby were rescued because", {A:"younger whales have a greater chance of survival than the others.",B:"amongst the many whales found beached, these three were deemed the healthiest.",C:"they were alive when the rescue team found them.",D:"the rescue crew liked them very much."}, {group:"G9",explain:"文章直接說 whale experts found Tag, Notch, Baby alive。"}),
-      q(50, "C4", ["篇章理解"], "題組", "閱讀測驗", "D", "Which of the following is NOT true?", {A:"Scientists are studying the suicidal behavior of pilot whales.",B:"Tag, Notch, and Baby were too young to survive by themselves in the sea.",C:"Pilot Whales are mammals that can become used to human beings.",D:"After their release, Tag, Notch, and Baby were never seen again."}, {group:"G9",explain:"三隻鯨魚放生一個月後曾被發現，因此 D 不正確。"})
+      q(46, "C4", ["推論判讀"], "題組", "閱讀測驗", "A", "The author's statement about the highway fence's ability to retain a smaller and lighter car", {A:"is the author's assumption.",B:"derives from scientific evidence.",C:"rests upon fact.",D:"can never be verified."}, {group:"G8",explain:"<b>解題關鍵：</b>相關句使用 probably wouldn't have gone through 和 might have missed，probably、might 都表示可能性，不是已發生並驗證的結果。<br>(A) 是作者的假設：符合這些不確定語氣，正確。<br>(B) 來自科學證據：開頭雖說有科學證據，但這起事故若換小車的結果沒有實驗證明。<br>(C) 建立在確定事實上：與 probably、might 相反。<br>(D) 永遠不能驗證：文章只表示尚非事實，不能推到「永遠」無法驗證。<br>推論題要留意情態字，故選 A。"}),
+      q(47, "C4", ["細節檢索"], "題組", "閱讀測驗", "B", "The 60 pilot whales swam ashore as a result of", {A:"a large winter storm off the coast of Cape Cod.",B:"a behavior currently unknown to scientists.",C:"a genetic phenomenon currently being studied by whale experts.",D:"the return to their annual spawning ground near Cape Cod."}, {group:"G9",explain:"<b>解題關鍵：</b>第二段說 Scientists are still trying to find out why whales have this self-destructive behavior，表示鯨群游上岸的原因目前仍不知道。<br>(A) 冬季風暴：文章只說事件在十二月，沒有說暴風雨造成。<br>(B) 科學家尚不了解的行為：直接重述原文，正確。<br>(C) 遺傳現象：研究原因未限定為基因。<br>(D) 返回年度產卵地：文章沒提產卵，pilot whales 也是哺乳類。<br>所以不能替文章補原因，答案是 B。"}),
+      q(48, "C4", ["篇章理解"], "題組", "閱讀測驗", "C", "The pilot whales died on the beaches of Cape Cod due to", {A:"the lack of salt water to facilitate their respiration.",B:"the lack of nutrition to maintain their enormous body weight.",C:"their body structure unable to support their body weight out of water.",D:"a phenomenon yet to be figured out by scientists."}, {group:"G9",explain:"<b>解題關鍵：</b>第二段明寫 Many...died on the beach—crushed by their own weight，意思是離開海水支撐後，巨大體重壓迫自己的身體。<br>(A) 缺鹽水幫助呼吸：原文未提呼吸機制。<br>(B) 缺營養支撐體重：不是因飢餓，而是物理重量壓迫。<br>(C) 身體在離水後無法承受自身重量：是 crushed by their own weight 的合理白話，正確。<br>(D) 原因未知：未知的是為何游上岸；死亡原因文章有說明。<br>要區分「擱淺原因」與「擱淺後死亡原因」。"}),
+      q(49, "C4", ["細節檢索"], "題組", "閱讀測驗", "C", "The three whales Tag, Notch, and Baby were rescued because", {A:"younger whales have a greater chance of survival than the others.",B:"amongst the many whales found beached, these three were deemed the healthiest.",C:"they were alive when the rescue team found them.",D:"the rescue crew liked them very much."}, {group:"G9",explain:"<b>解題關鍵：</b>定位第二段：Whale experts found Tag, Notch, Baby alive，三隻被救的直接條件是搜救人員找到牠們時仍活著。<br>(A) 年輕鯨魚存活機會較高：原文反而說牠們太年幼，不能自行回海生存。<br>(B) 被認為最健康：文章未比較健康程度，只說 alive。<br>(C) 被發現時還活著：直接符合。<br>(D) 搜救隊喜歡牠們：沒有此情感理由。<br>細節題應選原文有明確證據的 C，不把「年幼」誤當獲救優勢。"}),
+      q(50, "C4", ["篇章理解"], "題組", "閱讀測驗", "D", "Which of the following is NOT true?", {A:"Scientists are studying the suicidal behavior of pilot whales.",B:"Tag, Notch, and Baby were too young to survive by themselves in the sea.",C:"Pilot Whales are mammals that can become used to human beings.",D:"After their release, Tag, Notch, and Baby were never seen again."}, {group:"G9",explain:"<b>解題關鍵：</b>題目問 NOT true。末段明說放生一個月後 whales were spotted，還在距放生處約六十英里的五十隻鯨群中被找到。<br>(A) 科學家研究自毀式擱淺行為：第二段有提，正確。<br>(B) 三隻太年幼，無法自行回海生存：第二段有提，正確。<br>(C) 領航鯨是哺乳類且會習慣人類：首段稱 mammals，第三段刻意少人接觸避免牠們太習慣人類，正確。<br>(D) 放生後再也沒看見：與 spotted 明確相反，是本題答案。"})
     ]
   };
 })());
@@ -16306,56 +16366,56 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "張先生最近很忙，是否出席派對令人懷疑；doubtful 表示「不確定的、可疑的」。",
-  "已習慣臺灣天氣，所以願意再住一年；be accustomed to 表示「習慣於」。",
-  "課堂談話會干擾其他人；disturb 表示「打擾」。",
-  "根據線索預測故事最後結果；outcome 表示「結果」。",
-  "好讀者會利用上下文推測生字意思；context 表示「上下文」。",
-  "讀書時她故意把收音機音量調大；deliberately 表示「故意地」。",
-  "It struck me that... 是固定句型，表示「我突然想到……」。",
-  "他很謹慎，發表評論時也相當保留；reserved 表示「含蓄謹慎的」。",
-  "觀眾認為電影版本不如原著；version 表示「版本」。",
-  "當地人用旅客陌生的特殊語言問候；peculiar 表示「奇特的、特有的」。",
-  "十一世紀是明確過去時間，故用過去式 had 表示中國人當時已有雨傘。",
-  "雨傘從中國傳往印度、波斯與埃及；From 表示起點。",
-  "希臘與羅馬男性不使用雨傘，過去習慣的否定為 wouldn't use。",
-  "他們認為雨傘只供女性使用；only 表示「僅僅」。",
-  "see someone doing 表示看見某人正在做某事；此處看見國王撐著雨傘。",
-  "It seems that... 表示由各地紀錄推論：不同地區似乎各自在不同時期發明雨傘。",
-  "country 後接關係副詞 where，引導「普通人使用雨傘」的地點關係子句。",
-  "傘用來遮擋雨水；against the rain 表示「防雨」。",
-  "雨傘如今是日常物品；object 表示「物件」。",
-  "有些傘可折疊，所以容易攜帶；so 表示結果。",
-  "前文說行為與他人反應相互影響，In general 用來概括自我觀影響生活各面向。",
-  "主詞 the way people think about themselves 是單數，故用 has。",
-  "能自信行動者具有正向自尊；positive 表示「正面的」。",
-  "因為有自信，所以不需別人持續稱讚；Because 表示原因。",
-  "feel good about oneself 是固定搭配，表示「自我感覺良好」。",
-  "participate in life 是固定搭配，表示「積極參與生活」。",
-  "空格引導名詞子句作介系詞 by 的受詞，what others think 表示「別人所想的事」。",
-  "people with high self-esteem 表示「具有高度自尊的人」。",
-  "regard A as B 表示「把 A 視為 B」；他們不把批評視為個人拒絕。",
-  "他們不視批評為拒絕，反而把它當改善建議；Instead 表示「反而」。",
-  "獎章授予冒險拯救他人者，他們把別人安全置於自己之前，兼具無私與勇氣。",
-  "全文介紹英勇者如何因勇敢行為獲頒卡內基獎章及可能獲得金錢援助。",
-  "文中只說卡內基聽聞 Hunter 的事蹟，沒有親自認識他，因此 A 不正確。",
-  "攀登從上午六點半開始、耗時三個半小時，因此上午十點抵達頂端。",
-  "Willig 徒手攀爬高樓並享受挑戰，文章主題是喜愛危險與冒險的人。",
-  "市長舉行儀式表揚他，罰款按 110 層每層一美分，共一點一美元。",
-  "印刷使文字與書籍得以大量傳播，讀者才能閱讀書本與本文。",
-  "文中明載中國人在十一世紀發現活字印刷，歐洲到約 1440 年才知道。",
-  "活字可在印完後拆開重新排列，重複用於其他內容，因此是重大進步。",
-  "文中指出第一本以活字印刷的英文書，內容是特洛伊歷史。",
-  "句意是多年來人們以為吸菸造成的 damages「傷害」只影響吸菸者。",
-  "be limited to 是固定搭配，表示傷害被認為僅限於吸菸者。",
-  "新研究發現香菸煙霧對非吸菸者也有害；harmful 表示「有害的」。",
-  "政府報告指出非吸菸者也有肺癌風險；indicated 表示「指出、顯示」。",
-  "risk ... from breathing in smoke 表示因吸入他人菸霧而承受風險。",
-  "研究對象是不吸菸的青少年運動員；teenage 表示「青少年的」。",
-  "be near cigarette smoke 表示靠近、暴露在香菸煙霧旁。",
-  "二手菸傷害肺部，使這些運動員比未接近吸菸者的人更常咳嗽；cough 符合語意。",
-  "close by 表示「在附近」，修飾 smokers。",
-  "此類研究促成公共場所禁菸；public places 表示「公共場所」。"
+  "<b>解題關鍵：</b>張先生最近很忙，所以他是否能來派對「還不確定」。句型 it's ___ whether... 需要形容一件事仍有疑問。<br>(A) unlikely：不太可能，已偏向不會來；題目只說忙，未下此結論。<br>(B) impossible：不可能，語氣更絕對。<br>(C) doubtful：令人懷疑、不確定，最符合 whether。<br>(D) inevitable：不可避免、必然發生，反而表示一定會來。<br>整句是：因為張先生最近很忙，他是否會出席仍不確定。",
+  "<b>解題關鍵：</b>後半說「所以我想再住一年」，表示說話者已能適應臺灣天氣；固定搭配 be accustomed to + 名詞是「習慣於」。<br>(A) devoted：投入的，常用 be devoted to 人或事業，不是適應氣候。<br>(B) satisfied：滿意的，搭配是 be satisfied with，不接 to。<br>(C) pleased：高興、滿意，常接 with/about。<br>(D) accustomed：習慣的；be accustomed to the weather 正確。<br>整句是：我很習慣臺灣的天氣，因此想再待一年。",
+  "<b>解題關鍵：</b>老師不容許上課說話，原因是這個行為會「打擾其他人」學習；空格後直接接 others。<br>(A) disturbs：打擾、干擾，能解釋禁令。<br>(B) deserves：值得，others deserves 文法與語意都不合。<br>(C) destroys：摧毀，語氣過強，說話不會摧毀同學。<br>(D) dismisses：解散、解雇，通常人或機構執行。<br>整句是：Smith 老師不容忍課堂談話，因為那會干擾別人。",
+  "<b>解題關鍵：</b>On the basis of the clues 表示根據故事線索來 predict（預測），能被預測的是故事最後會有什麼結果。<br>(A) outcome：結果、結局，predict the outcome 搭配正確。<br>(B) headline：標題，通常由編輯撰寫，不是故事線索推出的結局。<br>(C) cause：原因，題目問的是故事發展到最後。<br>(D) performance：表演、表現，和 story 的線索不合。<br>整句是：根據這些線索，你能預測故事的結局嗎？",
+  "<b>解題關鍵：</b>遇到 new words 時，好讀者會觀察前後句來推測意思；這種前後文資訊叫 context。四個字外形相近，要靠語意分辨。<br>(A) contact：接觸、聯絡，不能幫忙判斷詞義。<br>(B) context：上下文，using context 是閱讀策略。<br>(C) content：內容，範圍太廣，不特指生字周圍線索。<br>(D) contest：比賽，與閱讀無關。<br>整句是：好讀者常利用上下文推測生字意思。",
+  "<b>解題關鍵：</b>說話者正在讀書，她卻把收音機音量調大，因此 wonder why 帶出不解或不滿；最合理是她「故意」這樣做。<br>(A) sympathetically：同情地，調大音量反而不體貼。<br>(B) primarily：主要地，不能描述調音量的意圖。<br>(C) deliberately：故意地，符合衝突情境。<br>(D) thoroughly：徹底地，通常修飾完成工作的程度。<br>整句是：我不懂她為何在我讀書時故意把收音機開大聲。",
+  "<b>解題關鍵：</b>It suddenly ___ me that... 是「我突然想到……」的句型；空格後 me 是受詞，that 子句是想到的內容。<br>(A) took：帶走，It took me 通常後接時間或 to V。<br>(B) struck：突然使想到；It struck me that... 固定用法，正確。<br>(C) occurred：想到時說 It occurred to me，題目沒有 to。<br>(D) surprised：使驚訝，雖可接人，但重點不是驚訝而是想起要接機。<br>整句是：我突然想到必須去機場接朋友。",
+  "<b>解題關鍵：</b>Being a very careful person 說他做事謹慎，所以發表 comments 時不會隨便多說，而是保留、克制。<br>(A) reserved：含蓄謹慎的；reserved in giving comments 搭配合理。<br>(B) melancholy：憂鬱的，和謹慎沒有必然關係。<br>(C) complicated：複雜的，通常形容事情，不形容發言態度。<br>(D) generous：慷慨的，若指給很多評論，仍不能呼應 careful。<br>整句是：因為非常謹慎，他發表意見時相當保留。",
+  "<b>解題關鍵：</b>句子把 movie 和 book 比較，表示同一故事的電影「版本」不如書本；空格作主詞的一部分。<br>(A) routine：例行程序，不能指改編作品。<br>(B) version：版本；the movie version 指電影版，正確。<br>(C) copy：複本，電影不是把書原樣複製的一份實體。<br>(D) issue：議題或一期刊物，也不表示改編形式。<br>整句是：多數觀眾認為這個故事的電影版不如原著。",
+  "<b>解題關鍵：</b>後面 which was strange to them 說旅客覺得這種語言陌生，因此空格要表示當地特有、不同尋常。<br>(A) contrary：相反的，語言本身不能說是相反。<br>(B) relative：相對的或親屬，無法解釋陌生。<br>(C) peculiar：特有的、奇特的，符合 strange。<br>(D) spiral：螺旋形的，通常形容形狀。<br>整句是：當地人用一種旅客覺得陌生而特別的語言問候他們。",
+  "<b>解題關鍵：</b>文章談雨傘歷史，in the eleventh century B.C. 是明確的過去時間，主詞 The Chinese 後需要過去式主要動詞。<br>(A) have had：現在完成式，不能和明確古代時間連用。<br>(B) had：have 的過去式，表示當時已有雨傘，正確。<br>(C) have：現在式，時間不一致。<br>(D) having：V-ing 不能單獨作完整句主要動詞。<br>整句是：中國人在西元前十一世紀已有雨傘。",
+  "<b>解題關鍵：</b>前句介紹中國已有雨傘，後句說它們 travel to India, Persia, and Egypt，空格要標出傳播的起點「從中國」。<br>(A) From：從，From China they traveled... 正確。<br>(B) In：在中國，會只說地點，不能表傳播方向。<br>(C) For：為了或給，不表示起點。<br>(D) Around：在周圍，文章不是說只在中國附近移動。<br>整句是：雨傘從中國傳到印度、波斯與埃及。",
+  "<b>解題關鍵：</b>下一句說希臘羅馬男性認為雨傘只給女性使用，所以他們「不肯、不會」使用；全文敘述過去，需過去式否定。<br>(A) would：會、願意，與後文理由相反。<br>(B) could：能夠，沒有說能力不足。<br>(C) wouldn't：不願、不會；可表過去習慣性拒絕，正確。<br>(D) won't：現在或未來的拒絕，和古代時間不合。<br>整句是：但在希臘羅馬，男人不使用雨傘。",
+  "<b>解題關鍵：</b>前句說男人不使用，後句解釋他們相信雨傘「只」屬於女人；空格放在 were 後、for women 前，需限制範圍。<br>(A) likely：可能的，be likely for women 結構不自然。<br>(B) only：僅僅；were only for women 表示只供女性使用，正確。<br>(C) nearly：幾乎，不能說雨傘幾乎為女人。<br>(D) possibly：可能地，語氣和男人堅持不用不合。<br>整句是：他們認為雨傘只適合女性。",
+  "<b>解題關鍵：</b>see + 人 + V-ing 表示看見某人正在做某動作；西班牙探險家看到阿茲特克國王正撐著或使用雨傘。<br>(A) used：若作過去式，前面已有 saw，不能再放主要動詞。<br>(B) to use：see 後一般不用 to V 表直接看見。<br>(C) used to：過去常常，需主詞直接接 used to。<br>(D) using：正在使用，形成 saw the kings using umbrellas，正確。<br>整句是：探險家看見國王們正在使用雨傘。",
+  "<b>解題關鍵：</b>前文列中國、墨西哥、北美等地各有雨傘，作者由這些資料推論「看來不同地區在不同時間各自發明」；固定句型 It seems that...。<br>(A) seems：似乎；It seems that 引導推論，正確。<br>(B) likes：喜歡，虛主詞 It 不會喜歡。<br>(C) looks：若表示似乎，通常說 It looks like/as if，不直接接 that。<br>(D) maybe：也許，是副詞，不能放在 It 後作動詞。<br>所以這是依歷史線索提出的合理推測。",
+  "<b>解題關鍵：</b>空格引導關係子句修飾 country，子句 ordinary people used umbrellas 已有主詞、動詞、受詞，缺的是地點「在那個國家」。<br>(A) what：什麼，不能修飾前面的 country。<br>(B) when：何時，先行詞不是時間。<br>(C) which：哪一個；若用 which 表地點需加 in which。<br>(D) where：在那裡，等於 in which，正確。<br>整句是：英國可能是歐洲第一個一般人使用雨傘的國家。",
+  "<b>解題關鍵：</b>英國多雨，普通人使用雨傘是為了遮雨；英文可說 protect/keep someone against the rain，against 有抵擋之意。<br>(A) below：在雨的下方，只描述位置，不表示防護。<br>(B) of：……的，無法表用途。<br>(C) against：抵擋、防禦；umbrellas against the rain 符合。<br>(D) from：有些動詞可搭配 from，但原句是 used umbrellas ___ the rain，against 更自然完整。<br>整句是：一般人用雨傘來擋雨。",
+  "<b>解題關鍵：</b>後文 Everybody uses it today，表示雨傘如今是非常平常的「物品」；空格前有 an ordinary，需要可數名詞。<br>(A) subject：主題或科目，雨傘不是討論主題的意思。<br>(B) object：物品、物件，正確。<br>(C) matter：事情或物質，ordinary matter 不指一把傘。<br>(D) element：元素、要素，也不是日常用品。<br>整句是：雨傘現在是非常普通的日常物品。",
+  "<b>解題關鍵：</b>前半 Some umbrellas fold up 是原因，後半 it is easy to carry them 是折疊後的結果，需要因果連接詞。<br>(A) so：所以，清楚連接原因與結果，正確。<br>(B) for：因為，會讓後半變成前半的原因，方向顛倒。<br>(C) unless：除非，沒有條件關係。<br>(D) but：但是，折疊與好攜帶不是相反資訊。<br>整句是：有些雨傘能折疊，所以很容易攜帶。",
+  "<b>解題關鍵：</b>前兩句說自我觀影響行為，行為又影響別人反應；本句要把這些資訊概括成一般原則：人如何看自己會影響生活各方面。<br>(A) By and by：不久、逐漸，表時間。<br>(B) Luckily：幸運地，沒有幸運事件。<br>(C) In general：一般而言，用來概括前文，正確。<br>(D) Even so：即使如此，需前後反差，但本句是順向總結。<br>所以此句是整段觀點的概括。",
+  "<b>解題關鍵：</b>主詞是 the way people think about themselves，核心名詞 the way 是單數；空格後 a profound effect 是受詞，需現在式動詞。<br>(A) have：複數現在式，和單數主詞不合。<br>(B) having：V-ing，不能單獨作主要動詞。<br>(C) to have：不定詞，句子會缺主要動詞。<br>(D) has：單數現在式，has an effect on 表示對……有影響，正確。<br>整句是：人們看待自己的方式深刻影響生活。",
+  "<b>解題關鍵：</b>後面說這些人 act with confidence，表示有自信的人具有正向、健康的自尊感；空格修飾 sense of self-esteem。<br>(A) positive：正向的，能帶來自信，正確。<br>(B) common：常見的，不能解釋個人有自信。<br>(C) weak：薄弱的，通常會缺乏信心，與後文相反。<br>(D) normal：正常的，意思太中性，沒有呼應 confidence。<br>整句是：具有正向自尊感的人通常自信行動。",
+  "<b>解題關鍵：</b>前句說正向自尊者自信；後句說他們不需要別人持續稱讚，前者正是後者的原因，需要 because。<br>(A) Until：直到，需時間終點。<br>(B) Because：因為，引出有自信這項原因，正確。<br>(C) Unless：除非，會變成條件，語意不合。<br>(D) However：然而，後面需逗號且表轉折；此處是因果。<br>整句是：因為有自信，他們不需靠外在稱讚肯定自己。",
+  "<b>解題關鍵：</b>feel ___ about themselves 需要形容詞作 feel 後的補語；有自信的人不靠稱讚也能「對自己感覺良好」。<br>(A) best：最好的，需有比較範圍，feel best 不適合此搭配。<br>(B) correct：正確的，通常判斷答案，不形容自我感受。<br>(C) well：可指身體健康，但固定自我評價搭配是 feel good about。<br>(D) good：良好的；feel good about oneself 正確。<br>整句是：他們不需別人鼓勵也能肯定自己。",
+  "<b>解題關鍵：</b>participate 是不及物動詞，要用 participate in + 活動/事情，表示「參與」；此處把 life 看成積極投入的整體。<br>(A) to：participate to 不是正確搭配。<br>(B) at：通常表示地點或能力程度。<br>(C) in：participate in life 表示投入生活，正確。<br>(D) on：participate on 也非標準搭配。<br>整句是：自信的人熱情且自然地參與生活。",
+  "<b>解題關鍵：</b>空格後 others think they should do 是一個子句，空格要同時代表 think 的內容，整個名詞子句又作 by 的受詞，意思是「別人認為他們該做的事」。<br>(A) which：哪一個，需要前面的先行詞。<br>(B) how：如何，後面語意不是做事方式。<br>(C) why：為何，不是原因。<br>(D) what：所……的事；what others think... 結構完整，正確。<br>整句是：他們不受別人認為自己應做什麼所影響。",
+  "<b>解題關鍵：</b>空格位於 People ___ high self-esteem，需介系詞表示「具有高度自尊的人」；英文用 with + 名詞描述擁有某特徵。<br>(A) losing：失去，語意與 high self-esteem 不合且結構不完整。<br>(B) by：藉由，不能表示擁有。<br>(C) with：具有、帶有；people with high self-esteem 正確。<br>(D) have：若用 have，需寫 people who have，不能直接放在名詞後形成目前結構。<br>整句是：具有高度自尊的人不會因批評受傷。",
+  "<b>解題關鍵：</b>空格後是 criticism as personal rejection，固定結構 regard A as B 表示「把 A 視為 B」；文意是自信者不把批評當成對個人的拒絕。<br>(A) like：喜歡，不能用 like A as B。<br>(B) look：看，若表視為通常 look on/upon A as B。<br>(C) watch：觀看，不能接 as 表判斷。<br>(D) regard：視為；regard criticism as rejection 正確。<br>整句是：他們不把批評看成別人否定自己。",
+  "<b>解題關鍵：</b>前句說自信者不把批評當拒絕；後句改說他們「反而」把批評當改善建議，兩種看法互相取代。<br>(A) Instead：反而、取而代之，正確。<br>(B) In addition：此外，只補充，不凸顯相反解讀。<br>(C) Thus：因此，雖有邏輯承接，但沒有表達兩種觀點的替代。<br>(D) In case：以防、萬一，需接條件情境。<br>整句是：相反地，他們往往相信批評是改善建議。",
+  "<b>解題關鍵：</b>第一段說獎章給 facing danger to save others 的人，末句又說英雄把別人的安全放在自己之前，因此必須兼具勇敢與無私。<br>(A) 生病且貧窮：受傷或有需要的英雄可能另獲金錢，但不是得獎條件。<br>(B) 富有出名：Carnegie 富有，不等於所有得主。<br>(C) 年輕勇敢：William 年輕只是例子，年齡不限。<br>(D) 無私且勇敢：完整符合冒險救人與先顧他人，正確。<br>所以選 D。",
+  "<b>解題關鍵：</b>全文先定義英雄，再介紹 Carnegie Medal 的由來、頒給何種勇行、可能的金援與六千多名得主；共同核心是勇敢行為受到獎勵。<br>(A) William Hunter 很勇敢：只是獎章起源的一個例子。<br>(B) Hunter 救 Carnegie：原文是救兩名男孩，且失去生命。<br>(C) 有些英雄因勇敢而獲獎：涵蓋獎章、金援與各類救援，正確。<br>(D) Carnegie 富有又助人：只涵蓋創辦人，不是全文重點。<br>主旨須涵蓋最多段落，故選 C。",
+  "<b>解題關鍵：</b>題目問 NOT true。文章說 Carnegie heard about William Hunter，只有「聽聞」事蹟，沒有說兩人見過或私下認識。<br>(A) Carnegie 親自認識 Hunter：文中無此事，是不正確答案。<br>(B) 勇行有不同形式：溺水、火災、火車、野獸等例子證明，正確。<br>(C) 超過六千人得獎：原文明說 Over 6,000，正確。<br>(D) 有些英雄除獎章也獲金錢：有需要或受傷者會獲援助，正確。<br>所以選 A。",
+  "<b>解題關鍵：</b>定位首段：攀登 began at 6:30 a.m.，took three and a half hours；上午 6:30 加 3 小時 30 分，正好是上午 10:00。<br>(A) 上午 6:30：這是出發時間，不是抵達。<br>(B) 下午 6:30：既非開始也非結束。<br>(C) 上午 10:00：計算結果，正確。<br>(D) 晚上 10:00：把 a.m. 誤成 p.m.。<br>日期全程都是 1977 年 5 月 26 日，因此選 C。",
+  "<b>解題關鍵：</b>文章描寫 Willig 不搭電梯、徒手攀 110 層高樓，明知有法律與生命風險仍挑戰不可能；Human Fly 是比喻稱號。<br>(A) 喜愛危險與冒險的男子：最能概括故事，正確。<br>(B) 真能像蒼蠅飛的人：他是攀爬，不會飛。<br>(C) 從監獄逃脫的人：警方原想逮捕，但他沒有越獄。<br>(D) 像人爬行的蒼蠅：主角是人，不是昆蟲。<br>所以主旨選 A。",
+  "<b>解題關鍵：</b>末段說市長舉行 honoring ceremony，並宣布每爬一層罰一美分；110 層乘 1 美分等於 110 美分，也就是 1.10 美元。<br>(A) 被罰 25 萬美元：那是城市原本打算求償的金額，後來改變。<br>(B) 入獄一年：沒有入獄。<br>(C) 受表揚且只罰 1.10 美元：兩項都符合，正確。<br>(D) 有許可攀登：他正因 without a permit 被指違法。<br>所以選 C。",
+  "<b>解題關鍵：</b>首句稱印刷是重要傳播方式，並說 Without it you would not now be reading this passage；印刷讓書與文字能製作、流通，讀者才有書可讀。<br>(A) 因為是中國發明：起源重要但不是印刷重要性的原因。<br>(B) 讓閱讀書籍成為可能：呼應首段，正確。<br>(C) 幫助發展廣播電視：原文只說兩者未降低印刷重要性。<br>(D) Caxton 印 80 本書：是歷史細節。<br>所以選 B。",
+  "<b>解題關鍵：</b>定位第二段：The Chinese discovered this in the 11th century, but it was not known in Europe until about 1440；this 指 movable type。<br>(A) William Caxton：他 1474 年印英文書，時間更晚。<br>(B) 歐洲人：歐洲到約 1440 年才知道。<br>(C) Gutenberg：他印出早期歐洲活字書，但不是最早發現者。<br>(D) 中國人：十一世紀最先發現，正確。<br>時間線是中國十一世紀先有，歐洲十五世紀才採用。",
+  "<b>解題關鍵：</b>木刻每頁都要另刻，慢且費工；活字印完後 letters could be taken apart and rearranged to print something else，字母可拆開重排再利用。<br>(A) 不需很多木頭：不是文章強調原因。<br>(B) 較少技巧耐心：可能合理，但原文沒有直接說活字因此進步。<br>(C) 印刷字母可重複使用：由拆開重排直接得到，正確。<br>(D) 每頁都需個別雕刻：這是舊木刻缺點，活字正好解決它。<br>所以選 C。",
+  "<b>解題關鍵：</b>末段明說 The first book to be printed likewise in English was about the history of Troy，likewise 指同樣用活字印刷。<br>(A) 用木塊逐字印：那是更早的舊方法。<br>(B) 在 Westminster 印：Caxton 1476 才在當地設印刷所；首本英文活字書 1474 在 Flanders。<br>(C) Gutenberg 的 42 行聖經：是早期歐洲書，但不是英文書。<br>(D) 關於特洛伊歷史：直接符合原文，正確。<br>所以選 D。",
+  "<b>解題關鍵：</b>空格前 the、後面 of smoking，需名詞作主詞；句意是「吸菸造成的傷害」過去被認為只限吸菸者。<br>選 I damages（損害、傷害），the damages of smoking 能接後面的 were。symptoms 也是複數名詞，但「吸菸的症狀」不能概括後文肺癌與肺部受損；harmful 是形容詞，不能放在 the 後直接作主詞。<br>整句是：多年來，人們以為吸菸傷害只影響吸菸者。",
+  "<b>解題關鍵：</b>空格在 were ___ to smokers，固定搭配 be limited to 表示「被限制在、僅限於」；後面 But 新研究指出非吸菸者也受害，形成舊觀念與新發現對比。<br>選 J limited，were limited to smokers 結構完整。near 表靠近，若填入會變成傷害靠近吸菸者，意思怪；harmful 應搭配 to，但會和前句 damages 重複且無「僅限」語意。<br>整句是：人們原以為傷害僅限吸菸者。",
+  "<b>解題關鍵：</b>But 引出新研究：香菸煙霧對 non-smokers too 也會造成不良影響；空格在 be 後、to 前，需要能接 to 的形容詞。<br>選 H harmful（有害的），be harmful to someone 是固定搭配。damages 是名詞/動詞，不能放在 can be 後再接 to；weak 表虛弱，通常形容人或力量，不說 smoke is weak to people。<br>整句是：新研究發現，香菸煙霧對非吸菸者也有害。",
+  "<b>解題關鍵：</b>空格需要過去式動詞作 a U.S. Government report 的主要動詞，後面 that 子句是報告指出的內容。<br>選 E indicated（指出、顯示），a report indicated that... 是自然搭配。activated 是啟動，報告不會啟動一個肺癌事實；adopting 是 V-ing，無法單獨作主要動詞。<br>整句是：1987 年美國政府報告指出，非吸菸者也可能面臨肺癌風險。",
+  "<b>解題關鍵：</b>from 後要名詞或 V-ing，句意是非吸菸者因「吸入」他人的菸霧而有肺癌風險；英文 breathing in smoke 是吸入煙霧。<br>選 C breathing，from breathing in... 結構與意思都正確。cough 是咳嗽，咳嗽可能是結果，不是接觸二手菸的方式；symptoms 是症狀，也不能接 in other people's smoke。<br>整句是：非吸菸者可能因吸入別人的香菸煙霧而罹患肺癌。",
+  "<b>解題關鍵：</b>空格直接修飾 athletes，需形容詞；研究對象是不吸菸、又有吸菸父母或朋友的青少年運動員。<br>選 N teenage（青少年的），non-smoking teenage athletes 結構完整。weak 雖可修飾 athletes，但文章沒有先說他們虛弱，研究正要比較肺部影響；public 也不能合理形容這群運動員。<br>整句是：另一研究觀察不吸菸的青少年運動員。",
+  "<b>解題關鍵：</b>空格位於 Being ___ cigarette smoke，需表運動員和煙霧的距離或接觸；後文說他們有吸菸父母朋友，因此常在煙霧附近。<br>選 G near（靠近），Being near cigarette smoke 表示身處菸霧旁。to 若單獨填入會成 Being to smoke，語法錯；by 也不能直接跟在 Being 後表示暴露。<br>整句是：靠近香菸煙霧會傷害運動員的肺。",
+  "<b>解題關鍵：</b>空格在 made them ___ more，make + 人 + 原形動詞；二手菸傷肺後，最合理的動作是比沒有吸菸者在旁的運動員更常咳嗽。<br>選 B cough（咳嗽），made them cough 結構正確。breathing 是 V-ing，放在 make 後形式不合；symptoms 是名詞，不能由 them 主動做；weak 是形容詞，但後面 more 的位置也不自然。<br>整句是：二手菸使這些運動員咳得更頻繁。",
+  "<b>解題關鍵：</b>原句 athletes who did not have smokers close ___，固定片語 close by 表示「就在附近」；描述另一組運動員身旁沒有吸菸者。<br>選 L by，close by 可作副詞片語修飾 smokers 所在位置。near 意思也與附近相關，但 close near 不是標準搭配；to 需接對象，如 close to them，題目空格後沒有名詞。<br>整句是：他們比身旁沒有吸菸者的運動員咳得更多。",
+  "<b>解題關鍵：</b>研究顯示二手菸危害，因而促成在某些場所禁菸；空格直接修飾 places，需要表示大家共同使用的地方。<br>選 O public（公共的），public places 是公共場所，最符合禁菸政策。near 是介系詞/形容詞，near places 意思不完整；teenage 修飾年齡，不能形容場所；harmful places 雖可成詞，但文章要說禁菸適用範圍。<br>整句是：這類研究推動公共場所禁菸。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -17612,6 +17672,102 @@ window.BANK=window.BANK||[];window.BANK.push({
   window.BANK.at(-1).questions[index].explain = explain;
 });
 
+[
+  [12, "When 也清楚標出身體狀態出現時，修復反應隨即啟動。"],
+  [38, "「超過一百條人命」是直接證據，不是由困難環境自行猜測。"],
+  [39, "分辨兩位設計者的工作，可避免把外觀改造與牆面裝飾混在一起。"],
+  [40, "抓住 hence「因此得名」即可確定前面的清湯才是名稱來源。"],
+  [41, "這裡的 kitchen tables 代指一般家庭能否有食物可吃。"],
+  [42, "題目問革命前，核對 Middle Ages 與 1780s 的年代尤其重要。"],
+  [43, "這是從 Napoleon 自己提出的政治理由直接找到的答案。"],
+  [44, "關鍵不是獵得多快，而是交付時獵物仍能依教法處理。"],
+  [45, "題目中的 today 要和第一段 In the past 的舊目的分開判讀。"],
+  [46, "passports 與搭機也有提到，但選項內容都加入原文沒有的條件。"],
+  [47, "自然養成的技巧出現在捕捉條件，禁食則是後來的訓練步驟。"],
+  [48, "主旨題要涵蓋整段時間線，不能只抓其中一次材料或技術改良。"],
+  [49, "predecessor 在此就是前一代 Gutta Percha 球。"],
+  [50, "原文用 faster and longer 直接說明凹洞對飛行距離的效果。"],
+  [51, "題目雖未直接寫答案，但高飛路徑能越過坑緣，推論有原文依據。"]
+].forEach(([no, note]) => {
+  window.BANK.at(-1).questions[no - 1].explain += `<br>${note}`;
+});
+
+[
+  "<b>解題關鍵：</b>Due to a budget cut 表示公司刪減預算，因此原本很豐盛的年終派對必須用很少的費用舉辦。<br>(A) hostile：敵意的，不能形容成本高低。<br>(B) barren：貧瘠的，常形容土地。<br>(C) minimal：最低限度的、極少的，at a minimal cost 符合省預算。<br>(D) systematic：有系統的，和金額多少無關。<br>把答案放回去：因預算刪減，派對只能用最低限度的成本舉辦。",
+  "<b>解題關鍵：</b>搶銀行計畫被警方知道後，所有涉案者都被逮捕，表示這個秘密計畫遭到「揭露」。句子是被動語態 was＋過去分詞。<br>(A) revealed：揭露，be revealed to the police 符合。<br>(B) cancelled：取消；計畫取消不必然讓人被抓。<br>(C) declared：正式宣布，通常是當事人公開宣告。<br>(D) explored：探索，不能表示警方獲得秘密。<br>把答案放回去：搶劫計畫被透露給警方，參與者全被捕。",
+  "<b>解題關鍵：</b>在談話中轉換話題，是為了不正面回答不想答的問題，也就是「閃避問題」。空格後直接接受詞 questions。<br>(A) whip：鞭打、快速攪拌，不能搭配問題。<br>(B) split：分開、分裂，不是避答。<br>(C) litter：亂丟垃圾、使散亂，語意不合。<br>(D) dodge：閃躲、迴避，dodge a question 是常見搭配。<br>把答案放回去：換話題是迴避不想回答問題的方法。",
+  "<b>解題關鍵：</b>skills, education, and experience 是申請工作時必須具備的能力、學歷與經驗，合稱工作「資格條件」。<br>(A) regulations：規定，是公司訂的規則，不是應徵者具備的能力。<br>(B) qualifications：資格，正好概括後面的三項。<br>(C) preventions：預防措施，和求職無關。<br>(D) conventions：慣例、會議，不能指個人條件。<br>把答案放回去：申請工作要具備職位要求的資格。",
+  "<b>解題關鍵：</b>Lily 討厭被陌生來電打擾，所以多年來會先辨別、篩掉手機與家用電話的來電。has been 後接 V-ing 表示持續至今。<br>(A) glittering：閃耀，不能處理來電。<br>(B) purifying：淨化，通常處理水或空氣。<br>(C) mimicking：模仿，不能避免騷擾。<br>(D) filtering：過濾、篩選，filter calls 符合。<br>把答案放回去：她多年來一直篩選所有來電。",
+  "<b>解題關鍵：</b>流浪狗遭虐待並被殺害，使許多人 extremely sad and angry；空格修飾 news，應表示令人悲痛。<br>(A) flexible：有彈性的，通常形容安排或材料。<br>(B) sorrowful：悲傷的、令人悲痛的，符合事件造成的情緒。<br>(C) eventual：最終的，沒有悲傷意思。<br>(D) optional：可選擇的，和新聞內容無關。<br>把答案放回去：人們對這則令人悲痛的消息感到難過與憤怒。",
+  "<b>解題關鍵：</b>第一句用 never shows up ... on time 說 Chris 每次都不準時，所以他的遲到是持續、一貫發生的。空格是副詞，修飾 late。<br>(A) consistently：一貫地、持續地，符合每次遲到。<br>(B) respectfully：恭敬地，不能說恭敬地遲到。<br>(C) indifferently：冷漠地，沒有描述頻率。<br>(D) enormously：非常巨大地，不自然修飾 late。<br>把答案放回去：他總是遲到，理由是想避開會前閒聊。",
+  "<b>解題關鍵：</b>Steve 下週要 quit his job，空格應用名詞表示「辭職」；兩個月前才升職加薪，所以這個決定令人意外。<br>(A) approval：同意、核准，不等於離職。<br>(B) enforcement：執行、強制，和工作去留無關。<br>(C) resignation：辭職，與 quit his job 直接對應。<br>(D) signature：簽名，不能概括離職。<br>把答案放回去：Steve 的辭職完全出乎大家意料。",
+  "<b>解題關鍵：</b>句末說避免疾病 spreading「傳播」，可知患者罹患的是會傳染給別人的疾病。空格修飾 illness。<br>(A) outrageous：令人憤怒的，形容行為或價格。<br>(B) infectious：傳染性的，infectious illness 符合。<br>(C) ultimate：最終的，和傳播能力無關。<br>(D) explicit：明確的，通常形容說明或內容。<br>把答案放回去：有傳染病的人應避免前往公共場所。",
+  "<b>解題關鍵：</b>electronic devices 與 paper 形成電子和紙本的對比；major elections 中最常見的紙本物品就是投票用的選票。<br>(A) tokens：代幣、象徵物，不是正式投票紙。<br>(B) fragments：碎片，不能表示完整選票。<br>(C) ballots：選票，paper ballots 是固定搭配。<br>(D) warranties：保固書，用於商品而非選舉。<br>把答案放回去：即使電子設備普及，重大選舉仍常用紙本選票。",
+  "<b>解題關鍵：</b>第一句把危險壓力與 healthy 的 short-term stress 對比，所以空格要表示長期壓力。<br>(A) contagious：有傳染性的，壓力不是疾病。<br>(B) chronic：長期的、慢性的，與 short-term 相反。<br>(C) diagnostic：診斷用的，不形容壓力時間。<br>(D) tedious：乏味冗長的，不能說明健康危害。<br>關鍵句意：長期壓力可能傷身，短期壓力反而有益。",
+  "<b>解題關鍵：</b>前文說短期壓力會啟動防禦；空格後描述身體處在脆弱情況時，短暫壓力會動員修復系統。<br>(A) Till：直到，時間終點不合。<br>(B) Unless：除非，會變成否定條件。<br>(C) When：當……時，符合。<br>(D) Whereas：然而，用於對比，這裡不是對比。<br>關鍵句意：當身體脆弱時，壓力反應會保護受損部位。",
+  "<b>解題關鍵：</b>This 指前句的修復系統；空格後有 us from，需用 shield A from B「保護 A 免受 B」。<br>(A) conceals：隱藏，不是保護。<br>(B) derives：取得，常用 derive from。<br>(C) shields：保護，搭配完整。<br>(D) transforms：改變，常接 into。<br>關鍵句意：這種反應保護我們免受身體不適和疾病。",
+  "<b>解題關鍵：</b>本文說少量壓力可能 sharpen memory，故受短期壓力的老鼠應比放鬆老鼠記得更好。<br>(A) harder：更努力地，remember harder 不自然。<br>(B) better：更好地，修飾 remembered。<br>(C) less：較少，與增強記憶相反。<br>(D) further：更遠地，不搭配記憶表現。<br>關鍵句意：受短期壓力的老鼠更記得迷宮路線。",
+  "<b>解題關鍵：</b>結尾說壓力太多會生病，太少會無聊，所以健康關鍵是保持平衡。keep＋受詞＋形容詞表示維持狀態。<br>(A) balanced：平衡的，結構正確。<br>(B) balancing：正在平衡，不作此處補語。<br>(C) balances：動詞三單，結構不合。<br>(D) to balance：不定詞，keep 不用此結構。<br>關鍵句意：要把壓力維持在不多不少的平衡狀態。",
+  "<b>解題關鍵：</b>後文依序說 meteoroid 在太空、meteor 在大氣中、meteorite 落到地面；名稱差異取決於所在位置。<br>(A) size：大小不是名稱判準。<br>(B) weight：重量未被拿來分類。<br>(C) location：位置，總括太空、大氣與地面。<br>(D) temperature：溫度只在進大氣後變化。<br>關鍵句意：三個天文名詞的差別在物體所在位置。",
+  "<b>解題關鍵：</b>Some are very large 說有些流星體很大；Others 則陳述另一些現在可能只有小石頭大。<br>(A) may be：可能是，現在式且符合。<br>(B) would be：會是，通常需假設條件。<br>(C) must have been：過去一定是，時態不合。<br>(D) could have been：過去可能曾是，也不合。<br>關鍵句意：另一些流星體可能只有小石頭大。",
+  "<b>解題關鍵：</b>流星體高速進入大氣，friction「摩擦」會讓它溫度升高，接著燃燒。cause it to 後接原形。<br>(A) wear out：磨損，不直接表示發熱。<br>(B) turn off：關閉。<br>(C) break through：突破。<br>(D) heat up：變熱、升溫，與 burn 因果正確。<br>關鍵句意：大氣摩擦使流星體升溫並燃燒。",
+  "<b>解題關鍵：</b>多數流星落地前氣化；若能經過 fiery journey 仍存在並落地，才叫 meteorite。<br>(A) approaches：接近，未表經歷後仍存在。<br>(B) survives：挺過、倖存，可直接接 journey。<br>(C) confirms：證實。<br>(D) targets：以……為目標。<br>關鍵句意：能熬過燃燒旅程並落地的流星稱為隕石。",
+  "<b>解題關鍵：</b>前句說大型隕石能造成爆炸與破壞；後句提出 Barringer Crater 的尺寸與形成原因，是具體例子。<br>(A) Indeed：確實，不是舉例標記。<br>(B) Nevertheless：然而，沒有轉折。<br>(C) For example：例如，符合。<br>(D) In short：簡言之，後句不是摘要。<br>關鍵句意：例如，Barringer 隕石坑就是撞擊造成的。",
+  "<b>解題關鍵：</b>in one’s own right 表示「憑本身資格、獨立而言」。有人主張粵語本身就是一種語言。空格需名詞。<br>(G) right：權利、資格，固定片語完整。<br>(L) particular 是形容詞，後缺名詞；(F) ground 表理由，搭配不成立；(C) sound 是聲音。<br>關鍵句意：另一些人堅持粵語本身就是一種語言。",
+  "<b>解題關鍵：</b>前句問方言與語言如何不同，下一句說有兩類標準用來做這件事；結構是動詞＋languages from dialects。<br>(K) distinguish：區分，distinguish A from B 是固定搭配。<br>(B) determine 是決定，不能用 determine A from B；(A) recognized 是分詞；(H) converse 是交談。<br>關鍵句意：兩類標準用來區分語言和方言。",
+  "<b>解題關鍵：</b>whereas 形成對比：語言通常是書寫、官方且受到尊重；方言則多為口語、非官方、被看不起。<br>(J) prestigious：有聲望的，和 looked down upon 對照。<br>(A) recognized 要留給後文 recognized as；(L) particular 是特定的；(I) similar 是相似的，都沒有尊卑對比。<br>關鍵句意：官方語言通常享有聲望，方言常被輕視。",
+  "<b>解題關鍵：</b>這句解釋有權力的軍隊或政府能決定哪種方言成為官方語言。can 後需動詞原形。<br>(B) determine：決定，後接 which dialect 子句。<br>(K) distinguish 需搭配 from；(H) converse 是交談；(C) sound 在此也不合結構。<br>關鍵句意：有權力的團體能決定官方語言。",
+  "<b>解題關鍵：</b>so ... that 表示「如此……以至於……」。兩種言語在文法、字彙與發音夠相近，使用者才能彼此理解。<br>(I) similar：相似的，similar in grammar 等搭配完整。<br>(L) particular 是特定的；(J) prestigious 談聲望；(C) sound 不合形容詞位置。<br>關鍵句意：兩種話若非常相似，就被視為同一語言的方言。",
+  "<b>解題關鍵：</b>前句說使用者能 understand each other；On the other hand 引出相反情況，空格要用「理解」。<br>(E) comprehension：理解，作主詞接 is difficult。<br>(D) trouble 放入會成「困難是困難的」；(H) converse 是動詞；(C) sound 是聲音。<br>關鍵句意：若彼此理解很困難甚至不可能，就屬不同語言。",
+  "<b>解題關鍵：</b>前面提出互相理解的判準，接著用這個理由判定墨西哥與阿根廷西語為方言。<br>(F) ground：根據、理由，on this ground 是固定說法。<br>(G) right 搭配不自然；(L) particular 是形容詞；(E) comprehension 雖與理解相關，但不是 on this comprehension。<br>關鍵句意：依這項標準，兩者同屬西班牙語。",
+  "<b>解題關鍵：</b>兩地西語使用者能互相理解，所以彼此溝通幾乎沒有困難。have little ... V-ing 需要名詞。<br>(D) trouble：困難，have little trouble communicating 正確。<br>(E) comprehension 不用此結構；(F) ground 是理由；(L) particular 是形容詞。<br>關鍵句意：這兩種方言的使用者溝通幾乎沒有困難。",
+  "<b>解題關鍵：</b>粵語與華語使用者 hardly「幾乎不能」彼此做某事；can 後用動詞原形，且本段判準是能否交談。<br>(H) converse：交談，converse with each other 符合。<br>(E) comprehension 是名詞；(C) sound with each other 不成立；(K) distinguish 是區分。<br>關鍵句意：兩種語言的使用者幾乎無法彼此交談。",
+  "<b>解題關鍵：</b>丹麥人與挪威人彼此理解毫無困難，這使兩種語言「被認定為」同一語言的方言。make＋受詞＋過去分詞。<br>(A) recognized：被認定，recognized as 正確。<br>(B) determine 是原形；(J) prestigious 是有聲望的；(I) similar 後通常接 to。<br>關鍵句意：這項標準使兩種語言被視為方言。",
+  "<b>解題關鍵：</b>空格前說她反抗保守家庭、追求繪畫；空格後 Fortunately 與 therapy 表示她曾因衝突而崩潰，幸好繪畫成為治療。<br>(E) 完整連起反叛、家庭衝突、23 歲崩潰與繪畫療癒。<br>(A)(D) 談 Nana；(B) 談花園年代；(F) 談塔羅作品；(C) 泛談其他女性藝術家。<br>因此選 E。",
+  "<b>解題關鍵：</b>空格前介紹 Nana 系列歌頌女性；空格後 Some of these sculptures 必須先有女性雕塑可指。<br>(A) 先說系列由新娘、新手媽媽等女性人偶組成，後句可接其尺寸。<br>(D) 適合放在色彩與舞姿後總結；(B)(F) 屬塔羅花園；(E) 屬早年；(C) 泛談其他藝術家。<br>因此選 A。",
+  "<b>解題關鍵：</b>空格前描述 Nana 的鮮明色彩與快樂舞姿；空格應總結這些 joyful and powerful images 的意義，再轉入 Tarot Garden。<br>(D) 用 these images 承接並說向女性傳遞正面訊息。<br>(A) 應在前面介紹系列；(B)(F) 談花園；(E) 談家庭；(C) 會離開 Saint Phalle 主線。<br>因此選 D。",
+  "<b>解題關鍵：</b>空格前介紹 Tarot Garden 位於 Tuscany；空格後開始說園內雕塑，因此中間適合補興建與開放時間。<br>(B) 從 1979 開工到 1998 開放，主詞仍是 garden，銜接順暢。<br>(F) 應放在「與算命無關」後；(A)(D) 屬 Nana；(E) 屬早年；(C) 泛談女性藝術。<br>因此選 B。",
+  "<b>解題關鍵：</b>空格前說塔羅雕塑與 fortune telling 無關；下一句應用 Instead 說作品真正關注什麼。<br>(F) 指出作品聚焦人生經驗、性格與自我認識，正面承接。<br>(B) 是建園年代；(A)(D) 是 Nana；(E) 是個人病況；(C) 沒有承接算命。<br>因此選 F。",
+  "<b>解題關鍵：</b>第一段列出初期建壩目的：control floods、provide irrigation water、produce hydroelectric power；題目問未提哪項。<br>(A) 促進觀光：最後雖說今日吸引遊客，但不是起初理由，故為答案。<br>(B) 支援農業：irrigation 符合。<br>(C) 發電：hydroelectric power 符合。<br>(D) 防災：control floods 可視為防洪。<br>因此 NOT 題選 A。",
+  "<b>解題關鍵：</b>第一句說 Hoover Dam 位於 Black Canyon，straddling the border between Nevada and Arizona，也就是橫跨兩州邊界。<br>(A) 相反：工程約五年，不超過十年。<br>(B) 過時：初稿樸素但後來已重設計。<br>(C) 符合：所在地跨兩州。<br>(D) 相反：峽谷早在建壩前已被調查。<br>因此選 C。",
+  "<b>解題關鍵：</b>第一段說工程動員數千人，cost over one hundred lives，表示建造期間超過百人死亡。<br>(A) 相反：條件雖困難，公司仍提早完成。<br>(B) 符合：施工中失去部分工人。<br>(C) 相反：同規模結構從未建過，技術也未驗證。<br>(D) 相反：公司未放棄，還提前交付。<br>因此選 B。",
+  "<b>解題關鍵：</b>第三段說原始設計重功能、外觀太平淡；Kaufmann 被請來 redesign the exterior 並加入 Art Deco。<br>(A) 符合：他改善水壩外觀。<br>(B) 未提：不是他強化功能。<br>(C)(D) 都是 Allen Tupper True 的工作，他把原住民自然圖像用在牆地設計。<br>因此選 A。",
+  "<b>解題關鍵：</b>第二段追溯名稱：1760 年代巴黎商人喜歡被認為具有 restorative 作用的健康清湯，hence the term restaurant。<br>(A) 名廚是革命後進餐館，不是詞源。<br>(B) 符合：流行清湯產生名稱。<br>(C) 餐廳是後來場所。<br>(D) 菜單未作為詞源。<br>因此選 B。",
+  "<b>解題關鍵：</b>第三段先說多數人連麵包都買不起，再說嚴冬與重稅 had taken their toll on kitchen tables，意指家庭缺少食物。<br>(A) 符合：使人無法獲得足夠食物。<br>(B) 未提營養控制。<br>(C) 把 toll 誤解成收費。<br>(D) pay tribute 是致敬，與飢餓相反。<br>因此選 A。",
+  "<b>解題關鍵：</b>第二段對比貴族豪華廚房與大眾用餐處：中世紀路邊旅店 dusty、shabby，食物也普通。<br>(A) 相反：精熟廚師為貴族服務。<br>(B) 錯置年代：有名聲餐廳到 1780 年代才出現。<br>(C) 符合：中世紀公共用餐處破舊骯髒。<br>(D) 相反：1780 年代可選多種菜。<br>因此選 C。",
+  "<b>解題關鍵：</b>末段說 Napoleon 給人民 freedom of pleasure，因他認為專注香檳美食的人不會密謀反抗。<br>(A) 未提改善生活是主因。<br>(B) 失業廚師在革命期間已找到餐館工作。<br>(C) 未提旅遊業。<br>(D) 符合：餐飲娛樂可減少反抗，帶來政治穩定。<br>因此選 D。",
+  "<b>解題關鍵：</b>第三段說獵鷹能 deliver prey without killing it first；這符合食用動物必須仍活著、再依教法處理的要求。<br>(A) 未說容易訓練。<br>(B) 關係重要但非清真狩獵獨特點。<br>(C) 視力佳不是伊斯蘭規範特有需求。<br>(D) 符合：活著交付獵物。<br>因此選 D。",
+  "<b>解題關鍵：</b>第一段對比過去與現在：過去獵鷹是補充飲食，現在成為最受喜愛的 sport and pastime。<br>(A) 是過去目的。<br>(B) 符合：運動和休閒即娛樂與鍛鍊。<br>(C) 國鳥地位不是狩獵目的。<br>(D) 文章只是比喻空中獵犬，沒說取代狗。<br>因此選 B。",
+  "<b>解題關鍵：</b>最後一段列出特殊待遇：有專門醫院、自己的護照，還可合法搭機；題目問選項中確有提到者。<br>(A) 未提免費機票。<br>(B) 誇大：有護照，但沒說國王核發。<br>(C) halal 是獵物肉品規定。<br>(D) 符合：specialist hospitals 提供專業醫療。<br>因此選 D。",
+  "<b>解題關鍵：</b>第二段說最適合捕捉的是有 naturally nurtured hunting skills、年齡一到兩歲的野生獵鷹。<br>(A) 相反：禁食在抓到後，用來馴服。<br>(B) 相反：拿掉頭罩後第一眼看到主人。<br>(C) 未提頭罩印名字。<br>(D) 符合：有天生狩獵技巧的野生獵鷹最理想。<br>因此選 D。",
+  "<b>解題關鍵：</b>第一段按時間介紹木球、Featherie、Gutta Percha、Haskell 到凹洞球，重點是累積改良如何改變製法。<br>(A) 範圍太廣，沒點出球的演進。<br>(B) 文中未把三項列為品質判準。<br>(C) 符合整段時間演變。<br>(D) 空氣力學在第二段，也沒說懂它就打得好。<br>因此選 C。",
+  "<b>解題關鍵：</b>第一段直接比較 Haskell 與前一代 Gutta Percha：能多飛二十碼，而且 more durable。<br>(A) 錯置人物：Taylor 發明凹洞球。<br>(B) 錯置材料：塞鳥羽的是 Featherie。<br>(C) 相反：最早先用木球。<br>(D) 符合：Haskell 更耐用、飛更遠。<br>因此選 D。",
+  "<b>解題關鍵：</b>第二段說凹洞能 minimize 向後拉力，也使氣流向下、把球往上推，因此球能 travel faster and longer。<br>(A) 符合：幫助球飛更遠。<br>(B) 未提維持球形。<br>(C) 相反：凹洞降低 drag，不是增強。<br>(D) 未提承受撞擊。<br>因此選 A。",
+  "<b>解題關鍵：</b>最後說 deeper dimples 會產生 higher flight path。深沙坑需要把球先打高才能越過坑緣，這是合理推論。<br>(A) 符合：深凹洞球飛行路徑較高。<br>(B) Gutta 材料只談耐用價格。<br>(C) Featherie 無高飛線索。<br>(D) 光滑外殼少了凹洞升力。<br>因此選 A。"
+].forEach((explain, index) => {
+  window.BANK.at(-1).questions[index].explain = explain;
+});
+
+[
+  [12, "When 也清楚標出身體狀態出現時，修復反應隨即啟動。"],
+  [38, "「超過一百條人命」是直接證據，不是由困難環境自行猜測。"],
+  [39, "分辨兩位設計者的工作，可避免把外觀改造與牆面裝飾混在一起。"],
+  [40, "抓住 hence「因此得名」即可確定前面的清湯才是名稱來源。"],
+  [41, "這裡的 kitchen tables 代指一般家庭能否有食物可吃。"],
+  [42, "題目問革命前，核對 Middle Ages 與 1780s 的年代尤其重要。"],
+  [43, "這是從 Napoleon 自己提出的政治理由直接找到的答案。"],
+  [44, "關鍵不是獵得多快，而是交付時獵物仍能依教法處理。"],
+  [45, "題目中的 today 要和第一段 In the past 的舊目的分開判讀。"],
+  [46, "passports 與搭機也有提到，但選項內容都加入原文沒有的條件。"],
+  [47, "自然養成的技巧出現在捕捉條件，禁食則是後來的訓練步驟。"],
+  [48, "主旨題要涵蓋整段時間線，不能只抓其中一次材料或技術改良。"],
+  [49, "predecessor 在此就是前一代 Gutta Percha 球。"],
+  [50, "原文用 faster and longer 直接說明凹洞對飛行距離的效果。"],
+  [51, "題目雖未直接寫答案，但高飛路徑能越過坑緣，推論有原文依據。"]
+].forEach(([no, note]) => {
+  window.BANK.at(-1).questions[no - 1].explain += `<br>${note}`;
+});
+
 /* z109.js */
 // 109 學年度指定科目考試英文考科（選擇題 51 題）
 // 題文與答案取自大學入學考試中心正式題本及正式選擇題答案。
@@ -17818,6 +17974,69 @@ window.BANK.push((() => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
 
+[
+  "<b>解題關鍵：</b>John 每次提案，辦公室的人都會 lend their support；他們和 John 在同一間辦公室共事，所以是同事。<br>(A) villains：壞人、反派，和支持他的線索不合。<br>(B) executives：高階主管，文中沒說這些人的職位。<br>(C) colleagues：同事，符合在同一辦公室工作。<br>(D) intruders：闖入者，不會是可靠的工作夥伴。<br>把答案放回去：John 很幸運有這樣支持他的同事。",
+  "<b>解題關鍵：</b>Joan 是去年 MVP，且 No other player can replace her，表示沒有人能取代她，對球隊不可或缺。<br>(A) indispensable：不可或缺的，符合。<br>(B) comprehensible：可理解的，通常形容說明。<br>(C) affordable：負擔得起的，形容價格。<br>(D) permissible：可允許的，形容行為或規定。<br>把答案放回去：Joan 對球隊不可或缺，沒有別的球員能取代她。",
+  "<b>解題關鍵：</b>樣本數不夠大，不能作 firm conclusions「確定結論」，因此解讀結果時要小心，不可過度推論。with 後接名詞。<br>(A) metaphor：比喻，不是研究態度。<br>(B) caution：謹慎，with caution 是「審慎地」。<br>(C) enthusiasm：熱情，可能讓人忽略限制。<br>(D) impulse：衝動，和小心解讀相反。<br>把答案放回去：樣本不足，研究結果必須謹慎解讀。",
+  "<b>解題關鍵：</b>主詞是 a small group of soldiers，敵軍人數更多；Although 後說雖在人數劣勢，他們仍勇敢獲勝。句子是被動語態。<br>(A) initiated：被開始、發起，不能比較人數。<br>(B) contradicted：被反駁，通常用於說法。<br>(C) outnumbered：在人數上少於對方，符合。<br>(D) triggered：被觸發，和戰力人數無關。<br>把答案放回去：這小群士兵雖人數遠少於敵軍，仍然獲勝。",
+  "<b>解題關鍵：</b>Wise 先生因為對弱勢兒童與社區長者的付出而獲獎；his ... to people 需要能表示長期奉獻的名詞。<br>(A) competence：能力，通常說 competence in。<br>(B) prospect：前景、可能性。<br>(C) momentum：動力、勢頭，不能接 to needy children。<br>(D) devotion：奉獻、投入，devotion to people 符合。<br>把答案放回去：他因對弱勢者的奉獻而獲獎。",
+  "<b>解題關鍵：</b>直接用話語 express love，就是把原本看不見的愛「表現出來」。to 後需要動詞原形。<br>(A) manifest：展現、表明，manifest your love 符合。<br>(B) resemble：像，不能說讓愛像家人。<br>(C) execute：執行，通常接計畫或命令。<br>(D) instruct：指示、教導，受詞通常是人。<br>把答案放回去：直接說出口是展現家人之愛的好方法。",
+  "<b>解題關鍵：</b>while 形成兩方對比：有人視複製動物為醫學突破，另一些人認為它應被 prohibited「禁止」，所以他們覺得不符合倫理。<br>(A) legitimate：合法正當的，和應禁止矛盾。<br>(B) inclusive：包容的，和倫理爭議無關。<br>(C) unethical：不道德的，符合禁止理由。<br>(D) nonmilitant：非好戰的，與複製技術無關。<br>把答案放回去：有些人認為複製動物不道德，應該禁止。",
+  "<b>解題關鍵：</b>群居動物有 multiple pairs of eyes，較能找食物、發現危險；than 後應放與群居相反的「單獨動物」。<br>(A) contagious：有傳染性的，不描述是否群居。<br>(B) rigid：僵硬的、嚴格的。<br>(C) distinctive：有特色的，沒有單獨意思。<br>(D) solitary：獨居的、單獨的，和 stay in groups 對比。<br>把答案放回去：群居動物比獨居動物更容易發現危險。",
+  "<b>解題關鍵：</b>新書第一頁列出所有 helped in the publication 的人，這通常是作者向協助者表達感謝與肯定。<br>(A) contemplates：深思，不能直接表示感謝他人。<br>(B) acknowledges：公開致謝、肯定，符合書籍致謝頁。<br>(C) inquires：詢問，通常接 about。<br>(D) regulates：管制，和出版協助無關。<br>把答案放回去：作者在新書首頁感謝所有協助出版的人。",
+  "<b>解題關鍵：</b>Due to the recession 表示景氣衰退，即使受過良好教育與訓練，也不容易找到薪資待遇「像樣、合理」的工作。空格是副詞修飾 paid。<br>(A) compatibly：相容地，不能形容薪資好壞。<br>(B) decently：像樣地、合理地，decently paid 符合。<br>(C) relevantly：相關地。<br>(D) virtually：幾乎、實際上。<br>把答案放回去：衰退時很難找到待遇不錯的工作。",
+  "<b>解題關鍵：</b>第一段介紹消保委員會對各種消保組織負責 supervision and coordination，因此它「擔任」監督協調者。<br>(A) serves as：擔任、充當，符合。<br>(B) fights for：為……奮鬥，後面卻是 supervisor 角色名詞。<br>(C) persists in：堅持，後面應接 V-ing。<br>(D) corresponds to：對應於，不表示肩負職務。<br>關鍵句意：委員會擔任各消保組織的監督與協調者。",
+  "<b>解題關鍵：</b>委員會要 improve the well-being of consumers，倡導 fair trade 與不讓消費者吃虧的定價，因此價格應「合理」。<br>(A) prominent：突出的、知名的，不形容價格是否公平。<br>(B) essential：必要的，essential pricing 不自然。<br>(C) reasonable：合理的，reasonable pricing 與 fair trade 並列。<br>(D) intensive：密集的，通常形容訓練。<br>關鍵句意：委員會倡導公平交易與合理定價。",
+  "<b>解題關鍵：</b>assist consumers involved in ... with businesses 表示協助那些和企業或製造商發生某種問題的消費者；需要複數名詞「爭議」。<br>(A) references：參考資料。<br>(B) shortages：短缺，未必涉及雙方衝突。<br>(C) purchases：購買行為，本身不一定需協助。<br>(D) disputes：爭端，disputes with businesses 符合。<br>關鍵句意：委員會協助處理消費者與業者的爭議。",
+  "<b>解題關鍵：</b>ensure that 後面是完整子句，主詞 all labels and advertisements 為複數，需直接接現在式動詞；conform to regulations 是遵守規定。<br>(A) conform：原形／複數主詞現在式，正確。<br>(B) conformed：過去式，與現在措施不合。<br>(C) conforming：V-ing，句中會缺主要動詞。<br>(D) to conform：不定詞，也不能作 that 子句主要動詞。<br>關鍵句意：這些措施確保標示廣告遵守規定。",
+  "<b>解題關鍵：</b>空格後的 regulatory power and administrative resources 是委員會能扮演重要角色所「憑藉」的條件。<br>(A) From：從，不能表示擁有資源所以能行動。<br>(B) With：憑藉、有了，因果合理。<br>(C) Despite：儘管，會把權力資源當阻礙。<br>(D) Beyond：超越，不合。<br>關鍵句意：憑藉監管權力與行政資源，委員會能保護消費者。",
+  "<b>解題關鍵：</b>前句說 Fleming 的實驗室 long been untidy，下一句 this ... proved fortunate；this 指的就是凌亂狀態意外帶來好運。<br>(A) merit：優點，沒有指出凌亂。<br>(B) opinion：意見。<br>(C) scandal：醜聞。<br>(D) disorder：混亂、凌亂，承接 untidy laboratory。<br>關鍵句意：他實驗室的凌亂這次意外成為好事。",
+  "<b>解題關鍵：</b>時間順序是：休假前把培養皿堆在水槽，休假後回來才整理。因此「堆放」早於另一過去動作 came back，要用過去完成式 had＋過去分詞。<br>(A) would pile：過去將會／習慣，無先後完成意。<br>(B) had piled：早已堆放，正確。<br>(C) was piling：當時正在堆。<br>(D) might have piled：可能堆過，但文中是確定事實。<br>關鍵句意：休假前他已把培養皿堆在水槽。",
+  "<b>解題關鍵：</b>培養皿在長假期間留在水槽，沒有人照看，回來時才發現真菌污染。空格修飾 dishes。<br>(A) disabled：失去功能的，常形容人或設備。<br>(B) excluded：被排除的。<br>(C) unattended：無人照管的，符合長假放置情況。<br>(D) misunderstood：被誤解的，不能形容培養皿管理。<br>關鍵句意：他整理長時間無人照看的培養皿。",
+  "<b>解題關鍵：</b>多個培養皿被真菌污染、實驗已毀，Fleming 原本正要把它們「丟掉」，但其中一皿的細菌未生長，引起注意。<br>(A) toss out：丟棄，符合。<br>(B) get off：下車、離開。<br>(C) catch up：趕上進度。<br>(D) carry on：繼續，若繼續使用已污染皿不合。<br>關鍵句意：他正要丟掉培養皿，卻注意到重要現象。",
+  "<b>解題關鍵：</b>結尾用 however 說，偶然機會還不夠；科學家也必須有 prepared and open mind 才能看出意外的重要性。因此是「單靠機會」。<br>(A) alone：單獨地，chance alone 符合。<br>(B) alike：相似地。<br>(C) above：在上方。<br>(D) ahead：在前方。<br>其他字都不能表達「只有機會仍不足」。關鍵句意：單靠偶然不足以造就重大發現。",
+  "<b>解題關鍵：</b>第一段先說他 became known as “Birdman of Alcatraz”，下一句 Despite this ... 說其實他只在另一座監獄養鳥；空格需指這個稱呼。<br>(I) nickname：綽號，符合。<br>(L) privilege 是特權，應放後面養鳥權利；(F) imprisonment 是監禁；(A) keen 是形容詞。<br>關鍵句意：儘管有這個綽號，他其實沒在 Alcatraz 養鳥。",
+  "<b>解題關鍵：</b>Stroud 被判絞刑後，母親 desperately 為保住他的性命而求情；空格需過去式，並搭配 for his life。<br>(K) pleaded：懇求，plead for someone’s life 正確。<br>(E) supportive 是形容詞；(C) release 是釋放；(D) banned 是禁止，均不合母親的動作。<br>關鍵句意：他的母親拚命為他的性命求情。",
+  "<b>解題關鍵：</b>總統把死刑改為終身監禁且不得假釋。life 後需要名詞，形成法律固定搭配。<br>(F) imprisonment：監禁，life imprisonment 是無期徒刑。<br>(C) release 是釋放，與 without parole 矛盾；(L) privilege 是特權；(G) illness 是疾病。<br>關鍵句意：他的死刑被改為不得假釋的終身監禁。",
+  "<b>解題關鍵：</b>因 Stroud 會突然暴力發作，典獄長讓他在 total isolation 中生活；空格修飾 unit，表示隔離區。<br>(H) separated：分開、隔離的，符合。<br>(E) supportive 是支持的，和孤立相反；(D) banned 是被禁止的，不能形容單位用途；(J) effective 是有效的。<br>關鍵句意：他被安置在隔離單位獨自服刑。",
+  "<b>解題關鍵：</b>他發現受傷麻雀後，開始研究、飼養近三百隻鳥並寫書，表示對鳥產生「濃厚興趣」。空格修飾 interest。<br>(A) keen：強烈的、濃厚的，keen interest 正確。<br>(E) supportive 是支持的，不自然形容興趣；(J) effective 是有效的；其餘多為名詞或動詞。<br>關鍵句意：他在發現麻雀後對鳥類產生濃厚興趣。",
+  "<b>解題關鍵：</b>他獲得特殊權利，可在牢房飼養近三百隻鳥；to 後需動詞原形，且語意是讓鳥繁殖。<br>(B) breed：繁殖、飼育，breed birds 正確。<br>(C) release：釋放，和在牢房養鳥相反；(K) pleaded 是過去式；(D) banned 是分詞。<br>關鍵句意：他獲准在牢房繁殖鳥類並設置實驗室。",
+  "<b>解題關鍵：</b>As a result of this ... 指前句特別准許他養鳥、設實驗室的「特殊權利」，因此他才能寫書研究。<br>(L) privilege：特權，承接 special right。<br>(C) release 是釋放，沒有獲釋；(E) supportive 是形容詞；(F) imprisonment 雖在獄中，但不是促成研究的特別條件。<br>關鍵句意：靠這項特權，他得以研究並出版鳥類書籍。",
+  "<b>解題關鍵：</b>他研究金絲雀及 diseases，還開發 medicines；空格應用名詞表示藥物治療的鳥類疾病。<br>(G) illness：疾病，various kinds of bird illness 符合。<br>(F) imprisonment 是監禁；(B) breed 是繁殖；(J) effective 是有效的，詞性與 medicines for 不合。<br>關鍵句意：他甚至研發並販售治療各種鳥類疾病的藥。",
+  "<b>解題關鍵：</b>remedies 是療法；widely debated whether ... 表示大家爭論它們到底「有沒有效」。whether 後需形容詞作補語。<br>(J) effective：有效的，符合。<br>(E) supportive 是支持性的，不形容藥效；(D) banned 是被禁；(A) keen 是強烈的。<br>關鍵句意：雖然這些療法是否有效仍有爭議，他的觀察仍有研究價值。",
+  "<b>解題關鍵：</b>在 Alcatraz 寫的兩份手稿沒有出版，because 後交代獄方不允許；句子是 it was ... by authorities，需要過去分詞。<br>(D) banned：被禁止，符合。<br>(C) release 是原形且指釋放；(H) separated 是分開的；(J) effective 是有效的，都不能解釋未出版。<br>關鍵句意：手稿因遭獄方禁止而未出版。",
+  "<b>解題關鍵：</b>空格前說鬥士以致命武器戰到認輸或死亡；空格後說羅馬人喜歡血腥，擠進競技場觀看，因此中間應交代這些戰鬥的娛樂目的。<br>(E) 說鬥士為權貴和大眾娛樂而戰，完整連接戰鬥與觀眾。<br>(A) 來源應放第二段列舉奴隸前；(D) 女性應放 both male and female 前；(C)(F) 屬飲食段；(B) 起源未被後文說明。<br>因此選 E。",
+  "<b>解題關鍵：</b>空格後連列 Some were slaves、some prisoners、others volunteers，都是不同來源；前句應先提出總括句。<br>(A) 鬥士從不同來源招募，後面的三類正好作例子。<br>(D) 女性參賽應放本段後方；(E) 娛樂目的屬前段；(C)(F) 屬飲食研究；(B) 說起源神祕，反而無法引出明確來源。<br>因此選 A。",
+  "<b>解題關鍵：</b>空格後說 All fighters, both male and female 都受到照顧；both male and female 必須承接前句已提到女性鬥士。<br>(D) 提出證據顯示女性也參加競技，銜接最直接。<br>(A) 已在前面談來源；(E) 是娛樂目的；(C)(F) 屬大麥飲食；(B) 起源神祕與性別無關。<br>因此選 D。",
+  "<b>解題關鍵：</b>前句說鬥士被稱為 hordearii「吃大麥者」；空格後用骨骼化學分析證明食物含大麥，所以中間要預告名稱可能真是字面意思。<br>(C) Recent research findings 承接名稱，後句再提出研究證據。<br>(F) 是補充少肉奶，應在列出植物食物後；(A)(D)(E) 屬身分與競技；(B) 起源未接飲食。<br>因此選 C。",
+  "<b>解題關鍵：</b>前句列出 wheat, barley, beans，都是植物性食物；後句 In addition to a plant-heavy diet 繼續談飲食，因此空格應補充幾乎沒吃肉奶。<br>(F) 以 Also 加入肉與乳製品很少，完整描繪植物性飲食。<br>(C) 應放研究證據前；(A)(D)(E) 屬前兩段；(B) 談來源。<br>因此選 F。",
+  "<b>解題關鍵：</b>第一段交代污水處理出現的背景，第二段依序說篩除、初級沉澱、次級分解、沙濾、加氯等完整流程，核心是如何處理廢水。<br>(A) 污水成分只在流程中舉例，範圍太小。<br>(B) 符合全文主旨：現代廢水處理。<br>(C) 排水系統歷史只在第一段背景。<br>(D) 製造廢棄物只是需求增加原因之一。<br>因此選 B。",
+  "<b>解題關鍵：</b>這是 NOT 題。第一段說人口增加使舊排水系統 overloaded，工業革命又加入 manufacturing waste，因此需要更有效處理。<br>(A) 人口成長：直接提到。<br>(B) 工業廢棄物增加：直接提到。<br>(C) 排水系統超載：直接提到。<br>(D) 氣候變遷豪雨：全文沒有這個因果，早期系統處理雨水不等於氣候變遷。<br>因此選 D。",
+  "<b>解題關鍵：</b>第二段先說木頭等大型物與泥土等重物在進水泥槽前篩掉；到 primary tanks 時，sludge 下沉，oils and grease 浮上收集。<br>(A) wood：前一階段已篩除。<br>(B) heavy material：前一階段移除。<br>(C) grease：在初級池浮到上方收集，符合。<br>(D) organic matter：此處被分解成較小物質，不是題目所問的收集移除。<br>因此選 C。",
+  "<b>解題關鍵：</b>第二段在次級處理後寫 liquid sewage is filtered through sand，下一句說此過濾 gets rid of almost all bacteria 及殘餘固體。<br>(A) 符合：主要目的之一是去除幾乎所有細菌。<br>(B) drain water 不是通過沙的功能。<br>(C) 沙濾是濾除，不是溶解固體。<br>(D) 油脂早在初級池浮起收集。<br>因此選 A。",
+  "<b>解題關鍵：</b>各段共同說明 PCBs、PBDEs 等持久性有機污染物，即使在七英里深的 Mariana Trench 仍污染生物，並沿食物鏈轉移。<br>(A) 文章不是說受污染生物減少。<br>(B) 遙控載具只是研究工具。<br>(C) 符合：持久有毒化學物污染深海。<br>(D) 只列兩類化學物用途，並非整理所有工業污染類型。<br>因此選 C。",
+  "<b>解題關鍵：</b>第四段先說 POPs build up in bodies、藏在脂肪；生物死後，their POP-riddled bodies 沉底，表示身體裡充滿污染物。<br>(A) operated by：由 POP 操作，生物不是機器。<br>(B) filled with：充滿，最接近 riddled with。<br>(C) completed with：用 POP 完成，不合。<br>(D) discarded by：被 POP 丟棄，方向錯誤。<br>因此選 B。",
+  "<b>解題關鍵：</b>第二段說研究團隊 sent a remotely operated vehicle 深入海溝，robotic submarine 把生物帶回水面。<br>(A) 錯置：電子產品廣用的是 PBDEs；PCBs 用於多種工業用途。<br>(B) 相反：化學物可隨生物遺體沉到海底。<br>(C) 相反：最深處也受到嚴重污染。<br>(D) 符合：使用遙控機器載具研究。<br>因此選 D。",
+  "<b>解題關鍵：</b>文章直接說 POPs 會累積在生物體內，死亡後被其他深海生物吃掉，沿食物鏈轉移；由食物鏈可合理推論污染可能影響人類健康。<br>(A) 合理推論：海洋污染會威脅人類。<br>(B) 未提正在制定新法規。<br>(C) 相反：兩者長期不分解，並未變得較無害。<br>(D) 相反：海溝生物毒素甚至是最污染河川的五十倍，且未比較工業區。<br>因此選 A。",
+  "<b>解題關鍵：</b>全文正面介紹 haka 的動作、毛利語原義、歷史、賽前功能與今日文化象徵，稱它 powerful、pride、recognizable symbol，沒有嘲笑或絕望。<br>(A) cynical：憤世嫉俗，沒有。<br>(B) humorous：幽默，文章是認真介紹。<br>(C) pessimistic：悲觀，和文化驕傲相反。<br>(D) respectful：尊重的，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>第一段直接說 All Blacks 賽前表演 intended to heighten their morale and intimidate opponents；題目問他們自己的目的。<br>(A) anger opponents 不是原文，原文是威嚇。<br>(B) 未提為名聲或媒體注意。<br>(C) 符合：heighten morale 就是提升自己的士氣。<br>(D) 未提賽前為尊敬祖先。<br>因此選 C。",
+  "<b>解題關鍵：</b>最後一段說 Though the practice had traditionally been limited to Māori communities, it has now spread；practice 指前文反覆提到的 doing the haka 這項活動。<br>(A) sport：運動，haka 可在球場但本身是舞蹈儀式。<br>(B) performance：表演，最接近此處活動。<br>(C) competition：競賽，haka 不在比輸贏。<br>(D) occupation：職業，和社群傳統無關。<br>因此選 B。",
+  "<b>解題關鍵：</b>最後一段說今日 haka 用於迎賓、生日、婚禮、葬禮；傳統上限毛利社群，現在毛利與歐裔紐西蘭人都自豪表演。<br>(A) 相反：有男女皆可與女性專屬 haka，也不只戰場。<br>(B) 相反：毛利語原義只是 dance，不是戰舞。<br>(C) 相反：Kapa o Pango 2005 才寫成，不可能自 1906 輪流。<br>(D) 符合今日用途與族群。<br>因此選 D。",
+  "<b>解題關鍵：</b>第一段說 2015 年 ESSA 取代 NCLB；後四段集中介紹評量的新方向：彈性、多科、學習過程與評量用途。<br>(A) 電腦只是第二段的一種工具。<br>(B) 文章說的是評量想法，不是 ESSA 四個法案組成。<br>(C) 只涵蓋學生中心，漏掉法案轉換與多科等。<br>(D) 同時包含 NCLB 到 ESSA 的變化與評量焦點，最完整。<br>因此選 D。",
+  "<b>解題關鍵：</b>第二段先說標準化測驗方便但不完整，改採個人化學生中心評量又 difficult and time-consuming；technology can help solve this dilemma。困境就是要不要採用較完整但難執行的新評量。<br>(A) SAT 與 ACT 只是例子，沒有二選一。<br>(B) ESSA 已取代 NCLB，不是當下困境。<br>(C) 符合是否採學生中心評量。<br>(D) 電腦評量是解法，不是要不要取代它。<br>因此選 C。",
+  "<b>解題關鍵：</b>第三段區分傳統與新納入科目：traditional math and reading；全美也早已至少兩次考 science；some are now starting to include social studies, government, or economics。<br>(A) Math：傳統科目。<br>(B) Reading：傳統科目。<br>(C) Science：各州已實施，不是此處新興。<br>(D) Economics：部分州正開始納入，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>新增句介紹 learning portfolio 蒐集學期不同時間點作品，呈現 effort, progress, achievements；這是「持續蒐集學習過程資料」的具體例子。<br>(A) 第二段談評量彈性與電腦適性。<br>(B) 第三段談多科評量。<br>(C) 第四段強調 throughout learning process 並在不同時間點累積資料，完全符合。<br>(D) 第五段談評量結果如何改善教與學。<br>因此選 C。"
+].forEach((explain, index) => {
+  window.BANK.at(-1).questions[index].explain = explain;
+});
+
+[
+  [36, "第一段只是背景，第二段的完整處理程序才是篇幅與資訊重心。"],
+  [40, "主旨涵蓋污染位置、污染物特性與食物鏈傳遞，不只研究方法。"]
+].forEach(([no, note]) => {
+  window.BANK.at(-1).questions[no - 1].explain += `<br>${note}`;
+});
+
 /* z108.js */
 // 108 學年度指定科目考試英文考科（選擇題 51 題）
 // 題文與答案取自大學入學考試中心正式題本及正式選擇題答案；正式統計由共用資料掛載。
@@ -17904,57 +18123,57 @@ window.BANK.push((() => {
 })();
 
 [
-  "告示禁止未經允許踏入 Johnson 一家的土地；property 表示「私人土地、財產」。",
-  "老師不只負面批評，而提供能協助改進的建設性回饋；constructive 表示「建設性的」。",
-  "開車時投入電話交談會提高事故風險；be engaged in 表示「投入、從事」。",
-  "壯麗瀑布景觀使 Mike 因敬畏與讚嘆而顫抖；awe 表示「敬畏」。",
-  "書本多且重，書架需足夠堅固承重；sturdy 表示「堅固的」。",
-  "多年重量訓練使前臂粗壯有肌肉；muscular 表示「肌肉發達的」。",
-  "公司財務危機又遇銷售銳減，已瀕臨破產；bankruptcy 表示「破產」。",
-  "雨後水珠在陽光下使草地閃耀；glistened 表示「閃閃發光」。",
-  "長城用來強化北方邊界、抵禦外敵；fortify 表示「鞏固、防禦」。",
-  "小說中的瘋狂科學家在實驗室急促瘋狂地工作；frantically 表示「狂亂地」。",
-  "列舉 Michelle Obama、Rihanna、Beyoncé 等名人後，以 among others 表示尚有其他人。",
-  "Europe 是先行地點，後接 where 引導關係子句，說明她在歐洲接觸多元文化。",
-  "她有法律碩士卻走入時尚業，是有趣且出人意料的對比；Interestingly 符合語氣。",
-  "作品使她獲得全球認可；recognition 表示「認可、肯定」。",
-  "她常被 CNN 等國際媒體專題報導；be featured in 表示「在媒體中被報導」。",
-  "全球現有四百二十多條海底電纜正在服役；in service 表示「使用中」。",
-  "海底電纜看似現代，其實並非新現象；句尾 though 表示轉折。",
-  "電纜速度快且名為 FASTER，Suitably 表示「名稱取得恰當地」。",
-  "電纜脆弱且路線需避開多種地形，安裝時要格外小心；care 表示「謹慎」。",
-  "珊瑚礁、沉船與魚床都是鋪設電纜須避開的障礙物；obstacles 表示「障礙」。",
-  "博物館原先為容納 Getty 的龐大藝術收藏而建；house 作動詞表示「收藏、容納」。",
-  "館藏太多，只能輪流展出，因而不斷變換的特展成為亮點；ever-changing 符合語意。",
-  "建築本身像藝術品，出乎許多只期待看館藏的訪客意料；surprised 表示「使驚訝」。",
-  "戶外空間本身即可提供完整的藝術體驗；artistic 表示「藝術的」。",
-  "金屬、石材和玻璃是建築使用的基本材料；materials 表示「材料」。",
-  "around every corner and at every turn 表示每個轉角都有新景觀。",
-  "洞石來自義大利；imported from 表示「從……進口」。",
-  "切割後顯露原本藏在粗糙表面下的化石珍寶；hidden 表示「隱藏的」。",
-  "特色石等待被發現並帶給訪客喜悅；delight 表示「使愉悅」。",
-  "各種導覽讓人深入探索建築師技巧與理念；explorations 表示「探索活動」。",
-  "前文交代 Copernicus 的行政生活，接著說他利用閒暇研究星辰並運用數學，銜接觀測工作。",
-  "1530 年完成著作後，however 轉說直到死前兩個月才出版，符合時間脈絡。",
-  "日心說主張地球自轉並繞太陽，與中世紀地心哲學及宗教信念相衝突。",
-  "後句說其他宗教人士也跟進批判，故先列 Martin Luther 反對日心模型。",
-  "他把書獻給教宗仍無法取得教會認可，後文教會最終禁書，故此舉沒有作用。",
-  "全文介紹爪哇傳統發酵黃豆食品 tempeh 的起源、營養與食用方式。",
-  "tempeh 由黃豆殘渣受微生物孢子作用發酵形成，故 C 正確。",
-  "第二段談意外起源，第三段談營養益處，第四段談料理方式，順序為 origin、nutrition、cuisine。",
-  "結尾把 tempeh 與已獲 UNESCO 認定的 batik 相提並論，可推知它可能成為國際文化象徵。",
-  "文章先以 Spiegel 手術後不用止痛藥、改用自我催眠的事件引入主題。",
-  "Spiegel 研究催眠減輕疼痛、焦慮與壓力，並希望取代止痛藥，目標是探索醫療用途。",
-  "催眠是高度專注狀態，會排除周遭刺激，把心思集中在正在做的事。",
-  "容易被催眠者較容易沉浸在好電影中，可推知也較容易認同虛構角色。",
-  "全文比較英語與狩獵採集語言的嗅覺詞彙，指出語言使用與生存環境的關聯。",
-  "For want of dedicated terminology 中 want 表示「缺乏」。",
-  "Maniq 生活於未受人類大幅改變的熱帶雨林，其環境較近似早期人類生活條件。",
-  "英語使用者嗅覺能力並不差，但生活不靠氣味求生，因此缺少直接描述氣味的詞彙。",
-  "正確圖片 B 呈現深色身軀、四肢黑白橫紋、長頸與大耳等 okapi 特徵。",
-  "okapi 之於剛果如熊貓之於中國，是該國重要象徵。",
-  "the first whiff 指西方世界首次得到一點 okapi 的線索；whiff 在此為「些微跡象」。",
-  "Stanley 只在書中困惑於所謂 African donkey，當時尚不知道那其實是 okapi。"
+  "<b>解題關鍵：</b>告示說 no one is allowed to set foot on... without permission，表示未經允許不可踏入 Johnson 一家的私人土地。<br>(A) margin：邊緣、頁邊，不是整塊住宅土地。<br>(B) shelter：避難所，題目沒有躲避危險的線索。<br>(C) reservation：保留、預約或保留區，不表示一家人的房產。<br>(D) property：財產、地產，set foot on one's property 是踏入某人的土地，完全符合。<br>常見誤選是 C，因 reservation 也可指一塊地，但通常是政府劃設的保留區，不能自然指 Johnson 家的住宅。",
+  "<b>解題關鍵：</b>Instead of negative criticism 與 so that we can improve 形成對比：老師給的不是打擊，而是能幫助學生改進論文的回饋。<br>(A) absolute：絕對的，不能說明回饋是否有幫助。<br>(B) constructive：建設性的，constructive feedback 指具體指出改進方向，正確。<br>(C) influential：有影響力的，常形容人物或作品，並不等於能協助修改。<br>(D) peculiar：古怪的，和正向目的不合。<br>把答案放回去：老師會提供建設性回饋，讓我們能改善文章。",
+  "<b>解題關鍵：</b>開車時還在 phone conversations 中投入注意力，會提高事故機率。固定搭配 be engaged in 表示「忙於、投入某活動」。<br>(A) contained：被包含、被控制，不能和 in conversations 組成此意。<br>(B) engaged：投入的，be engaged in phone conversations 正確。<br>(C) included：被包括，通常是某人被列入團體，不表示專心講電話。<br>(D) located：位於，後面應接地點。<br>常見誤選 C 是看到 in 就猜 included in，但此處談的是注意力被通話占用。",
+  "<b>解題關鍵：</b>magnificent view「壯麗景色」讓 Mike trembled，並和 admiration「讚嘆」並列，因此空格是面對宏偉景象時的敬畏感。<br>(A) awe：敬畏、驚嘆，tremble with awe 是自然搭配。<br>(B) plea：懇求，是說出的請求，不是一種看風景的感受。<br>(C) oath：誓言，也不是情緒。<br>(D) merit：優點、功績，不能接 with 表示顫抖原因。<br>把答案放回去：他看到壯麗瀑布時，因敬畏與讚嘆而發抖。",
+  "<b>解題關鍵：</b>most books are quite heavy，而且書架要 hold all of them，因此需要「堅固到足以承重」。<br>(A) coarse：粗糙的，表面粗不代表能承受重量。<br>(B) vigorous：精力旺盛的，多形容人或活動，不形容書架。<br>(C) portable：可攜帶的，反而可能較輕，沒有承重意思。<br>(D) sturdy：堅固耐用的，sturdy enough to hold... 正確。<br>常見誤選 C 是以為方便搬動較好，但題幹唯一判準是厚重書籍的重量。",
+  "<b>解題關鍵：</b>forearms 後面的 thick and strong from years of weight-lifting 已直接解釋空格：多年重訓使前臂肌肉發達。<br>(A) barren：貧瘠的、無生物的，不能形容健壯手臂。<br>(B) chubby：圓胖的，重點是肌肉而不是脂肪。<br>(C) ragged：破爛的、參差的，常形容衣物或邊緣。<br>(D) muscular：肌肉發達的，完全呼應 thick and strong。<br>把答案放回去：運動員捲起袖子，展示多年重量訓練練出的粗壯前臂。",
+  "<b>解題關鍵：</b>serious financial crisis、sales sharp decrease 與 on the edge of 都指出公司財務快撐不下去。on the edge of bankruptcy 是「瀕臨破產」。<br>(A) graduation：畢業，適用學生。<br>(B) capacity：容量、能力，不是公司危機的結果。<br>(C) depression：憂鬱或經濟蕭條，雖和經濟相關，卻不能說單一公司瀕臨「蕭條」。<br>(D) bankruptcy：破產，正確。<br>常見誤選 C 是被 financial crisis 吸引，但 sharp decrease in its sales 導向的是公司的破產。",
+  "<b>解題關鍵：</b>雨後草上的 water droplets 在陽光下反射光線，所以 meadow 看起來閃閃發亮。<br>(A) rippled：起漣漪，通常形容水面，草地不會因水珠形成波紋。<br>(B) shattered：粉碎，與雨後景象不合。<br>(C) glistened：閃耀、閃閃發光，能由 under the sun 與 droplets 推出。<br>(D) mingled：混合，通常要說與什麼混合。<br>把答案放回去：雨後，草葉水珠使草地在陽光下閃耀。",
+  "<b>解題關鍵：</b>長城建造目的在 against foreign invasion「抵禦外敵入侵」，因此空格需表達加強北方邊界的防禦。<br>(A) fortify：加強防禦、鞏固，fortify the border against... 搭配完整。<br>(B) rehearse：排練，常用於戲劇或演說。<br>(C) diminish：減少，會使邊防變弱。<br>(D) strangle：勒死、扼殺，不能用於強化國境。<br>常見誤選 D 可能因它有強硬語氣，但 against 的目的不是消滅邊界，而是保護邊界。",
+  "<b>解題關鍵：</b>wild-eyed、crazy hair、strange equipment 與 bubbling test tubes 共同塑造小說裡瘋狂科學家的忙亂畫面，因此工作方式是「狂亂地」。<br>(A) contagiously：有傳染性地，通常形容笑聲或疾病影響他人。<br>(B) distinctively：有特色地，只說與眾不同，不一定忙亂。<br>(C) frantically：狂亂、慌忙地，符合整體形象。<br>(D) tremendously：非常、巨大地，程度副詞但 working tremendously 不自然。<br>把答案放回去：他在奇怪設備滿布的實驗室裡瘋狂忙碌。",
+  "<b>解題關鍵：</b>句子列出 Michelle Obama、Rihanna、Beyoncé 三位名人，但作者要表示名單不只這些人。<br>(A) if any：如果有的話，帶有「可能根本沒有」的意思，和已列三人矛盾。<br>(B) among others：以及其他人，放在列舉尾端正確。<br>(C) in short：簡言之，是總結語，不能補充名單。<br>(D) at best：充其量，帶有限制或負面評價。<br>常見誤選 C 是看到逗號就猜轉承語，但此處文法功能是結束未完整列舉。",
+  "<b>解題關鍵：</b>空格前的 Europe 是地點，空格後 she got an opportunity... 是完整子句，用來補充「她在歐洲有機會接觸多元文化」。<br>(A) where：關係副詞，等於 in Europe，正確。<br>(B) there：副詞，若直接放入會形成兩個完整句只用逗號連接。<br>(C) that：關係代名詞須在子句中代替主詞或受詞，但後面 she 與 opportunity 已完整。<br>(D) whether：是否，不能回指 Europe。<br>常見誤選 B 是中文語意通順，但英文句子結構不允許只靠逗號連兩句。",
+  "<b>解題關鍵：</b>她擁有瑞士法律碩士，but 卻因熱愛時尚成為設計師，這個人生轉折令人覺得有趣且意外。<br>(A) Generally：一般而言，後面講個人特例，不是普遍情況。<br>(B) Ideally：理想上，沒有理想與現實的比較。<br>(C) Relatively：相對而言，缺少比較對象。<br>(D) Interestingly：有趣的是，能引出意外反差，正確。<br>把答案放回去：有趣的是，她雖有法律碩士，最後卻走進時尚設計。",
+  "<b>解題關鍵：</b>後文說她成為首位連續兩年在紐約時裝週展出的非洲設計師，表示作品讓她得到全球肯定。earn recognition 是「贏得認可」。<br>(A) recognition：認可、名聲，正確。<br>(B) motivation：動機，通常是某事給她動力，不是作品替她賺得動機。<br>(C) supervision：監督，不是成就帶來的結果。<br>(D) preparation：準備，也不能和 global 自然搭配。<br>常見誤選 B 可能因創作需要動力，但 earned 與後面的成就指向外界認可。",
+  "<b>解題關鍵：</b>CNN 是 international media，句意要說她在媒體上被大量專題介紹。be featured in media 是固定用法。<br>(A) believed：被相信，通常接 to be 或 that，不接 in CNN 表示報導。<br>(B) announced：被宣布，應說消息被公布，不是人物在媒體亮相。<br>(C) featured：被特別報導、刊登，正確。<br>(D) populated：使某地有人居住，不能形容媒體報導。<br>把答案放回去：她也常出現在 CNN 等國際媒體的專題報導中。",
+  "<b>解題關鍵：</b>Today there are over 420 cables，後面又說它們延伸全球，表示這些電纜目前正在運作。<br>(A) at large：逍遙法外或整體而言，不能指設備運作。<br>(B) in service：服役中、使用中，正確。<br>(C) by contrast：相較之下，是連接語，不作 cables 的狀態補語。<br>(D) under control：受控制，雖文法可通，卻沒有「正在傳輸網路資料」的意思。<br>常見誤選 D 是只看海底設施需管理，但數量統計要表達的是現役電纜。",
+  "<b>解題關鍵：</b>前文談今日高速海底網路線，後文卻追溯 1854 年第一條跨洲電纜，因此「其實這不是新現象」。句尾 though 可表示「不過、其實」。<br>(A) then：然後／當時，沒有轉折。<br>(B) still：仍然，通常放主要動詞前，不自然放此句尾表此意。<br>(C) instead：反而，需有明確替代關係。<br>(D) though：不過，句尾用法正確。<br>常見誤選 B 是把 still 當「然而」，但 still 在這個位置和結構不合。",
+  "<b>解題關鍵：</b>這條電纜名為 FASTER，而且是當時容量最高、跨越 5,600 英里的高速線路，因此名字取得很貼切。<br>(A) Suitably：恰當地，suitably named 表示命名貼切，正確。<br>(B) Constantly：持續地，命名不是不斷發生的動作。<br>(C) Vitally：極重要地，不能自然修飾 named。<br>(D) Mockingly：嘲弄地，沒有諷刺或反話。<br>常見誤選 C 是因電纜很重要，但題目問名字 FASTER 與功能的相符程度。",
+  "<b>解題關鍵：</b>下一句說路線要平坦、避開珊瑚礁與沉船；再下一句又說光纖很脆弱，因此安裝需「格外小心」。<br>(A) speed：速度，脆弱設備不是要求更快安裝。<br>(B) light：光，雖是光纖電纜，卻不能說 require extra light to install。<br>(C) care：小心、謹慎，extra care 正確。<br>(D) link：連結，電纜本身就是連結，不能作安裝態度。<br>把答案放回去：海底電纜安裝時需要格外謹慎。",
+  "<b>解題關鍵：</b>stay clear of 表示避開；珊瑚礁、沉船、魚床都是鋪設路線會碰到的阻礙，所以空格要概括為 obstacles。<br>(A) directions：方向，列舉物不是方向。<br>(B) obstacles：障礙物，能統整前面三項，正確。<br>(C) aquariums：水族館，海底自然地形與沉船不是水族館。<br>(D) circulations：循環，通常指血液或流通，不能指實體障礙。<br>常見誤選 C 是看到 fish 就聯想到水族館，但 fish beds 是魚群活動區域。",
+  "<b>解題關鍵：</b>空格後是 the vast art collection，前面說博物館 originally constructed to...，所以需要動詞表示建築「容納」收藏。house 可作動詞，意思是收藏、安置，選 K。materials 是材料，foundations 是基礎，雖和建築相關卻都是名詞，不能放在 to 後作動詞；hidden 是形容詞。把句意放回去：博物館原本就是為了收藏 Getty 的龐大藝術品而建。",
+  "<b>解題關鍵：</b>館藏多到展區一次只能展示一部分，因此 special exhibitions 會輪流更換；空格修飾 exhibitions，需要形容詞 ever-changing「不斷變化的」，選 L。artistic 也能修飾展覽，但下文重點是一次只展一部分造成內容更新；surprised 是人的感受；explorations 是名詞。常見誤選 G 是只看到 art，但因果線索 so many...at a time 指向更換。",
+  "<b>解題關鍵：</b>訪客原以為只會看到「裡面有藝術品的博物館」，實際卻發現建築本身就是藝術品，這種反差使許多人驚訝。空格在 has 後，需過去分詞 surprised，選 D。delight 若作動詞也能表示使開心，但本文突出的是意料之外；artistic 是形容詞；foundations 是名詞。完整句意：建築師創造的公共空間讓許多訪客大感驚訝。",
+  "<b>解題關鍵：</b>上一句說建築本身是一件 work of art，下一句談 outdoor space 也能提供完整體驗，因此空格要修飾 experience 為「藝術的」。artistic 選 G。delight 是愉悅或使愉悅，不能直接當此處形容詞；explorations 是探索；materials 是材料。常見誤選 A 是覺得戶外空間令人開心，但句型需要形容詞，而且主題明確是藝術體驗。",
+  "<b>解題關鍵：</b>冒號後直接列 metal, stone and glass，這三項都是建築使用的基本「材料」，所以選 J materials。foundations 是地基或基礎，但金屬、石材、玻璃並不是三個 foundations；turn 是轉角；imported 是進口的。空格前 a few basic 也提示可數複數名詞。完整句意：Meier 取用金屬、石材與玻璃幾種基本材料加以組合。",
+  "<b>解題關鍵：</b>around every corner and at every ______ 是平行結構，下一句又說每次以為看完，便有新景觀出現，所以固定表達 at every turn「每個轉折處」最合理，選 C turn。explorations 是探索活動，不能說 at every explorations；foundations 是基礎；materials 是材料。常見誤選 B 是想到參觀探索，但前面 corner 與後面 new view 都是空間轉角線索。",
+  "<b>解題關鍵：</b>building stone 是 travertine，後接 from Italy，空格需要過去分詞表示石材「從義大利進口」。選 E imported，imported from 是固定搭配。hidden from 是被隱藏、不讓某人看到，但文章明說來源地；foundations from 與 materials from 都會使句子缺少動詞性修飾。把句意放回去：建築使用的洞石從義大利進口，來源和羅馬歷史建築相同。",
+  "<b>解題關鍵：</b>切割方式 exposes fossils，表示原本化石在粗糙表面下看不見；空格修飾 treasures，需要 hidden「隱藏的」，選 H。imported 表示進口，但珍寶不是從 rough surface 進口；artistic 表示藝術的，不能呼應 exposes；foundations 是名詞。under the rough surface 是最直接的定位線索：切開後才顯露藏在下方的化石。",
+  "<b>解題關鍵：</b>特色石散布各處，waiting to ______ those who find them，表示等待被訪客發現並「使他們欣喜」。to 後需要原形動詞 delight，選 A。surprised 在字庫中是過去分詞，不能直接接在 to 後；house 是容納；turn 是轉動。常見誤選 D 是語意相近，但句型應是 to surprise，而選項只有 surprised，詞形不合。",
+  "<b>解題關鍵：</b>These 回指 free on-site tours；參加導覽是深入了解建築師技巧和想法的「探索活動」。空格需複數名詞作 are a must 的主詞，explorations 選 B。foundations 是基礎，materials 是材料，都不能指導覽；ever-changing 是形容詞。完整句意：對想深入了解 Meier 技法與理念的人而言，這些探索行程不可錯過。",
+  "<b>解題關鍵：</b>第一段結尾說 Copernicus 在教堂過著受保護的學術生活；空格後立刻描述他從塔上觀測天體，因此需先交代他「利用空閒研究星星與行星」。F 正好把行政工作接到天文觀測。A 談教會身分，較適合宗教衝突處；B 談出版時間，要接完成著作；D、E 都談理論遭反對，應放後段；C 談獻書求認可，應放教會禁書前。",
+  "<b>解題關鍵：</b>前句說 1530 年完成 De Revolutionibus，空格需補充完成後何時出版；B 說直到他死前兩個月才出版，時間銜接最完整。F 是開始研究天文，應在觀測敘述前；D、E 是日心說引發的衝突，要等下一段解釋理論內容後；A 談教會身分；C 的 this act 必須先有「獻給教宗」的行動才能回指。",
+  "<b>解題關鍵：</b>前句說地球每日自轉、每年繞太陽；後句說當時人相信地球靜止且位於宇宙中心。D「這違反中世紀的哲學與宗教信念」正好說明兩種觀點衝突。E 是 Martin Luther 的具體反對，應放在後面 other ministers followed suit 前；C 的 this act 無法回指日心說；A、F 是人物背景；B 是出版時間。",
+  "<b>解題關鍵：</b>後句 Other ministers quickly followed suit 的 followed suit 表示「其他牧師也跟著做」，所以前一句必須先出現一位宗教領袖反對。E 說 Martin Luther 公開反對日心模型，銜接最精準。D 是概括理論與信念衝突，適合放在介紹舊地心觀後；A 雖提教會身分，卻沒有可讓 others 跟隨的動作；B、C 都談書與教會處置。",
+  "<b>解題關鍵：</b>前句說 Copernicus 把著作獻給 Pope Paul III；後句卻說教會最終禁書。因此 C 的 this act 回指「獻書」，並說若想取得教會認可也沒用，形成 Ironically 的反差。A 只說他是教會成員，無法解釋禁書轉折；B 是出版時間；D、E 是前段理論與反對。常見誤選 A 是教會主題相同，但代名詞 this act 需要具體行動作先行內容。",
+  "<b>解題關鍵：</b>主旨要涵蓋全文：第一段定調 tempeh 是印尼傳統食品，第二段談爪哇起源，第三段談營養，第四段談吃法，第五段談文化價值，所以 B「來自爪哇的傳統美食」最完整。<br>(A) 只談如何準備健康食品，未涵蓋歷史文化。<br>(B) 符合各段核心。<br>(C) 素食者只是第三、四段的一個應用。<br>(D) 印尼文化遺產範圍太大，全文只聚焦 tempeh。<br>常見誤選 D 是被末段 UNESCO 吸引，但那只是結尾展望。",
+  "<b>解題關鍵：</b>第二段說丟棄的 soybean residue 接觸孢子後長出白色菌，這個 fermented residue 可食且美味，故 tempeh 是發酵黃豆形成，選 C。<br>(A) 文中說可作主菜或配菜，不是 mainly 配菜。<br>(B) 菌生長不是丟棄原因，反而是發酵成功後食用。<br>(C) 直接符合 fermented soybeans 的製程。<br>(D) 首段只把 tempeh 與 kimchi 都稱國家送給世界的禮物，沒說營養相同。<br>常見誤選 B 是把 fungi 當腐壞，但原文明确說 found to be edible and tasty。",
+  "<b>解題關鍵：</b>題目指定第二至四段，依序抓每段第一句。第二段說 fermented food originating from Java，是 origin；第三段列 high in protein、vitamins 等，是 nutrition；第四段說 diverse preparation possibilities，是 cuisine。<br>(A) origin → nutrition → cuisine：順序與三段內容完全相同，正確。<br>(B) 第四段不是 marketing；(C) 把料理與營養順序顛倒；(D) 第二段沒有談全球 distribution。<br>常見誤選 B 是看到 San Francisco、Bali 便以為行銷，其實那是在舉料理與食用例子。",
+  "<b>解題關鍵：</b>末段先說 tempeh 對印尼有 cultural value，再把它和已獲 UNESCO 認定的 batik 相提並論，說 tempeh 也很有潛力獲此榮譽，因此可推論 D。<br>(A) 文中列營養，但未預測長者會拿它當補充品。<br>(B) 只說目前尚未受國際食客普遍歡迎，不能推出很快超越 kimchi、miso。<br>(C) 沒談量產會降低營養。<br>(D) 是由 cultural value 與 UNESCO potential 合理推出。<br>推論不能加入文章未給的時間或因果。",
+  "<b>解題關鍵：</b>第一段先敘述 1972 年 Spiegel 肩部手術後不用止痛藥，而用自我催眠成功復原的真實事件，再進入催眠的解釋，所以 B。<br>(A) 定義出現在第二段，不是開頭。<br>(B) mentioning an incident 符合手術故事。<br>(C) 開頭沒有數字統計；45 years 是他的研究年資，不是用統計開場。<br>(D) 只說眾人驚訝、Spiegel 不驚訝，不是系統比較不同人的反應。<br>常見誤選 D 是看到 everyone but him，但那只是事件細節。",
+  "<b>解題關鍵：</b>末段說 Spiegel 希望催眠 replace painkillers，先前研究也比較自我催眠與止痛藥效果；全文還談控制疼痛、焦慮、壓力，因此研究目標是探索催眠的醫療用途，選 C。<br>(A) 沒有追查疼痛真正成因。<br>(B) 高度專注是催眠狀態，不是幫人提升工作專注的目標。<br>(C) 符合治療研究。<br>(D) fMRI 觀察腦部變化，不等於要強化腦功能。<br>常見誤選 D 是把研究工具誤當研究目的。",
+  "<b>解題關鍵：</b>第二段定義催眠為 highly focused attention，並說 tune out 周遭刺激、focus intently on the subject at hand，所以 B。<br>(A) 回憶記憶只是研究條件之一，沒說只記得快樂回憶。<br>(B) 心思集中在當下所做的事，直接符合。<br>(C) 這是文章先否定的常見誤解：不是別人叫什麼就做什麼。<br>(D) 與原文相反，催眠時會排除周圍刺激，而非更注意周遭。<br>常見誤選 C 來自電影印象，需以文中 But according to... 後的定義作答。",
+  "<b>解題關鍵：</b>第三段說容易被催眠者 more likely to get caught up in a good movie，也就是容易沉浸於故事，因此可推論他們較容易認同虛構角色，選 C。<br>(A) 沉浸電影不代表和社會隔離。<br>(B) hypnosis 不是睡眠，文章第二段已糾正常見誤解。<br>(C) 是從 get caught up in a movie 合理延伸。<br>(D) 文章只說他們 more trusting of others，是較信任別人，不是「更值得被信任」。<br>常見誤選 D 是把 trusting 主動信任與 trustworthy 值得信任混淆。",
+  "<b>解題關鍵：</b>全文比較英語、Maniq、Jahai 的嗅覺詞彙，最後用不同生存環境解釋差異：雨林族群靠嗅覺求生，因此詞彙多；工業化西方不靠氣味求生，詞彙少，所以 D。<br>(A) 沒有評定各族語言好壞。<br>(B) 只說環境與需求影響詞彙，沒有證明文明使語言整體發展變慢。<br>(C) 嗅覺詞的描述只是現象，未涵蓋環境原因。<br>(D) 同時包含語言使用與環境的連結。<br>主旨題不可只停在第二段的詞彙數量。",
+  "<b>解題關鍵：</b>固定片語 for want of 是「因為缺少……」。後句說英語使用者被迫借用 flowery、vanilla 等來源詞，也證明 dedicated odor terminology 不足，所以 A。<br>(A) Lack：缺乏，符合。<br>(B) Growth：成長，和被迫借詞相反。<br>(C) Loss：失去，通常表示原本有後來失去；本文只說沒有直接詞彙，未談消失。<br>(D) Search：搜尋，句子沒有尋找詞彙的動作。<br>常見誤選 C 是中文都可譯成「沒有」，但 want 在此指短缺，不是遺失。",
+  "<b>解題關鍵：</b>第四段說 Maniq 與 Jahai 住在 tropical rainforest，環境 still largely untouched by humans，又靠狩獵採集生存，因此類似人類早期較未工業化的生活環境，選 D。<br>(A) Maniq 與鄰近 Jahai 都住熱帶雨林，非不同氣候帶。<br>(B) 文章比較詞彙，不比較兩族鼻子的能力。<br>(C) 嗅覺詞 only smells，且不跨用於其他感官，並非形容食物外觀味道。<br>(D) 可由 untouched 與 hunter-gatherer 合理推出。<br>常見誤選 B 是把詞多誤當嗅覺一定更強。",
+  "<b>解題關鍵：</b>第三段先排除鼻子能力：英語者能分辨超過一兆種氣味。第四段真正解釋原因：工業化西方生活不靠氣味求生，因此缺少直接詞彙，選 B。<br>(A) 與能分辨大量氣味的研究結果相反。<br>(B) 符合 do not rely on smells to survive。<br>(C) 文中沒說他們認為談氣味不文明。<br>(D) 沒說周遭氣味來源少，而是氣味對生存不關鍵。<br>常見誤選 A 把「說不出」誤認成「聞不出」，文章特別區分兩者。",
+  "<b>解題關鍵：</b>第二段描述 okapi：巧克力至紅棕色身體，腿部與腳踝有白色橫紋，長頸、大而靈活的耳朵；圖 B 同時符合深色身軀和四肢黑白橫紋。<br>(A) 全身淡色直紋，不符 only legs 的水平紋。<br>(B) 外觀線索最完整，正確。<br>(C) 條紋集中在頸與前半身，位置相反。<br>(D) 後腿有紋但分叉角與 okapi 雄性短角形象不合，整體更像鹿。<br>圖像題不要只看到「有條紋」就選，還要核對條紋位置與身體顏色。",
+  "<b>解題關鍵：</b>第一段以類比直接說 The okapi is to Congo what the giant panda is to China，表示 okapi 是剛果的重要象徵，選 A。<br>(A) 符合 prevalent image 與國家類比。<br>(B) 文章說 as if from a Greek legend，只是形容看起來像混種，不是真正神話生物。<br>(C) 1987 雖設保護區，但數量自 1995 年下降 50%，不能說保護良好。<br>(D) 雖有斑馬紋，骨骼證明更接近長頸鹿。<br>常見誤選 D 是只看外表，文章刻意區分外觀與親緣。",
+  "<b>解題關鍵：</b>句子 The West got its first whiff of the okapi in 1890 後面說記者只是對「African donkey」感到困惑，尚未真正辨認動物，因此 whiff 是首次得到一點線索或跡象，選 C。<br>(A) Firm belief：堅定信念，但當時仍 puzzled。<br>(B) Kind intention：善意，與發現動物無關。<br>(C) Slight trace：些微跡象，符合初步耳聞。<br>(D) Strong dislike：強烈厭惡，文章無負面情緒。<br>常見誤選 A 是以為出版就代表確定發現，其實直到後來分析骨骼才確認。",
+  "<b>解題關鍵：</b>1890 年 Stanley 在書中 puzzled over a strange “African donkey”；後來骨骼分析才知道那是長頸鹿近親 okapi，因此可推論他寫書時不知道兩者是同一動物，選 C。<br>(A) 骨骼是 later 由 naturalists 分析，未說 Stanley 是第一人。<br>(B) 沒說他發現許多新物種。<br>(C) 由時間先後合理推出。<br>(D) 文章只說 explorers may have seen 條紋背影，未指名 Stanley 親眼看見。<br>常見誤選 D 是把泛稱 explorers 偷換成特定人物。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -19157,57 +19376,57 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "大猩猩其實害羞，很少為性、食物或領域打鬥；rarely 表示「很少」。",
-  "午休時去銀行或寄信屬於個人雜務；run errands 表示「跑腿辦事」。",
-  "老師承認錯誤並放下身段請求原諒；humble oneself 表示「謙卑、放低姿態」。",
-  "不應批評他人，而要看見優點並給予讚美；compliments 表示「稱讚」。",
-  "搜尋引擎的特殊功能讓使用者瀏覽網路而不留下紀錄；browse 表示「瀏覽」。",
-  "降雨極少且水庫水位危急下降，表示發生嚴重乾旱；drought 表示「乾旱」。",
-  "教師節向孔子對教育思想的貢獻致敬；pay tribute to 是固定搭配。",
-  "消防員救出嬰兒後被群眾譽為英雄；be hailed as 表示「被稱頌為」。",
-  "全球衰退使來年經濟成長預測黯淡；grim 表示「不樂觀的」。",
-  "Jeffery 一向愛爭吵，與同事起衝突並不意外；quarrelsome 表示「好爭吵的」。",
-  "keep up with the Joneses 指把鄰居當標準來比較財富與地位；comparison 符合語意。",
-  "「奢侈品愈多地位愈高」只是人們如此相信；or so they believe 是固定說法。",
-  "前文稱其為 catchphrase，後文說同名漫畫使這個片語普及；phrase 符合指代。",
-  "漫畫後來被改編成書、電影和音樂喜劇；be adapted into 表示「改編成」。",
-  "富有的 Jones 鄰居只在漫畫中被提起，從未真正露面；spoken of 表示「被談到」。",
-  "leukonychia 名稱嚴重，但這種狀況通常並不嚴重；isn't 承接單數 condition。",
-  "白點多半因指甲遭輕度或中度創傷而形成；as a result of 表示「由於」。",
-  "指甲生長慢，造成白點的傷可能在數週前已發生；may have occurred 表過去可能。",
-  "無論受傷來源為何，白點通常不需治療；Whatever 表示「不論什麼」。",
-  "上述判斷通常只適用於一兩片指甲受影響的情況；applies 表示「適用」。",
-  "水產養殖提高供人食用魚類的品質與供應量；supply 表示「供應」。",
-  "大量證據顯示澳洲原住民早已改造地形養鰻；evidence 表示「證據」。",
-  "中國最早留下魚類養殖紀錄；fish culture 表示「魚類養殖」。",
-  "洪水退去後，一些魚被困在湖中；trapped 表示「受困」。",
-  "羅馬人喜愛海魚與牡蠣，因而建立養殖池；adored 表示「喜愛」。",
-  "魚與甲殼類被養在池中保持存活，直到食用；alive 表示「活著」。",
-  "養殖池常建在富裕家庭宅邸內；wealthier 表示「較富有的」。",
-  "中世紀遠離海河需鹽漬保存，水產養殖因而在歐洲傳播；spread 表示「擴散」。",
-  "修道院與貴族壟斷土地、森林與水道；monopoly 表示「壟斷」。",
-  "封建時代未經允許捕魚屬非法行為且受重罰；illegal 表示「非法的」。",
-  "首段總說食物重要，接著聚焦麵包與鹽兩項法國飲食核心，故 F 最能引出下文。",
-  "麵包價格占工資八成八，使一般家庭買不起足夠食物維持基本生活。",
-  "談完麵包後，Meanwhile 轉入農民對鹽稅 gabelle 的不滿，銜接下句稅制說明。",
-  "飢荒與不公平累積憤怒，最終在 1789 年大規模暴動中爆發。",
-  "王室瓦解後局勢逐漸恢復平靜，Yet 隨即指出麵包與鹽稅問題仍延續甚久。",
-  "Drais 希望以人力交通工具取代昂貴耗糧的馬，讓大眾比步行更快移動。",
-  "marked the big bang 指這項發明開創腳踏車發展，是突破性的工作。",
-  "running machine 的轉向裝置已類似現代腳踏車手把，故 D 正確。",
-  "機器笨重、難操控、無煞車且常撞行人，因道路安全問題遭多城禁止。",
-  "全文介紹 Li-Fi 如何利用 LED 光快速無線傳輸資料及其優點與應用。",
-  "This 指前句高速閃光可用來傳輸資料的構想，即光脈衝能傳遞訊息。",
-  "Li-Fi 的光無法穿透牆壁，因此「能穿過混凝土牆」是不正確的敘述。",
-  "光不干擾無線電訊號，使 Li-Fi 可在飛機、醫院等 Wi-Fi 可能干擾設備處使用。",
-  "全文研究指出大型甲蟲隨棲地變暖而縮小，最佳標題直接概括此發現。",
-  "a deep dive into literature 指對相關科學文獻進行徹底查閱；thorough examination 最接近。",
-  "研究者拍攝 6,500 多隻甲蟲並依大小分類比較，因此 C 正確。",
-  "八個物種中五個縮小，但較小甲蟲未受影響甚至稍變大，故部分甲蟲不受溫度變化影響。",
-  "文章呈現 Svalbard 集中保存種子的目標與批評，主旨是種子庫保存作物多樣性的做法仍有爭議。",
-  "文章指出孤立的 Svalbard 種子庫正吸走可用資金，故 A 正確。",
-  "農民保存大量多樣性，且種子庫無法取代他們的田間實務知識。",
-  "highly centralized approach 與前文 work with institutions 相對，指透過大型機構集中保存。"
+  "<b>解題關鍵：</b>but in truth 轉折前說大猩猩常被描繪成可怕動物，轉折後卻說牠們是 shy apes，因此實際上「很少」為性、食物或領域打鬥。<br>(A) constantly：不斷地，與 shy 和轉折相反。<br>(B) shortly：不久地，表示時間而非頻率。<br>(C) nearly：幾乎，後面通常接數量或完成狀態，nearly fight 不合此意。<br>(D) rarely：很少，正確。<br>常見誤選 A 是受 fearful 影響，但作者用 but 明確推翻外界刻板印象。",
+  "<b>解題關鍵：</b>去銀行、寄信都是需要外出完成的日常小事，固定說法 run errands 是「跑腿辦事」。<br>(A) affairs：事務，personal affairs 可指私事，但不能自然說 run affairs 表示去辦雜務。<br>(B) errands：差事、雜務，run personal errands 正確。<br>(C) belongings：個人物品，不是要跑去完成的事。<br>(D) connections：人脈、連結，也不能和 run 組成此意。<br>常見誤選 A 是中文都像「事情」，但 such as 後的具體外出任務對應 errands。",
+  "<b>解題關鍵：</b>老師 admitted his mistake，還要請家長原諒，表示他放下自尊、謙卑認錯。humble oneself 是固定搭配「放低姿態」。<br>(A) resisted himself：resist 通常直接接受詞 temptation 等，不說抵抗自己來道歉。<br>(B) humbled himself：使自己謙卑，正確。<br>(C) detected himself：偵測自己，語意不合。<br>(D) handled himself：控制自己的表現，但不表示認錯。<br>把答案放回去：他承認錯誤並放低姿態，請求家長原諒。",
+  "<b>解題關鍵：</b>Instead of criticizing 與 focus on strengths 對比：不要批評，而要看到優點並給予「稱讚」。<br>(A) compliments：讚美，give someone compliments 正確。<br>(B) compromises：妥協，需要雙方讓步的衝突情境。<br>(C) convictions：堅定信念或定罪，不是對優點的回應。<br>(D) confessions：坦白、告解，是承認自己的事，不是鼓勵別人。<br>常見誤選 B 是把「不要批評」理解成退讓，但 strengths 線索直接導向讚美。",
+  "<b>解題關鍵：</b>search engine 的特殊功能讓使用者進入各網頁而不留下瀏覽紀錄，所以空格是「瀏覽網路」。<br>(A) browse：瀏覽，browse the Internet 是固定用法。<br>(B) stride：大步走，不能用於網路操作。<br>(C) rumble：發出低沉聲或隆隆行進，與網頁無關。<br>(D) conceal：隱藏，需要接受詞，如 conceal the history；不能說 conceal the Internet。<br>常見誤選 D 是受 without leaving history 吸引，但被隱藏的是紀錄，不是網路本身。",
+  "<b>解題關鍵：</b>extremely low rainfall 與 reservoir water reduction 都是長期缺水線索，因此該地正經歷三十年來最嚴重的乾旱。<br>(A) fluid：液體，不能說 experience the worst fluid。<br>(B) scandal：醜聞，和降雨無關。<br>(C) drought：乾旱，完全符合缺雨與水庫下降。<br>(D) nuisance：麻煩、討厭事，太籠統，不能精確解釋自然現象。<br>把答案放回去：因降雨極少與水庫水量驟減，這地區正遭逢三十年來最嚴重乾旱。",
+  "<b>解題關鍵：</b>教師節因孔子對教育哲學的 contribution 而向他致敬；固定搭配 pay tribute to 是「向……致敬」。<br>(A) consent：同意，常用 give consent to。<br>(B) tribute：敬意，pay tribute to 正確。<br>(C) devotion：奉獻，常說 show devotion to，不能自然用 pay devotion。<br>(D) preference：偏好，pay preference 不是此義搭配。<br>常見誤選 C 是因孔子奉獻教育，但題目說的是「我們」對他的貢獻所做的回應。",
+  "<b>解題關鍵：</b>消防員從 burning house 抱出哭泣嬰兒，群眾把他視為英雄。be hailed as 是「被讚譽為」。<br>(A) previewed：預先觀看，不能說被預看為英雄。<br>(B) cautioned：被警告，與群眾讚賞相反。<br>(C) doomed：注定遭遇壞事，語氣負面。<br>(D) hailed：歡呼、稱頌，was hailed as a hero 正確。<br>常見誤選 B 是看到火災想到安全警告，但主詞 he 與 by the crowd 說明是群眾評價他的救人行動。",
+  "<b>解題關鍵：</b>Due to worldwide recession「由於全球經濟衰退」，明年成長預測應該黯淡、不樂觀。<br>(A) keen：熱切或敏銳的，不能形容負面預測。<br>(B) mild：溫和、輕微，雖可能指成長不強，但不足以呼應全球衰退的嚴重語氣。<br>(C) grim：嚴峻、令人悲觀的，grim forecast 是常見搭配。<br>(D) foul：惡臭、惡劣，常形容天氣或氣味，不自然修飾經濟預測。<br>常見誤選 B 是把低成長當 mild，但 forecast 本身的評價是 grim。",
+  "<b>解題關鍵：</b>so it’s not surprising 他和同事 argument，表示他的個性一向容易爭吵。<br>(A) respective：各自的，通常放複數名詞前。<br>(B) preventive：預防性的，形容措施。<br>(C) contagious：會傳染的，形容疾病、笑聲等。<br>(D) quarrelsome：好爭吵的，能解釋為何常起衝突。<br>把答案放回去：Jeffery 一向好爭辯，所以和同事吵架並不令人意外。<br>常見誤選 C 是被 argument 的負面感吸引，但沒有傳染線索。",
+  "<b>解題關鍵：</b>keeping up with the Joneses 是把 neighbors 當作 social status 與物質財富的標準，也就是拿自己和鄰居「比較」。<br>(A) reaction：反應，後面 to one's neighbors 可搭配，但不能說拿鄰居當標準。<br>(B) attachment：依附，主題不是情感依戀。<br>(C) similarity：相似性，只說結果相像，沒有主動追趕的行為。<br>(D) comparison：比較，comparison to neighbors 符合。<br>常見誤選 C 是把「跟上一樣」當相似，但句子強調用鄰居作衡量標準。",
+  "<b>解題關鍵：</b>破折號後 or ______ they believe 補充「或者至少他們是這麼相信的」。固定表達 or so + 主詞 + 動詞，so 代替前面的整個想法。<br>(A) still：仍然，不能代替前句內容。<br>(B) so：如此，or so they believe 正確。<br>(C) yet：然而，會形成轉折但後面缺完整受詞內容。<br>(D) even：甚至，不能單獨作 believe 的受詞。<br>常見誤選 C 是看到破折號就找轉折詞，但此處是在降低斷言強度，而非反駁。",
+  "<b>解題關鍵：</b>第一句稱 Keeping up with the Joneses 是 catchphrase；空格後說同名漫畫使它 popularized，所以 The ______ 回指這個「片語」。<br>(A) phrase：片語，直接承接 catchphrase，正確。<br>(B) signal：訊號，沒有指示或標誌功能。<br>(C) material：材料或資料，不能指一句俗語。<br>(D) analysis：分析，漫畫並未讓某種分析流行。<br>常見誤選 C 是看到 comic strip 以為創作素材，但被流行化的是名稱與說法，不是材料。",
+  "<b>解題關鍵：</b>漫畫先在報紙連載 28 年，後來變成 books, films, musical comedies，表示被「改編成」其他形式。<br>(A) adapted：改編，be adapted into 正確。<br>(B) admitted：准許進入或承認，不能把漫畫承認成電影。<br>(C) advanced：推進，be advanced into 不表改編。<br>(D) advised：建議，受詞應是人。<br>把答案放回去：這部漫畫後來被改編成書、電影與音樂喜劇。<br>常見誤選 C 是以為形式「進步」，但不同媒介之間用 adapt。",
+  "<b>解題關鍵：</b>Joneses 是富有鄰居，but never actually seen 與前半形成對比：他們只被提到，從未在漫畫中現身。<br>(A) checked out：被借出／查看，無「提及」意思。<br>(B) watched over：被照看，若被看顧也不代表沒出現。<br>(C) spoken of：被談到、提及，正確。<br>(D) traded with：與之交易，漫畫沒有商業往來。<br>常見誤選 B 是受到 seen 影響，但 watched over 是照顧監看，不是「被看見」。",
+  "<b>解題關鍵：</b>Although the name sounds serious 後面應轉折為實際狀況通常「不嚴重」。主詞 the condition 是單數，句中需要 be 動詞。<br>(A) isn't：is not serious，省略重複的 serious，正確。<br>(B) doesn't：後面若省略應有原形動詞，但 serious 是形容詞。<br>(C) couldn't、(D) wouldn't 表能力或假設意願，都不合一般事實。<br>常見誤選 B 是看到 condition 當一般動詞主詞，但補回完整句是 the condition isn't serious。",
+  "<b>解題關鍵：</b>白點 most often develop ______ mild trauma，要表達白點「由輕中度創傷造成」。<br>(A) in spite of：儘管，表示創傷存在卻不影響結果，不合因果。<br>(B) as a result of：由於、作為……結果，正確。<br>(C) to the best of：盡某人所能／據某人所知，後面需接 one's knowledge。<br>(D) for the sake of：為了……的利益，創傷不是目的。<br>常見誤選 A 是只看介系詞 of，但上下文明確是在解釋原因。",
+  "<b>解題關鍵：</b>指甲長得很慢，所以看到白點時，造成它的 injury 可能數週前就已經發生。這是對「過去可能事件」的推測，用 may have + 過去分詞。<br>(A) might occur：可能發生，指現在或未來，無法表先於白點。<br>(B) would occur：會發生，常需條件。<br>(C) will have occurred：到未來某時將已發生，但本文回看過去。<br>(D) may have occurred：可能已發生，正確。<br>weeks before 是判斷完成式的關鍵。",
+  "<b>解題關鍵：</b>空格後 the source of the injury 是名詞片語，整句表示「無論受傷來源是什麼」，白點通常不需治療。<br>(A) Supposing：假設，需要接子句，如 supposing that...。<br>(B) Including：包括，會變成「包括來源」而語意不完整。<br>(C) Whatever：無論什麼，whatever the source... 正確。<br>(D) Whether：是否，通常要有 or not 或兩個可能選項。<br>常見誤選 D 是中文都可譯「不論」，但 whether 後不能直接以名詞片語形成此結構。",
+  "<b>解題關鍵：</b>前文說白點通常不需治療、會隨指甲長出而消失；However 後限定這個判斷只在單片或少數指甲受影響時「適用」。<br>(A) indicates：指出，需要有訊號指向某事。<br>(B) defines：定義，不是界定名詞。<br>(C) applies：適用，applies when... 正確。<br>(D) confirms：證實，需要受詞。<br>後句若全部指甲都有白點，可能是嚴重疾病，正說明前述規則並非所有情況都適用。",
+  "<b>解題關鍵：</b>and also improves the quality and increases the ______ of fish 是平行結構：養殖不只提升魚的品質，也增加供人食用的「供應量」。supply 選 I。culture 雖和 aquaculture 字面相近，但 fish culture 在後文指養殖活動，不能說 increase the culture of fish；evidence 是證據；alive 是形容詞。常見誤選 B 是看到全文主題養殖，但此處 increase 後需可增加的數量概念。",
+  "<b>解題關鍵：</b>空格後 indicates 是單數動詞，前面需要不可數名詞作主詞；後文列出澳洲原住民開渠道、築水壩、捕捉保存鰻魚的考古線索，所以是 abundant evidence「大量證據」，選 K。supply 是供應，不能「指出他們開發地形」；culture 是文化／養殖；monopoly 是壟斷。abundant 常和 evidence 搭配，且 evidence 不加 s。",
+  "<b>解題關鍵：</b>句子說最早的 records 來自中國，後面 the practice was in wide use，所指都是「魚類養殖」這項活動。fish culture 在此等於 fish farming，選 B。supply 是魚的供應量；evidence 已用於上一句；treated 是被處理。常見誤選 K 是 records 看似證據，但結構是 records of fish ______，空格要說記錄的內容，而不是「魚的證據」。",
+  "<b>解題關鍵：</b>河水氾濫後退去，some fish 留在湖裡無法回河，因此是「被困住」。空格在 were 後，需要過去分詞 trapped，選 C。treated 是被處理／對待，後文還未開始餵養；alive 是形容詞，were alive 只說活著，不能解釋為何留在湖中；spread 是擴散。waters subsided 與 in lakes 是空間線索，指魚受困。",
+  "<b>解題關鍵：</b>羅馬人建立牡蠣養殖場，原因是他們很喜愛 sea fish and oysters；空格是過去式動詞 adored「熱愛」，選 D。delicious 是美味的形容詞，不能放在 who 後作謂語；treated 是對待，後面缺方式；culture 是名詞。常見誤選 G 是因海鮮可口，但句型 The Romans, who ______ sea fish 需要動詞，且選項中只有 adored 符合喜愛。",
+  "<b>解題關鍵：</b>魚和甲殼類先被放在池中，until it was time to eat them 才取來吃，因此在等待期間要「保持活著」。kept alive 是固定結構，選 E。trapped 是受困，雖動物確實在池中，但作者強調保存鮮活；treated 是被處理；delicious 是美味。常見誤選 C 是看到 kept in pools，但空格位於 kept 與 in these pools 之間，語意目標是活體保存。",
+  "<b>解題關鍵：</b>後面 where well-to-do families 可邀客人選魚，well-to-do 就是富裕的，因此養殖池建在「較富有家庭」的住家內。wealthier 選 J，修飾 homes。delicious 不能形容住宅；culture、monopoly 是名詞；treated 是分詞但 treated homes 不合。比較級 wealthier 暗示相較一般家庭，這些有能力在家建池的人更富裕。",
+  "<b>解題關鍵：</b>中世紀遠離海岸和大河，鮮魚需鹽漬；接著說修道院與貴族成為主要使用者，表示 aquaculture 在歐洲各處逐漸「傳播」。空格是過去式 spread，選 A。culture 是名詞；supply 是供應；treated 是處理。常見誤選 I 是以為養殖增加魚量，但句子主詞 aquaculture 是一種做法，能 spread，不能自己 supply。",
+  "<b>解題關鍵：</b>修道團體與貴族掌握 land, forests, water courses，而 common people 很少能建池，表示少數階級對資源有「壟斷」。have a monopoly over 是固定搭配，選 F。supply over、culture over 都不成立；evidence over 也不表示控制。後面的 while 形成強烈階級對比，是判斷 monopoly 的關鍵。",
+  "<b>解題關鍵：</b>fishing was severely punished，而且窮人無法自由取得鮮魚，表示未獲地主允許的捕魚是「非法的」。illegal 選 H，修飾 fishing。treated 是被處理的，delicious 是美味的，alive 是活著的；都不能解釋為何受重罰。常見誤選 L 可能把 punished 當「受到對待」，但空格描述捕魚行為本身的法律性質。",
+  "<b>解題關鍵：</b>首句總說 food 在法國革命中扮演重要角色；空格後馬上以 bread 為主題，後段再談 salt tax。因此 F 先明確指出 bread and salt 是衝突核心，能從總論帶到兩個分論。D 是麵包漲價的後果，應接 88% 工資；C 是轉入鹽稅；E 是怒火爆發；B 是革命後；A 談外患，全文主線是國內糧食與稅負，沒有適合位置。",
+  "<b>解題關鍵：</b>空格前說麵包價格占工人收入 88%，空格後說大多數人挨餓、有人偷竊或賣淫求生。D「一般家庭買不起足夠食物維持基本需求」正好連起價格與飢餓。F 應放文章開頭介紹麵包鹽；C 要轉談鹽稅；E 是最終革命爆發；B 是王室垮台後；A 的外部威脅並非此處因果。",
+  "<b>解題關鍵：</b>前段完整談麵包危機；空格後 This tax on salt consumption 的 This tax 需要先行內容。C 提出 peasants 對 gabelle 鹽稅的不滿，下一句才能解釋這項稅從十五世紀開始，銜接最精準。D 還在談麵包，應放上一格；E 是暴動結果；B 是革命後；F 是全文兩大食物總覽；A 沒有可供 This tax 回指的內容。",
+  "<b>解題關鍵：</b>空格前說王室漠視危機、人民把飢荒與經濟混亂歸咎統治階級；空格後列攻占巴士底與處決國王王后等 results。因此 E「憤怒迅速累積，終於在 1789 大規模暴動爆發」正好由原因接結果。B 的平靜恢復要放王室垮台結果之後；A 外患未被前文討論；C、D 是較早的鹽與麵包問題；F 是開頭總論。",
+  "<b>解題關鍵：</b>空格前已列革命結果，包括王室成員被處決；空格後 Yet 說鹽稅和麵包問題仍持續很久。B 先說王室垮台後局勢逐漸平靜，再由 Yet 轉折指出根本問題未消失，語意完整。E 應放革命結果前；C、D、F 都屬危機形成階段；A 外部威脅沒有前後呼應。常見誤選 E 是革命主題相同，但前一句已在列 results，不能倒回「憤怒累積」。",
+  "<b>解題關鍵：</b>第二段直接說 Drais 的 democratic idea 是找人力工具取代昂貴又耗糧的馬，讓 large numbers of people 比走路或馬車移動更快，因此 D。<br>(A) 他有創意是文章評價，不是發明目的。<br>(B) 重點是馬昂貴耗糧，不是防止虐馬。<br>(C) democratic idea 指一般大眾，不是皇室玩具。<br>(D) 為大眾提供較好的交通方式，符合。<br>常見誤選 B 是把替代馬理解成保護動物，但原文理由是成本與效率。",
+  "<b>解題關鍵：</b>running machine 雖不是現代腳踏車，卻是 first vehicle with two wheels placed in line，開啟後來腳踏車發展。因此 marked the big bang 是「代表突破性的開創工作」，選 D。<br>(A) 不是發出爆炸巨響。<br>(B) 後來確有碰撞，但此片語出現在談技術貢獻的段落，不指騷動。<br>(C) 流行是在巴黎行銷後，並非 big bang 此處意思。<br>(D) groundbreaking work 正確。<br>常見誤選 A 是直譯 big bang，應看上下文的比喻。",
+  "<b>解題關鍵：</b>第二段直接說 the steering already resembled a modern handlebar，因此 D。<br>(A) 文章明說最初 lacked cranks and pedals，與原文相反。<br>(B) frame and wheels were made of wood，不是鐵。<br>(C) 安全問題之一就是 lacked a brake，沒有煞車。<br>(D) 轉向裝置類似現代腳踏車手把，完全符合。<br>常見誤選 A 是用「腳踏車祖先」的常識補上踏板，但文章強調它仍很原始，靠腳蹬地前進。",
+  "<b>解題關鍵：</b>末段說機器 heavy and difficult to ride，又 lacked a brake、常撞到行人，最後被許多城市禁止，因此 C。<br>(A) 貴的是 horses，文章沒說機器昂貴或不耐用。<br>(B) Drais 曾 1 小時走 13 公里，未說速度不如預期。<br>(C) 難控制且道路上危險，符合多個直接證據。<br>(D) 它曾在巴黎、英國 quickly caught on，並非缺少關注。<br>常見誤選 D 是看到成功短暫就以為宣傳不足，但真正失敗原因是操控與安全。",
+  "<b>解題關鍵：</b>全文先解釋 Li-Fi 用快速閃爍的 LED 傳資料，再比較安全、干擾與速度優勢，最後列街燈、交通燈、家庭應用，所以主旨是「透過照明進行無線傳輸」，選 B。<br>(A) LED 不是新燈具設計，而是作網路裝置。<br>(B) 涵蓋原理與應用。<br>(C) 無線電干擾只是 Li-Fi 的一項優勢。<br>(D) 沒談軍事用途。<br>常見誤選 A 是全文多次出現 light，但重點不是照明外型，而是資料傳輸。",
+  "<b>解題關鍵：</b>This 緊接前句：若燈每秒閃爍數百萬次，就能被 harnessed to... transmit data。因此 This 指「光的快速閃爍可以傳送資料／訊息」，選 B。<br>(A) 頭痛是第一句背景，後面 But 已轉折。<br>(B) light flashes can deliver messages，正確。<br>(C) 大腦來不及處理只是人看不到閃爍的條件，不是 Li-Fi 核心構想。<br>(D) 文中反而說閃太快，眼睛無法察覺。<br>指涉題要找最近且能被 idea behind Li-Fi 概括的完整概念。",
+  "<b>解題關鍵：</b>這是 NOT 題。第二段明說 light cannot penetrate walls or doors，所以 A「能穿過混凝土牆」錯誤。<br>(A) 與原文相反，故為答案。<br>(B) Li-Fi 一詞在 2011 TED Talk 提出，有提到。<br>(C) 可高速傳輸，實驗達每秒 224 gigabits，有提到。<br>(D) 家長可關燈切斷孩子網路，可能幫助管教，有提到。<br>常見誤選 D 是覺得應用幽默不實際，但它確實是文章明列的家庭情境。",
+  "<b>解題關鍵：</b>第二段說光不干擾 radio signals，所以 Li-Fi 可在 aircraft cabins、hospitals、nuclear plants 等電磁敏感區使用，對應 D。<br>(A) Li-Fi 用 LED 光，不是由無線電供電；節能也非此選項主旨。<br>(B) 街燈可供手機上網讓夜行較安全，不是引導行人到車不能走處。<br>(C) 停電時燈也無法傳輸，文中沒說斷電更安全。<br>(D) 可用在 Wi-Fi 無線電波可能干擾設備的地方，正確。<br>常見誤選 B 是把應用誤當相對 Wi-Fi 的技術優勢。",
+  "<b>解題關鍵：</b>第一段直接提出研究發現：世界上一些最大型甲蟲因棲地變暖而縮小；後面用文獻與標本資料支持，因此 A 最精確。<br>(A) 同時涵蓋大型甲蟲、縮小與氣候暖化。<br>(B) 魚只在末段作其他研究比較，不是雙主角。<br>(C) evolutionary ecology 範圍太廣。<br>(D) 沒有回顧整個動物生態學歷史。<br>常見誤選 B 是末段多次談魚，但魚研究只是支持暖化會改變體型，全文核心仍是甲蟲。",
+  "<b>解題關鍵：</b>研究一開始 combed through all the articles they could find，尋找溫度影響昆蟲的實驗研究；因此 a deep dive into literature 是對文獻「徹底檢視」，選 C。<br>(A) clear indication 是明確跡象，不是搜尋動作。<br>(B) important finding 是研究結果。<br>(C) thorough examination 精細全面的檢查，符合 combed through all articles。<br>(D) insightful comment 是有洞見的評論，文章不是發表意見。<br>常見誤選 B 是研究找到 19 篇結果，但 deep dive 描述的是查閱過程。",
+  "<b>解題關鍵：</b>團隊拍攝 6,500 多隻甲蟲，Sorting the beetles into size categories，將甲蟲依體型分組比較，所以 C。<br>(A) 他們回顧 laboratory studies，再使用館藏標本看野外趨勢；並未親自同時做實驗室與野外實驗。<br>(B) 館藏有 600,000 件昆蟲，但只拍 6,500 多隻甲蟲。<br>(C) 依大小分類檢查，直接符合。<br>(D) 查的是氣候紀錄，沒有自十九世紀記錄氧濃度。<br>常見誤選 B 是把館藏總數偷換成拍攝數。",
+  "<b>解題關鍵：</b>八個物種中五個縮小；四種最大甲蟲縮小，但 smaller beetles were unaffected or even slightly increased，所以 B「有些甲蟲未受溫度變化影響」符合。<br>(A) 不是八種全縮小，只有五種。<br>(B) 直接對應較小甲蟲未受影響。<br>(C) 沒研究壽命。<br>(D) 文章沒有把甲蟲與魚縮到相同大小。<br>常見誤選 A 是看到 eight species with records 就以為八種都縮小，需注意後句 five of the eight。",
+  "<b>解題關鍵：</b>首段介紹 Svalbard 種子庫的目的；後兩段以 however、misplaced、dispute 提出批評，認為集中保存未必能應付作物持續變化，因此主旨是這種保存方式有爭議，選 C。<br>(A) 只是支持者提出的一項用途。<br>(B) 爭點是機構種子庫與田間社群，而非各國合作。<br>(C) 同時涵蓋贊成目的與反對意見。<br>(D) 文章正質疑種子庫能否應付氣候變遷。<br>常見誤選 A 是只讀第一段，忽略後文轉折才是作者着重處。",
+  "<b>解題關鍵：</b>第三段直接說 the isolated Svalbard seed vault is sucking up available funding，表示它正在吸走大量可用經費，選 A。<br>(A) 與原文同義。<br>(B) 它在北極島嶼、挪威與北極中間，不是挪威中心。<br>(C) 目標是保存基因、改善作物，沒說反對基因改造作物。<br>(D) 75% 作物多樣性存在大型機構種子庫之外，不是在 Svalbard 裡。<br>常見誤選 D 是看到 75% 大數字，卻忽略 outside 這個方向詞。",
+  "<b>解題關鍵：</b>末句說 seed banks can neither make up for the practical knowledge of farmers on the ground, nor compete with their ingenuity，表示農民提供不可取代的田間實務知識，選 B。<br>(A) 文章不是要農民和種子庫競爭，而是比較資金應投入哪種保存方式。<br>(B) 符合 practical knowledge。<br>(C) 包裝保存種子是機構做法，非文中農民角色。<br>(D) population growth 是種子庫育種要面對的挑戰，不是農民在本文的主要功能。<br>常見誤選 A 是被 compete 一字吸引，但原句主詞是 seed banks。",
+  "<b>解題關鍵：</b>前段把兩種做法並列：work with communities in the fields 或 work with institutions；接著說 isolated Svalbard 與 highly centralized approach，centralized 指資源集中在大型機構，所以 A。<br>(A) working with institutions，正確。<br>(B) 農民分散在田間，屬較多元動態的作法，不是 centralized。<br>(C) 找作物多樣性是目標，不是一種集中方法。<br>(D) 找經費是困難，也不是 approach 所指。<br>常見誤選 D 是前句出現 funding，但代名詞要回指兩種保存途徑中的機構路線。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -19362,57 +19581,57 @@ window.BANK.push((() => {
 })());
 
 [
-  "室友爭吵後，Martha 不想繼續爭論，所以一直設法避開她；avoid 表示「避開」。",
-  "這道湯帶來溫暖與滿足感；contentment 表示「滿足、知足」。",
-  "比賽中要擊敗的是對手；opponent 表示「對手」。",
-  "把衣服鋪開能加快乾燥；hasten 表示「加速、促進」。",
-  "藥物會引起睡意，因此服用後不宜開車；induce 表示「引起」。",
-  "工作內容單調重複，使她感到乏味；monotony 表示「單調」。",
-  "他總是遲到，chronically 表示「長期地、習慣性地」。",
-  "奧斯卡獎是演員渴望獲得的榮譽；coveted 表示「令人嚮往的」。",
-  "植物與動物分布改變屬於生態變化；ecological 表示「生態的」。",
-  "草藥療法使用植物治療疾病；herbal remedies 表示「草藥療法」。",
-  "法國法案要把使用過瘦模特兒定為違法；criminalize 表示「使成為犯罪」。",
-  "措施旨在打擊對危險纖瘦身材的美化；crack down on 表示「嚴厲取締」。",
-  "模特兒工作前須出示證明健康的醫療證明；certificate 表示「證明書」。",
-  "模特兒將接受定期體重檢查；be subject to 表示「須接受」。",
-  "醫療報告須證明模特兒維持健康的身高體重比例；healthy 符合語意。",
-  "生物維生所需的化學反應若無酵素便無法進行；None 與 without enzymes 構成完整否定。",
-  "required for... 是過去分詞片語，修飾維持營養作用所需要的化學反應。",
-  "if they are able to do so at all 表示「即使終究能做到」，強調缺乏酵素時反應極慢。",
-  "前段強調酵素不可或缺，後段改說酵素並非總能正常運作；however 表轉折。",
-  "Garrod 首次把一種疾病歸因於酵素缺陷；disease 符合後文先天代謝異常。",
-  "農夫仿製保存蛋，形成流傳數百年的美食；delicacy 表示「珍饈、美食」。",
-  "科學家推估皮蛋可追溯至五百多年前的明朝；date back 表示「追溯至」。",
-  "除了量產技術外，保存蛋的製程大致維持不變；unchanged 符合語意。",
-  "鴨蛋、鵪鶉蛋或雞蛋被放進前述茶、石灰、鹽與灰燼的混合物；mixture 符合指涉。",
-  "浸泡時間並非名稱所暗示的一百年；imply 表示「暗示」。",
-  "皮蛋也以許多其他名稱為人所知；go by 表示「以……名稱出現」。",
-  "雞腳、蛇湯與皮蛋都被旅客歸為異國、少見的亞洲食物；exotic 符合語意。",
-  "要品嘗皮蛋，首先得克服其外觀帶來的心理障礙；challenge 表示「挑戰」。",
-  "深褐與沼澤綠的色澤較不誘人；appetizing 表示「令人有食慾的」。",
-  "年輕世代逐漸不再喜愛醃製與發酵食品；fall out of favor 表示「失寵」。",
-  "前句以海星再生手臂為例，接著補充龍蝦、蠑螈等動物也有相同能力，故選 C。",
-  "科學家研究能再生肢體的動物，目的正是希望有朝一日讓人類也能再生，故選 F。",
-  "蟑螂能長回肢體，但肢體不能生成整隻蟑螂，這正是單向再生的定義，故選 A。",
-  "下句以水螅切成多段仍各自長成完整個體為例，故先以 E 引出雙向再生的動物。",
-  "末段描述渦蟲切成數百片仍可各自長成完整個體，D 最能引出其驚人的再生能力。",
-  "文章指出 Hadid 憑藝術理念、實驗性設計與建築成就獲得肯定，關鍵是她的眼界與才華。",
-  "her star began to rise 指她的設計獲選興建後得到全球讚譽，也就是逐漸受到認可。",
-  "第三段以童年造訪蘇美地區的景觀經驗，說明 Hadid 建築哲學的根本靈感來源。",
-  "她的設計大膽、富想像力且不斷突破建築界線，可概括為當代且創新。",
-  "Bol 建造的是「外觀像校舍」的書箱，而非真正蓋一間校舍紀念母親，故 D 未被提及。",
-  "prototype 指 Bol 最初設置在草坪上的社區圖書箱，也是小小免費圖書館的原型。",
-  "圖書箱可由主人自行設計，文中舉酒箱、階梯和彩牆為例，顯示外形與顏色不限。",
-  "路人因方便與好奇而拿書閱讀，簡單的交換機制因而促進閱讀與識讀。",
-  "兩個案件都說明分析文字的用字、拼字與句法模式能成為刑事偵查的關鍵證據。",
-  "炸彈客以一封長篇文字公開自己的哲學主張，故 C 符合文意。",
-  "文章提到拼字、選詞、句構與平行語句，沒有提到聲音模式。",
-  "警方能藉反覆出現的特殊用字與句式鎖定作者，可推知人們常保有習慣性的語言模式。",
-  "文章列出聖歌、進行曲、歌劇與民俗樂器，未提電影主題曲。",
-  "第二段由最早國歌談到民族主義與帝國主義下各類國歌的擴散，主旨是國歌的起源與傳播。",
-  "日本國歌最初的旋律由居日英國樂隊指揮 Fenton 創作，故 C 正確。",
-  "前殖民地獨立後仍常仿效昔日統治者的音樂傳統，因此一些國歌具有相似的歐洲音樂特徵。"
+  "<b>解題關鍵：</b>since their quarrel 表示兩人吵架後，Martha 不想 continue the argument，因此一直設法不和室友碰面。<br>(A) overgrow：長得過大、蔓生；不能以人為受詞。<br>(B) bother：打擾；會增加衝突，不符合她想停止爭論。<br>(C) pursue：追求、追趕；意思和躲開相反。<br>(D) avoid：避開；avoid her roommate 正好符合不想再爭吵的目的。<br>把答案放回去：Martha 自從爭吵後便一直避開室友，以免繼續爭論。",
+  "<b>解題關鍵：</b>David 喝完 delicious chicken soup，還舔嘴唇並發出聲音，這些動作顯示他很享受且滿足。<br>(A) contentment：滿足、知足；sounds of contentment 符合喝完美味湯品的反應。<br>(B) dominance：支配、優勢；不是吃東西後的感受。<br>(C) explosion：爆炸；不能描述滿意的聲音。<br>(D) affection：喜愛、感情；雖可喜愛食物，但 give out sounds of affection 不自然。<br>把答案放回去：他喝完最後一滴湯，滿足地舔唇並發出聲音。",
+  "<b>解題關鍵：</b>拳擊手經過多回合激戰，擊中某人的臉、將他打倒並贏得比賽；被擊敗的是比賽對手。<br>(A) performer：表演者；拳賽參賽者不以此字表示敵手。<br>(B) attendant：服務員、出席者；不是和拳擊手交戰的人。<br>(C) opponent：對手；punch his opponent 完全符合拳賽情境。<br>(D) messenger：信差；題目沒有傳遞訊息。<br>把答案放回去：拳擊手一拳擊中對手臉部，把他擊倒而獲勝。",
+  "<b>解題關鍵：</b>長椅剛上漆，fan the wet paint「對濕漆搧風」會讓水分較快散去，因此是加快乾燥。<br>(A) fasten：扣緊、固定；常用於安全帶或扣子，不表示加速。<br>(B) hasten：加速、促進；hasten its drying 是「加快它乾燥」。<br>(C) lengthen：延長；會使乾燥時間更久，方向相反。<br>(D) strengthen：加強；不能表示乾得更快。<br>把答案放回去：若想加快濕漆乾燥，可以對它搧風。",
+  "<b>解題關鍵：</b>下一句建議睡不著時在睡前喝溫牛奶，表示溫牛奶會引起睡意。主詞 Warm milk 是單數，動詞用 -s。<br>(A) conceals：隱藏；不能隱藏睡意來幫助入睡。<br>(B) recruits：招募；受詞通常是人。<br>(C) absorbs：吸收；若吸收睡意反而無法解釋助眠。<br>(D) induces：引起、誘發；induce sleepiness 是自然搭配。<br>把答案放回去：溫牛奶會引起睡意，因此可在睡前飲用。",
+  "<b>解題關鍵：</b>Alice 做了五年資料處理，已厭倦 routine「一成不變的例行工作」；and 後應放意思相近的生活單調。<br>(A) disturbance：打擾、混亂；與 routine 的穩定重複不同。<br>(B) salvation：救贖；不是她厭倦的生活特質。<br>(C) remainder：剩餘部分；不能表示生活乏味。<br>(D) monotony：單調、千篇一律；和 routine 前後呼應。<br>把答案放回去：她厭倦工作的例行模式與生活的單調。",
+  "<b>解題關鍵：</b>Peter has never been on time 表示他每次會議或約會都遲到，是長期反覆發生的問題。空格修飾 late，需要副詞。<br>(A) chronically：長期地、習慣性地；chronically late 符合總是遲到。<br>(B) hysterically：歇斯底里地；描述情緒，不描述遲到頻率。<br>(C) simultaneously：同時地；沒有兩件事同時發生。<br>(D) resistantly：抗拒地；不是自然的副詞搭配。<br>把答案放回去：值得研究他為何長期習慣性遲到。",
+  "<b>解題關鍵：</b>奧斯卡最佳導演獎是電影界最受重視的獎項之一，許多電影工作者都渴望獲得。<br>(A) populated：人口眾多的；通常形容地區。<br>(B) surpassed：被超越的；不能說最被超越的獎。<br>(C) coveted：令人夢寐以求的；coveted award 表示大家都想得到的獎項。<br>(D) rotated：旋轉的、輪替的；和獎項地位無關。<br>把答案放回去：《少年 Pi》為李安贏得電影界最令人嚮往的獎項之一。",
+  "<b>解題關鍵：</b>主詞 earth，來源是 environmental scientists，談的是未來一世紀地球環境系統的重要變化。<br>(A) provincial：省級的、地方性的；地球變化不是單一地方。<br>(B) ecological：生態的；ecological changes 涵蓋生物與環境的改變。<br>(C) authentic：真實的；不能說地球經歷「真實變化」來指出類型。<br>(D) redundant：多餘的；與環境科學預測無關。<br>把答案放回去：科學家認為地球下個世紀可能經歷重大的生態變化。",
+  "<b>解題關鍵：</b>關係子句說這些療法 use plants, plant parts, or a mixture of these，直接指出以植物為材料。<br>(A) herbal：草本的；herbal remedies 就是用草藥預防或治療疾病。<br>(B) frantic：慌亂的；通常形容人或活動狀態。<br>(C) magnetic：磁性的；題目沒有磁力治療。<br>(D) descriptive：描述性的；不能表示療法使用植物。<br>把答案放回去：傳統中醫包含使用植物或植物混合物的草藥療法。",
+  "<b>解題關鍵：</b>下一句說違法的模特兒經紀公司會被罰款，員工甚至可能入獄，可知法案要把使用過瘦模特兒列為犯罪。<br>(A) forecast：預測；法案不是預測使用情況。<br>(B) represent：代表；不能帶出罰款與監禁。<br>(C) criminalize：使成為犯罪；和 violating the law 完整呼應。<br>(D) distinguish：區分；法律重點不是辨別模特兒。<br>把答案放回去：法國通過法案，將使用過瘦模特兒定為違法。",
+  "<b>解題關鍵：</b>the measure aims to... 說明法案目的；dangerously thin models 被社會 glorification「美化」，政府要採取強硬行動制止。<br>(A) put up with：忍受；會變成政府容忍美化，與立法相反。<br>(B) crack down on：嚴厲取締；符合罰款與監禁措施。<br>(C) give in to：向……屈服；不合政府管制立場。<br>(D) look out for：留意、照顧；力度不足且語意不合。<br>把答案放回去：這項措施旨在嚴厲打擊對危險纖瘦身材的美化。",
+  "<b>解題關鍵：</b>模特兒必須出示一份 medical ______，而且該文件能 proves they are healthy，空格需要「健康證明書」。<br>(A) coverage：報導、保險範圍；不能作為證明健康的文件。<br>(B) certificate：證明書；medical certificate 是醫療證明。<br>(C) operation：手術、運作；不能出示手術來證明健康。<br>(D) prescription：處方；是醫師開藥指示，不等於健康證明。<br>把答案放回去：模特兒工作前須提出證明健康的醫療證明。",
+  "<b>解題關鍵：</b>legislation 規定模特兒需定期接受體重檢查；句型 will be ______ regular weight checks 需要能接名詞的片語。<br>(A) subject to：須服從、會受到；be subject to checks 是「須接受檢查」。<br>(B) accustomed to：習慣於；只說習慣，不能表示法律強制。<br>(C) blessed with：有幸擁有；檢查不是天賦好處。<br>(D) familiar with：熟悉；模特兒不是只需了解檢查。<br>把答案放回去：此外，模特兒將須接受定期體重檢查。",
+  "<b>解題關鍵：</b>法案目標是防止 dangerously thin models，醫療報告要證明模特兒的身高體重比例不危害健康，因此填 healthy。<br>(A) healthy：健康的；healthy body mass-to-height ratio 符合法案目的。<br>(B) pleasant：令人愉快的；不能評量身高體重比例。<br>(C) frequent：頻繁的；比例不是事件頻率。<br>(D) distinctive：獨特的；法律要求健康而非與眾不同。<br>把答案放回去：經紀公司必須證明模特兒維持健康的身高體重比例。",
+  "<b>解題關鍵：</b>前文說生物每天要進行無數維生反應，後面又強調 without enzymes「沒有酵素」時反應可能花數百年；因此沒有任何一項反應能在缺乏酵素下正常進行。<br>(A) Any：任何一個，放入會表示有些可行，和後文矛盾。<br>(B) All：全部，會說全部都可不用酵素，更不合。<br>(C) None：沒有任何；None...without enzymes 是完整否定。<br>(D) More：更多；缺乏比較基準。<br>把答案放回去：這些反應若沒有酵素，沒有一項能正常進行。",
+  "<b>解題關鍵：</b>句子主要動詞是 work；空格片語修飾 chemical reactions，意思是「某些營養素發揮作用所需要的反應」。反應是「被需要」，用過去分詞。<br>(A) requires：單數動詞，但 reactions 是複數且本句已有 work。<br>(B) required：被需要的；required for... 正確修飾 reactions。<br>(C) requiring：主動表示反應需要別物，方向不符。<br>(D) to require：不定詞不能自然接在名詞後表被需要。<br>把答案放回去：酵素推動營養素發揮作用所需的化學反應。",
+  "<b>解題關鍵：</b>沒有酵素時，反應物轉成可用產物可能需數百年，後面 if they are able to do so ______ 更加強語氣：「即使終究做得到的話」。<br>(A) at all：究竟、根本；if...at all 常用來懷疑事情是否能發生。<br>(B) at hand：在手邊；不合反應轉換。<br>(C) at first：起初；文章不是比較早晚階段。<br>(D) at ease：自在；只能形容人或狀態。<br>把答案放回去：缺少酵素時，反應即使能發生，也可能耗時數百年。",
+  "<b>解題關鍵：</b>前兩段強調酵素對生命不可或缺；新段落卻說 do not always function perfectly「並不總是運作良好」，前後是轉折。<br>(A) hereafter：此後；是時間關係。<br>(B) instead：反而、取而代之；通常指出替代行動，此處沒有替代。<br>(C) likewise：同樣地；前後不是相同方向。<br>(D) however：然而；放在兩個逗號間正確表轉折。<br>把答案放回去：然而，酵素並不總能完美運作。",
+  "<b>解題關鍵：</b>後文提到 enzyme defect 和 inborn error of metabolism，並列舉 PKU 等新生兒篩檢的健康異常；Garrod 首次把一種疾病歸因於酵素缺陷。<br>(A) disease：疾病；attribute a disease to a defect 語意正確。<br>(B) balance：平衡；不能歸因成健康異常。<br>(C) measure：措施；不是酵素缺陷造成。<br>(D) statement：陳述；也不能由缺陷引起。<br>把答案放回去：Garrod 首次把疾病的成因連結到酵素缺陷。",
+  "<b>解題關鍵：</b>農夫嘗過自然保存的鴨蛋後，動手仿製，結果成為流傳數百年的 comfort food；空格前 a、後 that，需要單數名詞。<br>(C) delicacy：美食、珍饈；符合可品嘗且長久流傳的皮蛋。<br>容易混淆：(H) mixture 是製作時茶、石灰等混合物，出現在後段；(K) challenge 是品嘗前克服外觀的挑戰；(B) exotic 是形容詞，不能接 a。<br>把答案放回去：農夫的仿製成果成為流傳數百年的美食。",
+  "<b>解題關鍵：</b>scientists estimate 與 more than 500 years to the Ming Dynasty 都在說皮蛋起源的時間；主詞 it 指皮蛋，空格需表示「可追溯到」。<br>(D) dates back：追溯至；date back...to 是時間起源的固定用法。<br>容易混淆：(I) goes by 是「以某名稱為人所知」，應接 names；(J) unchanged 是形容詞；(F) implies 是暗示，不表示存在時間。<br>把答案放回去：科學家估計皮蛋可追溯至五百多年前的明朝。",
+  "<b>解題關鍵：</b>aside from 表示除今日少數量產技術外，傳統保存過程和過去大致相同；has remained 後需接形容詞。<br>(J) unchanged：未改變的；remained relatively unchanged 符合製程沿用。<br>容易混淆：(E) refreshed 是恢復精神，不能形容製程；(D) dates back 是動詞片語；(H) mixture 是名詞，會使句型不完整。<br>把答案放回去：除了現代量產技巧，皮蛋保存製程大致沒有改變。",
+  "<b>解題關鍵：</b>前句把紅茶、石灰、鹽和木灰放進大桶；下一天把各種蛋加入同一內容物，空格前 the 回指這些材料混在一起的東西。<br>(H) mixture：混合物；add eggs to the mixture 指把蛋放入上述混合液。<br>容易混淆：(C) delicacy 是做好的美食；(G) appetizing 是形容詞；(B) exotic 也為形容詞，兩者都不能接在 the 後作此處名詞。<br>把答案放回去：隔天把鴨蛋、鵪鶉蛋或雞蛋放入混合物。",
+  "<b>解題關鍵：</b>皮蛋實際浸泡七週到五個月，破折號後說 not for a century，表示名稱雖叫 century egg，卻不是真的泡一百年；名稱只是「暗示」如此。<br>(F) implies：暗示；as the name implies 是「如名稱所暗示」。<br>容易混淆：(I) goes by 是以某名稱流傳，主詞應是食物；(D) dates back 表起源；(A) provokes 是引發，均不能說名稱暗示時間。<br>把答案放回去：蛋只浸泡數週到數月，並不像名稱暗示的整整一世紀。",
+  "<b>解題關鍵：</b>後面列出 hundred-year egg、thousand-year egg、millennium egg，都是皮蛋的其他名稱；空格後 many other names 需要「以……名稱為人所知」。<br>(I) goes by：以某名字出現；goes by many names 搭配正確。<br>容易混淆：(F) implies 是名稱暗示意義，用在前一格；(D) dates back 接時間；(L) favor 用於 fall out of favor。<br>把答案放回去：皮蛋也有百年蛋、千年蛋等許多名稱。",
+  "<b>解題關鍵：</b>travelers 把皮蛋和 chicken feet、snake soup 放在同一類；對外地旅人而言，這些是不熟悉、具有異國特色的亞洲食物。空格是形容詞修飾 foods。<br>(B) exotic：異國的、奇特的；最符合旅人眼中的陌生食物。<br>容易混淆：(G) appetizing 是看起來可口，但下文反而說外觀不吸引；(C) delicacy 是名詞；(J) unchanged 不描述食物種類。<br>把答案放回去：旅人常把皮蛋與雞腳、蛇湯歸為奇特的亞洲食物。",
+  "<b>解題關鍵：</b>下一句詳述皮蛋呈深褐、沼澤綠，還有刺鼻氣味，表示在品嘗之前，第一道難關是克服它的外觀。空格前 the first 需要名詞。<br>(K) challenge：挑戰、難關；符合需要克服的心理障礙。<br>容易混淆：(A) provokes 是動詞；(B) exotic 是形容詞；(C) delicacy 雖是名詞，但「第一道美食」無法承接外觀問題。<br>把答案放回去：要品嘗皮蛋，首先得跨過其外觀帶來的挑戰。",
+  "<b>解題關鍵：</b>Instead of being white with a bright orange yolk 對比皮蛋的深褐與沼澤綠；less ______ 表示這顏色較不會讓人想吃。空格需形容詞。<br>(G) appetizing：令人有食慾的；less appetizing 說外觀較不誘人。<br>容易混淆：(B) exotic 是奇特，文中要表「看起來不好吃」；(E) refreshed 是精神恢復；(J) unchanged 是未改變，都不適合描述顏色帶來的食慾。<br>把答案放回去：皮蛋呈現較不誘人的深褐與沼澤綠。",
+  "<b>解題關鍵：</b>While 形成對比：老一代與好奇旅人喜歡皮蛋，但年輕人對醃製發酵食物已感厭倦，皮蛋在年輕族群中逐漸不受歡迎。<br>(L) favor：喜愛、支持；fall out of favor 是「失寵、不再受歡迎」。<br>容易混淆：(C) delicacy 是美食，fall out of delicacy 不成立；(K) challenge 也無此搭配；(I) goes by 用來介紹名稱。<br>把答案放回去：皮蛋正逐漸失去年輕世代的喜愛。",
+  "<b>解題關鍵：</b>空格前說海星失去手臂能長出新的；空格後又說蝸牛甚至能長回頭部，中間應補充其他動物也有同類能力。<br>(C) 提到龍蝦、蠑螈等也會發生 the same thing，能延續再生例子。<br>(B) 談人類能力，應接在人類 cannot 的轉折附近；(A)、(E) 是再生類型定義，文章稍後才介紹；(D) 只談渦蟲，應放在最後一段。<br>所以答案選 (C)，段落由海星擴展到更多動物，再帶出蝸牛。",
+  "<b>解題關鍵：</b>空格前說人類不能長出新肢體，因此科學家研究能再生身體部位的動物；下一段開始說各種動物的再生類型。此處應補科學家的研究希望。<br>(F) They 指 scientists，hope to make regeneration possible in humans 呼應前面的「人類做不到」。<br>(B) 說人類仍有些再生能力，會削弱此處對比；(C) 是動物例子；(A)、(E) 是分類說明；(D) 應引出渦蟲。<br>所以答案選 (F)，收束研究目的後再進入分類。",
+  "<b>解題關鍵：</b>前句說蟑螂能長回肢體，但斷肢不能自己生成完整蟑螂；後句用 on the other hand 轉到 bidirectional regeneration「雙向再生」。空格應先命名前一種單向再生。<br>(A) this 回指「身體長回部位，但部位不能長成個體」，正是 unidirectional regeneration。<br>(E) 講水螅海星的雙向例子，應放後面；(D) 談渦蟲；(B)、(C)、(F) 皆不負責定義對比。<br>所以答案選 (A)。",
+  "<b>解題關鍵：</b>前句剛定義雙向再生：動物切開後，各部分都能成為完整個體；後兩句立刻用水螅切成二隻、四隻來示範。因此空格要先說哪些動物有這種能力。<br>(E) this type 指雙向再生，並列 hydras and sea stars，正好引出水螅例子。<br>(A) 是單向再生；(C) 是長回肢體的例子；(D) 引出渦蟲；(F) 談人類研究希望。<br>所以答案選 (E)。",
+  "<b>解題關鍵：</b>空格後的 A single one 指某種單數動物，能被切成數百片，每片一週內長回完整個體；下一句又直接說 one planarian，故空格必須先介紹渦蟲。<br>(D) 明確說在再生能力上少有動物比得上 planarian，能自然引出其驚人例子。<br>(E) 的 hydras 已在前段示範；(A) 定義單向再生；(B)、(C)、(F) 都無法提供 one 的明確指涉。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>第一段說 Hadid 長期遭遇性別偏見、作品被嫌不實用；最後一段卻強調她的 daring and visionary designs，並持續突破建築界線。成功來自眼界與才華。<br>(A) 家庭旅行帶來靈感，但沒有說家人支持促成職涯成功。<br>(B) 伊拉克出身不是成功因素。<br>(C) 女性身分反而造成阻礙，教育也非重點。<br>(D) vision and talent 符合她的創新設計獲獎。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>定位第二段：她的設計被選中並建成後，earned her worldwide acclaim，接著委託案增加、獲得重要獎項；star began to rise 是「名聲開始上升」。<br>(A) 文中沒說她開始賺大錢。<br>(B) became more recognized 符合獲全球認可。<br>(C) 她的設計是當代創新，不是變成古典。<br>(D) ideas took shape 是想法成形，但此時重點是外界肯定。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>第三段回憶青少年時造訪古蘇美地區，沙、水、蘆葦、鳥、人與建築自然流動的景象一直留在她心中，並成為她想在當代建築重現的理念。<br>(A) 文章提到全家旅行，但沒有介紹家族的族群、習俗或文化背景。<br>(B) 景觀美只是段中證據，目的是說明這種景觀如何影響她的建築想法。<br>(C) 只回憶一次旅行，不是完整描寫她的青少年生活。<br>(D) 準確統整這段在追溯她建築哲學的根本靈感來源。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>最後一段直接形容她的設計是 daring and visionary experiments，且 continually pushes the boundaries；第二段也說她設計多種公共建設，不限博物館。<br>(A) 她設計的是 Cincinnati 的當代藝術中心，不在紐約，也非第一座中心。<br>(B) 專案包含交通、圖書館、歌劇院，不以都市博物館為主。<br>(C) boldly contemporary and innovative 符合大膽創新。<br>(D) 早期受拒因不實用或太激進，不是政治背景。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>這是 NOT mentioned。第一、二段直接說 Bol 是 retired businessman、母親是 school teacher，他把小書箱放在草坪作免費社區圖書館。需找文章沒說的內容。<br>(A) 母親曾是老師，有明說。<br>(B) businessman 表示從事商業，已提及。<br>(C) 提供免費借換書服務，可算服務社區。<br>(D) 他蓋的是外觀像校舍的書箱，不是真正 schoolhouse；此說法未提且扭曲原文。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>定位第二段：Bol 先做了 dollhouse-size structure，外觀像柱上的校舍，放在草坪當 free community library；下一句稱 Bol’s prototype，指的就是這個最早版本。<br>(A) 它不是社區中心建築。<br>(B) book exchange box 符合讓鄰居取書、留書的箱子。<br>(C) dollhouse on a post 只抓外觀，忽略實際功能；原文是「像校舍」，非玩偶屋。<br>(D) 非營利組織是由原型發展出的 LFL。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>定位第三段：owners can create their own library boxes，所以外觀通常獨特、possibilities 沒有限制；例子有舊酒箱、迷你階梯、鮮豔牆面。<br>(A) 形狀與顏色可由主人自由設計，符合原文。<br>(B) 書籍材料仍須 appropriate for neighborhood，不是毫無限制。<br>(C) 是先註冊，之後才被分配號碼。<br>(D) 概念是鄰居自由拿書或留書，不需館員辦借還。<br>所以答案選 (A)。",
+  "<b>解題關鍵：</b>最後一段說路人因好奇和方便，更願意拿起書；小書箱也促使鄰居交談、互助。題目問 contribution，要找最直接且符合核心服務的貢獻。<br>(A) LFL Index 使用 GPS 座標列位置，沒有改善 GPS 技術。<br>(B) 簡單的自由換書機制促進閱讀與識讀，符合全文。<br>(C) 沒有加強各國圖書館協會。<br>(D) 好奇心促使拿書，不是滿足對鄰居位置的好奇。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>主旨要涵蓋兩個案件。第一案靠選字與拼字連結 Coleman；第二案靠句構、特殊用字等鎖定 Unabomber。共同點是分析文字能提供刑事偵查的重要證據。<br>(A) 只涵蓋 Leonard 一個案例。<br>(B) 文中是舉 FBI 案例，沒說 FBI 主要依賴語言專家。<br>(C) 能統整法庭語言學與兩案證據。<br>(D) 日常互動只在結尾類比，不是全文主旨。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>定位第二段：Fitzgerald 主張公開 Unabomber’s letter，破折號後直接解釋為 a lengthy declaration of the criminal’s philosophy。<br>(A) negro 是炸彈客用來稱非裔人士的舊詞，不是他不喜歡被這樣稱。<br>(B) 分析語言的是 Fitzgerald。<br>(C) 他在長篇書面聲明中宣告自己的哲學，符合原文。<br>(D) Kaczynski 是獨居的前數學家，住蒙大拿小屋，不是 Hofstra 教授。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>這是 NOT mentioned。第一案明說 word choice and spelling；第三段又列 sentence structure、parallel phrases、unusual words，分別對應選字、拼字、文法句構。<br>(A) sound pattern「聲音模式」沒有出現，文章分析的是書面文字。<br>(B) spelling 在第一段明說。<br>(C) word choice 兩案皆提及。<br>(D) sentence structure、parallel phrases 都屬文法結構模式。<br>所以答案選 (A)。",
+  "<b>解題關鍵：</b>這是推論題。警方能把威脅信、塗鴉和嫌犯文章連在一起，是因同一人反覆使用相似拼字、選字、平行句式與罕見詞；由此可推知語言習慣相當穩定。<br>(A) 沒說寫作會扭曲意義。<br>(B) 證據用來辨認個人差異，不是人人共享相同特徵。<br>(C) 兩個嫌犯背景不足以推論多數罪犯高學歷。<br>(D) 人們傾向維持特定語言模式，符合案件推理基礎。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>這是 NOT mentioned。第二段介紹 hymn「祈禱性聖歌」與 march「進行曲」；第四段又說南中美洲國歌受義大利歌劇影響。需找未列為國歌創作基礎者。<br>(A) prayer songs 對應 hymns，已提。<br>(B) marching songs 對應 marches，已提。<br>(C) Italian opera music 明確影響南中美洲國歌。<br>(D) movie theme music 全文沒有提到。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>第二段從荷蘭、英國最早國歌談起，再說民族主義使國歌遍及歐洲，帝國主義又把歐洲聖歌、進行曲傳到殖民地；主軸是如何起源並擴散。<br>(A) 國歌的功能在第一段。<br>(B) 最古老國歌只是段首細節。<br>(C) origin and spread 能包含早期例子、民族主義及帝國傳播。<br>(D) 沒有分析各國「為何需要」國歌。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>定位第三段：1860 年代英國樂隊指揮 Fenton 指出日本沒有國歌；日本軍官選自平安時代詩歌作歌詞，Fenton wrote the melody。<br>(A) 十九世紀已開始創作，不是二十世紀。<br>(B) 軍官是選擇既有詩句，不是自己寫歌詞。<br>(C) 最初旋律由英國音樂家 Fenton 創作。<br>(D) 現行版受 Fenton 編曲及德國人 Eckert 的西方音階影響，不是幾乎沒受影響。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>這是推論題。第二段直接說歐洲帝國把音樂品味傳到各地，前殖民地獨立後仍常模仿昔日統治者，結果多數國歌採歐洲樂器演奏的聖歌或進行曲。<br>(A) 沒提人權為共同主題。<br>(B) 由共同模仿歐洲傳統可合理推出部分國歌音樂特徵相似。<br>(C) 是前殖民地自行模仿，不是統治國代選。<br>(D) 緬甸、斯里蘭卡仍用本土樂器，不能說地方傳統全被排除。<br>所以答案選 (B)。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -19503,57 +19722,57 @@ window.BANK.push((() => {
 })();
 
 [
-  "顯微鏡用來觀察肉眼看不見的細菌或微生物；germs 表示「病菌、微生物」。",
-  "Lisa 騎上腳踏車快速回家；pedaled 表示「踩踏板騎車」。",
-  "這家牛排館評價極高，觀光局向遊客大力推薦；recommended 符合語意。",
-  "協議雖未寫下，經理已用口頭同意；verbally 表示「口頭上」。",
-  "瑜伽讓 Jerry 暫時離開緊湊工作，是一種放鬆的消遣；diversion 表示「消遣」。",
-  "幼童獨自在家而沒有成人看顧，可能構成疏忽；supervision 表示「監督、照看」。",
-  "短時間快步走比長時間慢走消耗更多熱量；brisk 表示「輕快的」。",
-  "沙漠冬季嚴寒、夏季酷熱，呈現氣候的兩種極端；extremes 符合語意。",
-  "J.K. Rowling 數年間成為千萬富翁，成就堪稱傳奇；legendary 表示「傳奇的」。",
-  "股東因投資回報良好而開心，表示公司獲利強勁；robust 表示「強勁的」。",
-  "耳機音樂太大聲侵犯個人空間，使人感到被冒犯；offended 符合語意。",
-  "聲音、氣味與凝視都是透過感官感受到，故 senses 正確。",
-  "keep one's preferred distance 表示「保持自己偏好的距離」；preferred 為過去分詞形容詞。",
-  "擁擠時會避免與站得很近的人眼神接觸；close to 表示「靠近」。",
-  "有機會時，人們會退到角落以拉開與陌生人的距離；retreat 表示「退避」。",
-  "Enigma 密碼原本被認為無法破解；supposedly 表示「據稱、被認為」。",
-  "Nevertheless 與 Turing 的重大貢獻形成反差：很少人聽過他的名字，故 few 正確。",
-  "他在 23 歲時提出後來會成為現代電腦的構想；would become 表示過去觀點下的未來。",
-  "Turing 沒有因擊敗納粹的貢獻受讚揚，反而遭定罪；Instead of 表示「不是……而是」。",
-  "因性傾向遭定罪帶來羞辱，最終使他自殺；humiliation 表示「羞辱」。",
-  "獅身人面像是巨大的雕像，也是埃及國家象徵；statue 符合語意。",
-  "風、水、污染與人為接觸使岩石逐漸老化；aged 表示「使老化」。",
-  "科學家也要防止石像繼續惡化；deteriorating 表示「惡化」。",
-  "實際修復前需要多年的規劃；planning 符合語意。",
-  "每一塊石頭都要仔細測量，才能判定尺寸與形狀；measured 表示「測量」。",
-  "替換石須依被替換石塊的精確尺寸與形狀雕刻；exact 表示「精確的」。",
-  "新石塊完成後被裝設上去，再移除磨損的舊石；installed 表示「安裝」。",
-  "talk about 後接動名詞，constructing a wall 表示「建造一道牆」。",
-  "牆面白天可縮回地下，表示這是一座可移動的遮蔽物；movable 符合語意。",
-  "各種保護方案都難以兼顧，沒有容易的問題解法；problem 符合總結。",
-  "首段下一句說明在授權下可使用大公司品牌並販售產品，F 正好先定義 franchise。",
-  "前句談加盟制度源於十九世紀，接著需舉早期實例；Singer 的縫紉機加盟案例最合適。",
-  "前句提到現成的營運方式，C 進一步列出產品、服務與制服等內建商業公式。",
-  "知名品牌是加盟優勢，B 以研究指出顧客偏好熟悉品牌來解釋原因。",
-  "末段列舉加盟缺點；D 補充合約到期後加盟者沒有續約權，語意一致。",
-  "作者受大學研究計畫贊助，並關注校外教學對學生學習的影響，可推知從事教育。",
-  "文章說 Nina 讓訪客看見哥倫布時代船隻尺寸與航行設備的精確重現，故 D 正確。",
-  "第三段先說 Nina 並非唯一，再介紹 Jamestown Settlement 等相似的露天博物館。",
-  "學生上船時是被動學習者，離開時成為勇於探索者，表示這段經驗改變了學習態度。",
-  "大貓起源爭議難解，是因為缺乏足以定論的化石證據。",
-  "研究團隊在西藏偏遠邊境發現新化石，故 B 正確。",
-  "文章推測大貓曾以藏原羚羊等物種為食，故 D 符合文意。",
-  "全文報導一具更古老的大貓化石及其對起源理論的影響，目的在報導古生物學新發現。",
-  "haute European cuisine 指精緻、上流的歐洲料理；high-class 最接近。",
-  "四、五○年代節目面向重視便利食品的忙碌家庭，故 B 正確。",
-  "二十一世紀出現 out-of-studio shows，表示最新節目常不在攝影棚拍攝。",
-  "九○年代成功關鍵包含健康取向、廚師個性與娛樂效果，幽默主廚示範低熱量料理最符合。",
-  "首段比較尖叫與一般聲音，並指出尖叫具有快速音量變化的 roughness，主旨是其特徵。",
-  "研究先說人類與其他動物都會尖叫，並未發現只有人類能產生大幅音量變化，故 B 為非研究結果。",
-  "第三段說 roughness 在自然語言中聽不見，卻常見於人工聲響；it 指 roughness。",
-  "研究可把 roughness 加入警報聲提高效果，因此煙霧偵測器的警報最可能受益。"
+  "<b>解題關鍵：</b>顯微鏡用來研究 bacteria 或另一種小到肉眼看不見的生物；空格應和細菌同類。<br>(A) agencies：機構；不是微小生物。<br>(B) codes：密碼、代碼；雖可能很小，但不是用顯微鏡觀察的生物。<br>(C) germs：病菌、微生物；和 bacteria 並列最合理。<br>(D) indexes：索引；是書籍或資料庫的查找工具。<br>把答案放回去：醫學研究室用顯微鏡觀察肉眼看不見的細菌或微生物。",
+  "<b>解題關鍵：</b>Lisa hopped on her bicycle，接著 as fast as she could 穿過暗巷回家；騎腳踏車前進的動作是踩踏板。<br>(A) bounced：彈跳；不能自然表示騎車前進。<br>(B) commuted：通勤；可指上下班往返，但不能直接描述她用力騎的動作。<br>(C) tumbled：跌落、翻滾；會表示她摔倒。<br>(D) pedaled：踩踏板騎車；完全符合自行車情境。<br>把答案放回去：夜班後，Lisa 飛快踩著腳踏車穿過暗巷回家。",
+  "<b>解題關鍵：</b>牛排館被評為全市頂尖餐廳之一，因此觀光局會向遊客大力推薦。句型 be highly ______ to visitors 需要過去分詞。<br>(A) encountered：遇見；餐廳不會「被遇見給遊客」。<br>(B) recommended：推薦；be recommended to visitors 搭配正確。<br>(C) outnumbered：數量超過；沒有兩群數量比較。<br>(D) speculated：推測；通常推測事情，不推測餐廳給遊客。<br>把答案放回去：這家頂尖牛排館受到觀光局大力推薦。",
+  "<b>解題關鍵：</b>後句 Even though the agreement was not put in writing 強調協議沒有寫下；但經理已用另一種方式同意，即口頭承諾。<br>(A) barely：勉強地、幾乎不；不能和沒寫下形成方式對比。<br>(B) stably：穩定地；不描述同意媒介。<br>(C) verbally：口頭上；verbally agreed 正好對比 not in writing。<br>(D) massively：大量地；不能修飾單次同意。<br>把答案放回去：經理雖未寫合約，已口頭同意把公寓租給我。",
+  "<b>解題關鍵：</b>Jerry 工作行程 tight，而每週三次瑜伽讓他 relaxing，表示這項活動讓他暫時離開工作壓力、轉換心情。<br>(A) diversion：消遣、轉換注意力的活動；a diversion from work 搭配正確。<br>(B) medication：藥物；瑜伽不是藥品。<br>(C) nuisance：麻煩、討厭的事；與 relaxing 相反。<br>(D) fulfillment：成就感、實現；不能表示離開工作安排。<br>把答案放回去：瑜伽是 Jerry 從緊湊工作中獲得放鬆的消遣。",
+  "<b>解題關鍵：</b>幼童 alone at home，旁邊沒有成人照看，父母可能因此被控 neglect or abandonment；空格要表示成人監督。<br>(A) intuition：直覺；幼童不能只靠成人直覺獲得安全。<br>(B) supervision：監督、照看；adult supervision 是固定搭配。<br>(C) compassion：同情心；有同情不等於在場照顧。<br>(D) obligation：義務；without adult obligation 不自然。<br>把答案放回去：沒有成人看顧就把幼童獨留家中，父母可能被控疏忽。",
+  "<b>解題關鍵：</b>句中把短時間的某種步速和 long time at a slow pace 比較；要在較短時間燃燒更多熱量，應是輕快快速的步伐。<br>(A) joyous：喜悅的；描述情緒，不表示速度。<br>(B) superb：極佳的；沒有快慢資訊。<br>(C) brisk：輕快的、快步的；a brisk pace 是自然搭配。<br>(D) decent：尚可的、得體的；也不說明速度。<br>把答案放回去：短時間快步走可能比長時間慢走燃燒更多熱量。",
+  "<b>解題關鍵：</b>破折號後用 freezing winters 和 very hot summers 解釋空格，兩者分別是極冷與極熱的相反極端。<br>(A) extremes：極端狀況；a climate of extremes 能概括冷熱兩端。<br>(B) forecasts：預報；冬夏氣候不是多份預報。<br>(C) atmospheres：大氣、氣氛；不能表達溫差劇烈。<br>(D) homelands：家鄉；與氣候特性無關。<br>把答案放回去：某些沙漠冬天酷寒、夏天酷熱，動植物得適應極端氣候。",
+  "<b>解題關鍵：</b>J.K. Rowling 靠《哈利波特》短短幾年成為千萬富翁，這是廣為人知、近乎傳奇的巨大成功。<br>(A) eligible：符合資格的；success 不是「有資格」。<br>(B) marginal：邊緣的、微小的；與賺得巨額財富相反。<br>(C) confidential：機密的；她的成功公開且知名。<br>(D) legendary：傳奇的；能形容非凡、廣受傳頌的成就。<br>把答案放回去：J.K. Rowling 幾年內致富的成功堪稱傳奇。",
+  "<b>解題關鍵：</b>股東獲得 good return on investment 而開心，表示公司 earnings「收益」強勁、表現良好。<br>(A) robust：強勁的、健全的；robust earnings 符合高投資報酬。<br>(B) solitary：孤單的、單一的；不能形容收益佳。<br>(C) imperative：必要的、命令；與獲利程度無關。<br>(D) terminal：末期的、終端的；甚至帶有結束意味，不合喜悅情境。<br>把答案放回去：科技公司強勁的收益讓股東得到良好回報。",
+  "<b>解題關鍵：</b>前句列出太靠近、大聲說話等讓人 irritated 的行為；耳機音樂太大也侵犯 personal space，使人感到被冒犯。<br>(A) offended：冒犯、惹惱；和 feel unhappy、space violated 呼應。<br>(B) controlled：控制；音樂沒有控制你。<br>(C) acquired：取得；不能說噪音取得某人。<br>(D) supplied：供應；若使用通常是 supply someone with something，且不合負面感受。<br>把答案放回去：別人的耳機音樂太大，可能冒犯並打擾你。",
+  "<b>解題關鍵：</b>下一句舉 unwelcome sound, smell, or stare，分別靠聽覺、嗅覺、視覺感受到；因此個人空間是透過各種感官被察覺。<br>(A) angles：角度；不能統整聲音、氣味與注視。<br>(B) events：事件；不是人體接收刺激的方式。<br>(C) senses：感官；through all the senses 符合例子。<br>(D) regions：區域；個人空間不是透過地區施加。<br>把答案放回去：個人空間涉及透過各種感官感受到的無形力量。",
+  "<b>解題關鍵：</b>擁擠車廂裡，人們不一定能保持自己「偏好、想要的」距離。空格放在名詞 distance 前，需要形容詞。<br>(A) prefer：原形動詞，不能直接修飾 distance。<br>(B) preferring：表示正在偏好的主動動作，不自然。<br>(C) preferred：偏好的；preferred distance 就是人想保留的距離。<br>(D) being preferred：正在被偏好，結構冗長且不能自然作定語。<br>把答案放回去：擁擠時，人們無法總是維持理想的個人距離。",
+  "<b>解題關鍵：</b>當別人站得很近時，人們為減輕不舒服，常避免眼神接觸；空格片語修飾 standing，需表示空間靠近。<br>(A) long before：早在……之前，是時間關係。<br>(B) close to：靠近；standing close to them 符合擁擠情境。<br>(C) aside from：除了；不能描述站立位置。<br>(D) soon after：在……之後不久，也是時間關係。<br>把答案放回去：人們常避免和站得很近的陌生人眼神接觸。",
+  "<b>解題關鍵：</b>後面的 putting distance between themselves and strangers 說明行動目的是拉開距離；有機會時，他們會退到角落。<br>(A) retreat：退避、退到；retreat to a corner 搭配正確。<br>(B) explore：探索；走向角落不是為了探險。<br>(C) dispense：分配、免除；不能表示移動。<br>(D) connect：連結；與拉開和陌生人距離相反。<br>把答案放回去：有機會時，人們會退到角落，和陌生人保持距離。",
+  "<b>解題關鍵：</b>Turing 實際成功 cracked Enigma code，但空格後 uncrackable 說它原先被大家認為無法破解；需用副詞表示「據稱」。<br>(A) eventually：最後；會變成「最後無法破解」，和 cracked 矛盾。<br>(B) precisely：精確地；不能說密碼精確地不可破解。<br>(C) concernedly：擔心地；不描述社會看法。<br>(D) supposedly：據稱、被認為；the supposedly uncrackable code 符合反差。<br>把答案放回去：Turing 破解了原本被認為無法破解的密碼。",
+  "<b>解題關鍵：</b>前文列出 Turing 的重大貢獻；Nevertheless 表示「然而」，後面應接相反情況：即使如此，很少人聽過他的名字。<br>(A) many：很多；不會形成轉折。<br>(B) some：一些；反差不如「很少」明確。<br>(C) any：任何；肯定句中 any people 不自然。<br>(D) few：很少；few people have heard 正好凸顯名聲與貢獻不相稱。<br>把答案放回去：儘管貢獻重大，卻很少人聽過 Turing。",
+  "<b>解題關鍵：</b>By the time he was 23 是過去時間；當時 Turing 已提出一個構想，而它從那個過去時間點看，後來「將成為」現代電腦。<br>(A) would become：會成為；表示過去觀點中的未來。<br>(B) should become：應該成為；帶義務或預期，不是歷史結果。<br>(C) could have become：本來可能已成為，暗示沒實現。<br>(D) had become：當時以前已成為，但 23 歲時還只是構想。<br>把答案放回去：他 23 歲前已想出後來會發展成現代電腦的概念。",
+  "<b>解題關鍵：</b>前文說 Turing 協助擊敗納粹、拯救生命；however 後說戰後他因同性戀遭定罪。合理對比是他沒有受到英雄般讚揚，反而受罰。<br>(A) Because of：因為；遭定罪不是因破解密碼。<br>(B) Instead of：不是……而是；instead of being hailed 與 convicted 形成反差。<br>(C) In addition to：除了……還；會表示他同時獲讚揚，原文沒有。<br>(D) With respect to：關於；不能表示反差。<br>把答案放回去：他非但未被譽為英雄，反而遭到定罪。",
+  "<b>解題關鍵：</b>This 回指 Turing 因性傾向被判 gross indecency 的遭遇；這種公開定罪帶來羞辱，最終 drove him to commit suicide。<br>(A) compromise：妥協；沒有協商退讓。<br>(B) procession：遊行隊伍；與自殺原因無關。<br>(C) humiliation：羞辱；符合遭不公定罪帶來的痛苦。<br>(D) supplement：補充物；不能成為情緒原因。<br>把答案放回去：這份羞辱使 Turing 在 1954 年走上絕路。",
+  "<b>解題關鍵：</b>空格前 This monumental、後面 regarded as a national symbol，主詞指具有獅身人頭的 Great Sphinx，需填可數名詞。<br>(K) statue：雕像；能概括這座四千年石雕。<br>容易混淆：(L) religious 是形容詞，不能接在 This monumental 後作中心名詞；(D) problem 是後文保護難題；(H) constructing 是建造動作。<br>把答案放回去：這座宏偉雕像常被視為埃及國家象徵。",
+  "<b>解題關鍵：</b>前面說獅身人面像不像四千年前，分號後列風、水、污染和接觸造成變化；have slowly 後需過去分詞，意思是使岩石老化。<br>(E) aged：使老化；have aged the rock 結構正確。<br>容易混淆：(J) deteriorating 是惡化中的，不能直接接在 have 後；(B) installed 是安裝；(C) diversified 是使多樣化，均不合侵蝕結果。<br>把答案放回去：環境與人為接觸慢慢使岩石老化。",
+  "<b>解題關鍵：</b>科學家不只要恢復原貌，還要阻止石像比現在「惡化得更多」。keep it from 後接 V-ing，表示防止某事發生。<br>(J) deteriorating：惡化；keep...from deteriorating 是固定結構。<br>容易混淆：(E) aged 是過去式／分詞，不能放在 from 後；(C) diversified 是多樣化，並非石像問題；(H) constructing 是建造，不是要防止的結果。<br>把答案放回去：科學家尋找方法，避免石像繼續惡化。",
+  "<b>解題關鍵：</b>句子說修復不容易，而且「在工程開始前」就要花數年做某事；空格前 of 需要名詞或動名詞，最合理是事前規劃。<br>(F) planning：規劃；several years of planning 符合大型修復工程。<br>容易混淆：(H) constructing 是建造，但原文明說 before the work begins；(G) measured 是被測量；(D) problem 是問題，皆不能表示準備流程。<br>把答案放回去：正式修復前需要花數年規劃。",
+  "<b>解題關鍵：</b>下一句說用電腦算出 each stone 的 size and shape，表示每塊石頭要先仔細測量；is carefully 後需過去分詞。<br>(G) measured：被測量；能提供尺寸與形狀資料。<br>容易混淆：(B) installed 是安裝，應在新石做好後；(E) aged 是使老化；(I) exact 是形容詞，不能直接接 is carefully。<br>把答案放回去：獅身人面像的每塊石頭都會被仔細測量。",
+  "<b>解題關鍵：</b>replacement stones 要和被替換的舊石吻合，因此尺寸與形狀必須完全相同。空格為形容詞，修飾 sizes and shapes。<br>(I) exact：精確的；the exact sizes and shapes 表示一模一樣的規格。<br>容易混淆：(C) diversified 是多樣化，會造成不合；(A) movable 是可移動，和規格無關；(G) measured 是被測量，不直接表示相同。<br>把答案放回去：替換石依舊石的精確尺寸與形狀手工雕成。",
+  "<b>解題關鍵：</b>新石準備完成後，句子和 the worn ones removed 並列兩個被動動作：新石裝上去，磨損舊石移除。<br>(B) installed：被安裝；are installed 和 removed 結構平行。<br>容易混淆：(A) movable 是可移動狀態；(G) measured 在前面已完成；(H) constructing 是建造中，不能接 are。<br>把答案放回去：新石完成後會被裝上，再移除磨損石塊。",
+  "<b>解題關鍵：</b>Scientists have talked about 後面需名詞或 V-ing；保護方案是「在獅身人面像周圍建一道牆」，因此用 constructing。<br>(H) constructing：建造；talk about constructing a wall 結構正確。<br>容易混淆：(F) planning 雖可接 talk about，但 planning a wall 是規劃牆，後文列的是實際建牆方案；(B) installed 是分詞；(K) statue 是雕像。<br>把答案放回去：科學家討論過在石像周圍建牆擋風沙。",
+  "<b>解題關鍵：</b>這個 shelter 夜間與壞天氣升起保護石像，白天牆面可 retract into the ground，顯示它能移動收合。空格修飾 shelter。<br>(A) movable：可移動的；符合白天縮入地下的設計。<br>容易混淆：(L) religious 是宗教的，和功能無關；(I) exact 是精確的；(C) diversified 是多樣的，均不能解釋 retract。<br>把答案放回去：有人建議造一座可移動的遮蔽物。",
+  "<b>解題關鍵：</b>前文列建牆、玻璃金字塔、埋沙、活動遮棚等方案，每項都有困難且難讓所有人同意；最後總結沒有簡單解法處理這個問題。<br>(D) problem：問題；solutions to the problem 是固定搭配。<br>容易混淆：(K) statue 是被保護對象，不能說 solutions to the statue；(F) planning 是過程；(J) deteriorating 是動名詞，皆不適合總結。<br>把答案放回去：這個保護難題沒有容易且各方都同意的解法。",
+  "<b>解題關鍵：</b>首段說自行創業風險高，許多人改買 franchise；空格後立刻用 Under the license 說個人可用大公司品牌並賣產品，因此空格應先定義 franchise 是一種授權。<br>(F) 完整給出「知名大公司發給個人或小企業主的許可」，the license 才有明確指涉。<br>(E) 是十九世紀案例，應放歷史段；(C)、(B) 是優點；(D) 是缺點；(A) 談獲利。<br>所以答案選 (F)。",
+  "<b>解題關鍵：</b>空格前說加盟概念可追溯到十九世紀美國；空格後 Then, in the 1930s 又推進到餐廳連鎖，因此中間要放十九世紀早期案例。<br>(E) Singer 用加盟把縫紉機銷往更大地區，是符合年代的 famous example。<br>(F) 定義應在前段；(C)、(B) 是優點段；(D) 是缺點；(A) 不提供歷史事件。<br>所以答案選 (E)，時間順序成為十九世紀 Singer → 1930 年代餐廳。",
+  "<b>解題關鍵：</b>優點段先說 ready-made business operation「現成營運方式」；空格後再補加盟總公司可能提供訓練、財務規劃、供應商協助，因此空格應具體解釋現成公式內容。<br>(C) 列出產品、服務、員工制服等 built-in business formula，正好展開前句。<br>(B) 談品牌辨識，應接後面知名品牌；(A)、(D) 是評估或缺點；(E)、(F) 是歷史與定義。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>前句指出最受認可的優點是 well-established brand name，並以 McDonald’s 為例；下一句應說明知名品牌為何有利。<br>(B) 研究顯示顧客傾向選擇認得的品牌，直接支持品牌優勢。<br>(C) 解釋營運公式，屬前一項優點；(A) 談是否獲利；(D) 為合約缺點；(E)、(F) 為歷史與定義。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>末段集中列加盟缺點：高開辦費、持續權利金；空格後再列缺乏區域控制與創意。空格也應是同類限制，而且 Moreover 表示追加。<br>(D) 說加盟者合約到期沒有續約或延長權，是另一項缺點。<br>(A) 只是獲利取決因素，不一定是缺點；(B)、(C) 是優點；(E)、(F) 是歷史與定義。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>這是由文章線索推論職業。第二段說作者的 research project 由大學贊助，他特別觀察 school-age children、field-trip learning，結尾也提出主動學習信念。<br>(A) 他短期加入船員，不代表從事航運。<br>(B) 長期關注學生學習與高層次思考，可推知從事教育。<br>(C) 沒有生態旅遊內容。<br>(D) 他不是博物館行政人員，而是研究參訪的教育效果。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>定位第一、二段：Nina 是在巴西建造的 Columbus-era replica ship，展示五百年前船的尺寸與 sailing implements；學生還能操作當時的巨大船舵。<br>(A) 是仿哥倫布時代的船，不是哥倫布在巴西造的船。<br>(B) 沒說假日總擠滿外國遊客。<br>(C) 它是現代複製船，不是哥倫布實際航行的原船。<br>(D) 重現當時航行設備，符合原文。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>第三段開頭說 Nina is not the only traveling museum，接著介紹 Jamestown Settlement 的三艘重建船與穿古裝解說員，都是相似的實境、露天博物館例子。<br>(A) 沒有列訪客規則。<br>(B) 提到早期移民只是說明重建船背景。<br>(C) 解說員不在英國博物館，而是在美國 Jamestown。<br>(D) 能統整本段介紹和 Nina 相似的博物館。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>最後兩句是比喻：學生登船時是 passive learners，離開時成為 bold explorers；前句已說主動參與使學生保持興趣、問更好的問題並做高層次思考，所以轉變在學習態度。<br>(A) 沒說想當導遊。<br>(B) 符合由被動到主動探索的改變。<br>(C) bold explorers 不是字面上能獨自航海。<br>(D) 學到的是歷史與主動思考，不是海上求生技能。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>定位第三段：大貓演化起源 hotly discussed，問題之所以複雜，是 lack of fossil evidence to settle the debate「缺少能解決爭論的化石證據」。<br>(A) 符合化石數量不足。<br>(B) 跨洲移動是後文演化路徑，不是爭議難解原因。<br>(C) 團隊有 DNA 與比較工具，沒說缺設備。<br>(D) 物種多樣是結果，原文明指缺化石才是關鍵。<br>所以答案選 (A)。",
+  "<b>解題關鍵：</b>定位第五段：Tseng and his team made the find in 2010 in a remote border region in Tibet，直接交代新化石在西藏偏遠邊境發現。<br>(A) Tanzania 找到的是先前 380 萬年前的牙齒碎片。<br>(B) Tibet 是本次新頭骨的地點。<br>(C) California 是研究者任職大學所在地，非發現地。<br>(D) 大貓後來擴散到東南亞，不是化石出土地。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>定位第六段：研究推測大貓曾住在喜馬拉雅山區形成的避難地，feeding on...such as the Tibetan blue sheep，直接指出藏原羚羊是食物例子。<br>(A) 約 1600 萬年前指起源時間，演化成美洲豹是後來跨洲。<br>(B) 新化石有 410–595 萬年，比 380 萬年更老。<br>(C) 雪豹是大貓後來分化的一支，不是祖先。<br>(D) 符合原文食物線索。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>全文以新聞方式報導一具 410–595 萬年前的大貓頭骨、出土地、鑑定過程，以及它如何改變「大貓源於非洲」的舊看法，核心是新化石發現。<br>(A) 沒有呼籲保育。<br>(B) 古生物學研究化石與古代生命，最符合本文目的。<br>(C) 雖命名 Panthera Blytheae，但重點是起源證據，不只是介紹物種。<br>(D) 家族樹只是鑑定方法，沒有逐一比較。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>第三段把 1960、70 年代節目形容為 celebrity gourmet experts 展示 haute European cuisine，下一句稱它有 elite cultural aura「菁英文化氣息」，因此 haute 表示高級精緻。<br>(A) coarse：粗糙的，和 elite 相反。<br>(B) civilian：平民的，與料理等級無關。<br>(C) various：多樣的，是後來世界料理特色。<br>(D) high-class：高級的，最接近 haute。<br>所以答案選 (D)。",
+  "<b>解題關鍵：</b>定位第二段：1940 年代節目轉到電視，1950 年代面向中產女性，其心態偏好 convenient foods for busy families，並以罐頭快速料理為例。<br>(A) 1920 年代聽眾最注意 recipes，不是更愛家政建議。<br>(B) 四、五○年代觀眾關心忙碌家庭的便利料理，符合。<br>(C) 全國食譜交流發生在 Aunt Sammy 廣播時期。<br>(D) 1980 年代 Yan Can Cook 展示中國料理，不是純美式高級菜。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>定位末段：21 世紀出現 out-of-studio shows 和 chef competition reality shows；主廚成為像搖滾明星般的名人，觀眾偏向看人做菜。<br>(A) 主廚名氣媲美搖滾明星，不是由搖滾明星主持。<br>(B) out-of-studio 直接表示常不在攝影棚拍。<br>(C) 吸引的是 celeb-hungry 一般觀眾，不是許多名人觀眾。<br>(D) 沒說讓飢餓觀眾當評審。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>第三段明說 1990 年代成功節目的兩個關鍵是 chefs’ personalities and entertainment value，內容也涵蓋 health-conscious cuisine；答案需同時符合個性、娛樂與健康。<br>(A) 高級歐洲料理是六、七○年代特色。<br>(B) 食品公司贊助不是本文年代線索。<br>(C) 幽默主廚提供娛樂，低熱量料理符合健康取向。<br>(D) 系統化從頭教料理是 1950 年代風格。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>第一段先排除「只因大聲或高音」，再介紹研究發現尖叫的獨特性是 roughness：音量在 30–150 Hz 間快速變化，而一般說話只有 4–5 Hz。<br>(A) 沒有分類多種尖叫。<br>(B) 人與動物共享尖叫只是開場。<br>(C) specific features 能統整 roughness、音量變化與令人不舒服的感受。<br>(D) 音量變化和雞皮疙瘩只是細節，不含研究主軸。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>這是 NOT a finding。第一段研究發現 roughness 來自快速音量變化，一般語音為 4–5 Hz；第二、三段發現 roughness 與恐懼及杏仁核活動相關。需找研究沒證實的說法。<br>(A) 快速音量變化使尖叫不同，已發現。<br>(B) 文章開頭說人類與其他動物共享尖叫，並未發現只有人能大幅變化。<br>(C) 4–5 Hz 是原文數據。<br>(D) 粗糙尖叫會啟動杏仁核，已提。<br>所以答案選 (B)。",
+  "<b>解題關鍵：</b>定位第三段句子：The study discovered... It also found that roughness isn’t heard when we speak naturally...。雖然句首 It 指研究，但題目所問的後續 it is prevalent in artificial sounds 中，小寫 it 的內容承接 roughness。<br>(A) 研究不是「存在於人工聲音中」的東西。<br>(B) language 在 regardless of the language 中只是範圍。<br>(C) roughness 可在人工警報、喇叭中普遍出現，語意正確。<br>(D) 杏仁核是腦區，不存在聲音內。<br>所以答案選 (C)。",
+  "<b>解題關鍵：</b>末段提出把 roughness 加進 alarm sounds，使警示更容易被察覺；煙霧偵測器正靠警報聲提醒危險，因此能直接運用研究。<br>(A) smoke detector 的警報可加入粗糙音質，提高注意效果。<br>(B) security camera 主要錄影，不依賴聲音警報完成偵測。<br>(C) electric bug killer 以電擊昆蟲，無須提醒行人。<br>(D) fire extinguisher 用來滅火，本身通常不發警報；與聲音研究無關。<br>所以答案選 (A)。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -20756,57 +20975,57 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "John 情緒低落時回到溫暖、安心又舒適的家；secure 表示「安全安心的」。",
-  "Tom 說了話但聽者無法辨清內容，表示他含糊低聲說；mumbled 表示「咕噥」。",
-  "內容技術性強且專業，一般外行人難以理解；layman 表示「外行人」。",
-  "糧食短缺會造成兒童營養不足；inadequate 表示「不足的」。",
-  "後文說作家常間接表達，與「明確地寫」形成對比；explicitly 表示「明確地」。",
-  "drizzle 是細雨，與 light rain 並列，也呼應需要帶傘。",
-  "只因電影熱門就認定一定好，是過於天真的結論；naive 表示「天真的」。",
-  "大型貝殼讓遠近族人都聽得見，作用是放大聲音；amplify 表示「放大」。",
-  "觀眾看著悲劇歷史事件在眼前逐步展開；unfold 表示「展開、呈現」。",
-  "法規允許重病員工請長期病假；be entitled to 表示「有權享有」。",
-  "as did his life of adventure 為倒裝，表示他的冒險人生也同樣影響現代小說。",
-  "記者被派往歐洲報導希臘革命等事件；cover 可表示「採訪報導」。",
-  "他長久追求普立茲獎卻一直未能獲得；had long been denied 表示「長期未獲」。",
-  "人物的勇氣與誠實和殘酷現代社會形成對抗；confrontation 表示「對抗」。",
-  "some of which 引導非限定關係子句，which 指 Hemingway 的短篇故事。",
-  "10K、半程與全程馬拉松是路跑賽事最常見的距離；distances 符合數值單位。",
-  "路跑能滿足各年齡與能力者的需求；cater to 表示「迎合、適合」。",
-  "業餘初學者甚至可和世界級冠軍同場參賽；champions 表示「冠軍選手」。",
-  "those involved 指參與路跑的人；過去分詞 involved 後置修飾 those。",
-  "Race for the Cure 是路跑為公益議題募款的具體例子，故 For example 正確。",
-  "流感造成的死亡超過戰爭本身，因此更致命；deadly 表示「致命的」。",
-  "第二波流感隨戰時機械與物資運輸抵達波士頓港；shipments 表示「運送貨物」。",
-  "戰時人員移動使疾病迅速席捲全國；sweep through 表示「快速蔓延」。",
-  "全國男子加入軍隊服役，並把病毒帶到各地；military 符合戰時語境。",
-  "停戰遊行與聚會促成範圍更廣的疾病傳播；wider 表示「更廣泛的」。",
-  "大型慶祝活動加速某些城市的疾病傳播；accelerated 表示「加速」。",
-  "當年冬天數百萬人受到感染；infected 表示「感染」。",
-  "這場流感比先前發生的其他疫情造成更多死亡；preceded 表示「先於」。",
-  "醫學科學家警告未來某時仍可能爆發另一場疫情；warn 表示「警告」。",
-  "全球交通便利使疫情更難控制；harder 表示「更困難」。",
-  "前句說鋰離子電池能量密度近兩倍，E 解釋為更小單位容納更多電力，並銜接減輕重量。",
-  "後文說它不保留前次充電的記憶且無須定期循環，A 以低維護需求引出此優點。",
-  "前兩段談優點，後文轉說脆弱與安全問題；B 最能作為缺點段落的轉折總句。",
-  "前句談過熱與安全風險，後句談老化後電壓下降；F 引出另一缺點是內阻隨循環與老化增加。",
-  "後文說製造商持續改良且進展快速，C 的新化學組合約每半年推出最能具體說明。",
-  "Alexander 下單前，Fabergé 的作品早已吸引 Maria 的目光，故選 B。",
-  "第一顆蛋中最後兩個驚喜——鑽石皇冠模型與紅寶石小蛋——已經遺失。",
-  "每顆蛋須獨一無二且藏有驚喜；met the challenge 指他們每次都達成沙皇要求。",
-  "約五十顆皇家復活節蛋是為 Alexander III 與其子 Nicholas II 製作，與末代兩位沙皇家族相關。",
-  "Six Sigma 以量測生產缺陷、系統性消除問題來改善產品與服務品質，故 D 最完整。",
-  "文章明言 training and teamwork 是 Six Sigma 方法的必要元素。",
-  "末兩段依 1986、數年後、1995、1998、2000 的順序說明發展，採時間順序。",
-  "2000 年後 Six Sigma 成為提供訓練、顧問與導入服務的產業，供世界各類組織採用。",
-  "全文重點是海豚會辨識並模仿熟識個體的專屬哨聲，展現自然界罕見的溝通方式。",
-  "研究使用 1984 至 2009 年的野生海豚錄音，資料蒐集跨越二十多年。",
-  "第三段開頭的 This use of vocal copying 承接前段模仿熟識海豚哨聲的行為，故 this 指 whistle copying。",
-  "文章對比海豚以哨聲維繫社交與鳥類較具攻擊性的情境，可推知鳥叫可能用於防衛資源或領域。",
-  "火山灰與熔岩形成岩層後，長期受風雨侵蝕，才塑造今日峽谷與岩柱景觀。",
-  "頂端硬石保護下方較軟岩層，顯示仙女煙囪由不同硬度的岩石構成。",
-  "岩洞曾作教堂、修道院、藏身地下村落、住家與儲藏空間；文章未說用作藝廊。",
-  "全文同時描述風雨塑造的特殊地貌與人類鑿建的宗教、居住空間，主旨是自然與人文交會的奇觀。"
+  "<b>解題關鍵：</b>depressed 表示 John 情緒低落；他回家是因為家中有 warm、comfortable 的氣氛，空格也要是正面感受。<br>(A) crucial：關鍵的，不形容家庭氣氛。<br>(B) sloppy：草率、邋遢的，是負面詞。<br>(C) secure：安全安心的，和 warm、comfortable 並列最自然。<br>(D) cautious：小心謹慎的，通常形容人或做法。<br>把答案放回去：他難過時會回到溫暖、安心又舒適的家。",
+  "<b>解題關鍵：</b>後句說聽者無法弄清 Tom 說了什麼，表示聲音小又含糊。<br>(A) mumbled：低聲含糊地說，符合聽不清楚。<br>(B) perceived：察覺，是接收資訊，不是說話。<br>(C) summoned：召喚。<br>(D) trampled：踩踏。<br>考場上先用 said 與 couldn’t figure out 鎖定「說不清楚」；把答案放回去：Tom 離開前咕噥了幾句，但我沒聽懂。",
+  "<b>解題關鍵：</b>technical and specialized 說書本內容專業，too difficult for...to understand 表示一般非專業者看不懂。<br>(A) patriot：愛國者，和專業程度無關。<br>(B) hacker：駭客，仍可能是技術人士。<br>(C) layman：外行人、非專業人士，正好和 specialized 對比。<br>(D) tenant：房客。<br>把答案放回去：這本書太專業，外行人難以理解。",
+  "<b>解題關鍵：</b>Food shortages 是糧食短缺，會使兒童得到的營養不夠；空格修飾 nutrition。<br>(A) distinctive：有特色的，不表示多寡。<br>(B) vigorous：精力旺盛的，通常形容人或活動。<br>(C) inadequate：不足的，inadequate nutrition 符合因果。<br>(D) abundant：豐富的，和 shortages 相反。<br>把答案放回去：糧食短缺造成發展中國家兒童營養不足。",
+  "<b>解題關鍵：</b>分號後 on the contrary 是「相反地」，後面說好作家常用 indirect way 間接表達，所以前面應是「不總是直接明白地寫」。<br>(A) explicitly：明確直接地，與 indirect 對比。<br>(B) ironically：諷刺地。<br>(C) persistently：持續地。<br>(D) selectively：選擇性地。<br>後三項都無法和 indirect 形成精準反義；答案 A。",
+  "<b>解題關鍵：</b>weather report 預測 light rain or...，or 兩邊應是相近天氣，且後句提醒帶傘。<br>(A) hail：冰雹，不能稱 light rain。<br>(B) breeze：微風，不一定需雨傘。<br>(C) tornado：龍捲風，強度不可能只是 light。<br>(D) drizzle：毛毛雨，與 light rain 同類。<br>把答案放回去：今天可能有小雨或毛毛雨，外出要帶傘。",
+  "<b>解題關鍵：</b>many people 只因電影 popular 就推論 must be good，however 後又說專業影評人不認同，表示這個結論過度單純。<br>(A) acute：敏銳或嚴重的。<br>(B) naive：天真的、欠缺深思的，符合盲從人氣。<br>(C) confidential：機密的。<br>(D) skeptical：懷疑的，若懷疑就不會說 must be good。<br>把答案放回去：觀眾天真地以為熱門電影一定好。",
+  "<b>解題關鍵：</b>so that 引出目的：讓遠近族人都聽見，表示大型貝殼把聲音變大。<br>(A) amplify：放大音量，amplify voices 正確。<br>(B) mobilize：動員人力。<br>(C) penetrate：穿透，不能直接表音量增強。<br>(D) undermine：削弱，反而使聲音更小。<br>把答案放回去：古人用大貝殼放大聲音，讓遠方的人也聽見。",
+  "<b>解題關鍵：</b>觀眾屏息不動，看著悲劇歷史事件「在眼前逐步發生」；空格用 -ing 補充 event 的動作。<br>(A) ascending：上升。<br>(B) elaborating：詳述，通常由人詳述內容。<br>(C) illustrating：說明、圖解，需要說明的對象。<br>(D) unfolding：展開、逐步呈現，符合事件發展。<br>把答案放回去：觀眾看著歷史悲劇在眼前一幕幕展開。",
+  "<b>解題關鍵：</b>According to government regulations 表示這是法規保障；重病無法工作的員工「有權」請長期病假。<br>(A) adapted：適應的。<br>(B) entitled：有權享有，be entitled to + 名詞／動詞原形。<br>(C) oriented：以……為導向。<br>(D) intimidated：受威嚇的。<br>把答案放回去：依規定，重病員工有權申請較長病假。",
+  "<b>解題關鍵：</b>前半說寫作風格 influenced modern fiction，as 後要補「冒險人生也同樣影響」。為避免重複 influenced，用助動詞 did 代替。<br>(A) was 不能代替主動動詞 influenced。<br>(B) being 造成片段。<br>(C) did 正確，as did his life 是倒裝，還原為 his life did, too。<br>(D) doing 時態與句型不合。<br>完整語意：他的寫作風格與冒險人生都影響現代小說。",
+  "<b>解題關鍵：</b>Hemingway 以 newspaper correspondent 身分被派到歐洲，後面接 Greek Revolution 等新聞事件，所以空格是記者「採訪報導」。<br>(A) cover：報導事件，符合記者工作。<br>(B) approve：批准。<br>(C) predict：預測。<br>(D) escape：逃離。<br>把答案放回去：他被派往歐洲報導希臘革命等事件。",
+  "<b>解題關鍵：</b>finally winning him the Pulitzer Prize 表示最後終於得獎；had long been... 則應說在此之前長期「未被給予」這個獎。<br>(A) planned：被規劃。<br>(B) achieved：被達成，不能說人被達成。<br>(C) examined：被檢查。<br>(D) denied：被拒絕給予，had been denied the prize 正確。<br>把答案放回去：這本書終於替他贏得久未獲得的普立茲獎。",
+  "<b>解題關鍵：</b>whose courage and honesty are set against the brutal ways 表示人物的勇氣誠實與殘酷社會相對抗；this 後需要名詞。<br>(A) limitation：限制。<br>(B) classification：分類。<br>(C) confrontation：對抗、衝突，能承接 set against。<br>(D) modification：修改。<br>把答案放回去：人物在與殘酷現代社會的對抗中失去希望與信念。",
+  "<b>解題關鍵：</b>逗號後補充 some...are collected；some of 的對象是前面的 short stories，空格要代替事物並引導補充說明。<br>(A) what 不能接在 some of 後指已知名詞。<br>(B) which：some of which 正確，which 指短篇小說。<br>(C) them 若用就會形成兩個獨立子句黏在一起。<br>(D) these 同樣不能引導子句。<br>完整語意：其中一些短篇收錄在《沒有女人的男人們》。",
+  "<b>解題關鍵：</b>10K、21.1K、42.2K 都是長度數值，所以三種常見的是比賽「距離」。<br>(A) journeys：旅程，重點不是旅行過程。<br>(B) distances：距離，能被公里數說明。<br>(C) destinations：目的地，數字不是地點。<br>(D) measurements：測量結果，說法過於籠統。<br>把答案放回去：路跑最常見的距離是十公里、半馬與全馬。",
+  "<b>解題關鍵：</b>後句說初學者、跑團成員、世界級選手都能參加，證明路跑適合各年齡與能力。<br>(A) caters to：迎合、滿足……需要，cater to all ages 正確。<br>(B) depends on：依靠。<br>(C) goes after：追求、追趕。<br>(D) identifies with：認同。<br>把答案放回去：路跑能照顧不同年齡與能力的參與者。",
+  "<b>解題關鍵：</b>even 表示程度升高：初次參加的業餘者能與跑團成員，甚至世界級的某類人同場；需要指人的複數名詞。<br>(A) matches：比賽或配對。<br>(B) civilians：平民。<br>(C) associations：協會。<br>(D) champions：冠軍選手，world-class champions 搭配自然。<br>把答案放回去：初學者甚至能和世界級冠軍參加同一場賽事。",
+  "<b>解題關鍵：</b>those 後要縮短「那些參與路跑的人」；空格後已有 a range of challenges，不能再放完整動詞句。<br>(A) involving：主動使別人參與。<br>(B) involved：參與其中的，those involved 等於 those who are involved。<br>(C) to involve 表目的。<br>(D) are involved 會使 those 後變完整子句卻缺連接詞。<br>完整語意：路跑常帶給參與者山坡、彎道與天候等挑戰。",
+  "<b>解題關鍵：</b>前句概括路跑會為公益議題募款，後句 Race for the Cure 是乳癌宣導賽事，屬具體例子。<br>(A) Above all：最重要的是，非舉例。<br>(B) For example：例如，正確。<br>(C) As it appears：如表面所見，不合邏輯。<br>(D) To some extent：某種程度上，不能引出實例。<br>把答案放回去：例如，美國各地舉辦此賽事以提高乳癌意識。",
+  "<b>解題關鍵：</b>more than 600,000 died，接著說流感比戰爭本身 far more...，空格是形容造成大量死亡。<br>(E) deadly：致命的，far more deadly 正確。<br>(B) crisis 是名詞，不能接在 more 後作此比較；(C) harder、(D) wider 雖能比較，卻不能精準說明死亡數。<br>把答案放回去：這場疫情甚至比戰爭本身更致命。",
+  "<b>解題關鍵：</b>第二波流感 arrived in the port city，且和 wartime machinery and supplies 一起抵達；空格要指物資「運送批次」。<br>(G) shipments：運送的貨物，war shipments of machinery and supplies 正確。<br>(A) military 是形容詞／軍隊，不能承接 of；(F) come across 是動詞片語；(B) crisis 與機械物資搭配不通。<br>完整語意：第二波疫情隨戰時物資運抵波士頓。",
+  "<b>解題關鍵：</b>Other wartime events 使疾病 quickly...the country，空格需要動詞片語表示迅速蔓延全國。<br>(L) sweep through：迅速席捲，能接受詞 the country。<br>(F) come across：偶然遇到，主詞 disease 不合理；(J) warn：警告，需要受詞人；(K) accelerated 是過去式，結構也不合 enable + 受詞 + 原形。<br>完整語意：戰時活動讓疾病迅速席捲全國。",
+  "<b>解題關鍵：</b>句中 men were joining...to serve the country，戰時男子加入的是軍隊，並把病毒帶往各地。<br>(A) military：軍隊，join the military 正確。<br>(B) crisis：危機，不能加入危機。<br>(G) shipments：貨運，是物品不是組織。<br>(H) infected：受感染的，詞性不合。<br>把答案放回去：全國男子從軍時，也把病毒帶到各處。",
+  "<b>解題關鍵：</b>停戰後各地舉行 parades and parties，更多人群接觸，導致疾病傳播範圍更廣；even 後需要比較級。<br>(D) wider：更廣泛的，wider spread 正確。<br>(C) harder：更困難的，不能形容 spread 的範圍。<br>(E) deadly：致命的，但題目強調聚會使擴散面增大。<br>(B) crisis 是名詞。<br>完整語意：戰爭結束反而造成更廣的疫情傳播。",
+  "<b>解題關鍵：</b>This 指前句停戰遊行與派對；大型人群聚集會讓病毒傳得更快，空格在主詞後需過去式動詞。<br>(K) accelerated：加速，accelerated the spread 正確。<br>(I) preceded：先於，無法說慶祝先於傳播；(J) warn：警告，主詞活動不能警告；(L) sweep through：句型需要原形且意思不同。<br>完整語意：慶祝活動加速了部分城市的疫情。",
+  "<b>解題關鍵：</b>as millions were... 中 were 後需過去分詞，且下一句說數千人死亡，前一步是數百萬人感染。<br>(H) infected：受感染，符合疫情語境。<br>(E) deadly 是形容詞但不能說人「很致命」；(G) shipments 是名詞；(I) preceded 是先於，皆不合。<br>把答案放回去：那年冬天數百萬人染病，數千人死亡。",
+  "<b>解題關鍵：</b>other epidemics 後接 which had...it，時間關係是「在這場流感之前發生的疫情」。<br>(I) preceded：先於，had preceded it 正確。<br>(K) accelerated：加速，需要受詞是過程；(H) infected：感染，疫情不能感染另一疫情；(L) sweep through：缺少地點受詞。<br>完整語意：它比先前所有疫情造成更多死亡。",
+  "<b>解題關鍵：</b>that 後是「未來某時另一場疫情會攻擊」，科學家對未來危險所做的是警告；主詞為複數 scientists。<br>(J) warn：警告，warn that...正確。<br>(F) come across：偶遇；(I) preceded：先於；(K) accelerated：加速，三者都不能自然接 that 子句表提醒。<br>把答案放回去：醫學家警告未來仍可能發生疫情。",
+  "<b>解題關鍵：</b>Today’s worldwide transportation 讓人移動更快，因此疫情更難控制；make + it + 比較級 + to V。<br>(C) harder：更困難，harder to control 正確。<br>(D) wider 可形容範圍，不能說 wider to control；(E) deadly 是致命，句型與焦點不合；(B) crisis 是名詞。<br>完整語意：全球交通使控制疫情更加困難。",
+  "<b>解題關鍵：</b>空格前說能量密度近傳統電池兩倍，空格後 This feature 指回這個特點並說裝置更輕便，所以正解必須解釋「高能量密度」。<br>(E) That is 先承接說明：更小單位可帶更多電力，並自然連到減輕重量尺寸。<br>(A) 談低維護，應接後面 memory 段；(B)(F) 都談缺點；(C) 談新化學配方，應接改良段；(D) 與本文歷史不合。答案 E。",
+  "<b>解題關鍵：</b>空格後詳述沒有充電記憶、不需定期循環、每次能充滿，都是「維護需求低」的具體理由。<br>(A) 先提出低維護的段落主旨，後文立刻解釋，最順。<br>(E) 應接能量密度；(B)(F) 轉談缺點太早；(C) 應在製造商改良後；(D) 說研發失敗，和今日廣用相反。答案 A。",
+  "<b>解題關鍵：</b>前兩段集中介紹高能量、輕便、低維護等優點；空格後突然說 fragile、overheat、safety，因此需要總轉折「雖有優點，仍有缺點」。<br>(B) 同時承接 advantages 並引出 drawbacks。<br>(F) 是另一項具體缺點，應放首項安全問題後；(A)(E) 仍談優點；(C) 談改良；(D) 與內容不符。答案 B。",
+  "<b>解題關鍵：</b>空格前已說高負載可能過熱，這是第一項缺點；空格後說老化後因內阻高而電壓下降，需要 another downside 引出第二項。<br>(F) 明說內阻隨充放電與老化增加，和後句 high internal resistance 完整銜接。<br>(B) 是缺點段總句，應更早；(C) 是改良；(A)(E) 是優點；(D) 不合事實。答案 F。",
+  "<b>解題關鍵：</b>前句說製造商 constantly making improvements，空格後 With such rapid progress 又要求前面提供「快速進步」的證據。<br>(C) 每六個月左右推出新改良化學組合，正好說明快速。<br>(A)(E) 是既有優點；(B)(F) 是缺點；(D) 說研發失敗，不可能引出 progress。答案 C。",
+  "<b>解題關鍵：</b>第一段定位下單原因：Fabergé 的作品 had caught Maria’s eye earlier，表示皇后先前已被作品吸引。<br>(A) 他是收到第一顆蛋後才被任命皇家金匠，時序相反。<br>(B) Maria 對作品印象深刻，符合。<br>(C) 皇后沒有命令沙皇。<br>(D) 文中只說 House of Fabergé 著名，未說因擁有最有名珠寶公司而獲選。答案 B。",
+  "<b>解題關鍵：</b>第一顆蛋依序藏著金蛋黃、金母雞、鑽石皇冠模型、紅寶石小蛋；最後說 last two surprises are now lost。<br>(A) 金母雞不是最後兩項。<br>(B) 金母雞、金蛋黃都仍非 last two。<br>(C) 紅寶石蛋與鑽石皇冠正是最後兩個驚喜。<br>(D) 金蛋黃不是遺失項。<br>考場依出現順序圈出最後兩項，答案 C。",
+  "<b>解題關鍵：</b>沙皇的 challenge 是每顆蛋都 must be unique 且 must contain a pleasant surprise；met the challenge 即成功做到。<br>(A) repeated designs 與 unique 相反。<br>(B) 每次達成沙皇要求，符合。<br>(C) 不是他們挑戰沙皇期待，而是接受要求。<br>(D) 雖可能遇到困難，但句子重點是完成指定任務。答案 B。",
+  "<b>解題關鍵：</b>末段明說約五十顆皇家蛋為 Tsar Alexander III and his son Nicholas II 製作，並作為 last Russian imperial family 的紀念。<br>(A) 還有 successors 參與，非全由 Peter 本人。<br>(B) 它們不是用來代表整個王朝。<br>(C) 是年度復活節禮物，不是派對用品。<br>(D) 與末代兩位俄國皇帝及家人有關，符合。答案 D。",
+  "<b>解題關鍵：</b>第一段定義 Six Sigma：量測生產流程中的 defects，再系統化消除問題，使產品服務接近零缺陷。<br>(A) 它是管理流程，不是數位裝置。<br>(B) near-perfect 修飾產品服務，不是商務溝通。<br>(C) sigma 雖是統計詞，但不測預算獲利。<br>(D) 以品質衡量找問題並改善產品服務，完整涵蓋定義。答案 D。",
+  "<b>解題關鍵：</b>第二段開頭直接說 Training and teamwork are essential elements；題目問 most crucial factors，可用同義字 essential 定位。<br>(A) 顧客供應商需求是溝通服務目標。<br>(B) 文中是 measurement tools，不是 marketing tools。<br>(C) 強大團隊合作與適當訓練，完全對應。<br>(D) 領導與預算未被列為必要核心。答案 C。",
+  "<b>解題關鍵：</b>最後兩段可圈出年份：1986 Motorola 發展、數年後擴大用途、1995 GE 導入、1998 節省成本、2000 成為產業。<br>(A) 定義在第一段。<br>(B) 沒有並列比較兩種制度。<br>(C) 依年份先後發展，是時間順序。<br>(D) 沒按地理位置移動。<br>考場看到連續年份即可判斷，這些年份正是作者安排材料的骨架，答案 C。",
+  "<b>解題關鍵：</b>末段說 2000 年後 Six Sigma 成為自己的產業，包含 training、consultancy、implementation，並被世界各種組織採用。<br>(A) 只說 Motorola、GE 改善與省成本，未提促銷。<br>(B) 不必跨國合作。<br>(C) 採用者不只大型電信公司。<br>(D) 已成為向全球各類組織提供服務的商業模式，符合。答案 D。",
+  "<b>解題關鍵：</b>全文不只說家庭或朋友，也說海豚有自己的 signature whistles，能辨識並模仿熟識者的哨聲來呼喚對方，屬罕見溝通。<br>(A) 家庭連結只是研究結果之一。<br>(B) 只認得聲音仍漏掉模仿呼喚。<br>(C) 只產生個人哨聲也不完整。<br>(D) 展現獨特動物溝通，涵蓋產生、辨識、模仿三個重點，也能統整研究價值，答案 D。",
+  "<b>解題關鍵：</b>第二段定位研究資料：Florida Sarasota Bay 野生海豚錄音時間是 1984 to 2009，超過二十年。<br>(A) 資料跨越二十多年，正確。<br>(B) 只錄海豚，鳥類是後文比較。<br>(C) 研究基地在佛羅里達，不是墨西哥。<br>(D) 約 250 隻是錄音對象，並未訓練全部野生海豚。考場將起訖年相減即可確認，答案 A。",
+  "<b>解題關鍵：</b>先找代名詞前後：前段談 dolphins mimic the whistle of another；第三段立刻寫 This use of vocal copying，this 就是這種複製哨聲的用法。<br>(A) recording 是研究者做的。<br>(B) conducting research 範圍太大。<br>(C) behavior learning 未直接指涉。<br>(D) whistle copying 與後面的 vocal copying 同義，最精準。答案 D。",
+  "<b>解題關鍵：</b>文章說海豚模仿哨聲是維繫社交、not aggressive；接著對比 birds tend to address one another in a more aggressive context，可能是防衛資源。<br>(A) 鳥叫可能用來宣示領域，是由攻擊性與資源防衛合理推出。<br>(B)(C) 文中未說公海豚求偶或狩獵聲。<br>(D) 海豚模仿朋友，不是敵人，鳥類也未說模仿敵人。答案 A。",
+  "<b>解題關鍵：</b>第一段先說火山灰熔岩形成 Cappadocia 岩層，再說 over the centuries 風雨雕刻峽谷與岩柱；景觀是兩階段結果。<br>(A) 火山岩受風與水侵蝕而形成，最完整。<br>(B) 灰與熔岩只形成原始岩層，尚非今日景觀。<br>(C) moonscape 是外觀比喻，不是月球神力。<br>(D) 人類鑿岩形成建築，不是自然地貌。答案 A。",
+  "<b>解題關鍵：</b>fairy chimneys 的 top stone 最硬，保護下面較軟岩石，表示同一岩柱包含不同硬度的石層。<br>(A) 文中說形狀尺寸範圍 extraordinary，不是幾乎相同。<br>(B) 只是外形像喇叭菇，並非長菇。<br>(C) 由不同硬度岩石形成，符合。<br>(D) 強硬的是頂部，不是底部；40 公尺是最高可達。答案 C。",
+  "<b>解題關鍵：</b>這是 NOT 題，要逐項找用途：地下村落用來躲避，至今有人居住；岩石刻出教堂、禮拜堂、修道院。<br>(A) Refuge：躲避羅馬人與穆斯林，提到。<br>(B) Gallery：藝廊，文章只說教堂內有壁畫，沒說岩洞作藝廊。<br>(C) Residence：村落至今有人住。<br>(D) Place of worship：教堂等宗教場所。答案 B。",
+  "<b>解題關鍵：</b>主旨要合併兩部分：前半是火山與風雨形成的奇景，後半是人類鑿出的教堂、村落與住家。<br>(A) 自然與人類交會的奇觀，同時涵蓋兩半。<br>(B) 只說古代土耳其生活，漏掉自然。<br>(C) 只說自然力量，漏掉人文。<br>(D) 文章不是比較新舊景點，而是自然與人類共同留下的景觀。主旨題要選能同時罩住自然與人文這兩條主線的選項，答案 A。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -20961,57 +21180,57 @@ window.BANK.push((() => {
 })());
 
 [
-  "餐廳用餐時應顧及其他顧客並控制音量；considerate of 表示「體貼、顧慮」。",
-  "John 不參與活動也不和同學交談，顯示他對同學漠不關心；indifference 表示「冷漠」。",
-  "手機的大按鍵與大螢幕是特別為長者需求設計；specifically 表示「特別地」。",
-  "結構良好的建築較能承受颱風、龍捲風與地震；withstand 表示「抵擋、承受」。",
-  "辛辣食物可能刺激胃部，所以醫師勸他避開；irritate 表示「刺激」。",
-  "校長年輕又缺乏經驗，教師懷疑他能否辦好學校；skeptical 表示「懷疑的」。",
-  "大學提供獎學金以吸引優秀學生，獎學金是一種誘因；incentive 表示「誘因」。",
-  "Diana 在全國演講比賽屢次獲獎，表示她口才流利；eloquent 表示「善於辭令的」。",
-  "主張減少石油消耗，核心是能源節約；energy conservation 表示「節約能源」。",
-  "颱風來襲前，政府因擔心土石流而把村民撤離住家；evacuated 表示「疏散」。",
-  "口中細菌會隨時間在牙刷上累積；accumulate 表示「累積」。",
-  "recommend 後可接動名詞，recommend using a new toothbrush 表示「建議使用新牙刷」。",
-  "兒童牙刷可能需要更頻繁更換；frequently 表示「頻繁地」。",
-  "後文的徹底沖洗牙刷是保持清潔的方法實例，故 For example 正確。",
-  "let it air dry 中 it 指前句的單數 toothbrush。",
-  "黑猩猩以草片挖出昆蟲，晚餐就準備好了；Dinner is served 是固定說法。",
-  "研究要了解學習如何跨世代傳遞；across generations 表示「跨越世代」。",
-  "Lonsdorf 對動物學習一直有興趣，尤其關注幼獸如何成長學習；especially 符合語意。",
-  "黑猩猩的母子關係和人類非常相似；similar to 是固定搭配。",
-  "研究者藉此推想人類最早祖先的發展可能是什麼樣子；might have been 表過去推測。",
-  "中國人相信身體死亡後，靈魂仍在另一個世界生活；spirit 表示「靈魂」。",
-  "另一世界的居民也需要生前所需之物；alive 表示「活著」。",
-  "紙紮焚燒後，供品被另一世界的居民接收；collected 表示「收取」。",
-  "親人希望亡者過得舒適，因此紙車多是豪華名車；luxurious 表示「豪華的」。",
-  "僕人、現金與信用卡用來滿足亡者的一切需求；needs 表示「需求」。",
-  "過去紙紮只能在專門店買，樣式與種類有限；limited 表示「有限的」。",
-  "紙屋上印有門窗與屋頂的圖像；images 表示「圖像」。",
-  "現在可在網路上完成購買；purchase 表示「購買」。",
-  "舊式千篇一律的紙屋已被設備齊全的新建築取代；replaced 表示「取代」。",
-  "數位相機、手機與保養品等現代紙紮品也都可取得；available 表示「可取得的」。",
-  "前文說怪人也有正面特質，後文談好奇與興趣帶來創意；B 以英國研究指出他們更有創造力。",
-  "後文說他們活在自己的世界、不在意他人看法，E 的不遵循慣例正好銜接。",
-  "下一句以就醫次數遠低於平均作證，A 先提出怪人也較健康的段落主旨。",
-  "前句提到幽默與快樂等天生特質，F 的 Such personal traits 承接並說明能增強免疫系統。",
-  "前句以養蜥蜴的阿姨舉例，C 再以穿短褲出席正式舞會者列舉另一位不從眾的人。",
-  "過去只能搭乘緩慢且冬季危險的渡輪，建橋是為提供更快、更安全的交通。",
-  "南北戰爭爆發使建橋計畫的討論中斷；deflected 在此最接近 blocked。",
-  "1867 年法案成立 New York Bridge Company，目的就是興建與維護這座橋，故 D 正確。",
-  "Roebling 因自由派觀點在德國遭政治歧視，於 1830 年移居美國。",
-  "研究排除抽菸、血壓、膽固醇與飲食後，指出緊密社交能降低心臟病風險，最佳標題是社會連結的力量。",
-  "採取較孤立西方生活方式的日裔美國人，心臟病發率提高三至五倍，故 D 正確。",
-  "something bigger 指真實世界中能帶來歸屬感的社會群體；家庭即為一例。",
-  "日本本土為基準 1，加州增為 5 倍；夏威夷約為加州的一半，即 2.5 倍，比例為 1:2.5。",
-  "文章依序介紹 Bitcoin 的運作、交易、隱私、價格風險與發展狀態，目的在介紹這種新貨幣。",
-  "Bitcoin 經濟仍年輕、性質新穎且市場有時缺乏流動性，因此價格不穩，概括為仍在發展。",
-  "文章說收到 Bitcoin 款項後，許多服務商可將其兌換為本地貨幣，故 D 正確。",
-  "作者將 Bitcoin 視為高風險資產並勸人勿投入承受不起的金額，意思是投資前要審慎考慮。",
-  "基因改造細菌可望阻斷瘧疾，但仍有抗藥性、競爭力及長期生態健康影響等疑慮，故 D 最完整。",
-  "首段提出瘧疾問題，第二段說明基因改造解法，後兩段列出技術與公眾接受的潛在困難。",
-  "瘧原蟲由雌性瘧蚊攜帶，因此只存在於該類蚊子的其中一個性別。",
-  "that 承接前句 next generation will likely become resistant，指瘧原蟲對改造細菌機制產生抵抗力。"
+  "<b>解題關鍵：</b>餐廳是公共場所，後面要求控制談話音量，表示要顧慮其他顧客。<br>(A) peculiar：奇特的。<br>(B) defensive：防衛的。<br>(C) noticeable：引人注意的，反而可能太吵。<br>(D) considerate：體貼的，be considerate of others 是顧慮他人。<br>把答案放回去：用餐時要體貼其他顧客，維持適當音量。",
+  "<b>解題關鍵：</b>John 不參加班級活動，甚至懶得和同學說話，這些行為顯示漠不關心。<br>(A) indifference：冷漠，show indifference toward 正確。<br>(B) sympathy：同情，和疏離行為不合。<br>(C) ambiguity：模稜兩可。<br>(D) desperation：絕望。<br>把答案放回去：John 對同學表現冷漠，完全不與大家互動。",
+  "<b>解題關鍵：</b>To meet the unique needs 點出目的；大按鍵、大彩色螢幕都是「特別為長者」設計。<br>(A) necessarily：必然地。<br>(B) relatively：相對地，需要比較對象。<br>(C) specifically：專門、特別地，specifically for seniors 正確。<br>(D) voluntarily：自願地。<br>把答案放回去：公司專為長者設計這款手機。",
+  "<b>解題關鍵：</b>well-constructed 表示建築堅固，因此面對颱風、龍捲風、地震時較能承受而不倒。<br>(A) undertaking：承擔工作。<br>(B) conceiving：構想、懷孕。<br>(C) executing：執行。<br>(D) withstanding：抵擋、承受，withstand disasters 正確。<br>把答案放回去：結構良好的建築較能抵擋天然災害。",
+  "<b>解題關鍵：</b>醫師反覆警告辛辣食物會影響胃，所以後面才說最好遠離；空格是負面作用。<br>(A) irritate：刺激、使不適，irritate the stomach 正確。<br>(B) liberate：解放。<br>(C) kidnap：綁架。<br>(D) override：推翻、凌駕。<br>後三字雖可作動詞，受詞 the stomach 與警告語境都不合。把答案放回去：辛辣食物可能刺激胃部，因此最好少吃。",
+  "<b>解題關鍵：</b>Because 後給原因：新校長年輕且沒經驗，所以老師不確定他能否把學校辦好。<br>(A) passionate：熱情的。<br>(B) impressive：令人印象深刻的。<br>(C) arrogant：傲慢的，不能接 about whether 表懷疑。<br>(D) skeptical：懷疑的，be skeptical about whether 正確。<br>把答案放回去：老師對他的管理能力抱持懷疑。",
+  "<b>解題關鍵：</b>獎學金的目的由 to attract 說明：鼓勵優秀學生入學，因此它是一項誘因。<br>(A) ornament：裝飾品。<br>(B) incentive：誘因，as an incentive to attract 正確。<br>(C) emphasis：強調。<br>(D) application：申請。<br>把答案放回去：大學以大量獎學金作為吸引優秀學生的誘因。",
+  "<b>解題關鍵：</b>Since 引出結果：Diana 在全國演講賽多次得牌，可反推她說話流暢、有說服力。<br>(A) authentic：真實的。<br>(B) imperative：必要的、命令式的。<br>(C) eloquent：口才流利的，能形容 speaker。<br>(D) optional：可選擇的。<br>把答案放回去：Diana 口才出眾，因此常在演講比賽獲獎。",
+  "<b>解題關鍵：</b>calling for a greater reduction in oil consumption 是要求減少石油使用，核心概念是節約能源。<br>(A) evolution：演化。<br>(B) conservation：保存、節約，energy conservation 是節約能源。<br>(C) donation：捐贈。<br>(D) opposition：反對。<br>把答案放回去：候選人把能源節約列為競選主題。",
+  "<b>解題關鍵：</b>政府擔心土石流，且動作發生在颱風抵達前，所以是先把居民移到安全處。<br>(A) evacuated：疏散，evacuate people from homes 正確。<br>(B) suffocated：使窒息。<br>(C) humiliated：羞辱。<br>(D) accommodated：提供住宿，沒有表達撤離危險區。<br>把答案放回去：政府在颱風前迅速疏散村民。",
+  "<b>解題關鍵：</b>細菌來自口腔，over time 表示隨時間在牙刷中逐漸增加；can 後用原形動詞。<br>(A) accumulate：累積，符合 germs 變多。<br>(B) crumble：碎裂，主詞細菌不會碎掉。<br>(C) establish：建立，後面通常要有受詞。<br>(D) radiate：放射，不是細菌數量增加。<br>把答案放回去：口腔細菌會慢慢累積在牙刷上。",
+  "<b>解題關鍵：</b>recommend 表「建議」時可接 V-ing，表示建議做某事；空格後有 a new toothbrush 作受詞。<br>(A) use 原形不能直接跟 recommend。<br>(B) to use 通常不用於 recommend 的此句型。<br>(C) using：recommend using 正確。<br>(D) used 過去分詞會變被動片段。<br>把答案放回去：牙醫協會建議每三至四個月換新牙刷。",
+  "<b>解題關鍵：</b>前句說成人每三至四個月更換；Children’s toothbrushes may need to be changed more... 表示兒童牙刷可能要更常換。<br>(A) essentially：本質上。<br>(B) frequently：頻繁地，more frequently 正確。<br>(C) typically：通常地，不能形成更常更換的頻率比較。<br>(D) objectively：客觀地。<br>完整語意：兒童牙刷可能需要更頻繁更換。",
+  "<b>解題關鍵：</b>前句說有 several ways 保持牙刷清潔，後面「徹底沖洗」是第一個具體方法，所以要用舉例語。<br>(A) In short：總之，應放總結。<br>(B) Otherwise：否則，需有不做某事的後果。<br>(C) Nevertheless：然而，沒有轉折。<br>(D) For example：例如，引出具體作法。<br>把答案放回去：例如，每次使用後要以自來水沖乾淨。",
+  "<b>解題關鍵：</b>let 後要接「受詞＋原形動詞」；需要一個代名詞指前句單數 toothbrush。<br>(A) it：它，let it air dry 正確。<br>(B) one 表同類另一支牙刷，不是已提到的那支。<br>(C) the 只是冠詞，後面缺名詞。<br>(D) which 會引導子句，不能直接作 let 的受詞結構。<br>完整語意：把牙刷直立存放，讓它自然風乾。",
+  "<b>解題關鍵：</b>黑猩猩用草片挖出小蟲作食物，所以 Dinner is... 是「晚餐準備好了」的固定口語。<br>(A) proposed：被提議。<br>(B) ordered：被點餐。<br>(C) digested：被消化，尚未吃下。<br>(D) served：端上、備妥，Dinner is served 正確。<br>把答案放回去：牠挖出昆蟲，晚餐就準備好了。",
+  "<b>解題關鍵：</b>研究問題是幼猩猩是否模仿父母，亦即學習如何從上一代傳到下一代；固定說法 across generations。<br>(A) across：跨越，正確。<br>(B) beside：在旁邊，表位置。<br>(C) upon：在……之上，方向不合。<br>(D) within：在同一世代內，範圍太窄。<br>把答案放回去：她研究學習如何跨越不同世代傳遞。",
+  "<b>解題關鍵：</b>前面概括她對 animal learning and tool use 有興趣，後面更具體聚焦幼獸如何成長學習，因此是特別強調。<br>(A) especially：尤其，能從一般收窄到特定面向。<br>(B) originally：起初。<br>(C) consequently：因此，非因果。<br>(D) fortunately：幸運地，非評價結果。<br>把答案放回去：她尤其關心幼獸的成長與學習。",
+  "<b>解題關鍵：</b>研究顯示黑猩猩與人類的連結；母子關係和人類的關係「相似」。空格後已有 to。<br>(A) casual：隨意的，不能表兩者比較。<br>(B) similar：相似的，similar to 是固定搭配。<br>(C) direct：直接的，不接 to 表相似。<br>(D) grateful：感激的，應形容有感受者。<br>把答案放回去：黑猩猩的母子關係與人類非常相似。",
+  "<b>解題關鍵：</b>研究者觀察現代黑猩猩，是為推測很久以前人類祖先的發展「可能是什麼樣子」；這是對過去不確定情況的推測。<br>(A) is to be 談現在／未來。<br>(B) was to be 表預定。<br>(C) might have been：過去可能是，正確。<br>(D) will have been 是未來完成。<br>完整語意：研究者希望了解早期祖先的發展可能如何。",
+  "<b>解題關鍵：</b>前半說身體死亡，but 後說仍在另一世界繼續生活，因此不是身體而是靈魂延續。空格需名詞作主詞。<br>(C) spirit：靈魂，符合信仰內容。<br>(B) mortal 是凡人／會死的，與 continues to live 衝突；(I) alive 是形容詞；(E) journey 是旅程。<br>把答案放回去：人過世後，靈魂仍在另一世界生活。",
+  "<b>解題關鍵：</b>另一世界像人間，居民需要住處金錢等，just like when they were... 指亡者生前還活著時。<br>(I) alive：活著的，be alive 正確。<br>(B) mortal 雖指凡人，但不能表「生前狀態」；(C) spirit 是名詞；(E) journey 也不合 be 動詞後。<br>完整語意：他們需要和活著時相同的生活用品。",
+  "<b>解題關鍵：</b>紙紮焚燒後灰燼飛起，傳統信仰認為供品會被另一世界居民「收到」；are 後需過去分詞形成被動。<br>(G) collected：被收取，符合供品寄送比喻。<br>(A) replaced：被取代，沒有替代關係；(D) available 是可取得；(H) purchase 是購買名詞／動詞，結構不合。<br>完整語意：焚燒後，供品由另一世界居民收取。",
+  "<b>解題關鍵：</b>親人希望亡者過得 comfortably，紙屋很大，紙車多是 Mercedes-Benz，表示車子豪華。空格修飾 cars。<br>(F) luxurious：豪華的，符合賓士例子。<br>(D) available：可取得的，不解釋品牌；(K) limited：有限的，和大房豪車意象相反；(B) mortal 不形容車。<br>把答案放回去：紙車做得很豪華，多半是賓士。",
+  "<b>解題關鍵：</b>一套紙紮包含僕人、現金、信用卡，目的是讓亡者各種生活需求都獲滿足；all their 後需複數名詞。<br>(J) needs：需求，have all needs satisfied 正確。<br>(L) images 雖為複數，卻不能由現金僕人滿足；(H) purchase 是單數；(E) journey 不是多種需求。<br>完整語意：這些供品讓亡者所有需求都能被滿足。",
+  "<b>解題關鍵：</b>過去只能在 specialty stores 買，後面又說樣式都一樣、沒有現代用品可選，證明種類受到限制。<br>(K) limited：有限的，修飾 style and variety。<br>(D) available 是可取得，與「種類」搭配不自然；(F) luxurious 和後文豪華車不同；(L) images 是名詞。<br>完整語意：過去紙紮樣式與種類都很有限。",
+  "<b>解題關鍵：</b>紙屋以紙糊竹架，門、窗、屋頂不是實體，而是 printed on it，空格需複數名詞。<br>(L) images：圖像，images of a door...正確。<br>(G) collected 是過去分詞；(J) needs 雖是複數名詞，但「門窗屋頂的需求」不通；(D) available 是形容詞。<br>完整語意：紙上印著門、窗與屋頂的圖像。",
+  "<b>解題關鍵：</b>Now 與 in the past 對比，現在 can be made on the Internet；能在網路上完成的是「購買」。<br>(H) purchase：購買，the purchase can be made 正確。<br>(E) journey 是旅程；(C) spirit 是靈魂；(G) collected 是動詞形式，均無法表網購行為。<br>把答案放回去：現在人們可以在網路上購買紙紮。",
+  "<b>解題關鍵：</b>old one-style-fits-all houses 與後面的 fully equipped buildings 對比；have been...by 要表示舊款被新款取代。<br>(A) replaced：取代，be replaced by 正確。<br>(G) collected by 是被收集，非款式更新；(D) available by 搭配錯；(K) limited by 會變受到限制。<br>完整語意：單一舊式紙屋已被設備齊全的新式建築取代。",
+  "<b>解題關鍵：</b>前面說產品種類變多，接著列數位相機、iPhone、保養品，表示這些現代紙紮也「買得到」。<br>(D) available：可取得的，be available 正確。<br>(F) luxurious 不能同時說明所有用品；(K) limited 和種類增加相反；(I) alive 只形容生物。<br>完整語意：各種現代用品的紙紮版本如今也能取得。",
+  "<b>解題關鍵：</b>空格前說怪人具有正面特質，後句談好奇、沉迷興趣，皆是創意來源，所以此處要先提出「更有創造力」。<br>(B) 英國研究發現怪人更有創造力，後文接證據。<br>(E) 不循慣例應接活在自己世界；(A)(F) 談健康，屬後段；(C)(D) 是例子，應接末段。答案 B。",
+  "<b>解題關鍵：</b>空格後說他們活在自己的世界、不在意別人看法，因此前句應概括「不遵循社會慣例」。<br>(E) Psychologists also find... 承接前項研究，內容直接被後句解釋。<br>(B) 創意已在前段；(A)(F) 健康段尚未開始；(C)(D) 是具體怪異例子，應在結尾。答案 E。",
+  "<b>解題關鍵：</b>空格後立刻用看醫生頻率少二十倍，證明怪人的健康狀況較好，所以空格應是健康段主旨。<br>(A) 怪人也被發現更健康，最能統領後文。<br>(F) Such traits 需要前句先列 traits；(B)(E) 談創意與不從眾；(C)(D) 是人物行為例子。答案 A。",
+  "<b>解題關鍵：</b>前句列 innate traits such as humor and happiness；空格的 Such personal traits 必須回指這些特質，再說它們增強免疫。<br>(F) 指涉與因果完整，後句 This may explain why healthier 又承接免疫提升。<br>(A) 健康總句已在前；(B)(E) 主題不合；(C)(D) 無法接 This。答案 F。",
+  "<b>解題關鍵：</b>末段叫讀者注意不從眾者，先舉養蜥蜴的阿姨，空格需以 Or 再舉另一例。<br>(C) 穿短褲參加正式舞會的朋友哥哥，是另一個怪異行為例子。<br>(D) 只概括服裝嗜好，無法和 our aunt 的人物句型並列得如此自然；其餘選項談研究或健康。答案 C。",
+  "<b>解題關鍵：</b>第一段指出建橋前只能搭 ferries，而且渡輪 slow、冬季 dangerous；橋提供第一條曼哈頓與布魯克林交通動脈。<br>(A) 未提舊橋。<br>(B) 成為模型是後來結果，不是原始目的。<br>(C) 內戰反而中斷計畫。<br>(D) 比渡輪更快更安全，直接回應建橋前的交通問題。目的題要區分「建造原因」與「後來影響」，答案 D。",
+  "<b>解題關鍵：</b>第二段句型 the outbreak of Civil War deflected all consideration，接著說戰後議題才重新重要，表示內戰使討論停下。<br>(A) Blocked：阻擋，最接近。<br>(B) Detected：偵測。<br>(C) Engaged：使參與。<br>(D) Indicated：指出。<br>用「戰後才恢復」反推 deflected 是阻礙，答案 A。",
+  "<b>解題關鍵：</b>1867 年州議會法案成立 New York Bridge Company，明寫目的為 constructing and maintaining a bridge。<br>(A) 1883 開放，非 1865 建成。<br>(B) 實際橋長 1,597 呎，比原計畫 1,500 呎長。<br>(C) 19 世紀初已討論，早於內戰。<br>(D) 公司為建橋而成立，正確。答案 D。",
+  "<b>解題關鍵：</b>Roebling 生平段說他因 radical views 被德國警方列為危險自由派，1830 年 emigrated to America to escape political discrimination。<br>(A) 文中沒有他參戰受傷。<br>(B) 激進觀點不是獲選設計原因。<br>(C) 建橋討論早已存在，未說他第一個提出。<br>(D) 為逃離祖國政治歧視而移民，符合。答案 D。",
+  "<b>解題關鍵：</b>全文先排除抽菸、血壓、膽固醇、飲食，最後指出維持緊密互助社群者心臟病較少，孤立者較多。<br>(A) 只談疾病原因，過廣且漏掉核心答案。<br>(B) 社會連結的力量，涵蓋研究結論與健康影響。<br>(C) 差異只是研究材料，並非作者真正要說明的結論。<br>(D) 不是比較兩概念，而是強調歸屬能保護健康。標題應抓作者最後證明的核心，答案 B。",
+  "<b>解題關鍵：</b>研究結果定位第二段：usual risk factors 與飲食都無法解釋差異，真正相關的是在新國家建立的社會型態。<br>(A) 原文是多數日本男性抽菸，非百歲者數據。<br>(B) 漢堡薯條與心臟病上升無關。<br>(C) 並非所有移民都形成緊密群體，不能一概而論。<br>(D) 西化、孤立生活與心臟病率提高相關，正是教授研究發現。答案 D。",
+  "<b>解題關鍵：</b>末段說需要 feel part of something bigger，下一句解釋要在真實世界擁有擁抱握手等歸屬；所以是比個人更大的社會群體。<br>(A) family 家庭能提供真實互動與歸屬。<br>(B) stadium 只是建築。<br>(C) universe 太抽象。<br>(D) digital world 被 not online 明確排除。答案 A。",
+  "<b>解題關鍵：</b>以日本本土心臟病率為 1；加州日裔是 five times，即 5；夏威夷是加州 about half，5 ÷ 2 = 2.5。<br>(A) 1:2.5 符合計算。<br>(B) 1:5 是日本與加州。<br>(C) 3:5 沒有此基準。<br>(D) 1.5:5 也未出現。<br>考場將「half of California’s five」轉成 2.5，答案 A。",
+  "<b>解題關鍵：</b>全文依序說 Bitcoin 是什麼、如何交易、公開地址與隱私、價格風險、仍在發展，屬新貨幣介紹。<br>(A) 介紹新貨幣，涵蓋全文各段資訊。<br>(B) 作者反而提醒價值不穩，未證明經濟價值。<br>(C) 只談一種線上交易方式，不是探索多種方法。<br>(D) 沒教建立商業網路，也未提出經營步驟。目的題應選能包住功能與風險的選項，答案 A。",
+  "<b>解題關鍵：</b>價格段直接列 young economy、novel nature、illiquid markets；共同點是 Bitcoin 新且仍在發展。<br>(A) 文中未說使用違法。<br>(B) high risk 不等於 invalid investment。<br>(C) 仍在發展，能概括年輕經濟與新穎性。<br>(D) 沒有限定年輕人使用。答案 C。",
+  "<b>解題關鍵：</b>TRUE 題逐項核對。文章明說收到 Bitcoin 付款後，多家服務商能 convert them to local currency。<br>(A) 位址餘額與交易公開，不只擁有人知道。<br>(B) 交易不能 reversed，但收款人可以 refund，並非絕不退款。<br>(C) 使用者身分通常未知，不是永遠公開。<br>(D) 可轉成本地貨幣，符合。答案 D。",
+  "<b>解題關鍵：</b>作者稱 Bitcoin 是 high risk asset，勸讀者不要存入承受不起損失的錢，態度是行動前先評估風險。<br>(A) Better late than never：遲做勝過不做，不合。<br>(B) Look before you leap：三思而後行，符合。<br>(C) 把握時機、(D) 一分耕耘一分收穫都偏鼓勵投入，與警告相反。答案 B。",
+  "<b>解題關鍵：</b>主旨要兼顧成果與疑慮：改造細菌能殺瘧原蟲，但仍有抗性、改造蚊競爭力、公眾接受與未知長期影響。<br>(A) 誇大成已有效阻止全球所有蟲媒病，文章其實說仍有很長的路要走。<br>(B) 只談環保疑慮，漏掉技術成果。<br>(C) 只談爭取支持，漏掉抗性與技術競爭問題。<br>(D) 技術可望減少瘧疾，卻可能有未知後果，正反兩面都完整涵蓋。答案 D。",
+  "<b>解題關鍵：</b>逐段抓功能：第一段提出瘧疾大量感染死亡且無疫苗；第二段提出基因改造細菌解法；第三、四段列抗性、競爭力與公眾疑慮。<br>(A) 無比較對照。<br>(B) Problem → Solution → Potential difficulties 完全符合全文推進。<br>(C) 不是正反雙方辯論。<br>(D) 沒有先下定義再舉例。考場可在每段旁寫「問題、解法、困難」後比對，答案 B。",
+  "<b>解題關鍵：</b>第一段明說 malaria parasite is carried by the female Anopheles mosquito，female 是該種蚊子的單一性別。<br>(A) 現在無有效疫苗，不等於寄生蟲抗基改。<br>(B) 先到肝再進血液，where reproduces 指 bloodstream，不是在肝繁殖變強。<br>(C) 只在雌性瘧蚊攜帶，符合。<br>(D) 每年約一百萬人死亡，不是傳給一百萬兒童。答案 C。",
+  "<b>解題關鍵：</b>代名詞回看前一句：若少數寄生蟲逃過機制，next generation will likely become resistant to it；And if that happens 指「產生抗性」發生。<br>(A) 不是逃出 ecosystems，而是逃過殺蟲機制。<br>(B) 瘧原蟲對改造細菌機制免疫，正確。<br>(C) 是科學家另一項目標。<br>(D) 阻斷傳播是成功結果，不會讓研究回原點。答案 B。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -21102,57 +21321,57 @@ window.BANK.push((() => {
 })();
 
 [
-  "工業廢棄物若未妥善處理會污染公共供水；contaminate 表示「污染」。",
-  "John 直接具體地如實記錄日常事件；faithfully 表示「忠實地」。",
-  "貧困人口眾多時，政府難以為高額武器支出提出正當理由；justify 表示「證明合理」。",
-  "奇幻小說能啟發學生富有創意地思考與寫作；creativity 表示「創造力」。",
-  "新聞報導多起兒童受虐案件，使大眾更關注家暴；child abuse 表示「虐待兒童」。",
-  "面對手術建議，Helen 再向另一位醫師徵詢意見；second opinion 是「第二醫療意見」。",
-  "先經初步篩選的候選人才會進入面試；preliminary 表示「初步的」。",
-  "機場檢查行李是為找出爆裂物或其他危險品；explosive 表示「會爆炸的」。",
-  "沙漠購物中心讓訪客躲避外面的熱氣；shelter 表示「遮蔽、庇護」。",
-  "法官的論點有邏輯與健全推理，因此具有說服力；persuasive 表示「有說服力的」。",
-  "魚以魚鰾振動產生各種聲音；noises 符合後文的聲音溝通。",
-  "雀鯛發聲是為嚇退具威脅性的魚與潛水客；threatening 為現在分詞形容詞。",
-  "有些魚很愛發聲、有些不發聲，表示魚並非同樣健談；equally 表示「同等地」。",
-  "前句說鯛科魚持續發聲，鱈魚卻通常安靜；on the other hand 表對比。",
-  "金魚聽力好卻完全不發聲，想和牠對話的人只能失望；out of luck 表示「運氣不佳」。",
-  "starting Aug. 1 是分詞片語，補充停止週六投遞的起始日期。",
-  "除非國會禁止，郵政機構將改為週一至週五投遞；Unless 表示「除非」。",
-  "取消週六投遞是預計每年省下二十億美元的措施；move 表示「舉措」。",
-  "網路與電子商務日益普及伴隨郵政鉅額虧損；with 表示隨著該情況發生。",
-  "郵局週六仍開門，以便顧客寄件、買郵票或使用郵政信箱；so that 表目的。",
-  "每年約四千人到冰旅館辦理入住；check in 表示「辦理入住」。",
-  "氣溫低到能看見呼出的白氣；breath 表示「呼吸出的氣」。",
-  "鼻尖麻木得像被凍住；frozen 表示「凍結的」。",
-  "在酷寒中短暫起身喝水或上廁所都彷彿不可能；impossible 符合誇飾語氣。",
-  "只有冒險精神不足以承受兩小時以上的嚴寒；withstand 表示「承受」。",
-  "普通冬靴與衣物只能提供少量禦寒保護；offer 表示「提供」。",
-  "旅客學習如何在極地睡袋中迅速暖和起來；warm up 表示「變暖」。",
-  "睡前必須停止流汗，因為任何水氣都會立刻結冰；moisture 表示「水分」。",
-  "不夠小心的旅客很快會腳冷鼻塞；careful 表示「小心的」。",
-  "住冰旅館的目的不是追求舒適，而是體驗極地探險；purpose 表示「目的」。",
-  "店門打開後，下句以 She 指稱來客，B 正好引入披黑披肩的老婦人。",
-  "老婦人離開後，麵包與餅乾接連失敗；D 的 From that day 能引出後列災情。",
-  "沒有顧客、未售餅乾堆著時，F 說他向聖尼古拉祈求，接著夜裡做夢。",
-  "夢中老婦人出現後，A 的驚醒銜接他突然領悟應多給顧客一些。",
-  "老婦人再次要一打餅乾，E 描述他數十二個再多給一個，解釋後文十三個算一打。",
-  "全文介紹 MMC 如何讓群眾投資音樂人、分配收益並分散風險，主旨是音樂產業的群眾募資。",
-  "作品募資達到十萬英鎊後，資金程序完成並用於錄音，故 D 正確。",
-  "MMC 讓使用者投資自己喜愛或看好的音樂人，等於由歌迷提供財務支持。",
-  "兩萬張唱片中僅 14 組 DIY 藝人進入前兩百名，說明成功機會渺茫、不易達成。",
-  "文章同時說明牽引光束如何拉取微粒、可能用於醫療，以及無法牽引大型物體的限制。",
-  "該技術反轉光的輻射力，以負向力量拉出具特定性質的微粒，故 C 正確。",
-  "末段說科幻作品用光束困住太空船，但此技術不會做到 that；that 即捕捉太空船。",
-  "文章以中性語氣陳述原理、應用潛力與能量限制，語調客觀。",
-  "全文從肯亞學校案例談到非洲數位教育成長與初步成效，最佳標題為非洲學校走向數位化。",
-  "Grace 第一次接觸平板只花約一分鐘便會使用，顯示裝置容易上手。",
-  "eLimu 被明確稱為 technology start-up，即一家科技新創公司。",
-  "迦納閱讀力、衣索比亞自學字母與肯亞科學成績都提升，顯示部分國家初步結果正面。",
-  "第二段由古代 Pheidippides 跑往斯巴達，談到 1982 年重現及 1983 年首辦賽事，主旨是起源。",
-  "參賽吸引力之一是重走 Pheidippides 足跡，感覺自己在歷史中競賽。",
-  "完賽的狂喜只維持幾分鐘，接著關節肌肉僵硬；fleeting 表示興奮很快消退。",
-  "Foden 於 1982 年重現路線，這項成就促成一年後首屆 Spartathlon，即 1983 年。"
+  "<b>解題關鍵：</b>or 後說若沒小心處理工業廢棄物，公共供水會受到有害物質影響，因此空格要表「污染」。<br>(A) contaminate：污染，能直接接受詞 water supply，正確。<br>(B) facilitate：促進、使容易，不符合危害語意。<br>(C) legitimate：使合法，也不是廢棄物造成的結果。<br>(D) manipulate：操控，通常是操縱人、資料或機器。<br>句意：工業廢棄物必須妥善處理，否則會污染公共供水。",
+  "<b>解題關鍵：</b>John 的觀察 direct, concrete and simple，表示他把日常事件照原貌記下，而非加油添醋。<br>(A) universally：普遍地，強調範圍，不是記錄態度。<br>(B) scarcely：幾乎不，會變成他幾乎沒記錄。<br>(C) passively：被動地，與是否忠於事實無關。<br>(D) faithfully：忠實地、如實地，最符合，正確。<br>句意：John 以直接、具體、簡單的眼光，忠實記錄日常事件。",
+  "<b>解題關鍵：</b>貧窮人口很多，政府卻花鉅款買武器；cannot find a good reason 表示無法說明這筆支出為何合理。<br>(A) abolish：廢除，政府不是找理由把費用廢掉。<br>(B) escort：護送，受詞通常是人。<br>(C) justify：證明合理、提出正當理由，正確。<br>(D) mingle：混合、交往，不合 expenses。<br>句意：在貧窮人口眾多時，政府很難為高額武器支出提出合理說明。",
+  "<b>解題關鍵：</b>Harry Potter 是幻想作品，may inspire students to think and write 表示能刺激學生產生新點子。<br>(A) creativity：創造力，think and write with creativity 搭配合理，正確。<br>(B) generosity：慷慨，通常是對人或金錢。<br>(C) superstition：迷信，閱讀奇幻不等於鼓勵迷信。<br>(D) foundation：基礎，with foundation 也不是此處自然搭配。<br>句意：閱讀奇幻作品可能啟發學生有創意地思考和寫作。",
+  "<b>解題關鍵：</b>後面直接點出 domestic violence「家庭暴力」，所以新聞中的 child cases 應是兒童遭傷害的案件。<br>(A) blunder：大錯，child blunder 是孩子犯錯，與家暴無關。<br>(B) abuse：虐待，child abuse 是固定搭配「兒童虐待」，正確。<br>(C) essence：本質；(D) defect：缺陷，兩者都不能表示暴力案件。<br>句意：數起兒虐案件上新聞後，大眾更注意家庭暴力問題。",
+  "<b>解題關鍵：</b>一位醫師建議心臟手術，Helen 再去問 another doctor，醫療上稱為取得「第二個專業意見」。<br>(A) purpose：目的，醫師不會給第二個目的。<br>(B) statement：陳述，雖可使用，但不是這個醫療固定說法。<br>(C) opinion：意見，second opinion 是固定搭配，正確。<br>(D) excuse：藉口，不是尋求診斷。<br>句意：Helen 決定先向另一位醫師徵詢第二意見，再決定是否手術。",
+  "<b>解題關鍵：</b>流程是先 screening，再 interview，最後才 admission decision，所以空格是最前面的初步階段。<br>(A) preliminary：初步的，preliminary screening 即初篩，正確。<br>(B) affectionate：充滿愛意的，不能形容甄選。<br>(C) controversial：有爭議的，題目沒說篩選引發爭議。<br>(D) excessive：過度的，也不能表示第一階段。<br>句意：通過初步篩選的候選人，才會獲邀面試並等待最後錄取結果。",
+  "<b>解題關鍵：</b>機場保全為防止 terrorist attacks，檢查 dangerous objects，最需要找出會爆炸的物品。<br>(A) dynamic：有活力的、動態的，不必因此禁止。<br>(B) identical：相同的，沒有危險含意。<br>(C) permanent：永久的，也不是攻擊物品特徵。<br>(D) explosive：會爆炸的，explosive items 即爆裂物，正確。<br>句意：保全仔細檢查所有行李，查看是否有爆裂物或其他危險物品。",
+  "<b>解題關鍵：</b>商場建在 desert，外面有酷熱，室內藝廊、劇院等可讓訪客避開熱氣。<br>(A) convert：轉換，不能說 convert visitors from heat。<br>(B) defend：保衛，常說 defend someone against，不接 from heat。<br>(C) shelter：庇護、遮蔽，shelter visitors from heat 搭配正確。<br>(D) vacuum：用吸塵器吸，語意完全不合。<br>句意：沙漠中的大型商場可讓遊客躲避戶外炎熱。",
+  "<b>解題關鍵：</b>Judge Harris 的 arguments based on logic and sound reasoning，有邏輯與可靠推理的論點能讓人信服。<br>(A) emphatic：強調的、語氣堅決的，不一定有理。<br>(B) indifferent：冷漠的，不能形容論點有邏輯。<br>(C) dominant：占優勢的，與推理品質不同。<br>(D) persuasive：有說服力的，最符合，正確。<br>句意：法官總能提出好觀點，她的論證因有邏輯而很有說服力。",
+  "<b>解題關鍵：</b>段落主題是 Fish can “talk”，後文又說魚用魚鰾振動發聲，所以 make a range of 要接聲音。<br>(A) choices：選擇，魚不是用選擇談話。<br>(B) objects：物品，不能由魚鰾製造來溝通。<br>(C) accents：口音，過度像人類語言，文中只說聲響。<br>(D) noises：聲音，a range of noises 搭配正確。<br>句意：魚會彼此「交談」，並發出各種聲響。",
+  "<b>解題關鍵：</b>damselfish 發出聲音是 to scare off「嚇退」，因此後面的魚和潛水客是可能威脅牠的對象。<br>(A) threatened：受到威脅的，會變成雀鯛去嚇已受威脅的魚。<br>(B) being threatened：正在被威脅，結構冗長且意思相反。<br>(C) threatening：具有威脅性的，修飾 fish，正確。<br>(D) being threatening：正在表現威脅，這裡只需形容詞。<br>句意：雀鯛會發聲，嚇退威脅牠們的魚甚至潛水客。",
+  "<b>解題關鍵：</b>後文舉例有些魚 constantly talk，有些 fish do not talk at all，表示不同魚的健談程度不一。<br>(A) merely：僅僅，只限制程度，不能比較各魚。<br>(B) equally：同樣地，not equally talkative 是「並非一樣健談」，正確。<br>(C) officially：正式地，魚沒有官方說話。<br>(D) favorably：有利地、贊同地，也不能形容說話多寡。<br>句意：並不是所有魚都同樣「健談」。",
+  "<b>解題關鍵：</b>前句談一類魚不斷發聲，Codfish 卻 usually keep silent，except 產卵時才出聲，兩者明顯對比。<br>(A) by all means：當然、務必，不表轉折。<br>(B) for example：例如，但鱈魚不是前句「很愛說話」的例子。<br>(C) as a result：因此，沉默不是前句造成。<br>(D) on the other hand：另一方面、相反地，正確。<br>句意：另一方面，鱈魚通常保持沉默，只有產卵時例外。",
+  "<b>解題關鍵：</b>金魚雖 hearing well，卻 do not make any sounds，所以想和寵物金魚展開對話的人不可能得到回應。<br>(A) out of luck：運氣不好、無法如願，正確。<br>(B) in the dark：不知情，題目不是不知道金魚特性。<br>(C) off the record：非公開、不要記錄；(D) on the rise：正在增加，都不合。<br>句意：想和金魚聊天的人無法如願，因為金魚完全不發聲。",
+  "<b>解題關鍵：</b>主要句是 plans to stop delivering，空格只是補充這項改變「從 8 月 1 日開始」。<br>(A) starts 是完整動詞，會和 plans 衝突。<br>(B) started 是過去式，但計畫尚未開始。<br>(C) starting：從……開始，分詞片語補充日期，正確。<br>(D) to start 會變成「為了開始」，不自然表示生效日。<br>句意：郵政機構計畫自今年 8 月 1 日起停止週六送信。",
+  "<b>解題關鍵：</b>空格子句說 Congress forbids it，主要句卻說 agency will deliver only Monday through Friday；邏輯是「若沒有被禁止，就會實施」。<br>(A) When：當……時，會變成被禁止時反而照做。<br>(B) Unless：除非，Unless forbidden 正確。<br>(C) Once：一旦，意思相反。<br>(D) Lest：以免，不能接此結果。<br>句意：除非國會禁止，郵政機構將只在週一至週五投遞。",
+  "<b>解題關鍵：</b>this 回指停止週六投遞的政策，後面說可省每年二十億美元，所以需要表示「措施、行動」的名詞。<br>(A) move：舉措、行動，正確。<br>(B) round：一輪，不是行政措施。<br>(C) chance：機會，不能回指政策。<br>(D) fact：事實，也沒有採取行動的意思。<br>句意：預期這項政策改變每年可節省約二十億美元的支出。",
+  "<b>解題關鍵：</b>過去十年網路與電商愈來愈普及，同期間郵政服務損失數百億，空格表示伴隨某變化。<br>(A) at：在某點，不能表示伴隨趨勢。<br>(B) with：隨著，with the increasing popularity 搭配正確。<br>(C) under：在……之下；(D) between：在兩者之間，都不合。<br>句意：隨著網路與電子商務普及，郵政服務承受數百億美元損失。",
+  "<b>解題關鍵：</b>雖然週六不送信，post offices remain open；後面列 customers can drop off mail，這是保持營業的目的。<br>(A) so that：以便，表示目的，正確。<br>(B) as soon as：一……就；(C) in case：以防；(D) ever since：自從，都不能解釋開門是為了讓顧客寄件。<br>句意：郵局週六仍會開門，以便顧客寄信、寄包裹或使用其他服務。",
+  "<b>解題關鍵：</b>空格前主詞 about 4,000 people，後接 to an ice hotel，需填「到旅館辦理入住」的動詞片語。<br>(C) check in：辦理入住，最符合旅館情境。<br>(H) offer 和 (L) withstand 雖是動詞，分別是提供、承受，不能接 to a hotel 表示入住；其他選項詞性也不合。<br>句意：每年約有四千人到冰旅館報到入住。",
+  "<b>解題關鍵：</b>air is so cold 的結果是呼出的水氣凝結成白霧，因此能看見自己的「呼吸」。your 後要接名詞。<br>(A) breath：呼吸、呼出的氣，正確。<br>(G) moisture 也是名詞，但指一般水分，題目固定說 see your breath；(E) frozen 是形容詞，不能放 your 後。<br>句意：空氣冷到你能看到自己呼出的白氣。",
+  "<b>解題關鍵：</b>鼻尖 numb「麻木」，as though 後比喻它像受到低溫凍結；were 後需要形容狀態。<br>(E) frozen：冰凍的，正確。<br>(F) impossible 也是形容詞，但鼻子不會「像不可能」；(K) warm up 是變暖，和 numb、冰旅館情境相反。<br>句意：鼻尖麻到像是已經凍住。",
+  "<b>解題關鍵：</b>冰旅館極冷，起身喝水或上廁所都會離開溫暖睡袋，後面又誇張說 risking death，因此感覺「不可能」。<br>(F) impossible：不可能的，seems impossible 搭配正確。<br>(J) sufficient 是足夠的，(B) careful 是小心的，都無法呈現酷寒使人不敢起身。<br>句意：在那種低溫中，短暫起身似乎都難以做到。",
+  "<b>解題關鍵：</b>an adventurous spirit alone is not enough 表示光有冒險精神還不足以「撐過」冰旅館兩小時以上；to 後需原形動詞。<br>(L) withstand：承受、抵擋，正確。<br>(H) offer 是提供，無法說提供兩小時；(K) warm up 是變暖，受詞與文意都不合。<br>句意：只有冒險精神，還不足以承受冰旅館長時間的低溫。",
+  "<b>解題關鍵：</b>主詞 boots and outfits，受詞 little protection，空格需能表示衣物「提供」保護的動詞。<br>(H) offer：提供，offer protection 是自然搭配，正確。<br>(L) withstand 是承受，但衣服不是承受 protection；(D) deposit 是存放，也不能接保護。<br>句意：一般冬靴與衣服只能提供很少的禦寒效果。",
+  "<b>解題關鍵：</b>旅客進入極地睡袋後要學會 quickly 讓身體恢復溫暖；how to 後需原形動詞。<br>(K) warm up：暖和起來，正確。<br>(L) withstand 是承受，後面通常要接受詞；(H) offer 是提供，也不能表示自己的體溫上升。<br>句意：旅客也會學習如何在極地睡袋裡快速暖和。",
+  "<b>解題關鍵：</b>文章提醒進睡袋前停止流汗，because 後說任何東西會立即結冰，指的就是汗帶來的水分。any 後需名詞。<br>(G) moisture：水分、濕氣，正確。<br>(A) breath 是呼吸，雖在冷空氣可見，但不是 stop sweating 的直接結果；(E) frozen 是形容詞。<br>句意：必須避免流汗，因為任何水分都會立刻結冰。",
+  "<b>解題關鍵：</b>who are not 後需要形容詞，後果是 quickly get cold feet and a blocked nose，表示若沒做好保暖細節、缺乏小心就會受寒。<br>(B) careful：小心的，正確。<br>(J) sufficient 是足夠的，但人不自然說 not sufficient；(E) frozen 會變成「沒有結冰的旅客」，因果不合。<br>句意：不夠小心的住客很快會腳冷、鼻塞。",
+  "<b>解題關鍵：</b>however 表轉折：前文一直說冰旅館不舒服，後文將說住客為的是 arctic adventure，所以 comfort 不是入住的「目的」。<br>(I) purpose：目的，正確。<br>(J) sufficient 是形容詞，詞性不合；(D) deposit 是押金，雖與旅館有關，但文中不是談付款。<br>句意：舒適並非住冰旅館的目的，體驗才是重點。",
+  "<b>解題關鍵：</b>空格前店門打開，空格後立刻用 She 描寫來客並與麵包師交談，所以此處必須先引進一名女性。<br>(B)「一位披長黑披肩的老婦人走了進來」提供 She 的清楚指涉，正確。<br>(A) 是麵包師驚醒，適合夢境結束；(D) 是厄運總述；(E) 是後來多給餅乾；(F) 是他無生意時祈禱；(C) 描寫籃子取之不盡，都不合開門當下。",
+  "<b>解題關鍵：</b>空格前老婦人因少一塊餅乾而生氣離開；空格後接著列麵包變酸、餅乾烤焦等災難，因此要先總述厄運開始。<br>(D) 的 From that day 能把老婦人離開和之後一連串失敗連起來，正確。<br>(B) 老婦人已出場；(F) 祈禱要等餅乾賣不掉；(A)(E) 都屬夢後轉變；(C) 是夢中奇景。",
+  "<b>解題關鍵：</b>空格前店裡沒有顧客、聖尼古拉餅乾全賣不掉，空格後才進入 that night 的夢，所以中間需要他絕望求助的動作。<br>(F) 說他盯著沒賣出的餅乾，祈求聖尼古拉幫忙，能自然引出夜裡得到夢中啟示。<br>(D) 厄運已在前面出現；(C) 是夢裡籃子；(A) 是夢醒；(E) 是後來實際多給一個；(B) 是故事開頭。",
+  "<b>解題關鍵：</b>空格前夢中老婦人與聖尼古拉出現；空格後麵包師立刻想到「或許該多給一些」，表示他已從夢中醒來並領悟。<br>(A) Van Amsterdam 驚醒，正確銜接夢境與現實。<br>(C) 仍是夢裡取餅乾的畫面，應在醒來之前；(E) 是老婦人再訪後實際數餅乾；(B)(D)(F) 都已屬前段情節。",
+  "<b>解題關鍵：</b>老婦人再來要求 a dozen，麵包師這次要改正先前只給十二個的吝嗇；後文說自此 baker’s dozen 是十三個。<br>(E) 明寫他興奮地數十二塊，再多給一塊，正好解釋十三個的由來。<br>(A) 已經醒來；(B) 已引入老婦；(D)(F) 是厄運與祈禱；(C) 是夢中籃子，皆不能直接交代這次交易。",
+  "<b>解題關鍵：</b>全文介紹 MMC 網站讓大眾出資支持音樂人、達標後製作唱片，再按比例分配收入，核心是群眾募資。<br>(A) 網路只是平台，不是教音樂製作技術。<br>(B) 不是替唱片公司募款，而是替音樂人籌資。<br>(C) 歌迷可能獲利是細節，不是全文主題。<br>(D) 音樂產業中的群眾募資，最完整涵蓋運作方式，正確。<br>所以最佳標題是 Crowd-funding in the Music Industry。",
+  "<b>解題關鍵：</b>第一段交代 MMC 的募資規則：每一計畫要達到完整目標金額，才會進入錄音製作。文中明列目標是 £100,000。<br>(A) £10 是個人可投入的小額，不是整團目標。<br>(B) £1,000 與 (C) £4,250 都不是完成錄音募資門檻。<br>(D) £100,000 才是樂團必須募得的金額，正確。<br>細節題要分清「單人投資額」和「計畫總額」。",
+  "<b>解題關鍵：</b>MMC 的做法是把音樂人作品放上網，讓使用者以小額投資喜歡或看好的藝人，等於歌迷直接提供資金。<br>(A) 文中只說 DIY 藝人成功機率低，未說 MMC 已幫很多人進前兩百。<br>(B) fourteen 指進榜案例，不是網站同時刊登人數。<br>(C) 允許歌迷財務支持音樂人，符合，正確。<br>(D) 收益最大份額並非全部給音樂人，文章另有分配方式。<br>答案 C。",
+  "<b>解題關鍵：</b>第四段用數字說明兩萬張 DIY 唱片中只有十四組進入 Top 200，比例非常低，所以 long shot 指成功機會渺茫。<br>(A) everlasting 是持久，和 long shot 無關。<br>(B) success is not easy to achieve「成功不容易達成」，正確。<br>(C) big shot 指大人物，是把 shot 字面誤解。<br>(D) 長期目標雖合理，但不是這句慣用語的意思。<br>句意：即使得到群眾資金，真正成功仍很困難。",
+  "<b>解題關鍵：</b>文章先解釋研究團隊的牽引光束能用負向力量拉取微粒，再談分離細胞的可能用途，最後說不能拉太空船等大型物體。<br>(A) 照明科技不是重點，也未介紹社會照明應用。<br>(B) 科學發明的用途與限制，兩者皆涵蓋，正確。<br>(C) 醫療只是可能應用之一，且尚非實際治療。<br>(D) 科幻作品只是拿來比較，文章不研究科幻影響。<br>因此主旨選 B。",
+  "<b>解題關鍵：</b>第二段說 Dr. Cizmar 的團隊反轉一般光的推力，產生 negative force，能拉出具有特定性質的微粒。<br>(A) 無法移動 Star Trek 那樣的大物體。<br>(B) 一般光束會把物體向前推，這項發明特色反而是拉回。<br>(C) 依靠負向力量拉出特定粒子，符合原文，正確。<br>(D) 文章只說未來可能分離血球，尚未表示目前使用。<br>答案 C。",
+  "<b>解題關鍵：</b>最後一段先說科幻節目中的 tractor beam 能 capture spaceships，接著說這項發明 is not going to do that；that 回指前面整個動作。<br>(A) 傳送大量能量是無法做到的原因，不是 that 本身。<br>(B) 製作科幻節目不是光束功能。<br>(C) 燒成灰是大量能量可能造成的後果。<br>(D) 用光束捕捉太空船，正是最近的完整動作，正確。<br>代名詞題要把選項放回原句檢查。",
+  "<b>解題關鍵：</b>作者中性介紹研究原理、研究者說法、可能醫療用途，也誠實交代能量限制，沒有嘲諷、崇拜或悲觀批判。<br>(A) Objective：客觀的，符合以事實和限制並列的語氣，正確。<br>(B) Suspicious：懷疑的，作者未質疑研究真假。<br>(C) Admiring：讚嘆的，文中沒有誇大的讚美。<br>(D) Pessimistic：悲觀的，也不合仍看見應用潛力。<br>所以語氣為客觀。",
+  "<b>解題關鍵：</b>全文從肯亞學生使用平板的案例，擴展到迦納、衣索比亞等地用數位工具學習，並報告初步正面成果。<br>(A) 非洲暢銷書不是核心。<br>(B) 教育問題只是推動數位化的背景。<br>(C) 非洲學校正在數位化，涵蓋各國案例與趨勢，正確。<br>(D) 平板需求很大只聚焦肯亞且文中未作市場調查。<br>最佳標題選 Schools in Africa Are Going Digital。",
+  "<b>解題關鍵：</b>Grace 是首次接觸平板的學生，卻只花約一分鐘就知道如何操作；作者用這個具體案例證明裝置容易使用。<br>(A) 不能因一分鐘學會就推論她是電腦天才。<br>(B) 平板非常容易上手，符合案例用途，正確。<br>(C) 送貨系統好壞與操作時間無關。<br>(D) 單一學校的試用不能證明 Kawangware 已很普遍。<br>案例題要看作者用它支持哪個一般觀點。",
+  "<b>解題關鍵：</b>文章直接把 eLimu 稱為 a Kenyan technology start-up，start-up 是剛成立、發展新產品或服務的新創公司。<br>(A) 一家公司，正確。<br>(B) 電腦程式可能是它製作的內容，但不是 eLimu 本身的組織類型。<br>(C) 不是一本電子書。<br>(D) 它推動教育專案，但原文明確分類為公司。<br>遇到專有名稱題，優先找名稱後面的同位語解釋。",
+  "<b>解題關鍵：</b>文章列舉數位教學成果：迦納學生閱讀力提高、衣索比亞兒童自行學會字母、肯亞科學成績上升，都是正面證據。<br>(A) 沒說學生人數持續下降。<br>(B) 傳統教學反而面臨教師不足。<br>(C) Kindle 是另一計畫使用，但不是 Amazon 捐給所有學生的敘述。<br>(D) 部分國家的初步數位教學結果相當正面，符合多項案例，正確。<br>答案 D。",
+  "<b>解題關鍵：</b>第二段先講古代 Pheidippides 從雅典跑到斯巴達求援，再說 John Foden 於 1982 年重跑，並促成 1983 年正式比賽，完整交代賽事由來。<br>(A) Foden 背景只是一部分。<br>(B) 路線細節不是此段主要焦點。<br>(C) Spartathlon 的起源，涵蓋古代故事與現代創賽，正確。<br>(D) 古代故事只是起源的一半，未包含現代賽事成立。<br>段落主旨選 C。",
+  "<b>解題關鍵：</b>文中說賽事吸引跑者，因為他們沿著 Pheidippides 的古老足跡前進，會有 racing through history 的感受。<br>(A) 文章沒有證明它是全世界最經典。<br>(B) 跑者感覺在歷史中競賽，直接呼應原文，正確。<br>(C) 比賽不會解決個人問題。<br>(D) 完成各檢查點是規則，不是選擇參加的主要吸引力。<br>所以答案 B。",
+  "<b>解題關鍵：</b>fleeting 是「短暫、很快消失」。最後一段說抵達終點的 euphoria 只持續幾分鐘，接著關節肌肉就開始僵硬。<br>(A) triumph 永遠持續，與 fleeting 相反。<br>(B) 說比賽難完成，沒有解釋興奮的時間。<br>(C) 疲勞可能接著出現，但不是片語本身意思。<br>(D) 完賽興奮很快消失，正確。<br>句意：跑者完賽的狂喜轉瞬即逝。",
+  "<b>解題關鍵：</b>第二段寫 Foden 在 1982 年驗證古代路線，this achievement inspired the first Spartathlon the following year，所以首屆是 1983。<br>(A) 1983 年首次舉辦，符合，正確。<br>(B) 文中沒說拍成電影。<br>(C) 許多跑者反而想再次挑戰，並非決定不再參加。<br>(D) 白天炎熱，但夜間可能低溫，不是日夜都高溫。<br>因此只有 A 與原文時間及細節一致。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -22357,57 +22576,57 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "數月未下雨使國內多地缺水；water shortage 表示「水資源短缺」。",
-  "Larry 不知道自己的極限，逕自認為什麼都做得到；assumes 表示「假定、認為」。",
-  "Agnes 初見便吸引幾乎所有人，表示她具有迷人的個性；magnetic 表示「有吸引力的」。",
-  "Jason 不論任務多難都堅持完成；persist in 表示「堅持做」。",
-  "食物有限造成營養不良，導致數百萬人死亡；nutrition 表示「營養」。",
-  "直升機停留在海面上空搜尋失蹤潛水員；hovered 表示「盤旋」。",
-  "可泡湯並欣賞美景的地方是溫泉度假村；resorts 表示「度假勝地」。",
-  "兒童犯罪時，父母通常應對其行為負責；be held accountable for 表示「對……負責」。",
-  "作文主題尚未決定，此時討論結論寫法還太早；premature 表示「過早的」。",
-  "人權是與生俱來、自然擁有的基本權利；inherently 表示「本質上、天生地」。",
-  "該中心於挪威獨立百年慶典中開幕；mark the centenary 表示「紀念百週年」。",
-  "中心介紹和平獎得主及其活動，也介紹 Nobel 的非凡歷史；as well as 表示「以及」。",
-  "exhibits、discussions、reflections 與戰爭和平議題相關；related to 是固定搭配。",
-  "訪客可自行參觀或參加導覽；on their own 表示「自行」。",
-  "中心透過展覽、活動、講座與文化事件教育訪客；through 表示「藉由」。",
-  "球賽暴動造成多人死亡受傷，稱為 tragedy 最符合「悲劇」。",
-  "英國隊預定與義大利隊競賽；compete against 表示「與……競爭」。",
-  "英國球迷放煙火替自己的球隊加油；their 指 noisy British fans 所支持的隊伍。",
-  "義大利球迷驚慌朝自己區域的主要出口前進；head for 表示「朝……前進」。",
-  "deaths resulted from people being trampled 中 being 與 trampled 構成被動動名詞。",
-  "布袋戲偶雖由手操控，台上呈現的是有手有腳的完整人物形象；figures 表示「人物形體」。",
-  "戲偶演出通常由小型樂團伴奏；accompanied by 表示「由……伴隨」。",
-  "鼓手觀察劇情並用鼓聲指揮其他樂師；conduct 表示「指揮」。",
-  "後文列雜技、跳窗、走位與打鬥，都是表演技巧；techniques 表示「技巧」。",
-  "特殊動物戲偶增加對觀眾、尤其兒童的吸引力；appeal 表示「吸引力」。",
-  "主要操偶師是戲團首領或導演，負責整場演出；director 表示「導演」。",
-  "輔助表演者配合主要表演者操偶、換裝與照料舞台；supporting 表示「輔助的」。",
-  "師父常訓練兒子日後接替自己成為操偶師；succeed 在此表示「繼任」。",
-  "婚禮、出生與升遷都是喜慶場合；occasions 表示「場合」。",
-  "布袋戲主要用於敬拜並向神明致謝；worship 表示「敬拜」。",
-  "首句說所有廣告都試圖說服，B 以另一種說法解釋：廣告是促使人採取行動的溝通。",
-  "前句說廣告也可推銷理念或人物，A 以政治廣告作為具體例子。",
-  "前句談政治廣告也有說服意圖，D 說明其與商業廣告差別在於推銷候選人。",
-  "Bush 競選廣告例後，E 轉向另一用途：說服民眾支持或反對政策提案。",
-  "前文談政黨廣告，後文舉 Greenpeace；F 正好引出環保與人權團體也買廣告宣傳理念。",
-  "文章指出 put-down humor 常以政治人物為對象，且多半好笑、傷害較小。",
-  "bonding humor 分享共同經驗，傳達大家相似、同覺好笑且彼此同在，能營造放鬆氣氛。",
-  "John Belushi 與 Chris Farley 都是喜劇演員，且文中說兩人曾因演藝成功付出代價。",
-  "文章對比有益的 bonding humor 與傷害關係、自尊的兩類幽默，說明幽默兼具光明與陰暗面。",
-  "機長拒飛後，航空公司保全把他帶離機場，並威脅逮捕不配合的機組員。",
-  "全文揭露航空公司以保全與威嚇迫使機師忽視安全疑慮，並請大眾協助，故 D 最合主旨。",
-  "多名機師拒飛後證實電力零件故障，飛機停飛並最終修好。",
-  "文中反覆以 we、自稱 Sunny Airlines' pilots 並呼籲支援，可推知由機師組織成員撰寫。",
-  "文章列舉 Angry Birds 在各國電視、廣告及哲學文章中的運用，主旨是它跨媒體傳播。",
-  "went viral 表示影片片段在網路迅速廣傳、廣受觀看，最接近 popular。",
-  "文中明說作家 Salman Rushdie 被認為是 Angry Birds 高手。",
-  "T-Mobile 在西班牙拍攝的手機廣告中出現真人版遊戲場景，故 C 正確。",
-  "爆破前須檢視建築藍圖並實地記錄各樓層支撐結構，也就是研究建築結構。",
-  "通常先炸低樓層主要支柱，再視需要炸上層支柱，故由較低樓層開始。",
-  "建物要朝北倒就先引爆北側；圖示目標方向若為南方，便應先引爆南側，故 C。",
-  "全文依序說明建築爆破前規劃、炸藥配置與控制倒塌方向，主旨是如何用炸藥拆除建物。"
+  "<b>解題關鍵：</b>hasn’t rained for months 表示長期沒有降雨，因此許多地區可用水不足。water 後需接能表示缺乏的名詞。<br>(A) resource：資源，water resource 是水資源，但不能表示短缺。<br>(B) deposit：沉積物、存款；(C) shortage：短缺，water shortage 是固定搭配，正確。<br>(D) formula：公式、配方，語意不合。<br>句意：因數月未下雨，國內許多地方出現缺水。",
+  "<b>解題關鍵：</b>Larry doesn’t know his limitations，卻認為自己 everything 都能做；這是沒根據就先假定。<br>(A) convinces：說服，後面通常要有被說服的人，不能直接接 he。<br>(B) disguises：偽裝；(C) assumes：假定、想當然，後接完整子句，正確。<br>(D) evaluates：評估，會表示經過判斷，與不知極限不合。<br>句意：Larry 的問題是不了解自己的限制，卻逕自認為凡事都能做到。",
+  "<b>解題關鍵：</b>Almost everyone is immediately attracted to her，表示 Agnes 的個性像磁鐵一樣吸引人。<br>(A) clumsy：笨拙的，通常不會讓所有人立刻著迷。<br>(B) durable：耐用的，多形容物品；(C) furious：暴怒的，語意相反。<br>(D) magnetic：有磁力般吸引人的，magnetic personality 是自然搭配，正確。<br>句意：Agnes 似乎很有魅力，大家初次見面就被她吸引。",
+  "<b>解題關鍵：</b>no matter how difficult 和 hates to quit halfway 都說明 Jason 遇到困難也不半途而廢。<br>(A) persists：堅持，persist in + ing 是固定句型，正確。<br>(B) motivates：激勵，後面通常接受詞；(C) fascinates：使著迷，也要有人作受詞。<br>(D) sacrifices：犧牲，不能接 in finishing 表示堅持。<br>句意：不論任務多難，Jason 都會堅持完成。",
+  "<b>解題關鍵：</b>developing countries 的 food amount limited，食物不夠容易造成營養不良，甚至死亡。<br>(A) reputation：名聲，與食物不足無關。<br>(B) nutrition：營養，poor nutrition 是「營養不良」，正確。<br>(C) construction：建設；(D) stimulation：刺激，也都不能直接解釋缺糧造成的死亡。<br>句意：發展中國家的食物有限，營養不良已造成數百萬人死亡。",
+  "<b>解題關鍵：</b>直升機在 sea 上方搜尋失蹤超過三十小時的潛水員，必須停留或盤旋在空中查看。<br>(A) tackled：處理、擒抱；(B) rustled：沙沙作響；(C) strolled：散步，通常是人在地面悠閒走。<br>(D) hovered：在空中盤旋、停留，最符合直升機動作，正確。<br>句意：直升機在海面上空盤旋，尋找失蹤潛水員。",
+  "<b>解題關鍵：</b>guests 可享受 relaxing baths and beautiful views，這是提供住宿、休閒與溫泉的度假場所。<br>(A) resorts：度假勝地，hot spring resorts 是「溫泉度假村」，正確。<br>(B) hermits：隱士，是人；(C) galleries：藝廊；(D) faculties：學院或能力。<br>後三者都不能自然提供泡湯住宿。<br>句意：日本觀光景點之一是溫泉度假村，旅客能泡湯賞景。",
+  "<b>解題關鍵：</b>孩子犯罪，題目說 parents should be held ___ for the child’s conduct，固定搭配表示父母須承擔責任。<br>(A) eligible：有資格的，常接 for，但不是承擔行為後果。<br>(B) dispensable：可有可無的；(C) credible：可信的。<br>(D) accountable：負責的，be held accountable for 是「對……負責」，正確。<br>句意：幼童犯罪時，通常父母要為其行為負責。",
+  "<b>解題關鍵：</b>作文 topic 尚未決定，就先談 conclusion 怎麼寫，步驟太早、時機未到。<br>(A) preventive：預防性的；(B) premature：過早的，正確。<br>(C) productive：有生產力的，不能指出順序問題；(D) progressive：漸進的、進步的。<br>其他字本身可用，但不符合「題目未定卻先談結尾」的語境。<br>句意：連主題都還沒決定，現在討論如何寫結論仍為時過早。",
+  "<b>解題關鍵：</b>that is 後解釋 human rights 是 rights that one is born with，表示一出生、本質上就擁有。<br>(A) inherently：本質上、天生地，inherently entitled 正確。<br>(B) imperatively：命令式地、迫切地；(C) authentically：真實地；(D) alternatively：或者、換個方式。<br>後三項不能表達與生俱來。<br>句意：人權是每個人天生應享有的基本權利。",
+  "<b>解題關鍵：</b>中心開幕配合 Norway’s independence centenary，空格要說這場開幕用來「紀念」獨立百年。<br>(A) help：幫助，不能直接 help the centenary；(B) solve：解決，百週年不是問題。<br>(C) take：拿取；(D) mark：紀念、標誌，mark the centenary 是固定搭配，正確。<br>句意：該中心在挪威獨立百年之際開幕，以紀念這個重要周年。",
+  "<b>解題關鍵：</b>句子並列中心展示的兩類內容：和平獎得主與工作，還有 Nobel 的非凡歷史。<br>(A) so much as 常用於否定句「甚至」；(B) as well as：以及，能連接兩項內容，正確。<br>(C) in spite of：儘管，沒有轉折；(D) on behalf of：代表，語意不合。<br>句意：中心介紹和平獎得主及其工作，也呈現諾貝爾的非凡歷史。",
+  "<b>解題關鍵：</b>exhibits、discussions、reflections 的內容都圍繞 war, peace and conflict resolution，因此是「與這些主題相關」。<br>(A) related：相關的，be related to 固定搭配，正確。<br>(B) limited：受限的，limited to 是僅限；(C) addicted：上癮的，通常形容人。<br>(D) contributed：貢獻，contribute to 需主動句，不能接 are。<br>句意：展示與討論都和戰爭、和平及衝突解決有關。",
+  "<b>解題關鍵：</b>句中 or 連接兩種參觀方式：join a guided tour 是參加導覽，另一種應是訪客自己逛。<br>(A) in this regard：在這方面；(B) one on one：一對一。<br>(C) on their own：獨自、自行，正確；(D) by and large：大致上。<br>只有 C 能和 guided tour 形成「自己參觀或跟團」的選擇。<br>句意：訪客可自行探索中心，也可參加導覽。",
+  "<b>解題關鍵：</b>中心 educates and informs visitors，後面列 exhibitions, activities, lectures 等，這些是達成教育目的的方式。<br>(A) among：在……之中；(B) regarding：關於；(C) including：包括，會把訪客和活動的關係寫錯。<br>(D) through：透過、藉由，表示方法，正確。<br>句意：中心透過展覽、活動、演講及文化事件教育並提供訪客資訊。",
+  "<b>解題關鍵：</b>球賽事件造成多人死亡、受傷，文章以嚴重災難的角度描述，因此要用「悲劇」。<br>(A) circumstance：情況；(B) sequence：順序；(C) tragedy：悲劇，最符合死傷事件，正確。<br>(D) phenomenon：現象，語氣過於中性，沒有表達人命損失。<br>句意：這起球場事件是一場造成多人死傷的嚴重悲劇。",
+  "<b>解題關鍵：</b>英國隊和義大利隊要在比賽中互相競爭，空格後已有 against，所以要選能搭配的動詞。<br>(A) oppose to 錯，oppose 後不加 to；(B) fight over 是為某事爭吵。<br>(C) battle for 是爭取某物；(D) compete against：與……競賽，正確。<br>句意：英國球隊原訂和義大利隊交手競賽。",
+  "<b>解題關鍵：</b>句子主詞是 noisy British fans，他們放煙火是支持屬於自己的英國隊，需用所有格代名詞。<br>(A) a 是單數冠詞；(B) that 指示單一事物；(C) each 表每一個，後面 team 單數但不表歸屬。<br>(D) their：他們的，指英國球迷所支持的球隊，正確。<br>句意：喧鬧的英國球迷放煙火，為自己的球隊加油。",
+  "<b>解題關鍵：</b>義大利球迷受煙火驚嚇後 panic，接著朝自己區域的 main exit 移動，空格要表示「前往」。<br>(A) headed for：朝……前進，正確。<br>(B) backed up：倒退、塞住；(C) called out：大喊、召集；(D) passed on：傳遞、過世。<br>後三項都不能自然接受詞 the main exit 表方向。<br>句意：驚慌的義大利球迷朝看台主要出口湧去。",
+  "<b>解題關鍵：</b>resulted from 後要接名詞或動名詞；people 是「被踩踏」而死亡，所以需要被動形式 being + 過去分詞 trampled。<br>(A) be 是原形，不能直接放介系詞 from 後。<br>(B) been 需搭配 have；(C) being：構成 people being trampled，正確。<br>(D) to be 是不定詞，也不能作 from 的受詞。<br>句意：死亡主要是人群在混亂中遭踩踏所造成。",
+  "<b>解題關鍵：</b>文章描述布袋戲偶由手操控，卻在台上呈現有頭、手、腳的完整人物形象，空格需複數名詞。<br>(F) figures：人物、形體，正確。<br>(E) director 是導演，指人但不是戲偶外形；(K) techniques 是技巧，會在後文列舉動作時使用；(B) appeal 是吸引力。<br>句意：布袋戲偶雖套在手上操控，觀眾看到的仍是完整人物形象。",
+  "<b>解題關鍵：</b>空格後 by a small orchestra 是被動搭配線索，表示戲偶演出有小型樂團「伴奏」。<br>(C) accompanied：陪伴、伴奏，be accompanied by 正確。<br>(A) attracted by 是被吸引，演出不是被樂團吸引；(J) supporting 是輔助的，不能和 by 組成此被動動詞；(D) conduct 是指揮。<br>句意：戲偶演出通常由小樂團伴奏。",
+  "<b>解題關鍵：</b>鼓手觀看劇情，再用鼓聲讓其他樂師知道何時演奏，所以是「指揮」他們。to 後需原形動詞。<br>(D) conduct：指揮，正確。<br>(H) succeed 是接替或成功；(L) worship 是敬拜；(B) appeal 作動詞是吸引／呼籲，都不能表示帶領樂團。<br>句意：鼓手依劇情變化，以鼓聲指揮其他樂師。",
+  "<b>解題關鍵：</b>空格後列出雜技、跳窗、角色走位和打鬥，這些都是操偶表演需要的不同「技巧」。<br>(K) techniques：技巧、技法，複數正確。<br>(F) figures 是人物形體；(G) occasions 是場合；(D) conduct 是動詞，詞性不合。<br>句意：布袋戲使用多種技巧，包括特技動作、進出場和武打。",
+  "<b>解題關鍵：</b>特殊動物戲偶讓表演更受觀眾、尤其兒童喜愛，所以增加的是 attraction「吸引力」。<br>(B) appeal：吸引力，add appeal to... 是自然搭配，正確。<br>(A) attracted 是被吸引的，詞性不合；(F) figures 是形體；(K) techniques 是技巧，都不能接 to the audience 表示效果。<br>句意：動物造型戲偶增加演出對觀眾的吸引力。",
+  "<b>解題關鍵：</b>主要操偶師負責整場演出、帶領戲班，角色相當於戲團的領導者或「導演」。<br>(E) director：導演，正確。<br>(F) figures 是人物；(J) supporting 表示輔助的，和主要操偶師身分相反；(D) conduct 是動詞指揮，空格需要名詞。<br>句意：主要操偶師就是戲班的導演，掌握整場表演。",
+  "<b>解題關鍵：</b>主要表演者之外，還有人協助操偶、換裝和照顧舞台，空格要形容這些協助者。<br>(J) supporting：支援的、輔助的，supporting performers 正確。<br>(A) attracted 是被吸引；(I) transparent 是透明；(C) accompanied 是被陪伴，都不表示工作角色。<br>句意：輔助表演者配合主要操偶師完成幕後工作。",
+  "<b>解題關鍵：</b>師父訓練兒子，是希望兒子將來在操偶師職位上「接替」自己；to 後接原形動詞。<br>(H) succeed：接替、繼任，此處 succeed him 是接替他，正確。<br>(D) conduct 是指揮；(L) worship 是敬拜；(B) appeal 是吸引或呼籲，都不能接受詞 him 表職位傳承。<br>句意：師父常培養兒子，將來繼承他的操偶工作。",
+  "<b>解題關鍵：</b>空格前列 weddings, births and promotions，三者都是值得慶祝的事件或場合，因此需複數名詞。<br>(G) occasions：場合、時刻，正確。<br>(F) figures 是人物；(K) techniques 是技巧；(B) appeal 是吸引力，都無法統稱婚禮、出生、升遷。<br>句意：布袋戲可在婚禮、添丁、升遷等喜慶場合演出。",
+  "<b>解題關鍵：</b>後面提到 thank the gods，表示演出的宗教用途是向神明表達敬意；for 後需名詞或 ing。<br>(L) worship：敬拜，正確。<br>(B) appeal 是吸引力；(D) conduct 是指揮／行為；(H) succeed 是成功／接替，都不能說用演出向神明致謝。<br>句意：布袋戲主要用於敬神並感謝神明。",
+  "<b>解題關鍵：</b>空格前說所有廣告都試圖 persuade；空格後開始談廣告不只賣產品，也推銷理念和人物，因此此句要先換句話定義廣告。<br>(B) 以 To put it another way 承接前句，說廣告是促使人採取行動的溝通，正確。<br>(A) 政治廣告例子應放後面；(C) 談媒體收入，本文未延伸；(D)(E)(F) 都需先引出政治廣告。",
+  "<b>解題關鍵：</b>前一句說廣告有時不是賣商品，而是推銷 ideas or people；後文馬上轉入 political ads，所以空格要給出政治廣告這個例子。<br>(A) Political advertising is one example，正確。<br>(B) 是前段廣告定義；(D) 的 They 必須在政治廣告已出現後使用；(E) 談提案；(F) 談其他團體；(C) 談媒體收入，都不宜先放。",
+  "<b>解題關鍵：</b>空格前已說 political ads 和 commercial ads 都想說服人；空格後會以候選人廣告為例，因此此處要先說兩者差別。<br>(D) 的 They 回指 political ads，並說政治廣告「賣」候選人而非商品，正確。<br>(A) 已用來引出主題；(E) 應放競選例子後；(F) 要連到 Greenpeace；(B)(C) 不合此比較位置。",
+  "<b>解題關鍵：</b>空格前是 Bush 的 campaign advertising 例子；空格後則談支持或反對某項議題，所以要從競選廣告轉到政策提案廣告。<br>(E) Aside from campaign advertising... 正好表示「除了競選廣告，也用來說服民眾支持或反對提案」，正確。<br>(D) 是較前面的商業廣告比較；(F) 要等後文談非政黨團體；(A)(B)(C) 都無法銜接用途轉換。",
+  "<b>解題關鍵：</b>空格前談政治人物與政黨買廣告；空格後馬上舉 Greenpeace 環保團體宣傳理念，因此需引出其他倡議組織。<br>(F) 說除政黨外，環保與人權團體也買廣告說服大眾，正確連到 Greenpeace。<br>(E) 是提案用途，應放更前面；(A)(D) 已用來介紹政治廣告；(B) 是總定義；(C) 談媒體收入，皆不合。",
+  "<b>解題關鍵：</b>文章介紹 put-down humor 時列出常被取笑的對象，其中明確包含 politicians，且說取笑知名人物通常傷害較小。<br>(A) Comedians 是使用幽默的表演者，不是此段列出的常見目標。<br>(B) 說笑話的人也不是原文例子。<br>(C) Politicians：政治人物，符合直接證據，正確。<br>(D) 對別人友善的人沒有被列為典型被嘲笑群體。<br>答案 C。",
+  "<b>解題關鍵：</b>bonding humor 的功能是讓群體感到 we’re all alike；大家拿共同經驗開玩笑，就能產生「我們都懂」的放鬆感。<br>(A) 嘲笑別人的不幸屬傷害性幽默。<br>(B) 對所有人都有的經驗開玩笑，符合共同連結，正確。<br>(C) 揭露私人關係不一定好笑，也可能侵犯隱私。<br>(D) 朋友的獨特經驗並非大家共享，還可能變成針對性取笑。<br>所以選 B。",
+  "<b>解題關鍵：</b>文章談 self-defeating humor 的黑暗面時，以 John Belushi 和 Chris Farley 為例，指出兩人雖在喜劇事業成功，卻為此付出代價。<br>(A) 他們的問題不是過量服用焦慮藥。<br>(B) 文中不是說他們在台上羞辱他人。<br>(C) 兩人都是事業成功的喜劇演員，符合，正確。<br>(D) 他們並未藉節目重建自尊，反而顯示自我傷害風險。<br>答案 C。",
+  "<b>解題關鍵：</b>全文先說 bonding humor 能拉近關係、放鬆氣氛，再談 put-down 與 self-defeating humor 可能傷害他人或自己，形成正反對照。<br>(A) 作者不是主張幽默研究方法。<br>(B) 幽默有光明面也有陰暗面，統整全文，正確。<br>(C) 幽默受重視只是一面，忽略危害。<br>(D) 文章分類幽默，不是教學習幽默的方法。<br>主旨是幽默能連結人，也可能造成傷害。",
+  "<b>解題關鍵：</b>事件敘述中，機長因擔心飛機安全而拒絕起飛，之後 Sunny Airlines 的 security staff 把他 escort off airport property。<br>(A) 沒要求他自己找替代機師。<br>(B) 被航空公司保全強制帶離機場，符合原文，正確。<br>(C) 他不是被留下協助查故障。<br>(D) 文中說被帶走與威脅，沒有說正式遭解僱。<br>細節題應區分「趕離機場」和「開除工作」。",
+  "<b>解題關鍵：</b>文章由機師立場揭露：航空公司保全威嚇拒飛機師，即使後來證實飛機真的有機械問題；結尾還呼籲大眾支持安全改革。<br>(A) 不是替航空公司提高收入。<br>(B) 沒介紹訓練課程。<br>(C) 也未提出一般服務改善計畫。<br>(D) 揭露 Sunny Airlines 保全處理方式的問題，最符合全文，正確。<br>主旨聚焦安全文化與威嚇，而非單一延誤。",
+  "<b>解題關鍵：</b>多位機師拒絕操作後，飛機接受檢查，證實 power component 有問題，接著停飛並完成修理。<br>(A) 沒判定飛機老到不能再服務。<br>(B) 機械問題被發現並最終修復，符合，正確。<br>(C) 文中沒有「移出機場檢查一週」這個時間細節。<br>(D) 故障沒有一直留下，因為後來已修好。<br>這也反過來證明機師的安全疑慮並非無理。",
+  "<b>解題關鍵：</b>文章使用 we，並明說身分是 Sunny Airlines’ pilots；結尾以團體口吻呼籲讀者支持機師安全訴求。<br>(A) 保全在文中是被批評的對象，不會如此揭露自己。<br>(B) 人事經理也不會自稱 pilots。<br>(C) 航空公司機師組織成員，最符合第一人稱與訴求，正確。<br>(D) 乘客可能關心延誤，但不會掌握機師團體立場與內部威脅細節。<br>答案 C。",
+  "<b>解題關鍵：</b>文章不是介紹遊戲玩法，而是列出 Angry Birds 在世界各地被電視節目、手機廣告、文章與其他文化媒體引用的例子。<br>(A) 沒交代遊戲如何設計。<br>(B) 不是研究受歡迎的心理原因。<br>(C) 電視角色只是其中一種媒體，範圍太窄。<br>(D) 報導它在全球不同媒體中的擴散，涵蓋全文，正確。<br>主旨關鍵是跨國、跨媒體的廣泛傳播。",
+  "<b>解題關鍵：</b>第二段說某段 Angry Birds 內容 went viral，語境是影片在網路迅速被大量分享、觀看，成為熱門內容。<br>(A) Apparent：明顯的，只表示看得出來。<br>(B) Sarcastic：諷刺的，是語氣而非傳播程度。<br>(C) Exciting：令人興奮，可能好看但不等於廣傳。<br>(D) Popular：流行、受歡迎，最接近 viral，正確。<br>句意：這段內容迅速在網路爆紅。",
+  "<b>解題關鍵：</b>人物細節段直接說 Salman Rushdie is known to be very good at Angry Birds，因此不需從職業或節目猜測。<br>(A) Giridhari Dasar 與文章中的哲學詮釋有關，不是遊戲高手證據。<br>(B) Conan O’Brien 是節目主持人，曾使用相關內容。<br>(C) Salman Rushdie 被明說擅長遊戲，正確。<br>(D) Daniel Tosh 也在媒體節目脈絡出現，沒有被稱為高手。<br>答案 C。",
+  "<b>解題關鍵：</b>文章提到 T-Mobile 在西班牙製作手機廣告，把 Angry Birds 做成真人大小的實體場景，讓人操作真實彈弓。<br>(A) 英國首相的引用內容被選項偷換，並非如此說政治議題。<br>(B) 角色不是主要替 Apple 商品打廣告。<br>(C) 真人版模型出現在手機廣告，符合，正確。<br>(D) 巴西瑜伽人物與遊戲電影的說法並不存在。<br>細節題要核對品牌、國家與媒體形式。",
+  "<b>解題關鍵：</b>爆破團隊在放炸藥前會看 building blueprints，並實地記錄每層的支柱與承重方式，這些工作都是研究結構。<br>(A) Study the structure of the building，符合，正確。<br>(B) 導遊不能提供工程判斷。<br>(C) 文中未要求製作縮小模型。<br>(D) 也沒有規定一定詢問原建築師，藍圖與現勘才是證據。<br>句意：先弄清建築如何支撐，才能安全安排爆點。",
+  "<b>解題關鍵：</b>文章說多數爆破先破壞 lower levels 的主要支柱，讓上方重量失去支撐，再視設計引爆其他樓層。<br>(A) 最頂層通常不是起點。<br>(B) 上層可能後續引爆，但不是多數案例的第一處。<br>(C) lower levels：較低樓層，直接符合原文，正確。<br>(D) basement 是地下室，比 lower levels 更特定，文章沒有說一律從地下室開始。<br>答案 C。",
+  "<b>解題關鍵：</b>控制倒塌方向的原則是：先炸掉希望建築倒向那一側的支撐，使建築往該空間傾倒；題圖目標方向指向南方。<br>(A) 東側與目標方向不同，不能選。<br>(B) 西側也會讓倒塌偏離安全區，不能選。<br>(C) 先炸南側，能讓建築向南倒，符合圖示，正確。<br>(D) 炸北側會讓它向北傾，與圖中要求相反。<br>圖文整合時要把文章規則套到圖中的箭頭方向。",
+  "<b>解題關鍵：</b>全文依序說明爆破團隊如何研究結構、選擇支柱和炸藥位置，再控制建築向安全方向倒下，核心是爆破拆樓的方法。<br>(A) 正確時間只是準備細節之一，範圍太窄。<br>(B) 如何用炸藥使建築倒塌，涵蓋規畫、配置與方向控制，正確。<br>(C) 文章沒有比較炸藥的各種用途。<br>(D) 也不是強調最少人力，而是安全和精準。<br>所以全文主旨應選 B。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -22567,57 +22786,57 @@ window.BANK.push((() => {
 })());
 
 [
-  "炎熱天氣穿著最舒適的棉製材料是布料；fabric 表示「布料」。",
-  "新廂型車引擎有問題，車商決定從市場召回；recall 表示「召回產品」。",
-  "工作一天後又餓又睏，Peter 疲憊地走回家；wearily 表示「疲倦地」。",
-  "團隊運動重視成員整體合作，勝過個別表現；individually 表示「個別地」。",
-  "失明鋼琴家克服種種障礙贏得首獎；obstacles 表示「障礙」。",
-  "各行星沿各自軌道繞太陽運行，因而不互撞；orbit 表示「軌道」。",
-  "王教授因經濟貢獻而被延攬協助政府改革；recruited 表示「招募、延攬」。",
-  "多數地震太小而無法察覺，需要靈敏儀器偵測；sensitive 表示「靈敏的」。",
-  "維基解密公開政府機密，使各國擔心國安資訊被揭露；disclosed 表示「公開」。",
-  "蒐集的證據與對方說法不一致，因此不能採信；be consistent with 表示「與……一致」。",
-  "requests that work be corrected 使用要求類動詞後的假設語氣，故用原形被動 be corrected。",
-  "多數合理索賠會核准，但部分調整要求必須被拒絕；denied 表示「拒絕」。",
-  "顧客本身有過失時，業者有必要拒絕調整；at fault 表示「有責任、有過錯」。",
-  "拒絕訊息對收件者是壞消息，因此需要最佳溝通技巧；because 表原因。",
-  "必須拒絕申訴，同時仍留住顧客；at the same time 表示「同時」。",
-  "日本研究學生觀看恐怖片，是文化表情規則的具體例子，故 for example。",
-  "with the teacher present 是 with 複合結構，表示「老師在場時」。",
-  "學生以為獨處，其實正被祕密攝影機錄影；were being taped 表過去進行被動。",
-  "研究顯示不同場合如何適當表達感情有不成文規則；properly 表示「適當地」。",
-  "日本人在權威人士面前傾向壓抑痛苦表情；in the presence of 表示「在……面前」。",
-  "文字能開啟通往未知世界的大門；unknown 作名詞表示「未知事物」。",
-  "說故事者、詩人與歌者都是文字最早的使用者；users 表示「使用者」。",
-  "視覺影像取代想像，使文字的浪漫逐漸消退；fading 表示「消逝」。",
-  "電影、電視與影像媒體正在取代說書人和書籍；replacing 表示「取代」。",
-  "視覺文化興起是以犧牲文字為代價；at the expense of 表示「以……為代價」。",
-  "識字與溝通能力正在快速衰退；rapid 表示「快速的」。",
-  "圖像小說是唯一在視覺世界中取得進展的小說類型；gain ground 表示「取得進展」。",
-  "教育者開始認識圖像小說這種媒介的力量；medium 表示「媒介」。",
-  "圖像小說可用黑白或多種顏色呈現；colors 符合並列語意。",
-  "圖像小說提供檢視視覺溝通世界與探討嚴肅議題的機會；offer 表示「提供」。",
-  "後句直接說 That year 並描述 1999 年校園悲劇，F 能引出該事件與霸凌、校園暴力的關聯。",
-  "前段說獨裁者常自稱曾遭霸凌；D 說研究指出受害者可能變成霸凌者，形成連鎖反應。",
-  "前句概述歷史上的霸凌者兼受害者，A 以 Hitler 的童年霸凌傳聞作例證。",
-  "後句的 Many of them 指研究城市旁觀者冷漠的心理學家，故 E 最能提供先行詞與研究脈絡。",
-  "受霸凌不只使霸凌者與受害者麻木，朋友與同學也可能把暴力視為正常，故 C。",
-  "豬天生可能吃掉可食物，狗則願以松露換麵包與撫摸，因此狗通常不會吃掉找到的松露。",
-  "松露風味會隨時間快速減弱，最佳吃法是採收後不久生鮮食用。",
-  "成熟松露在地下散發強烈氣味，豬、狗與盤旋的松露蠅都可協助尋找。",
-  "松露生長地下且需動物嗅聞或觀察松露蠅定位，難以尋找可推知是價格昂貴的原因。",
-  "文章肯定動物實驗仍有必要，同時主張替代方法與共享失敗結果以減少實驗動物，故 C。",
-  "文中說日本與中國的資料甚至比美國更不完整，故日本每年實驗動物數據有限。",
-  "文章明列以人體組織或電腦模型作為動物試驗的替代方式，故 B。",
-  "不符合假設的實驗結果往往 never sees the light of day，也就是不公開。",
-  "文章說明圓網的幾何構造、固定方式與兩種蛛絲材料，主旨是圓網的建構。",
-  "in order to do so 承接前句，指攔截並留住蒼蠅、蜜蜂等飛行獵物。",
-  "錨定絲把外框連接到周圍植物或物體，負責固定並支撐整張網；圖中位置亦相符。",
-  "蛛網通常至少需撐一天，蛛絲足以承受獵物撞擊與風雨，故 B 正確。",
-  "現代博士制度起源於 Humboldt University，位於德國，故 B。",
-  "churned out 約多 46% 的博士，語意是大量「產出」；produced 最接近。",
-  "五年後斯洛伐克逾六成博士仍為臨時合約，西班牙則逾四成五，前者取得永久職更困難。",
-  "作者以供給遠超需求、臨時合約與學非所用質疑讀博士是否明智，態度是憂慮。"
+  "<b>解題關鍵：</b>cotton 是棉，而句子談炎熱天氣中「穿在身上」最舒服的材料，所以空格要填布料。<br>(A) fabric「布料」可指棉布，最合理。<br>(B) coverage「覆蓋範圍」不是衣料。<br>(C) software「軟體」與穿著無關。<br>(D) wardrobe「衣櫃／全部衣物」不是棉本身的材料名稱。<br>把答案放回去：許多人認為棉是炎熱天氣最舒服的穿著布料。",
+  "<b>解題關鍵：</b>新廂型車有引擎問題，公司為安全要把已上市車輛從市場收回檢查。<br>(A) recall「召回產品」最符合汽車瑕疵情境。<br>(B) clarify「釐清」通常接問題或說法。<br>(C) transform「改造」不是從市場收回。<br>(D) polish「擦亮／潤飾」也無法解決召回動作。<br>把答案放回去：汽車公司因引擎問題決定召回新車。",
+  "<b>解題關鍵：</b>Peter 工作一整天後 hungry and sleepy，又餓又睏，可知走路時十分疲倦。<br>(A) splendidly「出色地」不描述疲累步伐。<br>(B) thoroughly「徹底地」不能自然修飾 walked back。<br>(C) wearily「疲倦地」與 tiring、sleepy 呼應。<br>(D) vaguely「模糊地」通常形容說明或記憶。<br>把答案放回去：Peter 疲憊地走回家。",
+  "<b>解題關鍵：</b>In team sports 強調團隊合作，句型 more important than 比較整體合作與每位成員「各自」表現。<br>(A) frequently「經常地」談頻率。<br>(B) typically「典型地」談常態。<br>(C) individually「個別地」正好和 as a group 相對。<br>(D) completely「完全地」沒有團體與個人的對比。<br>把答案放回去：團隊合作比個別表現重要。",
+  "<b>解題關鍵：</b>Despite 表示「儘管」，前面提到她失明，後面說仍贏得國際首獎，表示她克服許多阻礙。<br>(A) privacy「隱私」不是要克服的困難。<br>(B) ambition「抱負」反而能推動成功。<br>(C) fortunes「財富／運氣」語意不合。<br>(D) obstacles「障礙」可與 overcome 搭配，最合理。<br>把答案放回去：她克服所有障礙贏得首獎。",
+  "<b>解題關鍵：</b>每顆行星都沿固定路線繞太陽，才能避免彼此碰撞；這條路線稱為軌道。<br>(A) entry「入口／進入」不是環繞路線。<br>(B) haste「匆忙」不能說行星在自己的匆忙中運行。<br>(C) orbit「軌道」可和 circle around the sun 呼應。<br>(D) range「範圍」太廣泛，沒有固定路徑意思。<br>把答案放回去：每顆行星沿自己的軌道運行。",
+  "<b>解題關鍵：</b>王教授因經濟學貢獻聞名，所以政府請他加入改革計畫；句子是被動 has been...to help。<br>(A) recruited「被招募、延攬」符合專業人才受邀。<br>(B) contradicted「被反駁」不會接 to help 表目的。<br>(C) mediated「被調解」主詞與句型不合。<br>(D) generated「被產生」不能形容教授。<br>把答案放回去：王教授被延攬協助財政改革。",
+  "<b>解題關鍵：</b>多數地震小到人感覺不到，所以需要能察覺微小震動的專業儀器。<br>(A) manual「手動的」不代表偵測能力高。<br>(B) sensitive「靈敏的」能接收細微訊號，最合理。<br>(C) portable「可攜式的」只談方便搬動。<br>(D) dominant「占主導的」不能形容儀器精密度。<br>把答案放回去：小地震只能由靈敏儀器偵測。",
+  "<b>解題關鍵：</b>Wikileaks 正在公開各國祕密，因此各國擔心國安資料也會「被揭露」；空格是被動。<br>(A) relieved「被減輕／感到放心」與擔心相反。<br>(B) disclosed「被公開、揭露」最符合 secrets。<br>(C) condensed「被濃縮」不是安全風險。<br>(D) provoked「被激怒／引發」不能說資訊被引發。<br>把答案放回去：各國擔心國安資訊遭公開。",
+  "<b>解題關鍵：</b>for 表示原因：目前證據和對方說法對不上，所以無法相信他的話。固定搭配 be consistent with 是「與……一致」。<br>(A) familiar with「熟悉」主詞通常是人。<br>(B) consistent with「一致」正確。<br>(C) durable「耐用的」形容物品。<br>(D) sympathetic with「同情」談感受。<br>把答案放回去：證據與你的說法不一致。",
+  "<b>解題關鍵：</b>requests that... 表「要求……」，這類要求後的 that 子句用動詞原形；work 是「被更正」，還需被動 be corrected。<br>(A) is correct 變成「工作是正確的」，意思不同。<br>(B) to be correct 不能直接作 that 子句主要動詞。<br>(C) is corrected 用一般現在式，未呈現要求句型。<br>(D) be corrected 是原形被動，正確。<br>關鍵句：顧客要求工作內容被修正。",
+  "<b>解題關鍵：</b>Most claims are approved 後用 However 轉折，表示有些調整要求不能核准，必須拒絕；句子是被動。<br>(A) retailed「被零售」與申訴無關。<br>(B) denied「被拒絕」符合轉折。<br>(C) appreciated「被感謝／欣賞」不是申訴處理結果。<br>(D) elaborated「被詳述」也不等於否決。<br>關鍵句：部分調整要求必須被拒絕。",
+  "<b>解題關鍵：</b>業者可合理拒絕的情況之一，是顧客自己對商品問題負有責任。<br>(A) at fault「有過錯、該負責」最符合。<br>(B) on call「隨傳隨到」通常形容值班人員。<br>(C) in tears「流著眼淚」只說情緒。<br>(D) off guard「措手不及」不表示責任歸屬。<br>關鍵句：當顧客本身有過失時，業者拒絕調整是合理且必要的。",
+  "<b>解題關鍵：</b>前半說拒絕訊息需要最好的溝通技巧，後半說它對收件者是壞消息；後半是在具體解釋原因。<br>(A) till「直到」表時間。<br>(B) unless「除非」表條件。<br>(C) because「因為」正確連接理由。<br>(D) therefore「因此」應接結果，而且通常以逗點隔開。<br>關鍵句：因為這對顧客是壞消息，所以業者需要良好溝通。",
+  "<b>解題關鍵：</b>公司面對兩件同時要做到的事：拒絕申訴，卻仍保住這位顧客。<br>(A) by and large「大致上」不是兩事並行。<br>(B) over and over「一再地」談重複。<br>(C) at the same time「同時」能連起兩個目標。<br>(D) for the same reason「基於同一理由」文意沒有共同原因。<br>關鍵句：你必須拒絕申訴，同時留住顧客。",
+  "<b>解題關鍵：</b>前文概述文化會影響表情，接著介紹日本研究學生觀看恐怖片，是用具體研究來舉例。<br>(A) as usual「像往常一樣」不引出例子。<br>(B) in some cases「在某些情況」太模糊。<br>(C) to be frank「坦白說」是說話態度。<br>(D) for example「例如」最適合承接。<br>關鍵句：例如，日本研究者觀察學生看恐怖片。",
+  "<b>解題關鍵：</b>空格後 the teacher present 不是完整子句，意思是「老師在場的情況下」。with＋人＋形容詞是把情境一起帶入。<br>(A) of 表所屬。<br>(B) as 表身分。<br>(C) from 表來源。<br>(D) with the teacher present「有老師在場」正確。<br>關鍵句：日本學生在老師在場時觀看影片。",
+  "<b>解題關鍵：</b>學生以為自己獨處，但其實祕密攝影機當時正在錄他們；故事用過去時，學生又是「被錄影」。<br>(A) were being taped 是過去進行被動，表示當時正在被拍。<br>(B) had taped 是主動過去完成，變成學生拍別人。<br>(C) are taping 是現在主動。<br>(D) have been taped 是現在完成被動，時間焦點不合。<br>關鍵句：他們其實正被祕密錄影。",
+  "<b>解題關鍵：</b>研究談不同場合應如何「適當地」表達感受，後面又說有不成文規則，因此空格要表示合宜方式。<br>(A) rarely「很少」談頻率。<br>(B) similarly「相似地」談比較。<br>(C) properly「適當地」符合 rules。<br>(D) critically「批判地／嚴重地」不描述表情規範。<br>關鍵句：各場合有適當表達情緒的規則。",
+  "<b>解題關鍵：</b>日本文化的規範是：權威人士在場時，把痛苦表情降到最低。空格要表示「在某人面前」。<br>(A) with the help of「在……幫助下」不是權威協助。<br>(B) in the presence of「在……面前」正確。<br>(C) on top of「在上面／除此之外」。<br>(D) in place of「代替」。<br>關鍵句：日本人在權威者面前會壓抑不安。",
+  "<b>解題關鍵：</b>open doors into the... 是「打開通往……的大門」，文章說文字能創造從未看過的世界，因此目的地是未知事物。unknown 在 the 後可當名詞「未知世界」。<br>research 是研究，medium 是媒介，colors 是顏色，都無法和 open doors into 表達探索想像。<br>關鍵句：文字能帶人進入未知世界。",
+  "<b>解題關鍵：</b>空格後列出 storytellers, poets, and singers，這些人是最早運用文字創作的人；the original 後需要複數名詞。users「使用者」符合。<br>offer 是動詞，research 雖是名詞但不是人，medium 是單數媒介；其他選項詞性或語意不合。<br>關鍵句：說書人、詩人和歌者是文字最早的使用者。",
+  "<b>解題關鍵：</b>But now 與過去文字受尊重形成轉折；下一句又說即時影像超越想像，因此文字的浪漫正在消退。fading 是「逐漸淡去」，可接在 is 後。<br>replacing 是主動取代，主詞 romance 無法取代別人；rapid 是形容詞，colors、users 是名詞。<br>關鍵句：文字的浪漫如今正逐漸消逝。",
+  "<b>解題關鍵：</b>電影、電視和 DVD 勝利前進，後面說視覺文化接管世界，可知它們正在「取代」說書人與書籍。replacing 接在 are 後形成現在進行式。<br>fading 是消退但不能接受詞 storytellers；gaining 要搭配 ground；offer 是原形，形式也不合。<br>關鍵句：影像媒體正在取代傳統文字。",
+  "<b>解題關鍵：</b>視覺文化接管世界，代價是文字與識字能力衰退；固定搭配 at the expense of 是「以犧牲……為代價」。<br>expense「代價、費用」正確；medium 是媒介，research 是研究，unknown 是未知事物，都不能形成 at the...of 的意思。<br>關鍵句：視覺文化崛起是以文字為代價。",
+  "<b>解題關鍵：</b>文章說識字、語文與溝通技巧都在 decline，空格要用形容詞修飾 decline，說明下降速度很快。rapid「快速的」正確。<br>fading 雖與衰退有關，但不能自然說 in fading decline；circular「圓形的」與能力無關；其他多為名詞或動詞。<br>關鍵句：我們的語文能力正在快速衰退。",
+  "<b>解題關鍵：</b>唯一沒有衰退的小說類型是圖像小說，它在愈來愈視覺化的世界中逐漸擴大影響。gain ground 是「取得進展」，are gaining ground 正確。<br>replacing 後應接受詞；fading 表衰退，方向相反；rapid 是形容詞，無法接在 is 後完成動作。<br>關鍵句：圖像小說正在取得進展。",
+  "<b>解題關鍵：</b>前文說許多人閱讀 graphic novels，後文說教育者開始了解「這種媒介」的力量。medium 是傳遞故事與圖像的媒介，this medium 回指圖像小說。<br>users 是使用者，colors 只是呈現方式，research 是研究，都不能回指作品形式。<br>關鍵句：教育者開始了解圖像小說這種媒介的力量。",
+  "<b>解題關鍵：</b>句型 in black and white or multiple... 對比「黑白」與「多種顏色」，空格需複數名詞。colors 正確。<br>medium 是媒介，expense 是代價，research 是研究，都不能與 black and white 構成色彩選擇；rapid 等形容詞詞性也不合。<br>關鍵句：圖像小說可用黑白或多種顏色呈現。",
+  "<b>解題關鍵：</b>空格後 the opportunity 是受詞，主詞 Graphic novels 為複數，需要原形動詞表示「提供機會」。offer 正確。<br>research 是研究，users 是使用者，medium 是媒介，都是名詞；replacing、gaining 雖為動詞形式，但意思與句型不合。<br>關鍵句：圖像小說提供檢視視覺傳播並探討議題的機會。",
+  "<b>解題關鍵：</b>空格後立刻出現 That year，接著詳述 1999 年科羅拉多校園槍擊，因此前句必須先引出 1999 年事件。<br>(F) 說霸凌與校園暴力的連結在該悲劇後受到關注，時間與主題都完整。(B) 只談大城市校園，無法讓 That year 有明確年份；(A)(D) 屬後段受害者變霸凌者；(E)(C) 屬旁觀者冷漠段。<br>所以選 F。",
+  "<b>解題關鍵：</b>上一段說霸凌造成校園暴力；空格後改談許多獨裁者以自己曾受霸凌替行為辯護，所以空格需先提出「受害者可能變霸凌者」。<br>(D) 以研究說明霸凌形成連鎖反應，正好連接兩邊。(A) Hitler 只是後面的具體例子；(F) 應放 1999 悲劇前；(E)(C) 是旁觀者主題；(B) 太泛。<br>所以選 D。",
+  "<b>解題關鍵：</b>前句概括歷史上的獨裁者與侵略者常說自己曾遭霸凌；後句說許多最惡劣人物確實既是霸凌者又是受害者，中間適合放具體人物。<br>(A) Hitler 的童年傳聞正是例子。(D) 是本段開頭的研究總論；(E)(C) 談旁觀者；(F) 談校園悲劇；(B) 談現況。<br>所以選 A。",
+  "<b>解題關鍵：</b>前句開始談 crowd behavior 和 passer-by behavior；後句 Many of them have suggested... 的 them 必須有複數人物先行詞。<br>(E) 提到研究城市犯罪旁觀者不行動的 psychologists，Many of them 就回指這些心理學家。(C) 的朋友同學不是提出研究的人；(A)(D) 屬霸凌者鏈條；(F)(B) 也不能提供 them。<br>所以選 E。",
+  "<b>解題關鍵：</b>前句說不只霸凌者與受害者會對暴力麻木；後句總結霸凌也影響朋友、同學與社會，因此空格要補朋友同學的反應。<br>(C) 說雙方朋友同學可能把暴力視為正常，正好完成擴大影響的邏輯。(E) 談心理學家研究，應在前一空；(A)(D) 談受害者變霸凌者；(F)(B) 主題位置不合。<br>所以選 C。",
+  "<b>解題關鍵：</b>第二段比較豬與狗：豬對松露氣味敏感，卻有吃掉任何可食物的天性；受過訓練的狗會把松露交出來換麵包與摸頭。<br>(A) 原文沒說狗爪較強。<br>(B) 狗通常不吃找到的松露，符合這項直接比較。<br>(C) 沒說狗嗅覺勝過豬，反而特別強調母豬敏感。<br>(D) 興奮程度不是選狗原因。<br>所以人們偏好訓練狗，是因狗較不會吃掉找到的珍貴松露，能保留成果。",
+  "<b>解題關鍵：</b>第三段直接說，要享受最佳風味，必須在松露採收後不久，吃新鮮、未烹煮的松露，因為味道會隨時間快速減弱。<br>(A) 沒說與豬肉煮食。<br>(B) bland oil 是保存方法，不是把生松露配油吃。<br>(C) 採收後立刻吃新鮮松露，完全符合原句。<br>(D) 冷藏也是保存方法，不能勝過新鮮食用。<br>所以享受松露美味的最佳方法選 C，重點是新鮮。",
+  "<b>解題關鍵：</b>第二段說 mature truffles 會在地下散發強烈氣味，豬與狗因此能隔著地表嗅到並協助人類定位。<br>(A) 松露是與樹根共生的菇類，不是樹根。<br>(B) 商人也會看 truffle flies 找到，不只靠豬狗。<br>(C) 成熟時散發強烈氣味，完全符合原文。<br>(D) 同一地點後續幾年仍能採收，與選項相反。<br>所以正確敘述是 C。",
+  "<b>解題關鍵：</b>第一段直接說松露價格昂貴，接著解釋果體長在地下，This is why they are difficult to find；第二段也需動物或松露蠅協助定位。<br>(A) 玻璃罐是保存法，沒說無味。<br>(B) 沒說新鮮松露像水果。<br>(C) 從古代起也作藥，不只用於烹飪。<br>(D) 難以尋找可合理推論造成稀少高價。<br>所以答案選 D。",
+  "<b>解題關鍵：</b>第一段承認動物實驗仍有必要；第三、四段則提出限制數量、用人體組織或電腦模型、分享失敗結果，目的都是減少重複犧牲動物。<br>(A) 文章不只追求實驗成功。<br>(B) 沒主張全面禁用，反而說仍需繼續。<br>(C) 應投入更多努力減少實驗動物，能完整統整全文。<br>(D) 分享結果只是其中一種方法。<br>所以主旨選 C，重點是減量而非全面禁止。",
+  "<b>解題關鍵：</b>第二段比較各地統計，並說 Japan and China have even less comprehensive data than America，也就是資料更不完整。<br>(A) 美國官方 110 萬沒有算常見鼠類，實際更多。<br>(B) 歐洲多數實驗動物正是鼠類。<br>(C) 文中沒有英國與中國總數比較。<br>(D) 日本每年使用量資料有限，符合。<br>所以選 D。",
+  "<b>解題關鍵：</b>第三段直接列出 Alternatives to animal testing, such as using human tissue or computer models。<br>(A) 統計研究沒被列為替代方案。<br>(B) computer models 明確出現在原文。<br>(C) 動物體內植入 DNA 仍會使用動物。<br>(D) 原文說 human tissue，沒有說一定取自死亡動物。<br>因此答案是 B。",
+  "<b>解題關鍵：</b>第三段說科學家常只分享成功結果；若結果不符合假設，the work never sees the light of day，意思是不見天日、未公開。<br>(A) 不向公眾揭露，完全符合。<br>(B) 沒製成教學材料。<br>(C) 不是收藏等待未來發表，而是根本不公開。<br>(D) 選項談研究主題清單，原文沒提。<br>所以失敗實驗通常不會公開。",
+  "<b>解題關鍵：</b>第一段介紹圓網用途與承受力，第二段詳細說幾何構造、錨定絲、捕捉螺旋，以及兩種蛛絲如何分工，核心是圓網如何被建構並維持。<br>(A) food network 食物網不是本文的蜘蛛網。<br>(B) orb webs 的構造與材料能完整統整全文。<br>(C) 幾何研究只是一項特徵。<br>(D) 風雨挑戰只在開頭說明需求。<br>所以主旨選 B。",
+  "<b>解題關鍵：</b>第一段先說蛛網主要功能是 intercept and hold flying prey；下一句 In order to do so 說為了做到「這件事」，蛛絲必須承受撞擊。<br>(A) 捕捉並留住小型飛行生物，正是 so 的指涉。<br>(B) 找材料是後文。<br>(C) 沒談觀察蜘蛛行為。<br>(D) 動物建築之美是開場描述，不是 do so 的動作。<br>所以選 A。",
+  "<b>解題關鍵：</b>第二段說 whole web is...held in place by anchor threads；錨定絲把外框連到周圍植物或物體，作用就是固定支撐。<br>(A) 中心是放射線起點，不負責連到外界。<br>(B) 黏膠用來黏獵物。<br>(C) anchor threads 支撐全網，符合文字與圖示。<br>(D) capture spiral 用來捕捉獵物。<br>所以選 C。",
+  "<b>解題關鍵：</b>第一段說蛛網多數情況至少要撐一天，蛛絲也必須承受大型獵物撞擊與風雨等環境力量；這是原文明說的強度要求。<br>(A) 不是所有絲都黏且有彈性；第二段明確說有兩類功能不同的蛛絲。<br>(B) 通常夠強可維持一天，符合原文的時間資訊。<br>(C) 沒有去除昆蟲體內化學物。<br>(D) 蛛絲由蜘蛛製造，不是取自稀有植物。<br>所以正確敘述是 B。",
+  "<b>解題關鍵：</b>第一段先提 1150 年巴黎授予早期博士，但接著明確說今日形式的博士制度 originated at Humboldt University；這所大學在德國。<br>(A) 法國是最早授予學位，不是現代制度起源。<br>(B) 德國符合 Humboldt University。<br>(C) 加拿大、(D) 美國都是後來採用德國做法。<br>所以選 B。",
+  "<b>解題關鍵：</b>第二段說日本年輕人口縮減，卻 has churned out about 46% more PhDs；more PhDs 顯示這個片語是大量產出。<br>(A) Failed「失敗」與數量增加相反。<br>(B) Warned「警告」不能接受博士作產品。<br>(C) Demanded「要求」不是學校授予學位。<br>(D) Produced「產出」最接近。<br>所以選 D。",
+  "<b>解題關鍵：</b>第三段提供比較數字：畢業五年後，斯洛伐克超過 60% 博士仍是臨時合約；西班牙則超過 45%，前者比例更高。<br>(A) 奧地利是三分之一做非相關工作，不是被禁止校外工作。<br>(B) 德國逾 45% 仍臨時，並非多數立刻永久。<br>(C) 美國教授職缺少，不能推教職較容易。<br>(D) 斯洛伐克取得永久職比西班牙難，符合數字。<br>所以選 D。",
+  "<b>解題關鍵：</b>全文後半用 supply far outstripped demand、教授職缺不足、許多人仍拿臨時合約或做非相關工作，末句還問讀博士是否好選擇，顯示作者擔心供過於求。<br>(A) Concerned「憂慮的」符合。<br>(B) Supportive「支持的」忽略風險。<br>(C) Indifferent「漠不關心」與大量分析不合。<br>(D) Optimistic「樂觀的」也與質疑語氣相反。<br>所以選 A。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -22707,57 +22926,57 @@ window.BANK.push((() => {
 })();
 
 [
-  "各地居民說不同方言，顯示中文具有許多區域差異；regional 表示「區域的」。",
-  "菜單告知顧客餐點種類與價格；inform 表示「告知」。",
-  "Mary 與 Jane 因音樂品味不同而爭吵，形成爭議；dispute 表示「爭執」。",
-  "科學家仔細觀察並記錄北極熊每個動作，表示進行密集研究；intensively 表示「密集地」。",
-  "十二歲便在國際比賽屢獲首獎，其才藝就年齡而言非比尋常；exceptional 表示「傑出的」。",
-  "音樂家精彩演出後獲得觀眾熱烈掌聲；applause 表示「掌聲」。",
-  "水公司定期檢查管線並監測供水以確保安全；monitors 表示「監測」。",
-  "能源節約、糧食短缺與全球暖化都是高峰會關注的重大議題；issues 表示「議題」。",
-  "林老師肯定美玲學術能力，強力推薦她入學；recommended 表示「推薦」。",
-  "天氣將劇烈變化，所以應每日查看並據此穿衣；accordingly 表示「相應地」。",
-  "地球從太陽接收到的能量是目前使用量的兩萬倍；receives 表示「接收」。",
-  "If we used... 為與現在事實相反的假設，主句用 could supply。",
-  "transform sunlight into electric power 表示「把陽光轉換成電力」。",
-  "化石燃料燃燒時會釋放有害物質；harmful 表示「有害的」。",
-  "太陽能乾淨之外，化石燃料會耗盡而太陽能持續供應；What's more 表遞進補充。",
-  "觸覺藝廊允許手在作品表面移動觸摸；run over 表示「掠過、滑過」。",
-  "the blind and visually impaired 是固定用法，指盲人與視覺受損者。",
-  "最新展覽包含雕刻的獅、蛇、馬與鷹，是一組作品；collection 表示「收藏、群組」。",
-  "展覽以歷代君王使用的動物為特色；features 表示「以……為主要內容」。",
-  "單數主詞 The exhibit 搭配 is scheduled to run，表示預定展出約三年。",
-  "簡訊語必須簡短，促成其普及；popularity 表示「普及、流行」。",
-  "簡訊語沒有標準書寫規則；standard 表示「標準的」。",
-  "「<3」是代表愛心的圖像符號；symbol 表示「符號」。",
-  "字母 u 用來取代完整單字 you；replace 表示「取代」。",
-  "沒有通用縮寫時，使用者常移除母音；remove 表示「移除」。",
-  "讀者須依語境解讀縮寫後的詞；abbreviated 表示「縮寫的」。",
-  "omg, lol 在該語境最可能是 oh my god, laugh out loud；likely 表示「很可能」。",
-  "這些捷徑讓人比不用時更快速溝通；quickly 表示「快速地」。",
-  "Yet 引出負面評價：簡訊語被嚴厲批評會破壞語言；criticized 表示「批評」。",
-  "學者擔心草率習慣造成學生愈來愈不了解正確拼字與文法；ignorance 表示「無知」。",
-  "前文問人早上難學習是否孤單，E 回答蟑螂也有相同問題，並引出夜間學得較好。",
-  "研究需用獎賞與懲罰改變原本偏好；D 先說蟑螂喜歡糖水、不喜鹽水。",
-  "前句說靠近薄荷味可得糖水，A 以 on the other hand 補充靠近香草味會嘗到鹽水。",
-  "夜間訓練可記 48 小時，早晨訓練很快忘記；B 總結訓練時間決定學習效果。",
-  "後句說夜間取得的資訊更有用，C 先說蟑螂夜裡較活躍並覓食，因果銜接完整。",
-  "2007 年先後推出 Washington、Adams、Jefferson、Madison 四枚總統一美元硬幣。",
-  "新系列由鑄幣局發行，用來紀念已故美國總統。",
-  "硬幣正面有不同總統肖像及姓名；發行年份在硬幣邊緣。",
-  "在世總統不得登上硬幣，且須逝世滿兩年；當時 Obama 仍在世，故不可能已有其總統幣。",
-  "法國計畫免費提供一年報紙，希望把年輕人培養成固定讀者，提升報紙閱讀率。",
-  "年輕人已有網站與街頭免費報等選擇，且方案可能只吸引原本就讀報者，可推知免費不足以強力拓客。",
-  "Schwartzenberg 表示強烈保留，認為免費會強化錯誤觀念，態度是懷疑。",
-  "政府表示推廣廣告的主要管道會是網路，因此資訊最可能在網路上看到。",
-  "第二段開頭 This isn't particularly surprising 承接前段每四分之一磅高達 50 美元的價格。",
-  "全球一年僅約 500 磅 Kopi Lowak，供給極有限，因此價格昂貴。",
-  "第三段說麝香貓吃下咖啡果、消化果肉，豆子在體內化學轉變並形成特殊風味。",
-  "麝香貓憑本能挑選成熟度最高的咖啡果，故知道果實成熟的正確時機。",
-  "Grass 的父親是納粹德國人、母親是受害的波蘭人，使他同時感到受害與有罪而矛盾痛苦。",
-  "他長期投入和平、環保並追求正義，因此被稱為國家的良心。",
-  "1996 年義大利之旅使他直接在畫作上用水彩筆寫詩，發展出「水詩」的新創作形式。",
-  "他找不到文字時用繪畫協助表達，並讓文字賦予畫作文學價值，詩意因畫作而更完整。"
+  "<b>解題關鍵：</b>下一句說不同地區的人說不同方言，所以空格要表示「地區上的」差異。<br>(A) sociable「善交際的」形容人。<br>(B) legendary「傳奇的」與方言無關。<br>(C) regional「區域的」能和 different areas 呼應。<br>(D) superior「較優秀的」會變成優劣比較，原文沒有。<br>把答案放回去：中文有許多區域差異。",
+  "<b>解題關鍵：</b>菜單列出餐點種類和價格，功能是把這些資訊告訴顧客；句型 inform someone about... 是「告知某人……」。<br>(A) appeal to customers「吸引顧客」，但不能接 about。<br>(B) convey 通常接 message，不直接用 convey customers。<br>(C) inform 可接 customers about，正確。<br>(D) demand「要求」語意不合。<br>把答案放回去：菜單告知顧客餐點資訊。",
+  "<b>解題關鍵：</b>Mary 和 Jane 常為廣播電臺爭吵，原因是音樂品味不同；空格需要名詞表示爭執。<br>(A) venture「冒險事業」不合。<br>(B) consent「同意」與 fight 相反。<br>(C) dispute「爭執」能由不同品味引起。<br>(D) temptation「誘惑」不是兩人衝突。<br>把答案放回去：她們的爭執主要來自不同音樂品味。",
+  "<b>解題關鍵：</b>下一句說北極熊每個動作都被仔細觀察、記錄，表示科學家進行高度密集的研究。<br>(A) prosperously「繁榮地」不修飾研究方式。<br>(B) intensively「密集地、深入地」符合 carefully observed。<br>(C) honorably「光榮地」談品格。<br>(D) originally「原本地」談時間。<br>把答案放回去：科學家正密集研究牠。",
+  "<b>解題關鍵：</b>Catherine 才十二歲就多次贏得國際首獎，表示她的才能遠超同齡一般程度。<br>(A) comparable「可相比的」通常要接 to/with，且不突出優秀。<br>(B) exceptional「非凡、傑出的」符合多次首獎。<br>(C) indifferent「漠不關心的」形容態度。<br>(D) unconvincing「無說服力的」與成績相反。<br>把答案放回去：她的才藝對這年齡而言非常傑出。",
+  "<b>解題關鍵：</b>音樂家有 superb performance，appreciative audience 會用掌聲表示欣賞；a round of applause 是「一陣掌聲」。<br>(A) vacuum「真空」不能 receive a round of。<br>(B) overflow「溢出」不表示觀眾反應。<br>(C) applause「掌聲」符合固定搭配。<br>(D) spotlight「聚光燈」不是觀眾給出的聲音。<br>把答案放回去：他獲得熱烈掌聲。",
+  "<b>解題關鍵：</b>水公司除檢查管線，也要定期持續觀察供水狀況，目的才是確保飲水安全。<br>(A) exhibits「展示」不會保障安全。<br>(B) monitors「監測」符合 regularly 和安全檢查。<br>(C) interprets「解讀」通常接資料或語言。<br>(D) converts「轉換」需要說轉成什麼。<br>把答案放回去：水公司定期監測供水。",
+  "<b>解題關鍵：</b>能源節約、糧食短缺、全球暖化都是需要各國共同討論處理的重要問題，而且後面列出的正是一組議題例子。<br>(A) issues「議題、問題」可包含這些例子。<br>(B) remarks「言論」不是會議處理的危機。<br>(C) conducts 作名詞不表示議題。<br>(D) faculties「能力／學院」與例子無關。<br>把答案放回去：峰會將聚焦能源、糧食與暖化等重大議題。",
+  "<b>解題關鍵：</b>林老師 fully recognized 美玲的學術能力，所以向大學強力推薦她入學。<br>(A) assured「向……保證」通常接人，不是推薦申請者。<br>(B) promoted「升遷／推廣」不接 for admission。<br>(C) estimated「估計」不是支持申請。<br>(D) recommended「推薦」可接 someone for admission，正確。<br>把答案放回去：林老師推薦她入學。",
+  "<b>解題關鍵：</b>氣溫將劇烈變化，所以每天看完天氣後，要「依照當天狀況」穿衣。<br>(A) necessarily「必然地」不表示依據資訊。<br>(B) significantly「顯著地」談程度。<br>(C) specifically「明確地」不是相應調整。<br>(D) accordingly「相應地、據此」能承接 check the weather。<br>把答案放回去：每天看天氣並據此穿衣。",
+  "<b>解題關鍵：</b>句型 from the sun 指能量來源，地球是接收太陽能的一方。<br>(A) repeats「重複」不能接受能量。<br>(B) receives「接收」與 from 搭配，正確。<br>(C) rejects「拒絕」與能量到達相反。<br>(D) reduces「減少」會需要受詞和減少方式。<br>關鍵句：地球接收的太陽能是目前用量兩萬倍。",
+  "<b>解題關鍵：</b>If we used more... 用過去式 used 談現在沒有做到的假設，白話是「如果現在更多使用太陽能」。結果用 could＋原形，表示可能供應。<br>(A) supplies 是一般現在，未配合假設。<br>(B) has supplied 是現在完成。<br>(C) was supplying 是過去進行。<br>(D) could supply 符合現在反事實假設。<br>關鍵句：若多利用太陽能，它便能供應全球電力。",
+  "<b>解題關鍵：</b>固定搭配 transform A into B 是「把 A 轉換成 B」，A 是原來的東西，B 是轉換後的結果；此處就是把陽光變成電力。<br>(A) into 正確，指出轉換後結果。<br>(B) from 表來源，會缺少轉成什麼。<br>(C) with 表伴隨，不表示轉化。<br>(D) off 表離開，也不能連接兩種形式。<br>關鍵句：太陽能電池直接把陽光轉換成可使用的電力。",
+  "<b>解題關鍵：</b>化石燃料燃燒後把物質釋放到空氣中，文章正在比較太陽能較乾淨，所以空格要填有負面意思的形容詞，表示這些物質對環境有害。<br>(A) diligent「勤奮的」形容人。<br>(B) harmful「有害的」符合污染語境。<br>(C) usable「可使用的」沒有負面意思。<br>(D) changeable「易變的」不說明空污傷害。<br>關鍵句：化石燃料會釋放對環境有害的物質。",
+  "<b>解題關鍵：</b>前一句已說太陽能比化石燃料乾淨；本句再補充另一項優點：化石燃料會耗盡，但太陽能持續到達。<br>(A) Otherwise「否則」表條件結果。<br>(B) Therefore「因此」不是前句的直接結果。<br>(C) What’s more「而且」用來遞進補充，正確。<br>(D) In comparison 需清楚比較結構。<br>關鍵句：此外，化石燃料會用完，太陽能不會。",
+  "<b>解題關鍵：</b>這個觸覺藝廊特別允許訪客用手沿著雕塑表面移動，以感受作品；從 hands 和 surface 就能判斷是在說觸摸。<br>(A) fix up「修理／整理」不是參觀。<br>(B) run over「掠過、滑過」可形容手摸過表面。<br>(C) take away「拿走」在美術館不允許。<br>(D) knock off「撞掉／仿製」可能破壞作品。<br>關鍵句：藝廊邀請訪客用手輕輕滑過並觸摸作品。",
+  "<b>解題關鍵：</b>and 連接 the blind 與 visually...，兩者都是目標參觀者；空格要用形容詞「視覺受損的」。<br>(A) impair 是原形動詞。<br>(B) impairs 是第三人稱動詞。<br>(C) impaired 是過去分詞當形容詞，the visually impaired 指視障者。<br>(D) impairing 表主動「正在損害別人」。<br>關鍵句：藝廊以盲人與視障者為主要對象。",
+  "<b>解題關鍵：</b>後面列出十五件獅、蛇、馬與鷹雕塑，表示最新展覽是一組作品。<br>(A) collection「收藏、作品群」可接 of sculptures。<br>(B) cooperation「合作」不表示展品集合。<br>(C) completion「完成」不能接一列作品。<br>(D) contribution「貢獻」也不表示展覽內容。<br>關鍵句：最新展覽是一組動物雕塑。",
+  "<b>解題關鍵：</b>展覽名為 Animals, Symbols of Power，後面說以歷代國王皇帝使用的動物為主要內容。<br>(A) examines「檢驗」較像研究行動。<br>(B) protects「保護」不是展覽用途。<br>(C) represents「代表」會變成展覽代表動物，搭配不自然。<br>(D) features「以……為特色、重點展示」正確。<br>關鍵句：展覽以王權象徵動物為主題。",
+  "<b>解題關鍵：</b>主詞 The exhibit 是單數，scheduled to run 是「預定持續」，前面需要 be 動詞形成被動 is scheduled。<br>(A) is 正確。<br>(B) being 會缺主要動詞。<br>(C) has 不能直接接 scheduled 形成此意思。<br>(D) having 是分詞，也無法完成句子。<br>關鍵句：這項展覽預定展出約三年。",
+  "<b>解題關鍵：</b>第一段說手機簡訊必須簡短，這項需求使 textese 被大量使用；The...of 後需要名詞。popularity「普及、流行」最符合。<br>ignorance 是無知，symbol 是符號，standard 是形容詞／標準，都不能說明簡訊語為何常見。<br>關鍵句：簡訊語的流行主要來自手機訊息必須簡短。",
+  "<b>解題關鍵：</b>下一句以 However 說大家仍有常見做法，表示前面先說簡訊語沒有統一規則；空格需形容 rules。standard「標準的」正確。<br>abbreviated「縮寫的」不能說規則是否統一；likely、quickly 詞性或語意不合；其他選項為動詞或名詞。<br>關鍵句：簡訊語沒有標準書寫規則。",
+  "<b>解題關鍵：</b>「<3」用圖案代表愛心，再代表 love，因此它是一個 picture symbol。symbol 是「符號」，可接在 picture 後，合起來就是「圖像符號」。<br>popularity 是流行度，ignorance 是無知，standard 是標準，都不能指這個圖像；replace 是後一空要用的動詞，也不適合放在 a picture 後。<br>關鍵句：簡訊語可以用愛心圖像符號來表示 love。",
+  "<b>解題關鍵：</b>字母 u 放在原本完整單字 you 的位置，功能是「取代」它；to 後要接原形動詞。replace 正確。<br>remove 是移除，但未表用 u 代替；abbreviated 是形容詞；symbol、standard 是名詞，均不能接在 to 後完成動作。<br>關鍵句：字母 u 用來取代 you。",
+  "<b>解題關鍵：</b>下一句以 dictionary 變 dctnry、keyboard 變 kybrd 為例，可見使用者把母音拿掉；主詞 users 為複數，需原形動詞。remove「移除」正確。<br>replace 需要說用什麼替代；abbreviated 是形容詞；quickly 是副詞。<br>關鍵句：使用者常從單字中移除母音。",
+  "<b>解題關鍵：</b>讀者要依上下文把被縮短的字還原；空格修飾 words，需要形容詞。abbreviated 是「縮寫的」正確。<br>standard 表標準，不表示字母被省略；criticized 是被批評；likely 是可能的，三者都不能呼應前段去掉母音的做法。<br>關鍵句：讀者必須依語境解讀縮寫字。",
+  "<b>解題關鍵：</b>同一個 lol 可表示 lots of love 或 laugh out loud，必須依 omg 的情境判斷；most likely 是「最可能」。likely 放在 most 後修飾 mean。<br>quickly 談速度，standard 談規則，abbreviated 談形式，都不能表達可能性。<br>關鍵句：在 omg, lol 中，lol 最可能表示 laugh out loud。",
+  "<b>解題關鍵：</b>簡訊縮寫的目的，是少打字並比沒有捷徑時更快溝通；more...than 是比較結構，空格需副詞修飾 communicate。quickly 正確。<br>likely 是可能地但不談速度；abbreviated、standard 是形容詞；replace、remove 是動詞。<br>關鍵句：縮寫讓人溝通得更快。",
+  "<b>解題關鍵：</b>Yet 表轉折：簡訊語雖方便，卻被說會 wreck our language，因此受到嚴厲批評；has been 後用過去分詞。criticized「被批評」正確。<br>abbreviated 是被縮寫，意思不同；likely、quickly 不能形成被動；其他原形動詞也不合。<br>關鍵句：簡訊語被嚴厲批評為破壞語言。",
+  "<b>解題關鍵：</b>學者擔心草率習慣讓學生愈來愈不懂正確拼字、文法和標點；students’ growing 後需要名詞。ignorance 是「缺乏知識、不了解」正確。<br>popularity 是流行，symbol 是符號，standard 是標準，都無法接 of proper spelling 表示不懂。<br>關鍵句：學者擔心學生對正確語文知識愈來愈陌生。",
+  "<b>解題關鍵：</b>前文問「早上學習有困難嗎？你並不孤單」，後句立刻說 They learn better at night；中間需先引出 They 是蟑螂。<br>(E)「蟑螂也有同樣問題」同時回應提問並提供代名詞先行對象。(C) 夜行特性應放結論前；(D)(A) 是實驗設計；(B) 是結果總結。<br>所以選 E。",
+  "<b>解題關鍵：</b>研究要用糖水當獎勵、鹽水當懲罰改變氣味偏好，所以前面需先交代蟑螂喜歡糖、不喜歡鹽；讀者知道這一點，才看得懂後面為何一個是獎勵、一個是懲罰。<br>(D) 正好建立獎懲基礎。(A) 是接在薄荷糖水後的相反處理；(B) 是實驗結論；(C) 是夜行解釋；(E) 已放開頭。<br>所以選 D。",
+  "<b>解題關鍵：</b>前句說靠近 peppermint 可得到糖水；空格需說另一種 vanilla 氣味的相反結果，形成完整訓練。<br>(A) 有 on the other hand 並說香草味搭配鹽水懲罰，正確。(D) 只是原始偏好，應放實驗前；(B) 是結論；(C) 是夜行理由；(E) 是開場。<br>所以選 A。",
+  "<b>解題關鍵：</b>前兩句比較：夜間訓練可記四十八小時，早晨訓練卻很快忘記；空格要統整這個差異。<br>(B) 以 This result 回指比較，並下結論「訓練時間決定學習效果」。(C) 是夜間較活躍的原因，應放下段；(A)(D) 是訓練方法；(E) 是開場。<br>所以選 B。",
+  "<b>解題關鍵：</b>本段先重申蟑螂夜間學得較好，後句 Because of this 說夜間取得資訊較有用；空格需解釋夜間的重要性。<br>(C) 說蟑螂夜裡較活躍並覓食，能讓 this 指向生活習性。(B) 已總結實驗；(A)(D) 是訓練內容；(E) 是開場承接人類問題。<br>所以選 C。",
+  "<b>解題關鍵：</b>第一段說鑄幣局每年發行四枚，並列出 2007 年的 Washington、John Adams、Thomas Jefferson、James Madison。<br>(A) 一枚只算 Washington。<br>(B) 兩枚、(C) 三枚都漏算後續總統。<br>(D) 四枚符合明列名單。<br>題目問 by the end of 2007，要把同年稍後發行的三枚也算入。<br>所以總數是四枚。",
+  "<b>解題關鍵：</b>第一段直接說新系列由 U.S. Mint 發行 to honor former U.S. presidents，目的在紀念前總統。<br>(A) 沒說回應公民要求。<br>(B) in memory of late presidents 符合 honor former presidents。<br>(C) 地點雖在車站，但不是吸引通勤者。<br>(D) 民眾用紙鈔換硬幣，不表示促進鈔票交易。<br>所以選 B。",
+  "<b>解題關鍵：</b>第二段說 each coin will show a different president on its face, or heads side，並顯示總統姓名。年份與格言則刻在邊緣。<br>(A) 正面可看到總統姓名，符合。<br>(B) 發行年份在邊緣。<br>(C) 自由女神在另一面。<br>(D) 邊緣是傳統格言，不是一般英文諺語。<br>所以選 A。",
+  "<b>解題關鍵：</b>第三段規定總統仍在世時不能出現在硬幣上，而且逝世後至少兩年才能發行；題目當時 Obama 仍在世。<br>(A) Ford 是最後「已排定」者，不等於 2008 發行。<br>(B) 系列預計到 2016，當時尚未全發。<br>(C) Obama 不可能已有硬幣，符合推論。<br>(D) 並非每位都在卸任兩年後，而是死亡兩年後。<br>所以選 C。",
+  "<b>解題關鍵：</b>第一段說法國報紙讀者持續下降，政府免費送報是為把年輕人 turn them into regular customers，也就是讓他們養成讀報習慣，成為固定讀者。<br>(A) 沒把計畫目的寫成對抗經濟衰退。<br>(B) 爭取年輕人認同太模糊，沒有指出讀報行為。<br>(C) 提升報紙閱讀率最符合培養固定讀者的目標。<br>(D) 文章未說法國人不識字。<br>所以選 C。",
+  "<b>解題關鍵：</b>第四段說年輕人已有報紙網站和市中心免費報可選，部落客又認為方案最吸引的可能只是本來就買報的人。由此合理推出免費一年未必足夠吸引新讀者。<br>(A) 並非 everyone，Schwartzenberg 就反對。<br>(B) 沒比較其他國家。<br>(C) 年輕人有免費資訊，不等於不關心時事。<br>(D) 免費誘因不夠強，符合推論。<br>所以選 D。",
+  "<b>解題關鍵：</b>第三段直接說 Schwartzenberg had strong reservations，並認為免費送報會強化「報紙本來就該免費」的壞觀念。<br>(A) Skeptical「懷疑、不看好」符合。<br>(B) Devoted「投入支持」與保留相反。<br>(C) Optimistic「樂觀」不符合批評。<br>(D) Indifferent「不在意」也不合他提出明確反對理由。<br>所以選 A。",
+  "<b>解題關鍵：</b>最後一段說政府要宣傳計畫，並直接指出 primary channel for the ads would be the Internet。<br>(A) magazines、(B) blogs、(C) newspapers 都可能刊資訊，但原文沒有指定為主要管道。<br>(D) Internet 是政府明說的主要宣傳通路。題目問 most likely seen，不是問計畫關於哪種媒體。<br>所以選 D。",
+  "<b>解題關鍵：</b>第一段最後說 Kopi Lowak 每四分之一磅可賣 50 美元；第二段開頭 This isn’t particularly surprising 接著以全球年產量僅 500 磅解釋。<br>(A) Civet Coffee 是名稱，不是令人不意外的事情。<br>(B)(D) 其他咖啡與口味不在最近指涉。<br>(C) Kopi Lowak 的高價正是 This 回指內容。<br>所以選 C。",
+  "<b>解題關鍵：</b>第二段說全球一年全部供應量只有約 500 磅，而且豆子必須先被麝香貓吃下、消化再排出，生產量自然很少。價格高的主要原因就是供應稀少，這是典型的供不應求現象。<br>(A) 全年供應極有限，符合高價原因。<br>(B) 原文明說咖啡樹不稀有。<br>(C) 沒說果實成熟特別久。<br>(D) 生產關鍵是麝香貓，不是少數專家保有祕密。<br>所以選 A。",
+  "<b>解題關鍵：</b>第三段依序說麝香貓吃下整顆咖啡果、消化外層果肉，豆子保持完整，接著又在消化系統中因化學物質產生變化與特殊風味；整段都是在說明製作過程。<br>(A) 為何喜歡只是開場。<br>(B) 收成地點不是主軸。<br>(C) 化學物只是一個步驟，不能概括全段。<br>(D) 說明麝香貓如何把咖啡果變成 Kopi Lowak 豆，最完整。<br>所以選 D。",
+  "<b>解題關鍵：</b>第三段最後說麝香貓有 unfailing instinct for picking coffee cherries at the peak of their ripeness，會挑最成熟的果實。<br>(A) 牠們吃整顆果實，不只外層。<br>(B) 能判斷成熟時機，符合。<br>(C) 產地在東南亞，但大多供應賣到日本，不是當地最受歡迎。<br>(D) Kona、Blue Mountain 被稱高品質，不是普通品質。<br>所以選 B。",
+  "<b>解題關鍵：</b>第一段說 Grass 的父親是加入納粹黨的德國人，母親是波蘭人；他一方面認同受害的波蘭身分，一方面又因父親所屬的一方傷害波蘭人而感到罪惡，形成矛盾。<br>(A) 納粹之子與受害波蘭人的後代，正好對應兩種身分。<br>(B) 沒說加入兩個政黨。<br>(C) 藝術與詩不是少年困擾來源。<br>(D) 多才多藝也不是文中所說矛盾。<br>所以選 A。",
+  "<b>解題關鍵：</b>第一段直接列出 Grass 長期譴責納粹，投入和平運動、環保運動並不斷追求正義，因此獲得「國家的良心」稱號；這個稱號的重點在於他關心社會是非。<br>(A) 他沒有迫害波蘭人。<br>(B) 強力倡議和平與正義，符合全文證據。<br>(C) 同情波蘭只是原因之一，不是完整理由。<br>(D) 加入納粹的是父親，而且選項價值相反。<br>所以選 B。",
+  "<b>解題關鍵：</b>第二段說 1996 年義大利之旅中，他受到啟發，直接用水彩筆在畫作上寫詩，之後形成一系列 water poems；真正的新發展是把兩種創作合在一起。<br>(A) 沒提義大利美術大師。<br>(B) 他原本就是畫家，也早已畫生活物件。<br>(C) 發展把詩與水彩結合的新創作形式，符合。<br>(D) 沒有解決納粹與波蘭政治衝突。<br>所以選 C。",
+  "<b>解題關鍵：</b>第二段說 Grass 找不到文字表達思想時，繪畫會幫他找到字；他又用文字讓畫作具有文學價值，可見兩種創作不是互相競爭，而是互相補足。<br>(A) 詩的題材很多，不只納粹殘酷。<br>(B) 他得的是諾貝爾文學獎，不是和平獎。<br>(C) 畫中多為真實生活物件，也可成為象徵，但不是兩者關係的重點。<br>(D) 畫作幫助詩意表達得更完整，符合。<br>所以選 D。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -23935,57 +24154,57 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "退貨時需用商店收據證明曾購買商品；receipt 表示「收據」。",
-  "John 童年多在西班牙生活，因此西班牙語也很流利；fluent 表示「流利的」。",
-  "鏡子摔碎後，碎片散落滿地；scattered 表示「散布」。",
-  "火災原因不明，警方展開調查；investigation 表示「調查」。",
-  "大雨時須謹慎駕駛以免發生事故；cautiously 表示「小心地」。",
-  "冰箱、吸塵器與洗碗機都是家用電器；appliances 表示「電器用品」。",
-  "每天至少花兩小時作業，顯示課程要求很高；demanding 表示「費力、要求高的」。",
-  "從蛋殼是否乾淨、完整、平滑判斷，是觀察外部狀態；externally 表示「外表上」。",
-  "科學家調整演講內容，使兒童較易理解；modified 表示「修改」。",
-  "網路已成為主要新聞來源，顯示它超越報紙作為大眾媒介；surpassed 表示「超越」。",
-  "虛擬病人用來訓練未來藥師，學生來自藥學院；Pharmacy 表示「藥學」。",
-  "病人以語言或動作表示疼痛、壓力、焦慮等情緒；emotions 符合列舉。",
-  "學生必須清楚溝通，以便病人完全理解；in order that 表示「為了使」。",
-  "若未察覺過敏，虛擬病人可能出現嚴重反應；suffer from 表示「遭受」。",
-  "這種安全犯錯的實作環境只靠課本無法做到；possible 表示「可能的」。",
-  "嫁妝原為婚後遭遇困難或突發狀況時保障女方；in case of 表示「萬一發生」。",
-  "父母把能力所及的一切給女兒；whatever they could 表示「凡是能給的東西」。",
-  "習俗惡化後，新郎家變得貪婪並索取嫁妝；greedy 表示「貪婪的」。",
-  "嫁妝要求未滿足時，新娘會遭受折磨；be subject to 表示「遭受」。",
-  "男人教育程度愈高，對嫁妝的期待也愈高；the more..., the higher... 是比較關聯句型。",
-  "購物成癮者購買時感到滿足，暫時忘記悲傷；contentment 表示「滿足感」。",
-  "一旦離開購物環境，個人獎賞感便消失；leaving 為動名詞。",
-  "患者隱藏或毀掉商品，因為對成癮感到羞愧；ashamed of 表示「以……為恥」。",
-  "為應付悔恨與低落，成癮者會轉而再買一次；turn to 表示「轉向」。",
-  "童年受忽視使人覺得自己不重要，造成低自尊；self-esteem 表示「自尊」。",
-  "孩子用玩具彌補孤獨感；make up for 表示「彌補」。",
-  "兒時依賴物質獲得情緒支持者，成年較易購物成癮；support 表示「支持」。",
-  "成年後以購買行為代替兒時缺少的情感；affection 表示「關愛」。",
-  "患者藉由購買東西壓抑重要生活問題；buying 為動名詞。",
-  "研究估計 8.9% 美國人口符合強迫購物者資格；qualify as 表示「符合……資格」。",
-  "前文說 Whitney 害羞少朋友，E 說她不求受歡迎，只想有人分享祕密與笑聲，補充其心願。",
-  "她將到陌生城市與陌生室友同住，C 承接說她不知道如何在新環境交朋友。",
-  "下句說她向大家介紹自己並回答課堂問題，D 先交代英文作文課要求自我介紹。",
-  "多數同學說目標是得好成績，A 轉折說 Whitney 卻回答完全不同的內容。",
-  "同學伸手問能否成為朋友後，B 描述 Whitney 微笑回握，友誼因此建立。",
-  "TOD 讓女孩親眼看見未來可選擇的各種職業機會，故 C。",
-  "TOD 因只納入女孩、排除男孩而遭批評，部分人認為對男孩不公平。",
-  "方案於 2003 年擴大納入男孩，讓兩性都探索不受刻板印象限制的職業。",
-  "女孩在數學、科學與電腦領域獲得的鼓勵較少，因而在科技等領域代表不足。",
-  "全文用埃及假髮、長髮、捲髮、龐克與六○年代短髮說明髮型的象徵意義。",
-  "古希臘捲髮象徵改變、自由與生活喜悅，相關字義還有引人著迷、誘惑，故 A。",
-  "六○年代女性以短、直、簡單髮型表達解放與男女平等。",
-  "Samson 的力量祕密只有 Delilah 知道，若未告知，她便難以剪髮奪走其力量。",
-  "結尾直接呼籲讀者拿起工具幫助社區，全文目的在鼓勵兒童參與志工服務。",
-  "第三段說學校提供或要求服務活動，父母也鼓勵並陪同，主旨是家庭與學校共同推廣。",
-  "經濟衰退使慈善需求增加、捐款減少，兒童志工可填補部分人力與援助缺口。",
-  "兒時開始志願服務者成年後持續行善機率高一倍，可推知較可能成為關懷他人的成人。",
-  "學生普遍非法下載且以為威脅只是嚇阻，表示他們不認為自己會被追究。",
-  "Mike 以為威脅只是 scare tactic，意指不會真的發生訴訟或嚴重後果。",
-  "RIAA 表示訴訟非首選，但教育不足以改變行為，認為需以嚴厲後果矯正。",
-  "文章以兩名學生被罰與遭訴警告非法下載者，最佳標題是「侵權者當心」。"
+  "<b>解題關鍵：</b>如果要退回買過的商品，店家會要求 proof of purchase「購買證明」，也就是收據。<br>(A) credit：信用或店內額度，不能證明某次購買；(B) guide：指南；(C) license：執照，表示獲准從事某事；(D) receipt：收據，會列出購買品項與金額，最符合。<br>把答案放回去：退貨時要出示商店收據，證明商品確實在那裡購買。",
+  "<b>解題關鍵：</b>John 的母語雖是英文，但童年大多在西班牙度過，因此能自然熟練地說西班牙語。<br>(A) promising：有前途的，形容發展潛力；(B) grateful：感激的，常接 for；(C) fluent：流利的，be fluent in a language 是固定搭配；(D) definite：確定、明確的。<br>把答案放回去：John 的西班牙語也很流利。其他字本身可以使用，但不適合語言能力的語境。",
+  "<b>解題關鍵：</b>鏡子從女孩手中滑落並破掉，碎片自然會散到整個地板。all over the floor 是「滿地」。<br>(A) scattered：散落、四散，符合破碎後的狀態；(B) circulated：流通、循環，常指消息或血液；(C) featured：以……為特色；(D) released：釋放，通常需要有人放出某物。<br>把答案放回去：鏡子的碎片散落滿地。",
+  "<b>解題關鍵：</b>No one knows 說明起火原因仍不明，警方接下來會正式查明原因。start an investigation into 是「展開對……的調查」。<br>(A) appreciation：欣賞、感激；(B) extension：延長、擴建；(C) operation：手術或行動，但不表示查明原因；(D) investigation：調查，和 into the cause 搭配正確。<br>把答案放回去：警方已開始調查火災原因。",
+  "<b>解題關鍵：</b>大雨使視線與路況變差，後面又說目的是 avoid traffic accidents，因此駕駛方式必須小心。<br>(A) cautiously：謹慎地，符合安全目的；(B) recklessly：魯莽地，反而增加事故；(C) smoothly：平順地，可能形容技術，但沒有「小心」意思；(D) passively：被動地，不形容安全駕駛。<br>把答案放回去：大雨時要非常小心駕駛。",
+  "<b>解題關鍵：</b>後面列出的 refrigerator、vacuum cleaner、dishwasher 都要用電，且是住家使用的設備。<br>(A) utensils：器具，常指刀叉或廚具，不一定用電；(B) facilities：公共設施或場所設備，範圍太廣；(C) appliances：家用電器，能統整三項；(D) extensions：延伸部分或延期。<br>把答案放回去：我們為新公寓買了冰箱等家電。",
+  "<b>解題關鍵：</b>每天至少花兩小時完成作業，表示這堂數學課需要投入很多時間與力氣。<br>(A) confidential：機密的；(B) logical：合乎邏輯的，數學可有邏輯但不能解釋作業負擔；(C) demanding：要求高、費力的，符合線索；(D) resistant：抗拒的、耐……的。<br>把答案放回去：這堂課要求很高，我每天都得花很多時間寫作業。",
+  "<b>解題關鍵：</b>clean、free of cracks、smooth-shelled 都是在看蛋殼外表，並非打開後檢查內容。<br>(A) Agriculturally：農業方面，範圍太廣；(B) Externally：從外表來看，最符合肉眼觀察蛋殼；(C) Influentially：有影響力地，用法不自然；(D) Occasionally：偶爾，沒有說明判斷角度。<br>把答案放回去：從外觀判斷，好蛋必須乾淨、無裂縫且蛋殼平滑。",
+  "<b>解題關鍵：</b>科學家希望兒童更容易聽懂全球暖化威脅，因此不是取消演講，而是調整內容與說法。<br>(A) estimated：估計，通常接數量；(B) documented：記錄，不能直接讓內容更易懂；(C) abolished：廢除，會使演講不存在；(D) modified：修改、調整，符合目的。<br>把答案放回去：科學家修改演講，使兒童也能理解。",
+  "<b>解題關鍵：</b>第二句說網路已成為國內外新聞的 main source，表示它在大眾傳播功能上已超過報紙。<br>(A) reformed：改革；(B) surpassed：超越，符合網路成為主要來源；(C) promoted：推廣或升遷，不能表示比較結果；(D) convinced：說服，後面通常接人。<br>把答案放回去：網路作為大眾傳播媒介已超越報紙。",
+  "<b>解題關鍵：</b>首句說虛擬病人用來 train the pharmacists of the future「訓練未來藥師」，所以學生所屬學院必是藥學。<br>(A) Education：教育學；(B) Business：商學；(C) Pharmacy：藥學，與 pharmacists 同字族，正確；(D) Humanities：人文學科。<br>把答案放回去：藥學院學生透過虛擬病人練習溝通與判斷。",
+  "<b>解題關鍵：</b>空格後列 pain、stress、anxiety，這些是病人感受到的疼痛、壓力與焦慮，會透過言語或動作表現。<br>(A) expressions：表情或表達方式，是「如何表達」，不是所列感受的總稱；(B) emotions：情緒、感受，能涵蓋列舉；(C) elements：元素；(D) events：事件。<br>因此選 B。",
+  "<b>解題關鍵：</b>學生清楚溝通的目的，是讓虛擬病人完全理解；空格後已有 that，要形成 in order that「為了使……」。<br>(A) in order：和 that 組成目的連接語，正確；(B) in return：作為回報；(C) in case：以防萬一；(D) in addition：此外。<br>把答案放回去：學生被迫清楚表達，好讓病人完全聽懂。",
+  "<b>解題關鍵：</b>若學生不知道虛擬病人對某藥過敏，病人就可能「遭受」嚴重反應。<br>(A) adapt to：適應，不會說適應嚴重反應；(B) break into：闖入或突然開始；(C) provide with：提供某人某物，主詞與結構都不合；(D) suffer from：遭受、受……之苦，符合 serious reactions。<br>因此選 D。",
+  "<b>解題關鍵：</b>虛擬病人讓學生能在安全環境犯錯並學習；這種實際互動如果只有課本，就不可能做到。<br>(A) exciting：令人興奮的，句意不是感受；(B) necessary：必要的，會變成課本不能提供「必要」而語意不順；(C) possible：可能的，not possible with textbooks alone 正確；(D) important：重要的，無法說明能否實現。<br>因此選 C。",
+  "<b>解題關鍵：</b>嫁妝原本是保障女孩婚後若遇到困難或突發狀況仍有資源；空格後接名詞 difficulties。<br>(A) due to：由於，會把困難說成提供保障的原因；(B) apart from：除了；(C) in case of：萬一發生，符合預防目的；(D) with reference to：關於。<br>把答案放回去：嫁妝是為女孩婚後萬一遇到困境而準備。",
+  "<b>解題關鍵：</b>父母把自己能力所及的所有東西給女兒；空格後 they could 省略 give，需要兼具「任何事物」意思的代名詞。<br>(A) whoever：無論誰，指人；(B) whenever：無論何時；(C) whatever：任何能給的東西，正確；(D) whichever：限定範圍中的任何一個，文中沒有給出選擇範圍。<br>因此選 C。",
+  "<b>解題關鍵：</b>however 表示習俗已惡化，後文還說新郎家要求嫁妝、未滿足便折磨新娘，因此空格是負面性格。<br>(A) greedy：貪婪的，不斷索求財物，符合；(B) pleasant：令人愉快的；(C) regretful：後悔的；(D) sympathetic：有同情心的，和折磨新娘相反。<br>把答案放回去：新郎與家人變得非常貪婪。",
+  "<b>解題關鍵：</b>嫁妝要求未被滿足時，新娘是 torture「折磨」的承受者；be subject to 表示「遭受、可能受到」。<br>(A) aware of：知道；(B) required by：被……要求，後面卻是 torture 而非要求者；(C) furious with：對……憤怒；(D) subject to：遭受，正確。<br>把答案放回去：新娘會遭受折磨，甚至可能被殺。",
+  "<b>解題關鍵：</b>句型 The more..., the... 表示「越……就越……」。後句說高學歷女孩要更多嫁妝，因她們通常嫁給教育程度較高的男人，所以期待金額更高。<br>(A) lower：更低，和後文相反；(B) higher：更高，正確；(C) better：更好，不適合修飾 expectation 程度；(D) worse：更糟，也不是金額高低。<br>因此選 B。",
+  "<b>解題關鍵：</b>前句說購買過程讓成癮者覺得人生有意義、忘掉悲傷，空格需要表示買東西時得到的正面感受。<br>(J) contentment 是「滿足感」，最符合；(C) affection 是關愛，來自人際情感，不是購買當下感受；(I) self-esteem 是自尊，後文才談童年低自尊。<br>把答案放回去：他們購物時感到滿足。",
+  "<b>解題關鍵：</b>Once 後要接「離開購物發生的環境」這件事；空格後已有 the environment，因此需要可直接接受詞的動名詞。<br>(F) leaving 是「離開」，結構與意思都正確；(H) buying 是購買，會變成購買環境，與獎賞感消失的時間不合；(G) turn to 不能接在 Once 後。<br>因此選 F。",
+  "<b>解題關鍵：</b>成癮者會藏起或毀掉買來的物品，原因是想 conceal it「把成癮隱瞞起來」，可知他對此感到羞愧。<br>(D) ashamed 可和後面的 of 組成 be ashamed of「以……為恥」；(J) contentment 是滿足，和隱藏相反；(I) self-esteem 是自尊，不能接 of their addiction。<br>因此選 D。",
+  "<b>解題關鍵：</b>上句說成癮者後悔或憂鬱；為了應付這些情緒，他又轉向下一次購買。be prompted to 後接原形動詞。<br>(G) turn to 是「轉向、求助於」，能接 another purchase；(H) buying 是動名詞，不能直接接在 to 後；(E) make up for 是彌補，後面卻缺少要彌補的受詞。<br>因此選 G。",
+  "<b>解題關鍵：</b>童年受父母忽視的孩子覺得自己不重要，這會降低對自我價值的看法。low 後需要名詞。<br>(I) self-esteem 是「自尊、自我價值感」，low self-esteem 搭配正確；(C) affection 是關愛，孩子缺的是關愛，但不能說因此長大具有 low affection；(A) support 是支持，也不是對自己的評價。<br>因此選 I。",
+  "<b>解題關鍵：</b>孩子感到孤獨，便用玩具補足原本缺少的情感。used toys to 後接原形片語。<br>(E) make up for 是「彌補」，可接 feelings of loneliness；(G) turn to 雖有轉向之意，但後面若接 loneliness 會變成轉向孤獨，方向錯；(A) support 是名詞／動詞，無法表補償。<br>因此選 E。",
+  "<b>解題關鍵：</b>這句說有些成人小時候依靠物質取得「情緒上的某物」，之後較可能購物成癮。emotional 後需名詞。<br>(A) support 是支持、依靠，emotional support 是「情緒支持」；(C) affection 是關愛，也屬情感，但原句的 depend on materials for... 強調物品提供支撐，且 affection 留給下一格；(J) contentment 是短暫滿足。<br>因此選 A。",
+  "<b>解題關鍵：</b>成年後的 purchase 取代童年缺少的某種人際情感；空格需名詞。<br>(C) affection 是關愛、情感，符合被忽視孩子所缺少的東西；(A) support 已用來說物質提供的情緒支撐，若放此處會和前句重複；(I) self-esteem 是對自己的評價，不是購買要取代的人際關愛。<br>因此選 C。",
+  "<b>解題關鍵：</b>成癮者無法處理生活問題，便以「買東西」壓抑這些問題；by 後需動名詞表示手段。<br>(H) buying 是購買，by buying something 表示藉由買東西；(F) leaving 是離開，但離開某物不能解釋壓抑問題；(G) turn to 是原形片語，不能直接放在 by 後。<br>因此選 H。",
+  "<b>解題關鍵：</b>研究估計 8.9% 美國人口「符合強迫購物者的資格／標準」。主詞是 population，在此視為整體比例，空格需動詞。<br>(B) qualify 可和 as 組成 qualify as「符合……資格、可算是」；(A) support as 搭配不成立；(J) contentment 與 (I) self-esteem 都是名詞，無法作述語。<br>因此選 B。",
+  "<b>解題關鍵：</b>前句說 Whitney 害羞、朋友不多；後句接著說整個高中都沒交到好朋友。空格要補她其實想要朋友的心願。<br>(E) 她不求受歡迎，只想有人分享祕密與笑聲，能連接「害羞」與「沒找到陪伴」。<br>(C) 談新環境，應放到大學搬家段；(D) 談課堂活動，應在開學後；(B) 是友誼形成的結尾。<br>因此選 E。",
+  "<b>解題關鍵：</b>前文說她要和陌生室友住在離家三百英里的陌生城鎮，沒認識任何人；後文才進入開學第一週。<br>(C) 她不知道如何在新環境交朋友，承接陌生處境並鋪陳轉機。<br>(E) 是高中時期心願；(D) 已進入作文課，放這裡會跳過「第一週」轉場；(A) 要接同學一般答案後。<br>因此選 C。",
+  "<b>解題關鍵：</b>前句說第一週發生改變人生的事；後句立即說她告訴大家自己來自哪裡，表示課堂要求自我介紹。<br>(D) 英文作文課請她分享自己的情況，能完整引出後句。<br>(A) 說她回答不同，要等最後問題出現；(B) 是交友結果；(C) 談搬到新環境，屬上一段。<br>因此選 D。",
+  "<b>解題關鍵：</b>前文說多數同學的目標是得高分或及格；後文卻說 Whitney 的目標是交一位好友，答案須表達她說了不同內容。<br>(A) For some reason...something entirely different 正好帶出對比。<br>(D) 課堂要求自介已發生；(E) 只說心願，不能直接連接同學回答；(B) 是有人伸手後的結果。<br>因此選 A。",
+  "<b>解題關鍵：</b>前文有人走向 Whitney、伸手自我介紹並問能否做朋友；後文說她當天學會開口爭取想要的事。中間要完成回應與友誼建立。<br>(B) 她微笑伸手，友誼形成，動作與前後都相接。<br>(A) 是課堂答案轉折；(C) 是入學焦慮；(D) 是課堂開端；(E) 是先前願望。<br>因此選 B。",
+  "<b>解題關鍵：</b>第一段直接說 TOD gives girls a first-hand view of many career opportunities，讓女孩親眼看見未來各種職涯可能。<br>(A) 文中雖提高薪領域，但目的不是只追求最高薪。<br>(B) 不是增加母女相處時間。<br>(C) 展示工作與職涯可能，符合核心目的。<br>(D) 參觀母親辦公室只是可能形式，不能涵蓋不同職業角色。<br>因此選 C。",
+  "<b>解題關鍵：</b>末段明說 TOD had been criticized for excluding boys，也就是有人批評活動只給女孩、排除男孩。<br>(A) 認為對男孩不公平，正確重述批評理由。<br>(B) 沒說職場不歡迎兒童。<br>(C) 有沒有女兒不是文中批評，也不是修改活動的原因。<br>(D) 計畫正鼓勵女孩探索職場，與讓她們待家中相反。<br>因此選 A；後來納入男孩也反過來證明公平性正是爭議焦點。",
+  "<b>解題關鍵：</b>末段直接說活動在 2003 年 expanded...to include boys，讓兩性都能在刻板角色尚未固定時探索職涯。<br>(A) 男孩現在也被納入，符合原文。<br>(B) 薪資與高階職位數據顯示男女並非一直平等。<br>(C) 網站特別說男孩也可選育兒工作，不是女孩專屬。<br>(D) 前文說男孩課堂上常得到較多鼓勵。<br>因此選 A。",
+  "<b>解題關鍵：</b>第二段指出女孩在 math、science、computer science 常得到較少鼓勵，而這些領域會通往科技與高薪工作，造成女性代表不足。<br>(A) 文中沒說女孩沒有興趣。<br>(B) 她們未被充分鼓勵進入這些領域，符合因果。<br>(C) 男女薪資差距是另一項職場現象，不是此題所問原因。<br>(D) 女孩可以受教育，並非被禁止。<br>因此選 B。",
+  "<b>解題關鍵：</b>主旨題要看各段共同點：埃及假髮代表地位、長髮代表力量、希臘捲髮代表自由、龐克與六○年代髮型代表反對，全部都在談象徵。<br>(A) 不是用科學方法研究頭髮，沒有實驗或數據。<br>(B) 髮型的象徵意義能涵蓋全文，正確。<br>(C) 沒教讀者如何設計髮型。<br>(D) 內容跨古埃及、希臘到現代，不只當代發展。<br>因此選 B；各時代例子都服務於「頭髮傳達意義」這個核心。",
+  "<b>解題關鍵：</b>第三段談古希臘捲髮，說相關字義是 intriguing and tempting someone，也就是引起他人興趣、吸引或誘惑。<br>(A) 為了吸引別人，符合字義線索。<br>(B) artistry 是前面埃及假髮的特色。<br>(C) 沒有隱藏身分。<br>(D) 權力與地位較接近埃及外表和 Samson 長髮，不是希臘捲髮重點。<br>因此選 A。",
+  "<b>解題關鍵：</b>第四段直接說六○年代女性解放透過 short-cut, straight and simple hairstyle 表達，短髮也強調男女平等。<br>(A) 留長髮是更早凱爾特人的力量、生育象徵，不是六○年代女性作法。<br>(B) 染成震撼顏色是龐克抗議方式之一。<br>(C) 把頭髮剪短，完全符合 short-cut，正確。<br>(D) 文中沒有說剃光頭，short-cut 也不等於全剃。<br>因此選 C。",
+  "<b>解題關鍵：</b>這是推論題。第二段直接說 Samson 的長髮給他超人力量，只有 Delilah 知道祕密；她剪髮後才奪走力量。<br>(A) 各時代髮型不同，不能說捲長髮一直流行。<br>(B) 埃及人精心製作撒金粉假髮，明顯重視。<br>(C) 文中只介紹龐克象徵，沒評成功程度。<br>(D) 若 Samson 沒透露祕密，Delilah 難以針對頭髮使他失去力量，合理推論。<br>因此選 D。",
+  "<b>解題關鍵：</b>末段直接對讀者說 grab a paintbrush, a trash bag...to help your community，並強調助人會有好感受，這是明確呼籲。<br>(A) 文中舉學校方案，但沒推薦特定方案給學校。<br>(B) 不是要求慈善組織服務，組織本來就需要協助。<br>(C) 鼓勵兒童參與志願服務，符合全文與結尾。<br>(D) 沒在比較替代方案。<br>因此選 C。",
+  "<b>解題關鍵：</b>第三段先說 schools and parents contribute to the rise in youth service，接著分別舉學校開活動、教師結合課程、家長鼓勵陪同。<br>(A) 第一個大句是現象，但段落重點是推動者。<br>(B) 家庭與學校共同使服務普及，涵蓋全段。<br>(C) 沒比較孩子依賴誰。<br>(D) Nathan 的個人理由在第二段，不是第三段主旨。<br>因此選 B。",
+  "<b>解題關鍵：</b>第四段說經濟衰退時，社會需要更多金錢與援助，但慈善組織收到的捐款大減；兒童志工可 fill in some gaps「補上一部分缺口」。<br>(A) 不是替學校募活動費，學校只是推廣服務的角色。<br>(B) 照顧病人只是可能服務，非本段經濟理由。<br>(C) 為資源不足的慈善組織補上所需協助，符合。<br>(D) 家長教師合作在上一段，和衰退期需求無關。<br>因此選 C。",
+  "<b>解題關鍵：</b>末段研究直接說童年開始做志工的人，成年後繼續做好事的可能性是兩倍；由這項證據可推論其關懷行為較能延續。<br>(A) 文章沒談少年犯罪，也沒有提供預防犯罪數據。<br>(B) 持續行善不等於離校當全職志工，這是過度推論。<br>(C) 校內運動活動若沒有服務社區，不能直接算社區服務。<br>(D) 做志工的孩子較可能成為關懷他人的成人，符合研究支持的合理推論。<br>因此選 D。",
+  "<b>解題關鍵：</b>文章說非法下載十分普遍，學生平均有大量非法歌曲；Mike 也說 always thought the threat was just a scare tactic，表示他們以為不會真的被追究。<br>(A) 不認為會被抓到，符合這種僥倖。<br>(B) 文章沒說為了炫耀聰明。<br>(C) 多數是省錢或分享，不是賺錢。<br>(D) 沒說學生反對著作權制度，只是違法下載。<br>因此選 A。",
+  "<b>解題關鍵：</b>scare tactic 是「用來嚇人的手段」。Mike 收到訴訟後很震驚，因他原以為威脅只是說說，不會真的執行。<br>(A) 不是勸人勇敢面對威脅，重點在他判斷威脅不會成真。<br>(B) 這會變成威脅必然帶來訴訟，和他原先想法相反。<br>(C) 他沒評論用威脅是否公平。<br>(D) 他以為不會出現訴訟、罰款等嚴重後果，正確。<br>因此選 D；他的實際遭遇證明原先判斷錯了。",
+  "<b>解題關鍵：</b>末段 RIAA 說控告學生不是第一選擇，但沒有後果威脅，學生就不改行為；單靠教育也不足，因此需要較強措施。<br>(A) 它明說 education alone is not enough。<br>(B) 文中沒說靠罰款獲利。<br>(C) 不喜歡控告，因 by no means their first choice。<br>(D) 認為需以嚴厲後果矯正非法下載，符合整段態度。<br>因此選 D。",
+  "<b>解題關鍵：</b>標題要涵蓋全文：先說大量學生侵權，再用 Sandra 被罰 7,500 美元、Mike 付 4,000 美元，最後以 RIAA 警告後果，核心是提醒侵權者。<br>(A) Copyright Violators, Beware!「侵權者當心」最符合。<br>(B) 不是教人免費下載。<br>(C) 調查數據只在首段，不含訴訟主軸。<br>(D) 文章主張嚴格措施，沒有說消除不可能。<br>因此選 A。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -24146,62 +24365,62 @@ window.BANK.push((() => {
 })());
 
 [
-  "新體育場靠近捷運與購物中心，所在位置便利；location 表示「地點」。",
-  "台灣年輕鋼琴家表現非凡並奪首獎；remarkably 表示「出色地」。",
-  "來台工作或結婚的東南亞新住民是移民；immigrants 表示「移民」。",
-  "經理雖多次道歉，仍無法補救錯誤決策；remedy 表示「補救」。",
-  "當地通常冬暖且短，暴雪與冰凍低溫很不尋常；extraordinary 表示「非凡、不尋常的」。",
-  "偏鄉小校為共享教學與圖書資源設立合作方案；cooperative 表示「合作的」。",
-  "醫師仔細研究病人的症狀後才作診斷；symptoms 表示「症狀」。",
-  "人類一直對地球之外的奧祕著迷；fascinated by 表示「被……吸引」。",
-  "演說在電視與廣播同時播出；simultaneously 表示「同時地」。",
-  "公司要拓展海外市場，決定使產品多樣化；diversify 表示「使多樣化」。",
-  "未來電話可能藏在飾品或植入身體，甚至不再看得見；seen 表示「被看見」。",
-  "未來手機將增加許多新穎功能；novel 表示「新奇的」。",
-  "即使仍稱為 phone，語音通話也可能不再是主要功能；Even if 表讓步。",
-  "手機可能充當遙控器、鑰匙、地圖與健康監測器等；serve as 表示「充當」。",
-  "前文列出眾多整合功能，In short 總結手機將成為生活遙控器。",
-  "植物色彩鮮明，然而不只是為吸引注意；however 表轉折。",
-  "造成這些顏色的物質能保護植物；responsible for 表示「造成」。",
-  "which 引導非限定關係子句，指太陽紫外線可能在植物細胞內產生有害元素。",
-  "顏色愈濃的植物通常含更多保護化學物質；more 與 than 構成比較。",
-  "藍莓化學物質可能使大腦運作更有效率；efficiently 表示「有效率地」。",
-  "gateway drugs 會引導人使用更多毒品；lead someone to do 是固定用法。",
-  "飲酒改變情緒且社會可接受，常導致過量飲酒；results in 表示「導致」。",
-  "習慣飲酒者過一段時間覺得酒精刺激不足；after a while 表示「一段時間後」。",
-  "Such a circumstance 指前述尋求更強刺激的情況，會增加青少年使用其他毒品的可能。",
-  "酒精能影響的青少年人數範圍很廣；population 表示「族群人口」。",
-  "a way to bid farewell 使用不定詞，表示「告別 2007 年的方法」。",
-  "碎紙機讓人摧毀揮之不去的壞回憶；destroy 表示「毀掉」。",
-  "主辦者在活動之前已公告可粉碎各種回憶物品；prior to 表示「在……之前」。",
-  "可回收桶用來丟棄惱人的 CD 與後悔的時尚物品；annoying 表示「惱人的」。",
-  "她的創意回憶被指定送進前述碎紙機；the machine 有明確先行詞。",
-  "運動員比賽時須理解策略並遵守規則；obey 表示「遵守」。",
-  "棒球、籃球、足球與個人運動相對，前者是團隊運動；team 符合分類。",
-  "最高層級由全球頂尖選手競賽且電視轉播，屬職業運動；professional 表示「職業的」。",
-  "運動員在教練指導下練習技巧與團隊合作；under the guidance of 表示「在……指導下」。",
-  "他們觀看錄影檢討自己的表現與技巧；techniques 表示「技巧」。",
-  "重量訓練可增肌並預防受傷；prevent 表示「預防」。",
-  "運動員練習和比賽都把身體推到極限；to the limit 是固定搭配。",
-  "即使小傷也可能讓選手面臨被替換的風險；at risk of 表示「有……風險」。",
-  "全年訓練是為維持優良姿勢、技術與巔峰體能；excellent 表示「優良的」。",
-  "運動季須遵循嚴格控制的飲食；conform to 表示「遵循」。",
-  "前文概述巴黎咖啡館的重要性，A 以問題轉入其歷史起點，後句回答最古老咖啡館。",
-  "Le Procope 開業後，E 補充它吸引政文菁英並在上流社會扮演重要角色。",
-  "十八世紀末已有約七百家咖啡館，D 的 These 承接，說它們像男性俱樂部與政治討論中心。",
-  "回顧歷史人物後，C 轉到現今巴黎咖啡館仍是觀察當代生活的窗口。",
-  "後文列舉老者、染橘髮女子與學童，B 的「多停留便可看見典型巴黎人物」正好引出。",
-  "Lego 名稱由丹麥語 Leg 與 Godt 前兩字母組成，意思是 play well。",
-  "現代互鎖積木設計於 1958 年完成並取得專利，成為富創造性的遊戲系統。",
-  "每分鐘製造 33,824 顆 Lego，確實超過三萬顆。",
-  "五○年代積木仍可與現代積木相接，文章說這可能正是長盛不衰的原因。",
-  "作者以挨餓追求最瘦並增重後康復，顯示 anorexia nervosa 是使人拒食的疾病。",
-  "父親常因工作離家，作者挨餓產生需被照顧的脆弱感，希望藉此得到父親關注。",
-  "作者如今肯定自己是努力追求成就且有價值的人，對自己的努力感到自豪。",
-  "全文回顧九年級厭食、其與父親關係及康復後的自我接納，是反思成長階段。",
-  "殖民地獨立後多沿用歐洲人劃定的界線，因此成為今日國界。",
-  "歐洲邊界把同一民族分割到不同殖民地，獨立後仍分散多國，因而引發衝突。",
-  "全文說殖民者未顧族群領域而錯劃邊界，造成分割、混居與衝突，最佳標題是非洲錯置的邊界。"
+  "<b>解題關鍵：</b>close to an MRT station、within walking distance to a shopping center 都在說體育場所在的地點很方便。<br>(A) vacancy：空缺、空房，不是建築所在處；(B) procedure：程序；(C) residence：住所，體育場不是住家；(D) location：地點，a convenient location 搭配正確。<br>把答案放回去：新體育場位在交通與購物都便利的地點。",
+  "<b>解題關鍵：</b>年輕鋼琴家贏得音樂比賽第一名，表示她演奏得非常出色。空格修飾 well，需要副詞。<br>(A) intimately：親密地；(B) remarkably：非凡、出色地，remarkably well 最符合首獎線索；(C) potentially：可能地，只表示潛力；(D) efficiently：有效率地，重點是速度資源而非表演品質。<br>把答案放回去：她表現極為出色，贏得首獎。",
+  "<b>解題關鍵：</b>這些人從東南亞搬到台灣工作或結婚，並需要適應台灣社會，表示他們是移入新國家生活的人。<br>(A) immigrants：移民、新住民，符合；(B) messengers：傳遞訊息的人；(C) possessors：擁有者；(D) agencies：機構，不是人。<br>把答案放回去：數千名東南亞新住民來台後，我們應協助他們適應社會。",
+  "<b>解題關鍵：</b>經理已為錯誤決策多次道歉，但 nothing he could do 表示事情已無法補救。to 後要接原形動詞。<br>(A) resign：辭職，不能直接修正錯誤；(B) retain：保留；(C) refresh：使恢復精神、重新整理；(D) remedy：補救、改正，remedy a mistake 搭配正確。<br>把答案放回去：他已無法補救自己的錯誤。",
+  "<b>解題關鍵：</b>這個地區典型冬天是 warm and short，但去年卻有暴風雪與冰凍低溫，兩者反差表示情況不尋常。<br>(A) fundamental：基本、根本的；(B) extraordinary：異常、不尋常的，符合反差；(C) statistical：統計的；(D) individual：個別的。<br>把答案放回去：對一向冬暖而短的地區而言，去年的嚴寒非常異常。",
+  "<b>解題關鍵：</b>偏鄉小校預算不足，因此彼此 share teaching and library resources，共同使用教學與圖書資源。<br>(A) cooperative：合作的，能說 cooperative programs；(B) objective：客觀的／目標，沒有共享意思；(C) relative：相對的、親屬的；(D) infinitive：不定詞，是文法名詞。<br>把答案放回去：小校建立合作方案，共享有限資源。",
+  "<b>解題關鍵：</b>醫師仔細研究病人的身體表現後作出 diagnosis「診斷」，所以研究的是疾病症狀。<br>(A) confessions：供詞、坦白；(B) symptoms：症狀，是診斷依據；(C) protests：抗議；(D) qualifications：資格。<br>其他字本身可用，但不能提供疾病線索。把答案放回去：醫師研究症狀後才完成診斷。",
+  "<b>解題關鍵：</b>宇宙充滿奇觀，人類長久以來對地球之外的奧祕抱有強烈興趣；be fascinated by 是「被……吸引、著迷」。<br>(A) notified：被通知，後常接 of/about；(B) complicated：變複雜；(C) fascinated：著迷，符合 mystery；(D) suspended：被暫停、懸掛。<br>把答案放回去：人們一直被地球外的神祕事物深深吸引。",
+  "<b>解題關鍵：</b>演說 delivered 的同一時間，電視與廣播都要播出，讓更多人即時收聽；空格表示兩種媒體「同時」。<br>(A) comparatively：比較而言；(B) temporarily：暫時地；(C) simultaneously：同時地，符合 television and radio；(D) permanently：永久地。<br>把答案放回去：總統演說將在電視與廣播同步播出。",
+  "<b>解題關鍵：</b>公司為拓展海外市場，要提供 more varieties，表示產品種類要變多、變得多樣化。<br>(A) exceed：超過，需有比較對象；(B) dismiss：解散、駁回；(C) retrieve：取回；(D) diversify：使多樣化，和 more varieties 同義呼應。<br>把答案放回去：公司決定增加產品種類，提供顧客更多選擇。",
+  "<b>解題關鍵：</b>後兩句說未來手機可能藏在首飾或植入身體，表示它甚至不會被人看見。may not be 後需過去分詞形成被動。<br>(A) heard：被聽見；(B) sold：被販售；(C) changed：被改變，未說完全不變；(D) seen：被看見，符合 hidden、embedded。<br>把答案放回去：未來手機可能根本看不見。",
+  "<b>解題關鍵：</b>文章在預測未來手機會有 additional features，並用 new ways 描述使用方式，空格應是「新奇的新功能」。<br>(A) remote：遙遠的／遙控的，只能描述特定功能；(B) scarce：稀少的；(C) novel：新穎、新奇的，符合未來科技；(D) accidental：意外的。<br>把答案放回去：未來手機會增加許多新穎功能。",
+  "<b>解題關鍵：</b>破折號補充 phone 原義是 voice，但後句卻說語音通話可能不再是主要功能；「即使仍叫電話」也會如此，表示讓步。<br>(A) As long as：只要；(B) Even if：即使，正確；(C) Just as：正如；(D) Only when：只有當……才。<br>把答案放回去：即使仍稱為電話，語音通話也可能退居次要。",
+  "<b>解題關鍵：</b>後面列遙控器、鑰匙、地圖、手電筒等不同身分，手機會「充當」這些工具。<br>(A) call for：需要、要求，主詞手機不是在要求工具；(B) get over：克服；(C) relate to：和……有關，只表示關聯，不能表代替功能；(D) serve as：充當、作為，能接多項名詞。<br>把答案放回去：未來手機可充當生活中許多工具，而不只是打電話。",
+  "<b>解題關鍵：</b>前文已列出未來手機的許多整合功能，最後一句用一句話總結：它會成為生活遙控器。<br>(A) In short：簡言之、總之，適合總結；(B) As yet：到目前為止；(C) By the way：順帶一提，會轉離主題；(D) On the contrary：相反地，前後沒有相反。<br>把答案放回去：總之，未來手機將控制生活各面向。",
+  "<b>解題關鍵：</b>第一句說果蔬顏色鮮明，後面卻說 not...only to attract attention，顏色還有保護功能，前後需要轉折副詞。<br>(A) almost：幾乎；(B) rarely：很少；(C) however：然而，前後逗號也符合插入用法；(D) relatively：相對地。<br>把答案放回去：這些鮮豔顏色然而不只為吸引注意。",
+  "<b>解題關鍵：</b>句意是某些 substances「物質」造成這些顏色，而這些物質也保護植物。<br>(A) capable of：有能力，後應接 V-ing；(B) different from：與……不同；(C) inferior to：不如；(D) responsible for：造成、對……負責，可接 these colors。<br>把答案放回去：造成植物顏色的物質會保護植物免受化學傷害。",
+  "<b>解題關鍵：</b>逗號後補充說明 the sun's ultraviolet light，後面缺主詞；需用非限定關係代名詞，也就是在逗號後補充前面名詞資訊。<br>(A) which：可指物並在非限定子句中作主詞；(B) that：不能接在逗號後；(C) what：本身等於「所……的事物」，前面不能已有名詞；(D) such：不是關係詞。<br>因此選 A。",
+  "<b>解題關鍵：</b>句中 intensely colored plant 和 paler one 比較，than 已出現；顏色較深者通常含「更多」保護化學物質。<br>(A) more：更多，和 than 構成比較級；(B) less：更少，與後文吃深色蔬果有益相反；(C) most、(D) least 是最高級，通常不用 than。<br>把答案放回去：顏色較深的植物含更多保護物質。",
+  "<b>解題關鍵：</b>藍莓的化學物質不只保護健康，研究還說可能幫助大腦 work「運作」得更好；空格修飾 work，需要副詞。<br>(A) obviously：明顯地；(B) diligently：勤奮地，通常形容人的努力；(C) efficiently：有效率地，符合腦功能改善；(D) superficially：表面地。<br>把答案放回去：這些物質可能使大腦運作更有效率。",
+  "<b>解題關鍵：</b>gateway drugs 定義為會使人進一步使用更多毒品的物質。主詞 substances 是複數，take 後要接原形動詞。<br>(A) lead：引導，lead someone to V 結構正確；(B) leads 是單數；(C) leading 是 V-ing；(D) led 是過去式／過去分詞。<br>把答案放回去：入門毒品會引導人使用更多毒品。",
+  "<b>解題關鍵：</b>酒精改變情緒的效果被社會接受，所以人容易喝過量，前因導致後果。<br>(A) applies to：適用於，不能說酒精適用於過量飲酒；(B) arrives at：到達；(C) results in：導致，後接 over drinking，因果最完整；(D) plans on：計畫，酒精不是人，不能計畫事情。<br>把答案放回去：酒精改變情緒的方式常導致過量飲酒。",
+  "<b>解題關鍵：</b>習慣飲酒者起初感到刺激，但經過一段時間後覺得酒精不夠，才尋求更強物質。<br>(A) in advance：事先，會變成還沒喝就覺得不足；(B) after a while：一段時間後，符合耐受逐漸形成；(C) in the least：絲毫，常搭否定句；(D) at most：至多，用來限制數量。<br>把答案放回去：過一段時間，他們可能覺得酒精刺激不足。",
+  "<b>解題關鍵：</b>前句完整描述「覺得酒精不夠、尋求更強刺激」的情況，後句用空格＋a circumstance 回指這整件事。<br>(A) Since、(B) As 都是連接詞，不能直接修飾名詞；(C) All a circumstance 結構錯；(D) Such：這樣的，Such a circumstance 表「這種情況」。<br>把答案放回去：這種情況會增加青少年接觸其他毒品的可能。",
+  "<b>解題關鍵：</b>後文說酒精在多數社會容易取得，也常出現在運動聚會和宴會，表示能接觸到的青少年「族群範圍」很廣。<br>(A) population：人口、族群，the population of teenagers 合理；(B) popularity：受歡迎程度；(C) pollution：污染；(D) possibility：可能性，不能說它能影響的可能性很廣。<br>因此選 A。",
+  "<b>解題關鍵：</b>句型 a way to V 表示「做某事的方法」，此處是紐約提供告別 2007 年的新方式。<br>(A) bid 是原形，但 way 後通常用 to 不定詞；(B) to bid：告別，結構完整；(C) bidding 是動名詞，不能直接接在 a way 後；(D) bidden 是過去分詞。<br>把答案放回去：清潔部門提供一種向 2007 告別的新方法。",
+  "<b>解題關鍵：</b>廣場放置大型碎紙機，照片和成績單可切成碎片，象徵把揮之不去的壞回憶毀掉。<br>(A) destroy：摧毀，符合機器把物品切碎；(B) maintain：維持，會把壞回憶留著，與告別相反；(C) dislike：不喜歡，只是感受而非實際處理；(D) create：創造，和去除回憶相反。<br>把答案放回去：人們可用機器摧毀不想保留的回憶。",
+  "<b>解題關鍵：</b>主辦者在活動開始以前便公告照片、成績單等都能拿來粉碎；空格後接名詞 the event。<br>(A) until：直到，需表示持續；(B) prior to：在……之前，可直接接名詞；(C) above all：最重要的是；(D) beforehand：事先，是副詞，後面不能直接接受詞。<br>把答案放回去：主辦者在活動前已公告可處理的物品。",
+  "<b>解題關鍵：</b>可回收桶收的是人們想告別的物品，和 regrettable fashion mistakes 並列，因此 CD 也應是令人厭煩的。<br>(A) available：可取得的；(B) amusing：有趣的，沒有丟棄理由；(C) annoying：惱人的，符合壞回憶主題；(D) artificial：人造的。<br>把答案放回去：桶子也可丟棄惱人的 CD 與後悔買下的服飾。",
+  "<b>解題關鍵：</b>前文只介紹一臺 huge paper-cutting machine，這句說得獎作品要送進那臺已知機器，需用定冠詞 the。<br>(A) machine 沒冠詞，單數可數名詞不能單獨出現；(B) machines 是複數，與只有一臺不符；(C) a machine 是任一臺，沒有回指；(D) the machine 回指前述碎紙機。<br>因此選 D。",
+  "<b>解題關鍵：</b>運動員比賽時除了了解策略，還必須「遵守」運動規則。空格和 understand 並列，需要原形動詞。<br>(C) obey 是遵守，可直接接 rules；(A) conform 需搭 to，不能直接接受詞；(B) prevent 是預防，意思不合；(F) techniques 是名詞。<br>因此選 C。",
+  "<b>解題關鍵：</b>後面把 baseball、basketball、soccer 和 golf、tennis、bowling 的 individual sports 對比；前三種需要多人合作。<br>(H) team 可修飾 sports，表示團隊運動；(G) professional 是職業的，下一格才談層級；(E) excellent 是優秀的，不是分類方式。<br>因此選 H。",
+  "<b>解題關鍵：</b>句子比較從無薪高中運動到最高層級；後者由世界最佳選手競賽並在國際電視播出，屬職業運動。<br>(G) professional 是職業的，professional sports 正確；(H) team 已用於團體分類；(E) excellent 只說優秀，不能說明有薪職業層級。<br>因此選 G。",
+  "<b>解題關鍵：</b>運動員每天練技巧、改善合作，帶領他們的人是 coach or sports instructor；under the guidance of 是「在……指導下」。<br>(D) guidance 是指導，固定搭配正確；(F) techniques 是技巧，是練習內容而非帶領者作用；(A) conform 是動詞，不能放在 the 後。<br>因此選 D。",
+  "<b>解題關鍵：</b>運動員看錄影，一方面檢討自己的 performances，另一方面也檢討具體動作技巧。空格和 performances 並列，需要複數名詞。<br>(F) techniques 是技巧，符合；(D) guidance 是指導，不能說自己的指導；(E) excellent 是形容詞，無法在此作名詞。<br>因此選 F。",
+  "<b>解題關鍵：</b>重量訓練有兩個目的：增加肌肉，以及降低受傷機會。to 後需要原形動詞。<br>(B) prevent 是預防，prevent injury 搭配正確；(C) obey 是遵守，不能接 injury；(I) at risk 表有風險，反而與訓練目的相反。<br>因此選 B。",
+  "<b>解題關鍵：</b>後句說運動員在練習與比賽時把身體推得非常徹底，因而有終結職涯的受傷風險。<br>(J) to the limit 是「到極限」，push one's body to the limit 固定搭配；(I) at risk 要和 of 搭配；(E) excellent 不能修飾 push 的方向。<br>因此選 J。",
+  "<b>解題關鍵：</b>即使小傷也可能使選手面臨被替換的危險；put someone at risk of V-ing 是「使某人有……風險」。<br>(I) at risk 可接後面的 of replacement；(J) to the limit 表到極限，不能接 of；(B) prevent 會變成預防替換，結構也不完整。<br>因此選 I。",
+  "<b>解題關鍵：</b>競爭激烈、工作不穩，運動員全年訓練，是為保持優良姿勢、技巧與巔峰體能。空格修飾 form。<br>(E) excellent 是優良的，符合 maintain 的正面目標；(G) professional 是職業的，但不能把「職業姿勢」和 technique 並列；(H) team 也不適合形容個人姿勢。<br>因此選 E。",
+  "<b>解題關鍵：</b>運動季期間，運動員必須遵照嚴格控制的飲食。conform to 是「遵從、符合」。<br>(A) conform 可和後面的 to 組成固定搭配；(C) obey 雖也有遵守意思，但 obey 後直接接受詞，不再加 to；(B) prevent 與 (F) techniques 都不能完成句型。<br>因此選 A。",
+  "<b>解題關鍵：</b>第一段先描述巴黎不能沒有咖啡館，空格後馬上回答「巴黎最古老的咖啡館是 Le Procope」，因此中間應提出歷史起點問題。<br>(A) 法國咖啡館何時開始？能由後文 1686 年回答。<br>(C) 談現代，應放歷史回顧結束後；(D) 的 These 需先有多家咖啡館；(E) 需先介紹 Le Procope。<br>因此選 A。",
+  "<b>解題關鍵：</b>前句介紹 Le Procope 於 1686 年開業及創辦人；後句轉到十八世紀末巴黎已有七百家，中間可補它早期的重要地位。<br>(E) 同名主詞 Le Procope 承接，說它吸引政文菁英並影響上流社會。<br>(D) These 應接七百家咖啡館；(C) 談現代；(B) 要引出人物觀察。<br>因此選 E。",
+  "<b>解題關鍵：</b>前句說十八世紀末已有約七百家咖啡館，空格後再說 1840 年代增至三千家；中間要描述這些早期咖啡館的功能。<br>(D) These 回指七百家，說它們像男性俱樂部與政治討論中心。<br>(E) 只談單一 Le Procope，應更前面；(C) 現代轉場太早；(A) 歷史起點已回答。<br>因此選 D。",
+  "<b>解題關鍵：</b>前文一路談十九、二十世紀藝術家與作家，空格後說現在藝術家或許不如從前偉大，表示此處應由歷史轉到今日。<br>(C) Nowadays 明確轉場，並說咖啡館仍是觀察當代生活的窗口。<br>(B) 是接下來邀讀者停留觀察；(D) 談早期政治中心；(E) 談最古老咖啡館。<br>因此選 C。",
+  "<b>解題關鍵：</b>前句說今日咖啡館仍有值得看的面孔，後文馬上列老者、橘髮女子和學童等典型人物；空格要引出這些例子。<br>(B)「多停留一下，就會看見巴黎典型人物仍活躍」能自然接列舉。<br>(C) 已用來由歷史轉現代；(A) 問起源；(D)、(E) 都屬早期歷史。<br>因此選 B。",
+  "<b>解題關鍵：</b>第一段直接說 Ole Kirk Christiansen 把丹麥語 Leg 和 Godt 的前兩字母合成 Lego，兩字意思是 play well。<br>(A) 文中另提拉丁、希臘巧合，但名稱不是兩種語言組合。<br>(B) 名稱由父親 Ole 創造。<br>(C) 1934 年命名，1947 年才做塑膠玩具。<br>(D) 來自丹麥語「玩」與「好」，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>第二段說 1947 年開始做塑膠玩具，但最初銷售不佳；直到 1958 年現代互鎖設計 developed and patented，才成為具創造性的積木系統。<br>(A) 1958 是互鎖積木完成並取得專利的年份，正確。<br>(B) 1947 只是材質轉塑膠，還沒成為成功系統。<br>(C) 1934 是 Lego 名稱出現。<br>(D) 1932 是開始做木玩具。<br>因此選 A；題目問積木形式，不是公司起點。",
+  "<b>解題關鍵：</b>這是找正確敘述。第三段提供明確數據：Every minute 33,824 Lego bricks are made，也就是每分鐘超過三萬顆。<br>(A) 是超過四億人今年會玩，不是五十億人擁有。<br>(B) 平均每人擁有 62 顆，不是每年花 62 元。<br>(C) 是每年玩五十億小時，不是四億。<br>(D) 每分鐘產量超過三萬，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>末段直接說五十年前買的積木 still compatible with current bricks，並補充 that is probably the reason the toy has never fallen out of favor。<br>(A) 舊積木仍可接新積木，符合作者提出的原因。<br>(B) 名稱沒變不是文中因果。<br>(C) 沒以安全材質解釋流行。<br>(D) 全文沒有價格資料。<br>因此選 A。",
+  "<b>解題關鍵：</b>第一段作者九年級患病時不只想瘦，還要成為最瘦；第二段說她以 starving「挨餓」製造虛弱感，康復後增重 38 磅。<br>(A) 不是無法表達感情，那是父親的問題。<br>(B) 不安全感是可能的背景感受，不是此病在文中的行為特徵。<br>(C) 情緒不穩太廣，無法解釋刻意不吃。<br>(D) 使人想停止進食、靠挨餓追求極瘦的疾病，符合。<br>因此選 D；答案須抓作者最具體的拒食行為。",
+  "<b>解題關鍵：</b>第二段說父親常去歐洲，離開時她悲傷空虛；她挨餓讓自己像需要照顧的孩子，並直接想 maybe Daddy would take care of me。<br>(A) 父親沒叫她照顧自己。<br>(B) 最佳大學是父親期待，但不是她以挨餓製造脆弱感的主要情感原因。<br>(C) 想得到父親關注與照顧，符合直接內心話。<br>(D) 家庭貧窮未被提及。<br>因此選 C；證據來自她對父親可能照顧自己的期待。",
+  "<b>解題關鍵：</b>末段作者說自己是 valuable person who strives to achieve and accomplish，並學會肯定應先來自自己，顯示她認同自己的努力與價值。<br>(A) 沒說她控制脾氣有問題。<br>(B) 她為努力追求成就而自豪，符合。<br>(C) 童年並非一直有自信，她曾靠父親認可。<br>(D) 她說無法改變父親表達感情的能力。<br>因此選 B。",
+  "<b>解題關鍵：</b>文章以 now, however, fully recovered 開始回顧：九年級厭食、父女關係、挨餓動機，最後談康復後的自我接納，屬成長反思。<br>(A) 她承認無法改變父親，也理解自己要先認可自己，沒有以責怪為目的。<br>(B) 沒有身體虐待情節。<br>(C) 反思成長中的一個階段，能涵蓋患病到康復，正確。<br>(D) 文章呈現挨餓危害，不是在教減重。<br>因此選 C。",
+  "<b>解題關鍵：</b>第二段直接說殖民地成為獨立國家後，these same borderlines were often maintained，也就是歐洲人畫的線仍被保留。<br>(A) 沒有隨殖民統治結束而消失。<br>(B) 後文衝突證明族群並未都尊重這些線。<br>(C) 保留下來後成為各國邊界，符合。<br>(D) 它們是政治疆界，不是戰爭紀念碑。<br>因此選 C。",
+  "<b>解題關鍵：</b>第一段說歐洲人畫線時把同一族群 split into different colonies；第二段以 Somali 人分布四國為例，第三段說因此爆發衝突。<br>(A) 多數國家反而包含多族群。<br>(B) 同一族群被分割到不同國家，符合作者提出的原因。<br>(C) 殖民入侵是歷史背景，但題目問非洲人之間衝突原因。<br>(D) 沒說非洲國家為擴領土攻打歐洲。<br>因此選 B。",
+  "<b>解題關鍵：</b>主旨題要涵蓋全文：歐洲殖民者不顧族群領域畫界，把同族拆散、敵對族群放一起；獨立後沿用界線，造成多地衝突。<br>(A) 太籠統，沒有指出邊界成因。<br>(B) Africa: Borderlines Misplaced「非洲：錯置的邊界」準確統整問題。<br>(C) 殖民只是一開始背景，全文重點是遺留疆界。<br>(D) 沒談重建復原。<br>因此選 B。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -24297,62 +24516,62 @@ window.BANK.push((() => {
 })();
 
 [
-  "Steven 社交技巧優秀，同事都把他視為很會溝通的人；perceived as 表示「被視為」。",
-  "替後方進門者扶門是許多文化中的基本禮貌；courtesy 表示「禮貌行為」。",
-  "電話外形與功能已完全不同，change beyond recognition 表示「變得認不出來」。",
-  "Jack 雖搬出家裡，父母仍每月支付生活費，表示經濟上依賴；financially 符合。",
-  "為防新病毒攻擊，防毒軟體要持續更新；update 表示「更新」。",
-  "網路容易取得是促成網路成癮的因素；contributing to 表示「促成」。",
-  "等待比賽結果時心情不安焦急；anxiously 表示「焦慮地」。",
-  "雨林消失會使其中許多物種滅絕；extinct 表示「滅絕的」。",
-  "誠實者一旦作出承諾便不食言；commitment 表示「承諾」。",
-  "Wii 提供一種新穎的運動方式；innovative 表示「創新的」。",
-  "be satisfied with 是固定搭配，表示「對生活感到滿意」。",
-  "多數人一開始快樂，隨年齡增加逐漸不快樂；start off 表示「起初」。",
-  "四十多歲達低點，之後幸福感回升；After that 表示「在那之後」。",
-  "女性稍後在人生中恢復並超越男性；later in life 表示「在人生較晚時」。",
-  "女性幸福感到了五十歲便開始回升；once 表示「一旦」。",
-  "be uncertain as to 表示「不確定關於……」，接 what 子句。",
-  "有時光束呈扇形，另一些時候像探照燈閃爍；At other times 表對照不同景象。",
-  "極光像垂簾來回擺動；to and fro 表示「來回地」。",
-  "科學測量指出此放光現象發生在地表上方五十至一百英里；takes place 用現在事實。",
-  "哈德遜灣、蘇格蘭北部及挪威瑞典南部是觀賞極光最佳處；at its best 表示「最精彩」。",
-  "未來百年預期再增加額外二至六華氏度；additional 表示「額外的」。",
-  "氣候可能以前所未有的方式改變；as never before 表示「前所未有地」。",
-  "前句談高溫直接影響健康，後句談生態、糧水與洪水等間接影響；Indirectly 正確。",
-  "人與自然如何適應氣候變遷，決定健康影響程度；adapt to 表示「適應」。",
-  "窮人與窮國較不可能擁有因應健康問題的資源；less probable 表示「較不可能」。",
-  "不丹全國多山，只有最南端一小條亞熱帶平原例外；with the exception of 表示「除了」。",
-  "林業、畜牧與自給農業構成傳統經濟；economy 表示「經濟」。",
-  "這些產業如今占 GDP 不到五成；account for 表示「占」。",
-  "水力發電之外，經濟作物與觀光也很重要；significant 表示「重要的」。",
-  "with foreign influences and tourism regulated 是 with 複合結構，說明外來影響與觀光受管制。",
-  "烘焙麵包香氣讓人飢餓並說服他們多買食物；persuades 表示「說服」。",
-  "把最昂貴商品放在視線高度，有利它們比便宜商品賣得快；expensive 符合對比。",
-  "研究群體智慧如何影響顧客購買選擇；influence 表示「影響」。",
-  "商品看似熱門時，其他購物者也可能選它；likely to 表示「很可能」。",
-  "螢幕讓顧客持續得知別人買了什麼；keep someone informed 表示「讓某人掌握資訊」。",
-  "螢幕顯示多少人選擇該項特定產品；product 表示「產品」。",
-  "群體跟隨模式無須折扣便提高銷售；increases 表示「增加」。",
-  "選到大家都買的商品，帶給購物者選對的滿足感；satisfaction 表示「滿足」。",
-  "實體店的群體心理在網路上一樣強大有效；powerful 表示「有力的」。",
-  "即使在家中私密空間，網購者仍可成為群體一員；privacy 表示「私密狀態」。",
-  "日本人口老化且勞動力縮減，因此鼓勵高齡者延後退休；B 的 Therefore 承接問題與對策。",
-  "2000 年六十歲可領全額年金，但 2025 年要到六十五歲才可領，D 形成時間對比。",
-  "法律要求企業提高退休年齡或再僱退休者，A 說明新政策可能增加雇主負擔。",
-  "後文說企業原盼嬰兒潮退休降低人事成本，E 先說 1947–49 年出生者多達 520 萬。",
-  "企業可能不願提高退休年齡，C 補充日本沒有年齡歧視法，使其抗拒更有空間。",
-  "工業革命摧毀織工生計，Carnegie 一家為尋找新機會移居美國。",
-  "他任電報送信員時常在劇院看名家戲劇，並把閒暇用於圖書館，早已展現藝文求知興趣。",
-  "他以鐵橋取代木橋並引進新煉鋼法，顯示勇於採用新作法經營事業。",
-  "退休後他設立兩千五百多所圖書館，資助文化、教育與科學機構。",
-  "文章明言 AD/HD 源於生物與遺傳因素，而非家庭環境，故基因問題最符合。",
-  "AD/HD 可能與學習障礙並存，且會影響學業表現，故有學習困難者最可能符合。",
-  "懷疑孩子有 AD/HD 時，文章強調第一步是由專業人士評估。",
-  "血鑽資助武裝組織，造成居民被恐嚇甚至殺害，因與人命損失相連而得名。",
-  "利比里亞叛軍區鑽石仍被走私並冒充無衝突鑽石，可推知交易仍資助衝突。",
-  "KPCS 要記錄追蹤粗鑽來源，確認不是來自衝突地區。",
-  "作者描述血鑽造成混亂苦難，並呼籲購買前了解、依良心選擇，態度是不贊同。"
+  "<b>解題關鍵：</b>Steven 有 excellent social skills，因此同事都「把他視為」很會溝通的人。固定搭配 be perceived as 是「被看作」。<br>(A) diagnosed：被診斷，通常接疾病。<br>(B) exploited：被利用。<br>(C) perceived：被認為、被視為，搭配 as 正確。<br>(D) concerned：擔心的或相關的，不能接 as 表評價。<br>把答案放回去：Steven 被所有同事視為優秀的溝通者。",
+  "<b>解題關鍵：</b>進門時替後面的人扶住門，是對他人的體貼行為；句中說 many cultures 都有，指常見禮貌。<br>(A) process：過程。<br>(B) courtesy：禮貌行為，符合扶門情境。<br>(C) acceptance：接受。<br>(D) operation：操作或手術。<br>其餘選項不能描述一個體貼的小動作。把答案放回去：為後方的人扶門，是許多文化中的基本禮貌。",
+  "<b>解題關鍵：</b>後句說電話在 form and function 上都 totally different，已變得和以前完全不同，甚至認不出來。<br>(A) recognition：辨認；beyond recognition 是「變得認不出來」。<br>(B) possession：擁有。<br>(C) prevention：預防。<br>(D) appreciation：欣賞、感激。<br>只有 recognition 能和 beyond 組成固定片語。把答案放回去：近年電話改變之大，幾乎令人認不出原來的樣子。",
+  "<b>解題關鍵：</b>Jack 雖搬離父母家，父母仍每月寄生活費，說明他在金錢方面仍依賴父母。<br>(A) radically：根本地、徹底地，不能指出依賴哪一方面。<br>(B) physically：身體上，Jack 已搬出去。<br>(C) financially：經濟上，寄支票是明確線索。<br>(D) politically：政治上。<br>把答案放回去：Jack 雖已搬出去，經濟上仍依賴父母。",
+  "<b>解題關鍵：</b>新病毒不斷出現，防毒軟體也必須 constantly renew，並把病毒資料更新成最新版本。<br>(A) confirm：確認，不能增加新病毒資料。<br>(B) overlook：忽略，會增加受攻擊風險。<br>(C) esteem：尊敬。<br>(D) update：更新，符合防毒軟體需要最新資料。<br>renew and update 共同表示持續維護。句意：要防新病毒，就要不斷更新防毒軟體。",
+  "<b>解題關鍵：</b>句子問造成網路成癮的 factors，easy access 是其中一個「促成」現象的因素。contribute to 是有助於、促成。<br>(A) advancing：前進，通常不接 to 表原因。<br>(B) occurring：發生，occur to 是某人想到。<br>(C) responding：回應，respond to 是對現象作反應。<br>(D) contributing：促成，符合原因。<br>把答案放回去：容易上網是促成網路成癮的一項因素。",
+  "<b>解題關鍵：</b>等待 annual contest results 時不知道輸贏，心情通常緊張焦急。空格修飾 awaiting。<br>(A) consciously：有意識地，等待本來就是有意識。<br>(B) anxiously：焦急地，符合等結果的心情。<br>(C) fortunately：幸運地，結果尚未公布。<br>(D) competently：有能力地，不能描述情緒。<br>把答案放回去：我們焦急地等待年度英語戲劇比賽結果。",
+  "<b>解題關鍵：</b>雨林是約一百萬種生物的家；若棲地 disappear，很多物種會完全消失，也就是滅絕。<br>(A) extinct：滅絕的，符合失去棲地的結果。<br>(B) hostile：敵意的。<br>(C) mature：成熟的。<br>(D) intimate：親密的。<br>其餘選項都不能表示物種不再存在。把答案放回去：若熱帶雨林消失，其中許多物種將滅絕。",
+  "<b>解題關鍵：</b>誠實的人 faithful to his promise；一旦做出某種承諾，就不會 go back on his word「食言」。<br>(A) prescription：處方。<br>(B) commitment：承諾，make a commitment 是固定搭配。<br>(C) frustration：挫折。<br>(D) transcript：成績單或逐字稿。<br>把答案放回去：誠實的人一旦作出承諾，就不會違背自己的話。",
+  "<b>解題關鍵：</b>Wii 讓人用玩遊戲的方式活動身體，在當時是一種新的運動方法，因此是創新的。<br>(A) outgoing：外向的，通常形容人。<br>(B) urgent：緊急的。<br>(C) aggressive：有侵略性的，並非運動方式特色。<br>(D) innovative：創新的，符合新型電玩運動。<br>把答案放回去：Wii 為我們提供了一種創新的運動方式。",
+  "<b>解題關鍵：</b>satisfied 的固定搭配是 be satisfied with something，表示「對……感到滿意」。<br>(A) for 常見於 be thankful for，不接 satisfied 表對象。<br>(B) with 正確，satisfied with their lives。<br>(C) at 可說 good at，不用於此處。<br>(D) of 常見於 proud of。<br>句意：研究詢問人們對自己生活有多滿意。記住搭配時，可把 satisfied with 當成一整組。",
+  "<b>解題關鍵：</b>幸福曲線一開始較高，之後隨年齡增加 progressively less happy；空格需要表示「起初是快樂的」。<br>(A) end up：最後成為，方向顛倒。<br>(B) pass by：經過。<br>(C) start off：一開始、起初，正確。<br>(D) go on：繼續，後面還需 doing。<br>句意：多數人起初快樂，隨著年齡增長逐漸較不快樂。",
+  "<b>解題關鍵：</b>前句說四十多歲是最痛苦低點，下一句說幸福感 climb，時間順序是「在那之後」回升。<br>(A) After that：那之後，正確。<br>(B) By that time：到那時為止，通常說某事已完成。<br>(C) Not for long：不久，不能清楚接出四十歲後。<br>(D) Before now：在現在以前，與人生曲線不合。<br>句意：很多人在四十多歲最低落，之後幸福感開始上升。",
+  "<b>解題關鍵：</b>青少年時男性稍快樂，但 women bounce back and overtake men，表示女性是到人生較後期才超越。<br>(A) sooner：更快，但沒有「比預期早」線索。<br>(B) later：較晚，later in life 是固定說法。<br>(C) earlier：較早，與 teens 男性較高及後來反超不合。<br>(D) slower：較慢地，通常修飾動作，不說 slower in life。<br>句意：女性在人生較後期回升並超越男性。",
+  "<b>解題關鍵：</b>女性幸福低點持續整個三、四十歲，「一到」五十歲才回升；once 可表示「一旦、當……之後」。<br>(A) once：一旦，符合時間條件。<br>(B) unless：除非，會變成不到五十就不回升，語氣不自然。<br>(C) before：在之前，和三四十歲持續低點矛盾。<br>(D) since：自從，主句通常需完成式。<br>句意：女性到了五十歲，幸福感才開始上升。",
+  "<b>解題關鍵：</b>Science is not certain 後面要接「關於」極光到底是什麼、成因為何；be uncertain as to 是正式搭配。<br>(A) due to：由於，表示原因。<br>(B) instead of：而不是。<br>(C) as to：關於，能接 what 子句。<br>(D) in spite of：儘管，表讓步。<br>句意：科學界仍不確定極光究竟是什麼及如何形成。",
+  "<b>解題關鍵：</b>第一種景象是有時呈扇形；下一句改說另一種時候像探照燈閃爍，要和 Sometimes 對應。<br>(A) At one time：從前或曾經，不是反覆變化。<br>(B) At other times：其他時候，正確。<br>(C) At all times：任何時候，會否定景象變換。<br>(D) At the same time：同時，但此處是不同時候的兩種形態。<br>句意：有時呈扇形，另一些時候則四處閃爍。",
+  "<b>解題關鍵：</b>極光像 fiery draperies「火焰般簾幕」，在天空中 sway；簾幕受風會來回擺動。<br>(A) here and now：此時此地。<br>(B) by and large：大致上。<br>(C) to and fro：來來回回，能修飾 sway。<br>(D) more and more：越來越多，不能說擺動越來越多。<br>句意：極光像垂掛天空的火焰簾幕，來回搖曳。",
+  "<b>解題關鍵：</b>According to scientific measurements 陳述科學上的一般事實：放光現象發生在地表上方 50 至 100 英里，因此用現在式。<br>(A) takes place：發生，一般現在式正確。<br>(B) was taking place：過去某時正在發生。<br>(C) had taken place：過去某時以前已發生。<br>(D) took place：單一過去事件。<br>句意：測量顯示，極光放光發生在地表上方特定高度。",
+  "<b>解題關鍵：</b>文章列出 Hudson Bay、蘇格蘭北部與北歐部分地區，表示這些地方能看到極光最精彩的樣貌。at its best 是「處於最佳狀態」。<br>(A) in the least：絲毫，常用否定。<br>(B) on the whole：整體而言。<br>(C) for its sake：為了它。<br>(D) at its best：最精彩、最佳，正確。<br>句意：極光在這些北方地區最為壯觀。",
+  "<b>解題關鍵：</b>上世紀已增加近 1°F，未來百年預計「再額外」增加 2 至 6°F；an 後需形容詞修飾數量。<br>(A) extreme：極端的，不能說 an extreme 2 degrees。<br>(B) additional：額外的，正確。<br>(C) immediate：立即的，但範圍是百年。<br>(D) original：原本的，和增加不合。<br>句意：科學家預期未來百年會再升高 2 至 6°F。",
+  "<b>解題關鍵：</b>雖然數字聽起來不大，but 表示結果可能很重大，讓地球氣候發生前所未有的改變。as never before 是固定說法。<br>(A) as ever before 意近「和以前一樣」，不符警告。<br>(B) as never before：前所未有地，正確。<br>(C) as always before 表總是如此。<br>(D) as yet 表到目前為止，位置與結構不合。<br>句意：氣候可能出現前所未有的變化。",
+  "<b>解題關鍵：</b>前一句說高溫 directly 造成熱傷害；下一句改列生態失衡、糧水供應與洪水，這些不是溫度直接碰到人體，而是間接影響。<br>(A) Suddenly：突然地。<br>(B) Previously：先前。<br>(C) Exclusively：僅僅、專門地，和 also 矛盾。<br>(D) Indirectly：間接地，和 directly 形成對比。<br>句意：人類健康也會因生態與供應變化間接受影響。",
+  "<b>解題關鍵：</b>人與自然如何面對氣候改變，會決定健康受影響程度；需要表示調整自己以適合新情況。<br>(A) result from：起因於，主詞人與自然不是由氣候變遷產生。<br>(B) count on：依靠。<br>(C) adapt to：適應，正確。<br>(D) stand for：代表。<br>把答案放回去：人與自然適應氣候變遷的方式，決定健康影響有多嚴重。",
+  "<b>解題關鍵：</b>窮人與窮國資源不足，因此「較不可能」擁有因應健康問題所需的錢與資源。句中 probable 後可用 less 作比較。<br>(A) less probable：較不可能，正確。<br>(B) very probable：很可能，與貧窮線索相反。<br>(C) most probable：最可能，也相反。<br>(D) further probable 不是自然搭配。<br>句意：貧窮地區較不可能有足夠資源應對問題。",
+  "<b>解題關鍵：</b>先說 entire country is mountainous，後面提南端有小條平原，這是全國多山說法中的唯一例外。<br>(A) in terms of：就……而言。<br>(B) as a part of：作為……一部分，不能表例外。<br>(C) with the exception of：除了……之外，正確。<br>(D) in accordance with：依照。<br>句意：不丹全國多山，只有最南端一小條亞熱帶平原例外。",
+  "<b>解題關鍵：</b>forestry、animal husbandry、agriculture 都是生產活動，後句還談 GDP 與出口水力電，主題是國家經濟。<br>(A) culture：文化。<br>(B) politics：政治。<br>(C) religion：宗教。<br>(D) economy：經濟，能以產業為基礎。<br>把答案放回去：不丹傳統經濟以林業、畜牧及自給農業為基礎。",
+  "<b>解題關鍵：</b>these 回指林業、畜牧、農業；後面 less than 50% of GDP 是它們占國內生產毛額的比例。<br>(A) figure out：弄懂。<br>(B) relate to：與……有關，不能接百分比表占比。<br>(C) account for：占、構成，正確。<br>(D) conform to：遵守、符合。<br>句意：由於水力電出口，這些傳統產業現在占 GDP 不到一半。",
+  "<b>解題關鍵：</b>Besides 表示除了水力發電與傳統產業外，cash crops 和 tourism 對經濟也有重要性。<br>(A) significant：重要的，符合列入經濟來源。<br>(B) durable：耐用的，通常形容物品。<br>(C) frequent：頻繁的，觀光本身不是「頻繁」。<br>(D) expressive：富有表現力的。<br>句意：此外，經濟作物與觀光也相當重要。",
+  "<b>解題關鍵：</b>主句已有 Bhutan is...，逗號後不能再放完整動詞；with＋名詞＋過去分詞 regulated 補充「外來影響與觀光受到政府管制」的情況。<br>(A) by 會像不丹被外來影響管制，結構不清。<br>(B) with 可帶出伴隨情況，正確。<br>(C) for 表目的或原因。<br>(D) in 不形成此結構。<br>句意：不丹很孤立，外來影響與觀光皆由政府管制。",
+  "<b>解題關鍵：</b>空格需要單數動詞，主詞 smell；麵包香先使人餓，再「說服」他們買超過原本計畫的食物。<br>(E) persuades：說服，persuade someone to do 正確。<br>(F) increases 需要接 sales 等數量，不能直接接 them to buy。<br>(G) influence 是原形，且常說 influences them to，但主詞單數需 -s；選項形式不合。<br>句意：新鮮麵包香會促使顧客多買食物。",
+  "<b>解題關鍵：</b>後面明說 cheaper but less visible competitors，與空格商品形成價格對比，因此眼睛高度放的是最昂貴商品。<br>(B) expensive：昂貴的，可修飾 products。<br>(A) powerful 雖是形容詞，但商品「最有力量」不合。<br>(C) likely 需接 to do。<br>(I) product 是名詞，不能修飾 products。<br>句意：把最昂貴商品放在視線高度，會讓它比便宜商品賣得快。",
+  "<b>解題關鍵：</b>研究者想利用群體智慧改變 shoppers 的選擇，也就是「影響」人們買什麼。to 後需原形動詞。<br>(G) influence：影響，to influence what people buy 正確。<br>(E) persuades 是第三人稱單數，不能接在 to 後。<br>(F) increases 也是 -s 形式且通常增加數量。<br>(H) privacy 是名詞。<br>句意：研究者探討如何用群體智慧影響購買選擇。",
+  "<b>解題關鍵：</b>若某商品看起來 popular，其他購物者也很可能跟著選；be likely to 是「很可能」。<br>(C) likely：可能的，與 are、to choose 組成完整搭配。<br>(A) powerful to choose 不自然。<br>(D) informed to choose 通常要說 be informed about。<br>(J) satisfaction 是名詞。<br>句意：商品若看似熱門，其他顧客也可能跟著選它。",
+  "<b>解題關鍵：</b>科技讓超市把 others are buying 的資訊持續告訴顧客；keep someone informed about 是「讓某人持續掌握……」。<br>(D) informed：獲得資訊的，正確。<br>(C) likely 後需接 to，不接 about。<br>(E) persuades 是動詞，不能放在 keep customers 後作狀態。<br>(H) privacy 是名詞。<br>句意：超市能讓顧客掌握其他人正在買什麼。",
+  "<b>解題關鍵：</b>螢幕會顯示店內多少人選了 that particular...，前文談貨架上的某項商品，因此需要名詞 product。<br>(I) product：產品，particular product 搭配正確。<br>(J) satisfaction 是感受，不能被店內人數「選擇」。<br>(G) influence 是影響力。<br>(B) expensive 是形容詞，後面缺名詞。<br>句意：螢幕告知有多少人選了那項特定產品。",
+  "<b>解題關鍵：</b>群體跟隨模式不必提供 discounts，仍能讓 sales 上升；主詞 model 是單數，需 -s 動詞。<br>(F) increases：增加，increases sales 正確。<br>(G) influence 若作動詞需 influences；若名詞前面要有冠詞。<br>(E) persuades 後需有人作受詞。<br>(A) powerful 是形容詞。<br>句意：這種群體模式不用折扣，也能增加銷售。",
+  "<b>解題關鍵：</b>顧客知道自己買了 everyone else bought 的「正確」商品，會產生選對的滿足感。the 後需名詞。<br>(J) satisfaction：滿足感，the satisfaction of knowing 搭配自然。<br>(H) privacy：隱私，買熱門商品不帶來隱私。<br>(G) influence：影響力，語意不合。<br>(I) product 會變成「知道的產品」，結構不合。<br>句意：它給購物者一種買對商品的滿足感。",
+  "<b>解題關鍵：</b>just as... on the Internet 表示實體商店的心理作用在網路上同樣有力；as 後需形容詞。<br>(A) powerful：強而有效的，just as powerful 正確。<br>(B) expensive 雖是形容詞，但心理作用沒有價格。<br>(C) likely 通常接 to。<br>(D) informed 描述人掌握資訊，不描述心理作用。<br>句意：這套群體心理在線上同樣有強大效果。",
+  "<b>解題關鍵：</b>Even 表示即使人在家中私密、不在實體人群裡，網購推薦仍讓他成為群體一員。in the privacy of your home 是固定說法。<br>(H) privacy：隱私、私密狀態，正確。<br>(J) satisfaction 是滿足感。<br>(G) influence 是影響。<br>(I) product 是產品。<br>句意：即使在自己家中的私密空間，仍會受到群體購買影響。",
+  "<b>解題關鍵：</b>第一句提出日本人口老化、勞動力縮減的問題；後句 By so doing 指前面必須先有一項對策，B 說鼓勵高齡者工作更久，正好銜接，並可減輕年金負擔。<br>(B) 的 Therefore 把問題接到對策。<br>(A) 談雇主負擔，應在法律要求企業後。<br>(D) 談 2025 年領年金年齡，需接在 2000 年對比後。<br>因此本空選 B。",
+  "<b>解題關鍵：</b>前句說 2000 年日本人 60 歲可領全額年金；後面 What’s more 又談保費與給付惡化，空格要先完成另一項年金改變。<br>(D) 說 2025 年要到 65 歲才可領，和 60 歲形成清楚對比。<br>(B) 是第一段開頭的政策總述。<br>(A) 應接企業負擔。<br>(E) 應接嬰兒潮大量退休。故 D 最連貫。",
+  "<b>解題關鍵：</b>前句說新法要求企業提高退休年齡或再僱退休者；後文解釋企業原本靠退休減少薪資支出，所以空格應先指出新政策會增加雇主壓力。<br>(A) The new policy could be a strain for employers 完整承接。<br>(E) 嬰兒潮人數需放在 mass retirement 前。<br>(C) 年齡歧視法應接企業猶豫後。<br>因此 A 連接法律與企業反對原因。",
+  "<b>解題關鍵：</b>前句說企業原本期待嬰兒潮 mass retirement 大幅降低人事成本；空格要說明這批人是誰及為何「大量」。<br>(E) 指 1947–1949 出生的 520 萬勞工，These people 清楚回指 baby boomers。<br>(A) 政策負擔應放前面。<br>(C) 年齡歧視法和人數無關。<br>後句 Consequently 引出企業反對，故 E 最順。",
+  "<b>解題關鍵：</b>前句說大型企業會猶豫提高退休年齡；後句接違法者只有行政指導、沒有處罰，因此中間應補制度為何難強制。<br>(C) 說日本不像美國，沒有禁止年齡歧視的法律，和企業抗拒、處罰薄弱同一主題。<br>(A) 雇主負擔已在前段。<br>(B)(D)(E) 都屬前文時間與人口資料。故 C 最能承接。",
+  "<b>解題關鍵：</b>定位第一段：工業革命 destroyed the weavers’ craft，父親的織工生計被破壞，全家才去美國找 new possibilities。<br>(A) 沒說父親在 Pittsburgh 已獲好工作。<br>(B) Carnegie 原本被期待跟隨父業，不是他拒絕。<br>(C) 沒有蘇格蘭政治危機。<br>(D) 家鄉無法維持良好生計，符合工藝被摧毀。答案來自家庭經濟原因。",
+  "<b>解題關鍵：</b>定位第二段：年輕 Carnegie 當 telegraph messenger，送信到劇院時留下看名家戲劇，閒暇又常去圖書館，已展現藝文求知興趣。<br>(A) 退休是多年後興趣促使的結果，不是開始。<br>(B) 蘇格蘭童年只說織工家庭。<br>(C) 賺到鐵業財富以前早有興趣。<br>(D) 在 Pittsburgh 當送信員時最早出現具體證據。",
+  "<b>解題關鍵：</b>第三段寫他用 iron bridges 取代木橋，又引進 new steel refining process，把鐵轉成鋼，顯示願意改革與採用新技術。<br>(A) 願意作新改變，符合兩項創新。<br>(B) 產量超過英國是成果，未說出發點是打敗競爭者。<br>(C) 他後來對只想快速賺錢感到不安，不是快樂。<br>(D) 投資的是產業，不特別限定家鄉。答案 A。",
+  "<b>解題關鍵：</b>定位最後一段：Carnegie 不喜歡直接施捨，而是建立 2,500 多所圖書館，資助 cultural, educational and scientific institutions。<br>(A) 他生前已捐出 3.5 億美元，不是死後留給親友。<br>(B) 他 abhorred charity，並非直接給窮人與慈善組織。<br>(C) 用財富支持高等學習與文化科學機構，符合。<br>(D) 退休後不再投資煉鋼技術。",
+  "<b>解題關鍵：</b>定位第二段第一句：AD/HD stems not from the home environment, but from biological and genetic causes，直接指出生物與遺傳原因。<br>(A) gene problem「基因問題」最符合 genetic causes。<br>(B) 學業壓力是可能後果，不是成因。<br>(C) 沒說童年疾病造成。<br>(D) 原文特別否定家庭環境。這是原文直接題。",
+  "<b>解題關鍵：</b>文章說 AD/HD 會使 academic performance 受影響，且 learning disabilities may co-exist with AD/HD；四項中有學習困難者最可能符合。<br>(A) 懶惰不是文中症狀。<br>(B) attentive「專心」和 inattention 相反。<br>(C) 過度謹慎和 impulsivity「衝動」相反。<br>(D) 有學習困難，符合共存狀況。注意「最可能」不等於只靠此點即可診斷。",
+  "<b>解題關鍵：</b>定位第三段最後：if a child is suspected of AD/HD, it is very important that he or she be evaluated by a professional，第一步是專業評估。<br>(A) 告知學校是在 once diagnosed 之後。<br>(B) 諮詢專業人士，符合最先評估。<br>(C) 不應只是等待長大。<br>(D) 文章說一般學校可調整支持，未要求先送特殊學校。",
+  "<b>解題關鍵：</b>第一段定義 blood diamonds：販售所得資助叛軍、軍事與恐怖組織，控制鑽石交易的團體使居民被恐嚇甚至 killed。<br>(A) 名稱不是因鑽石呈現血紅色。<br>(B) 它們造成生命損失與流血，符合 blood 的比喻，正確。<br>(C) 一般鑽石可象徵愛與熱情，但非血鑽命名原因。<br>(D) 品質高低不是重點，文章也未說它們特別優良。答案來自鑽石交易付出的人命代價。",
+  "<b>解題關鍵：</b>這是推論題。第二段說戰爭雖減弱，問題未消失；Liberia 叛軍區鑽石仍被走私到鄰國，再冒充 conflict-free 出口。<br>(A) 叛軍區鑽石並非真正無衝突。<br>(B) 它們被錯誤標示，不是正確標示。<br>(C) 交易仍讓叛軍控制區獲得資金，可合理推出仍支援衝突。<br>(D) KPCS 在下一段才介紹，第二段沒說已仔細調查。",
+  "<b>解題關鍵：</b>第三段直接說 KPCS 的 goals 是 document and track all rough diamonds，要求密封並提供 detailed information about origins，證明非衝突區。<br>(A) 目的不是促銷粗鑽。<br>(B) 電影只是提高大眾關注。<br>(C) 文中未說 KPCS 主要工作是處罰賣家。<br>(D) 記錄鑽石從哪裡開採、追蹤來源，完整符合任務。",
+  "<b>解題關鍵：</b>作者稱血鑽造成 chaos and suffering，提醒讀者了解問題，買鑽石時 follow your heart；語氣明確反對血鑽交易。<br>(A) Indifferent 冷漠，和呼籲採取良心選擇相反。<br>(B) Threatening 威脅的，作者沒有威脅讀者。<br>(C) Sympathetic 若指同情血鑽不合；作者是同情受害者。<br>(D) Disapproving 不贊同，最符合負面描述與勸阻。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -25639,62 +25858,62 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "精通英文使我們具備獲取知識資訊的重要工具；equip someone with 是固定搭配。",
-  "莎士比亞作品許多詞如今不再通行使用；current use 表示「目前的用法」。",
-  "不要被動坐等機會，應主動創造；passively 表示「被動地」。",
-  "同卵雙胞胎基因幾乎相同，彼此差異多由環境造成；variation 表示「差異」。",
-  "法官涉入賄賂令眾人震驚，因大家原相信其正直；integrity 表示「正直」。",
-  "新疫苗發現是對抗禽流感的重要突破；breakthrough 表示「突破」。",
-  "避免被新聞誤導，須分辨事實與意見；distinguish between 是固定搭配。",
-  "洪災後只剩一兩棟房屋，該地大多已荒廢；deserted 表示「荒廢的」。",
-  "黃博士列出危機報告，凸顯開發新能源的必要；highlight 表示「凸顯」。",
-  "批評尖刻又離譜，引發 Molly 激烈爭辯；outrageous 表示「駭人、過分的」。",
-  "日常活動需要測量，科學實驗尤其重視精確測量；particularly 表示「尤其」。",
-  "使用溫度計之前須先確認量測範圍；Before 表示「在……之前」。",
-  "溫度計須涵蓋實驗需要的正確溫度範圍；range 表示「範圍」。",
-  "園藝溫度計測沸騰液體會破裂，是選對量具的具體例子；for instance。",
-  "國際單位制以公斤量測質量；mass 表示「質量」。",
-  "Ever since pre-Hispanic times 表示「自前西班牙時期以來一直」。",
-  "前句說當地長久是另類醫療中心，In fact 進一步指出巫術淵源超過兩千年。",
-  "若看過 Medicine Man，那麼這場巫師年會便會感到熟悉；then 是 if 條件句的結果。",
-  "若沒看過該電影，就準備面對大量巫師；If not 省略前述條件。",
-  "冒牌巫醫是為向遊客追求快速賺錢；go after 表示「追求」。",
-  "看幾秒展品便抱怨自己也會畫，顯示覺得無聊；boring 表示「無聊的」。",
-  "年輕訪客注視一件作品的時間甚至更短；even 修飾比較級 shorter。",
-  "久待使無聊單調累積，最終導致不耐與疲勞；eventually 表示「最後」。",
-  "要避免 museum feet，就別一次讓孩子看太多；avoid 表示「避免」。",
-  "研究建議一次聚焦不超過九件作品；no more than 表示「不超過」。",
-  "Nazca 線條遍布五百平方公里；cover 表示「涵蓋」。",
-  "動物圖形長度可達 275 公尺；up to 表示「多達」。",
-  "這些地面圖形只能從空中看見，令人驚奇；amazing 表示「驚人的」。",
-  "有人推想 Nazca 人不知如何能飛，perhaps in balloons；somehow 表示「以某種方式」。",
-  "各種用途說法皆未定論，因此仍是世界最迷人的未解之謎；unsolved 表示「未解的」。",
-  "過去離婚時通常自動把監護權判給母親；award custody to 表示「判予監護權」。",
-  "七○年代後，自動判給母親的做法受到挑戰；challenged 表示「受到質疑」。",
-  "理論雖按適任程度判定，實際上女性仍多在離婚案件中取得監護權；divorce 符合。",
-  "法律改變源自六、七○年代在美國發生的社會變遷；took place 表示「發生」。",
-  "社會變遷挑戰男女被期待扮演的傳統角色；traditional 表示「傳統的」。",
-  "As a consequence 表示「因此」，引出女性外出工作等結果。",
-  "現今女性外出工作並關心自己的職涯與人生；concerned about 表示「關心」。",
-  "男性買菜、接送孩子或打掃如今也不罕見；unusual 表示「不尋常的」。",
-  "離婚率增加加上性別角色與司法態度改變，促成父親爭取監護權；increase 表示「增加」。",
-  "更多男性開始爭取並贏得孩子監護權；fight for 表示「爭取」。",
-  "紙本信件需跨越真實距離並花時間寄達，C 說時間與距離會影響寫信者，銜接後例。",
-  "寫信者會談較深層關係與想法，E 補充也會更講究文體與可讀性。",
-  "前段談紙本信的重要與留存，A 以「電子郵件不同」轉入下一段比較。",
-  "後句說電郵即時且不受地理阻礙，D 以一秒傳到肯亞作具體例子。",
-  "電郵容易隨手抱怨、閒聊且不重文體，B 點出缺點是較少說深刻內容。",
-  "文章分析日本包裝市場、文化原因與商品趨勢，最可能出自消費者報告。",
-  "文中列保鮮、儲存空間、品質訊號及表達關愛，未說用包裝與西方競爭。",
-  "商品須在貨架上和 shelf-mates 區隔，指同架的其他商品。",
-  "牧場主聲稱狼每年殺死數千頭牛，認為狼威脅牲畜。",
-  "作者以「失去最偉大掠食者」及西部沉寂描述滅狼後果，立場傾向保護灰狼。",
-  "政府提供免費毒藥並由國會撥款消滅公共土地上的狼，是快速消失的重要原因。",
-  "原住民族尊敬狼的耐力與獵捕能力，戰士希望取得其狩獵技巧。",
-  "作者明言生命權優先於女性選擇權，對墮胎持反對立場。",
-  "文中列舉支持墮胎人士認為照片誤導、嘲弄或敵意反應，皆呈不信與輕蔑。",
-  "Campbell 熱情推廣胎兒立體超音波，並描述父母看照片的喜悅，最可能反對墮胎。",
-  "文章說反墮胎陣營以胎兒笑臉作生命證據，可推知他們樂見這些超音波照片。"
+  "<b>解題關鍵：</b>精通英文會讓我們擁有取得 knowledge and information 的重要工具；equip someone with 是「使某人具備」。<br>(A) accesses：存取，不能說 mastery accesses us。<br>(B) conveys：傳達，通常傳達訊息給人。<br>(C) deprives：剝奪，需搭 of，且意思相反。<br>(D) equips：配備、使具備，與 with 搭配正確。<br>句意：精通英文使我們具備取得知識資訊的重要工具。",
+  "<b>解題關鍵：</b>語言一直改變，所以莎士比亞作品中的許多字如今 no longer 使用；空格指目前、現今的用法。<br>(A) absolute：絕對的。<br>(B) current：目前的，current use 是「現行用法」。<br>(C) repetitive：重複的。<br>(D) valuable：有價值的，字仍可能有研究價值但不再通用。<br>句意：許多莎士比亞時代的字現在已不再通行。",
+  "<b>解題關鍵：</b>後句叫人 take the initiative「採取主動」創造機會，因此前句批評的是只坐著被動等待。<br>(A) consciously：有意識地。<br>(B) passively：被動地，和 take the initiative 形成對比。<br>(C) reasonably：合理地。<br>(D) subjectively：主觀地。<br>把答案放回去：不要被動坐等好機會，應主動為自己創造機會。",
+  "<b>解題關鍵：</b>同卵雙胞胎 genes 幾乎相同，因此兩人之間若有差異，多半可歸因於 environment。<br>(A) adoption：收養或採用。<br>(B) familiarity：熟悉。<br>(C) stability：穩定，和 difference 概念相反。<br>(D) variation：差異、變化，符合 between them。<br>句意：同卵雙胞胎的差異，很大部分來自環境影響。",
+  "<b>解題關鍵：</b>大家聽到法官涉入 bribery scandal 感到震驚，表示原本相信他誠實正直、絕不受賄。<br>(A) inferiority：低劣、次等。<br>(B) integrity：正直、廉潔，符合對法官的信任。<br>(C) intimacy：親密。<br>(D) ingenuity：巧思、創造力。<br>把答案放回去：人們相信法官廉潔，所以聽到賄賂醜聞很震驚。",
+  "<b>解題關鍵：</b>發現 new vaccine 讓對抗 avian flu 有重大進展；能打破原有困難的重要發現叫 breakthrough。<br>(A) breakthrough：突破，符合疫苗新發現。<br>(B) commitment：承諾。<br>(C) demonstration：示範、示威。<br>(D) interpretation：解釋。<br>其餘選項都不能表示研究取得關鍵進展。句意：新疫苗是對抗禽流感的重要突破。",
+  "<b>解題關鍵：</b>避免被新聞 misled，就要看出哪些是 facts、哪些是 opinions；distinguish between A and B 是「分辨兩者」。<br>(A) distinguish：區分，搭配 between 正確。<br>(B) complicate：使複雜。<br>(C) reinforce：加強。<br>(D) speculate：推測，不能接 between 表分辨。<br>句意：我們應學會分辨事實與意見，以免被新聞誤導。",
+  "<b>解題關鍵：</b>大洪水後只剩 one or two homes，表示大多數居民與房屋都離開或毀壞，區域近乎荒廢。<br>(A) condensed：濃縮的。<br>(B) deserted：荒廢、無人居住的，符合只剩少數房屋。<br>(C) excluded：被排除。<br>(D) removed：被移除，不能自然形容整個地區狀態。<br>句意：洪災後該區大多已荒廢。",
+  "<b>解題關鍵：</b>黃博士提出所有 energy crisis reports，目的是讓大家更注意開發新能源的 need；highlight 是「凸顯」。<br>(A) command：命令。<br>(B) formulate：制定，通常制定計畫。<br>(C) highlight：強調、凸顯，符合報告作用。<br>(D) regulate：管理、規範。<br>把答案放回去：他列出危機報告，以凸顯開發新能源的必要性。",
+  "<b>解題關鍵：</b>評論 bitter，還使 Molly started a heated argument，表示內容不只尖銳，還過分到令人憤怒。<br>(A) outrageous：駭人、離譜的，符合激烈爭論。<br>(B) unreliable：不可靠的，未必會引發強烈情緒。<br>(C) urgent：緊急的。<br>(D) glorious：光榮的、壯麗的，和 bitter 相反。<br>句意：聽到尖刻又離譜的評論，Molly 與評論家激烈爭辯。",
+  "<b>解題關鍵：</b>文章先說日常活動常需測量，再特別指出 scientific experiments 尤其需要精確測量。<br>(A) deliberately：故意地。<br>(B) instantly：立刻地。<br>(C) particularly：尤其、特別，能把科學實驗從一般活動中強調出來。<br>(D) scarcely：幾乎不，與實驗需要測量相反。<br>句意：測量很常見，科學實驗尤其重視精確。",
+  "<b>解題關鍵：</b>要先知道溫度計的 measuring range，才能拿它進行實驗；事件順序是使用之前先檢查，避免量具破裂。<br>(A) After：之後，會變成使用完才確認，順序顛倒。<br>(B) Before：在……之前，正確。<br>(C) For：為了或持續時間，不能帶出先後步驟。<br>(D) Without：沒有，不能自然連接使用步驟。<br>句意：使用溫度計前，先確定它能測量的範圍。",
+  "<b>解題關鍵：</b>溫度計必須涵蓋實驗所需的高低溫，這段從最低到最高的界線叫 temperature range。<br>(A) range：範圍，能表示可測量的上下限，正確。<br>(B) record：紀錄，是測量後留下的資料。<br>(C) system：系統，不能表示最低到最高的區間。<br>(D) unit：單位，如 °C，和可測高低不同。<br>句意：必須選擇具有正確溫度範圍的溫度計。",
+  "<b>解題關鍵：</b>前文說要選正確範圍的溫度計，後面以 garden thermometer 測沸騰液體會破裂作具體例子。<br>(A) in short：簡言之，用於總結，不是舉例。<br>(B) in turn：依序、反過來。<br>(C) by contrast：相較之下，但沒有兩類平行比較。<br>(D) for instance：例如，正確引出實例。<br>句意：例如，園藝溫度計不能拿來量沸騰液體。",
+  "<b>解題關鍵：</b>國際單位制中 kilogram 是測量物體「質量」的單位，不是距離、溫度或體積。<br>(A) distance：距離，常用 meter。<br>(B) mass：質量，kilogram 為其單位。<br>(C) temperature：溫度，常用 Celsius 或 Kelvin。<br>(D) volume：體積，常用 liter 或立方公尺。<br>句意：在國際單位制中，質量以公斤測量。",
+  "<b>解題關鍵：</b>空格與 since 組成 Ever since，表示「自前西班牙時期以來一直」，說明傳統延續很久。<br>(A) Ever：與 since 固定搭配，正確。<br>(B) Not since 是「自從……就不」，需不同主句語意。<br>(C) Only since 表「直到……之後才」，強調較晚開始。<br>(D) Rarely since 不構成時間連接。<br>句意：自前西班牙時期以來，當地一直保有這項傳統。",
+  "<b>解題關鍵：</b>前句說此地長久是 alternative medicine 中心；下一句進一步提供更強證據：巫術淵源超過兩千年。<br>(A) In advance：事先。<br>(B) In all：總共。<br>(C) In fact：事實上，用來加強並補充。<br>(D) In sum：總而言之，用於總結，不是增加年代證據。<br>句意：事實上，當地巫術傳統可追溯兩千多年。",
+  "<b>解題關鍵：</b>這是 if... then... 條件結構：如果看過電影 Medicine Man，那麼眼前巫師大會會讓你覺得熟悉。<br>(A) since：自從或因為，不表示條件結果。<br>(B) so：所以，雖表結果，但在此與 if 的固定呼應不如 then。<br>(C) then：那麼，清楚接條件結果。<br>(D) though：雖然，表讓步。<br>句意：若看過那部電影，那麼這場活動會很熟悉。",
+  "<b>解題關鍵：</b>前句是 If you have seen...；接著要說「如果沒有看過」，可用 If not 省略重複的 you have not seen it。<br>(A) If any：如果有任何，後面需名詞。<br>(B) If not：如果沒有，正確。<br>(C) If ever：如果曾經。<br>(D) If only：要是……就好了，表示願望。<br>句意：如果沒看過那部電影，就準備面對許多巫師。",
+  "<b>解題關鍵：</b>冒牌巫醫鎖定 tourists，目的 quick money，表示追求快速獲利。<br>(A) go after：追求、設法取得，go after quick money 正確。<br>(B) turn down：拒絕，和想賺錢相反。<br>(C) give away：送出或洩漏。<br>(D) complain about：抱怨，不能表示從遊客賺錢。<br>句意：一些冒牌巫醫以遊客為目標，追求快速賺錢。",
+  "<b>解題關鍵：</b>孩子看展品幾秒就抱怨「這我也會畫」，表示不覺得作品有趣，反而認為展覽無聊。<br>(A) boring：令人無聊的，描述作品帶給參觀者的感受，正確。<br>(B) difficult：困難的，孩子反而說自己也做得到。<br>(C) cool：酷、有趣，與抱怨語氣相反。<br>(D) exciting：令人興奮，也和立刻失去興趣相反。<br>句意：年輕參觀者很快就覺得展品無聊。",
+  "<b>解題關鍵：</b>前面說一般參觀者停留時間很短，後面說 younger visitors 的時間 shorter；even 用來加強「甚至更短」。<br>(A) almost：幾乎，不能自然修飾比較級 shorter。<br>(B) also：也，但沒有加強比較程度。<br>(C) even：甚至，even shorter 是固定用法。<br>(D) meanwhile：同時，通常修飾整句。<br>句意：年輕訪客看一件作品的時間甚至更短。",
+  "<b>解題關鍵：</b>長時間看太多展品，無聊與單調會逐步累積，最後造成 impatience and fatigue；空格表最終結果。<br>(A) efficiently：有效率地。<br>(B) eventually：最後、終於，符合累積後結果。<br>(C) fortunately：幸運地，疲勞不是幸運。<br>(D) permanently：永久地，文章沒說疲勞永遠不退。<br>句意：久看展品的單調最後會帶來不耐與疲勞。",
+  "<b>解題關鍵：</b>文章提出 museum feet 這種疲累問題，接著給家長方法；不要一次看太多，是為了「避免」問題。<br>(A) affect：影響。<br>(B) approach：接近、處理。<br>(C) assure：保證，通常 assure someone。<br>(D) avoid：避免，可直接接名詞 museum feet。<br>句意：若想避免逛博物館的疲累，就別讓孩子一次看太多。",
+  "<b>解題關鍵：</b>研究建議一次 focus on 的作品數要有限；後面給 nine，意思是最多九件、不超過九件。<br>(A) no better than：不比……好。<br>(B) no less than：不少於、至少，會鼓勵看九件以上。<br>(C) no more than：不超過、至多，正確。<br>(D) no sooner than：一……就……，用於時間。<br>句意：一次聚焦的作品不要超過九件。",
+  "<b>解題關鍵：</b>Nazca lines 分布在 500 square kilometers 的大片地區，空格要表示面積涵蓋。<br>(A) circle：環繞成圈。<br>(B) contain：包含，主詞應是區域包含線條，不是線條包含區域。<br>(C) cover：覆蓋、涵蓋，能接面積。<br>(D) wrap：包裹實體。<br>句意：Nazca 線條遍布約五百平方公里。",
+  "<b>解題關鍵：</b>句子說動物圖形的 length 可達 275 meters；up to 用在數字前表示「多達、最高到」。<br>(A) far from：遠離，不能接數字表最大值。<br>(B) such as：例如，275 公尺不是種類例子。<br>(C) up to：多達，正確。<br>(D) as much as 通常修飾不可數量，長度數值此處以 up to 最自然。<br>句意：有些動物圖形長達 275 公尺。",
+  "<b>解題關鍵：</b>巨大地面圖形只能從 air 看清，而古代人如何完成仍令人驚訝；空格需形容事情令人驚奇。<br>(A) amazing：令人驚奇的，正確。<br>(B) hesitating：猶豫的，通常形容人或動作。<br>(C) interacting：互動中的。<br>(D) satisfying：令人滿意的，未表滿足。<br>句意：這些圖形只能從空中看見，是十分驚人的事。",
+  "<b>解題關鍵：</b>有人猜 Nazca 人可能用 balloons 飛上天空；不知道確切方法，只說「以某種方式」飛行。<br>(A) someday：有一天，表未來時間。<br>(B) somehow：以某種方式，符合方法未知。<br>(C) sometime：某個時候。<br>(D) somewhere：某個地方。<br>句意：有人推想 Nazca 人以某種方式飛行，也許搭乘氣球。",
+  "<b>解題關鍵：</b>文章列出各種用途理論卻沒有定論，結尾稱其為最迷人的 mystery；既然答案未知，就是未解之謎。<br>(A) unchanged：未改變的。<br>(B) undetermined：未決定的，常指結果尚未定。<br>(C) unfolded：展開的。<br>(D) unsolved：未解決的，unsolved mystery 固定搭配。<br>句意：Nazca 線條仍是世界最迷人的未解之謎之一。",
+  "<b>解題關鍵：</b>過去法院離婚時通常自動把 custody 給母親；award something to someone 是「把……判給某人」。<br>(A) award：判予、授予，能接 custody。<br>(B) challenged 是過去分詞，後面另有受到質疑的位置。<br>(F) fight 要接 for，不能說 fight custody to。<br>句意：過去法院往往自動把孩子監護權判給母親。",
+  "<b>解題關鍵：</b>接著文章說 1970 年代之後，原本「自動給母親」的做法開始受到質疑。空格前後結構需要被動過去分詞。<br>(B) challenged：受到挑戰、質疑，正確。<br>(I) traditional 雖能描述做法，但句中已有動詞需求。<br>(J) unusual 會說做法不尋常，與過去普遍情況矛盾。<br>句意：這項自動判給母親的做法後來受到挑戰。",
+  "<b>解題關鍵：</b>理論上法院按誰更適任判監護權，in practice 女性仍在大多數「離婚案件」取得監護權。<br>(E) divorce：離婚，可放在 cases 前形成 divorce cases。<br>(A) award 是動詞或獎項，不能自然修飾 cases。<br>(D) consequence 是結果。<br>(G) increase 是增加。<br>句意：實際上，女性仍在大多數離婚案件中獲得監護權。",
+  "<b>解題關鍵：</b>法律改變的背景是 1960、1970 年代美國的 social changes；空格需片語動詞表示這些變化「發生」。<br>(H) took place：發生，主詞 changes 為複數，過去時正確。<br>(G) increase 是名詞或原形，不合句型。<br>(B) challenged 需要受詞或被動助動詞。<br>句意：這些法律改變源自當時在美國發生的社會變遷。",
+  "<b>解題關鍵：</b>社會變遷挑戰 men and women were expected to play 的既有角色，指長久以來的性別分工。<br>(I) traditional：傳統的，可修飾 roles。<br>(J) unusual：不尋常的，舊社會期待的角色反而很常見。<br>(C) concerned 需接 about。<br>(D) consequence 是名詞。<br>句意：社會變遷挑戰了男女被期待扮演的傳統角色。",
+  "<b>解題關鍵：</b>前句說傳統性別角色受到挑戰，後句列女性外出工作、男性做家務等結果，需要因果連接 as a consequence。<br>(D) consequence：結果，As a consequence 是「因此」。<br>(G) increase 不形成連接語。<br>(H) took place 是動詞片語，不能接在 As a 後。<br>句意：因此，男女在家庭與工作的分工開始改變。",
+  "<b>解題關鍵：</b>現今女性外出工作，並關心自己的 careers and lives；be concerned about 是「關心、在意」。<br>(C) concerned 正確，與 about 搭配。<br>(I) traditional about 不成立。<br>(J) unusual about 也不合。<br>(F) fight 若填需說 fight for careers。<br>句意：女性在外工作，也在意自己的職涯與人生發展。",
+  "<b>解題關鍵：</b>文章說如今男性買菜、接送孩子、打掃都很常見，因此「不再是不尋常的」。空格需形容詞。<br>(J) unusual：不尋常的，放在 not 後得到「並不罕見」。<br>(I) traditional 雖是形容詞，但 not traditional 只說非傳統，沒有現在已普遍的重點。<br>(C) concerned 要接 about。<br>句意：男人做這些家務如今已不罕見。",
+  "<b>解題關鍵：</b>後段整理造成父親爭監護權的因素，其中之一是 divorce rate 的上升。the 後需名詞。<br>(G) increase：增加，the increase in the divorce rate 搭配完整。<br>(D) consequence 要說 consequence of，不接 in。<br>(H) took place 是動詞片語。<br>句意：離婚率上升，加上角色與司法態度改變，促成新情況。",
+  "<b>解題關鍵：</b>more men 開始為 custody 努力並成功獲得；fight for 是「爭取」。<br>(F) fight：與 for 搭配，正確。<br>(A) award custody 是法院判給，不是父親自己 award for。<br>(B) challenged 形式不合 begin to 後原形。<br>(C) concerned 也不能接 for 表爭取。<br>句意：更多男性開始爭取並贏得孩子監護權。",
+  "<b>解題關鍵：</b>空格前談紙本信跨越真實距離、等待寄達；後面開始說這些限制如何讓作者寫得更深，因此要先點明時間與距離會影響寫信者。<br>(C) 正好把前方物理限制接到後方寫作方式。<br>(E) 是後一步的文體結果，應放在談深層內容後。<br>(A) 會太早轉入電郵。<br>所以 C 是這一段的橋接句。",
+  "<b>解題關鍵：</b>前句說紙本信會談較深層的人際關係與想法；後句仍在描述寫信時更用心，因此應接「也會更注意文體與可讀性」。<br>(E) 的 also 清楚延續前一項優點。<br>(C) 應放在段落前面解釋限制影響作者。<br>(A) 是轉到電郵的新段主題。<br>因此 E 讓內容從「寫什麼」接到「怎麼寫」。",
+  "<b>解題關鍵：</b>前段一直談紙本信的深度、文體與保存價值；空格後改談即時、無地理阻礙的電子傳送，需要一句短轉題。<br>(A) E-mail is different 直接宣布比較對象改變。<br>(D) 是電郵速度的具體例子，應在轉題後。<br>(B) 是談完電郵方便後的缺點。<br>故 A 最能劃分紙本信與電子郵件兩段。",
+  "<b>解題關鍵：</b>空格周圍談 e-mail 即時且不受 geography 阻礙，後句會進一步說速度；D 用寄到 Kenya 幾乎一秒作具體證明。<br>(D) 中 whenever、almost in a second 同時呼應時間與距離。<br>(A) 只適合段首轉題。<br>(B) 是便利後的轉折缺點。<br>所以 D 應放在此處當例子。",
+  "<b>解題關鍵：</b>前文稱讚電郵快速方便，也說人容易隨手抱怨、閒聊、不重文體；空格要用 downside 轉入缺點：較少寫深層內容。<br>(B) 的 The downside 明確回扣方便背後的代價。<br>(E) 說更用心文體，屬紙本信優點，與電郵隨意相反。<br>(C)(D) 都談時間距離與速度。故 B 完成正反比較。",
+  "<b>解題關鍵：</b>文章分析日本包裝使用量、保鮮功能、消費文化、貨架競爭與市場趨勢，最像提供消費者與市場資訊的報告。<br>(A) cookbook 應教食譜，文中沒有料理步驟。<br>(B) user’s manual 應教如何操作產品。<br>(C) consumer report 消費者報告，符合市場與包裝分析。<br>(D) fashion magazine 聚焦服飾流行，與食品包裝不合。",
+  "<b>解題關鍵：</b>這是 NOT 題。文章列日本多包裝的理由：保持食物新鮮、節省或方便儲存、傳達品質、表達感謝與關愛；沒有說和西方競爭。<br>(A) 包裝可保持食物新鮮，是直接功能之一。<br>(B) 精美包裝可表達 appreciation「感謝」，文中有提。<br>(C) 日本消費者把包裝視為商品品質訊號，文中有提。<br>(D) 用包裝與西方人在經濟上競爭，全文沒有，故為答案。",
+  "<b>解題關鍵：</b>第二段談一項商品在 shelf 上要從旁邊商品中脫穎而出；shelf-mates 字面是「同一貨架上的夥伴」，即其他商品。<br>(A) co-workers 是人的同事，貨架沒有員工。<br>(B) other products in the store，符合貨架競爭語境。<br>(C) 顧客需求不是放在貨架上的 mate。<br>(D) 包裝圖案是同一商品的一部分，不是其他 shelf-mates。",
+  "<b>解題關鍵：</b>定位狼群文章中白人牧場主的理由：狼被指每年殺死數千頭 cattle，因此被視為威脅牲畜與牧場生計。<br>(A) 文章沒說狼主要攻擊人類，這不是獵殺理由。<br>(B) 狼是肉食動物，不是因破壞農作物遭獵殺。<br>(C) 原住民族尊敬狼不是白人獵殺的直接原因。<br>(D) 威脅 livestock「家畜」生命，符合牧場主指控，正確。答案來自牛隻損失。",
+  "<b>解題關鍵：</b>作者以失去「最偉大掠食者」及西部變得沉寂描寫滅狼後果，語氣明顯惋惜，整體支持灰狼保護。<br>(A) 喜歡獵殺野生動物者通常會贊成消滅狼，與作者惋惜語氣不合。<br>(B) 制定反狼法律的人立場和作者相反。<br>(C) advocated the protection，主張保護灰狼，最符合全文態度。<br>(D) 欣賞狩獵技巧只是一個細節，範圍不如保護立場完整。",
+  "<b>解題關鍵：</b>文章說政府提供免費 poison，國會還撥款在公共土地消滅狼；官方制度鼓勵使獵殺規模快速擴大。<br>(A) 狼吃不到牛不會直接讓整個物種快速消失，且不是文中原因。<br>(B) 原住民族尊敬狼，並非為取得毛皮而大量捕殺。<br>(C) 文中沒有說國家公園巡守員殺死大多數狼，主力是政府全面鼓勵。<br>(D) 政府鼓勵獵殺，有免費毒藥與國會經費的直接證據，正確。",
+  "<b>解題關鍵：</b>定位原住民族段落：他們尊敬狼的 endurance 與 hunting ability，戰士希望得到牠的獵捕技巧。<br>(A) was good at hunting，符合明確描述。<br>(B) 沒說狼善於偽裝。<br>(C) 皮與爪可能被使用，但尊敬的核心是能力，不是外觀。<br>(D) 狼與白人為敵是後來衝突，不是原住民族敬重原因。",
+  "<b>解題關鍵：</b>態度題看作者用語與主張。作者明言 right to life 優先於 woman’s right to choose，並把胎兒照片視為生命證據，因此反對墮胎。<br>(A) For it 支持墮胎，與生命權主張相反。<br>(B) Against it 反對，正確。<br>(C) Neutral 中立，但作者明確排序兩種權利。<br>(D) Indifferent 漠不關心，和積極論述不合。",
+  "<b>解題關鍵：</b>文章列支持墮胎者對 smiling unborn babies 照片的反應：認為誤導、加以嘲弄或抱持敵意，整體是不信與輕蔑。<br>(A) all with disbelief and scorn 概括文中列舉，正確。<br>(B) 鼓掌欣賞是反墮胎方較可能反應。<br>(C) 沒有說其中有人尊重照片證據。<br>(D) 也沒有支持者鼓掌的描述。",
+  "<b>解題關鍵：</b>這是人物立場推論題。Stuart Campbell 推廣胎兒三維超音波，描述父母看到胎兒照片的喜悅，將胎兒呈現為有生命的人。<br>(A) Anne Carp 與 (B) Geoff Brodie 在文中屬支持墮胎或質疑照片的一方。<br>(C) Campbell 的行動最符合反墮胎立場。<br>(D) American Prospect 作者對照片持批判態度。答案不是看職業，而是看言行。",
+  "<b>解題關鍵：</b>文章說反墮胎陣營把胎兒笑臉照片當作生命證據，因此可合理推論他們樂見這些超音波影像被公開。<br>(A) 作者沒有推論醫師發表照片本身是錯誤行為。<br>(B) 反墮胎者正把 fetus 視為活的人，選項卻說不等同，意思相反。<br>(C) 墮胎權本來就有明顯爭議，不是人人同意。<br>(D) 反墮胎者對照片感到高興，符合影像支持其生命權論點。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -26981,62 +27200,62 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "今年雨量充足，夏季應有豐沛淡水供應；abundant 表示「充足的」。",
-  "週末計畫尚未確定，只暫定拜訪朋友；tentatively 表示「暫時地」。",
-  "化學老師請病假，校長須找人代課；substitute for 表示「代替」。",
-  "定期檢查與修理是例行維護工作；maintenance 表示「維護」。",
-  "規律運動可改善血液循環並增加活力；circulation 表示「循環」。",
-  "通過專業證照考試才能取得高薪工作資格；certificates 表示「證書」。",
-  "離鄉十多年仍能在腦中清楚看見舊家；visualize 表示「想像、在腦中呈現」。",
-  "簡單問題講二十分鐘，說明冗長到看不出重點；lengthy 表示「冗長的」。",
-  "新稅政遭反對黨領袖嚴厲批評；opposition party 表示「反對黨」。",
-  "大量示威者湧入使交通系統幾乎癱瘓；paralyzed 表示「癱瘓的」。",
-  "上車後先告知司機目的地；destination 表示「目的地」。",
-  "沉浸閱讀後，他抬頭發現司機繞路；looked up 表示「抬頭看」。",
-  "計程車衝上人行道，最後在店窗前幾公分停住；finally 表示「最後」。",
-  "Alexander 沒想到輕拍會嚇到司機；realize 表示「意識到」。",
-  "司機說不是乘客的錯，而是自己過去開靈車；fault 表示「過錯」。",
-  "網路居創新榜首並不令人意外；come as little surprise 表示「不足為奇」。",
-  "評選小組從眾多科技創新中挑出二十五項；single out 表示「挑選」。",
-  "這些創新除影響日常，也可能在未來劇烈改變生活；in the future 正確。",
-  "Berners-Lee 因複雜資訊系統而感到挫折；Frustrated 為過去分詞片語表原因。",
-  "他建立通用系統，使資訊容易取得；available 表示「可取得的」。",
-  "雕塑不只美，還因其代表的文化源流地圖而珍貴；what they represent 作介系詞受詞。",
-  "collection is not open to visitors 是固定搭配，表示「不對訪客開放」。",
-  "雕塑藏在只有少數人能看見的倉庫；where 指地點 warehouses。",
-  "原物移入保管後，以中空混凝土仿製品取代；fakes 表示「仿品」。",
-  "除了太大無法移動者外，幾乎所有文物都以複製品替換；Except for 表示「除了」。",
-  "十歲的 Piaget 完成第一篇出版作品，描述白化麻雀；publication 表示「出版作品」。",
-  "十五歲時他立志畢生發展知識的生物學解釋；set out to 表示「著手、立志」。",
-  "他以動物學家起步，研究軟體動物及其適應；studying 為伴隨動作分詞。",
-  "到二十一歲時，他已發表二十五篇論文；By age 21 搭配過去完成式。",
-  "Piaget 一生努力建立心理學體系；sought to 表示「力求」。",
-  "澎湖群島由將近一百座島嶼組成；nearly 表示「將近」。",
-  "寬廣沙灘與海底景觀是澎湖主要景點；attractions 表示「吸引人的景物」。",
-  "只有二十島有人居住，其餘無人島得以保持完整；uninhabited 表示「無人居住的」。",
-  "原始環境、玄武岩與生態甚至帶來更多驚喜；even 表遞進。",
-  "這些島被列為保留區，因為擁有珍稀資源；for 表原因。",
-  "姑婆嶼是海藻生產的主要地點；location 表示「地點」。",
-  "白沙島保留原始未受破壞的特色；preserved 表示「保存」。",
-  "南岸柱狀玄武岩格外壯觀；particularly 表示「尤其」。",
-  "柱狀岩石是大自然的傑作；masterpiece 表示「傑作」。",
-  "黃花從玄武岩裂縫之間盛開；between 表示「在……之間」。",
-  "前句說荷蘭早期研究，C 具體交代對三十五萬名十九歲男性施測。",
-  "研究發現出生序與成績相關，B 說家庭愈大、出生序愈後，分數愈低。",
-  "Zajonc 與 Markus 提出理論後，E 說該理論其後被細化並延伸。",
-  "Rutherford 與 Sewell 找不到支持，A 因此總結此議題有兩種對立觀點。",
-  "前段介紹 Zajonc 與 Markus 一方，D 以 On the other side 引出 Rutherford 與 Sewell 的美國研究。",
-  "Dubai Tower 至少 123 層，比 Taipei 101 的 101 層至少多 22 層。",
-  "建造者明說沒有實用理由，目的 clearly 是 image，讓杜拜登上世界版圖。",
-  "紙上設計像即將升空的巨大太空梭，故 B。",
-  "艾菲爾鐵塔終結金字塔四千三百年的最高建築地位；upset 在此指擊敗強勁對手。",
-  "醫師準備充分但題材與商會聽眾生活無關，說明成功演講須對聽眾有意義且切身。",
-  "聽眾低語、挪腳、看報，會後無人圍上來，因艱深醫學議題令他們無聊。",
-  "演講提到罕見腦病、免疫疾病與基因研究，流感只由會長建議，未在演講中出現。",
-  "若談預防流感便能讓聽眾全神貫注；on the edge of their seats 指注意力被牢牢吸引。",
-  "Coca-Cola 被迫揭露配方或離境，並受政治人士干預，屬政治與法律問題。",
-  "段落以收入、購買力與基礎建設評估市場發展程度，屬經濟議題。",
-  "英、法加拿大受眾因家庭觀念不同採不同廣告畫面，屬文化因素。"
+  "<b>解題關鍵：</b>今年至今雨量 plenty，推論夏季淡水供應應很充足。<br>(A) intense：強烈的；(B) ultimate：最終的；(C) abundant：豐富充足的，abundant supply 搭配自然；(D) epidemic：流行病的。<br>把答案放回去：因雨量充足，夏天應有充沛淡水。因果線索 so 排除無關形容詞。",
+  "<b>解題關鍵：</b>I don’t know for sure 表示尚未確定，拜訪朋友只是暫時打算。<br>(A) tentatively：暫定地，正確；(B) inevitably：不可避免地；(C) unknowingly：不知情地；(D) numerously：數量眾多地，不自然。<br>把答案放回去：週末計畫未定，目前暫定去拜訪朋友。but 前後正好形成不確定與暫訂的關係。",
+  "<b>解題關鍵：</b>化學老師請一個月病假，校長需找另一位老師「代替她」。<br>(A) recover：康復；(B) navigate：導航；(C) rehearse：排練；(D) substitute：代替，substitute for someone 搭配正確。<br>把答案放回去：校長必須找老師代課。空格後 for her 也直接提示 substitute for。",
+  "<b>解題關鍵：</b>後句 regular checking and repairing 是定期檢查修理，也就是維護工作。<br>(A) disturbance：干擾；(B) eloquence：口才；(C) maintenance：保養維護，routine maintenance 是例行保養；(D) alliance：聯盟。<br>把答案放回去：體育館週一因例行維護關閉。後句就是 maintenance 的白話定義。",
+  "<b>解題關鍵：</b>規律運動讓血液流動更順，並使人更有精神，指改善血液循環。<br>(A) fatigue：疲勞；(B) tranquility：平靜；(C) fragrance：香味；(D) circulation：循環，blood circulation 固定搭配。<br>把答案放回去：規律運動可改善血液循環。其他名詞不能和 blood 組成此生理效果。",
+  "<b>解題關鍵：</b>通過各種專業考試後，才能證明具備高薪工作資格，取得的是專業證書。<br>(A) mechanics：機械學；(B) permission：許可；(C) certificates：證書，professional certificates 搭配；(D) perseverance：毅力。<br>把答案放回去：人們考取專業證照以取得工作資格。tests、qualified 都支持 C。",
+  "<b>解題關鍵：</b>離鄉十多年仍能清楚在腦中呈現 old house 的樣子，表示能想像畫面。<br>(A) nominate：提名；(B) visualize：在腦中看見、想像，正確；(C) prolong：延長；(D) sprinkle：灑。<br>把答案放回去：王博士仍能清楚想起舊家的模樣。clearly 修飾的是心理影像，不是實際看見。",
+  "<b>解題關鍵：</b>一個簡單問題講了二十分鐘，結果聽眾反而抓不到重點，表示說明太冗長。<br>(A) coherent：連貫的；(B) crucial：關鍵的；(C) various：各種的；(D) lengthy：冗長的，正確。<br>把答案放回去：說明太長，讓重點不清楚。twenty minutes 與 one simple question 是明確對比。",
+  "<b>解題關鍵：</b>新稅政遭到嚴厲批評，政治上通常由「反對黨」領袖批評政府政策。<br>(A) interaction：互動；(B) exposition：說明、展覽；(C) opposition：反對，opposition party 是反對黨；(D) occupation：職業、占領。<br>把答案放回去：稅政受到反對黨領袖批評。四字相似但只有 C 是政治用語。",
+  "<b>解題關鍵：</b>數千人湧入示威，交通系統因負荷過大幾乎不能運作，也就是癱瘓。<br>(A) testified：作證；(B) paralyzed：使癱瘓，正確；(C) stabilized：穩定，方向相反；(D) dissatisfied：不滿，通常形容人。<br>把答案放回去：大量人潮使城市交通幾乎癱瘓。as a result 清楚標示後果。",
+  "<b>解題關鍵：</b>計程車故事中，上車要先告知司機要去的地方，也就是目的地。<br>(A) motivation：動機；(B) destination：目的地，正確；(C) expectation：期待；(D) solution：解決方案。<br>把答案放回去：乘客告訴司機自己的目的地。後續司機繞路也必須先知道目的地，才能判斷行車路線是否正確。",
+  "<b>解題關鍵：</b>Alexander 原本低頭讀書，後來才發現路線不對，因此他「抬頭看」。<br>(A) looked up：抬頭、向上看，正確；(B) took off：起飛、脫下；(C) turned in：繳交；(D) got on：上車、相處。<br>把答案放回去：他從書本抬頭，發現計程車繞路。前後動作形成自然順序，也不是下車或繳交物品。",
+  "<b>解題關鍵：</b>計程車失控衝上人行道，經一連串動作後「最後」停在櫥窗前。<br>(A) hardly：幾乎不；(B) likely：可能地；(C) finally：最後，正確；(D) mainly：主要地。<br>把答案放回去：車子最後在櫥窗前幾公分停下。這是完整事件的發展順序，不是可能性或主要原因；stopped 是整段驚險過程的最後結果。",
+  "<b>解題關鍵：</b>Alexander 輕拍司機，本來不知道這會嚇到他；空格需表「意識到」。<br>(A) find：找到；(B) realize：意識到、了解，正確；(C) wonder：想知道；(D) admit：承認。<br>把答案放回去：他沒想到輕拍肩膀會讓司機驚嚇。didn’t realize 後可接完整 that 子句，表示當下未察覺後果。",
+  "<b>解題關鍵：</b>司機安慰乘客 It’s not your ______，意思是不是乘客的錯；接著說自己以前開靈車解釋反應。<br>(A) matter：事情；(B) decision：決定；(C) trouble：麻煩；(D) fault：過錯，not your fault 固定說法。<br>把答案放回去：司機說這不是你的錯。其他名詞不能表達責任歸屬。",
+  "<b>解題關鍵：</b>網路是二十世紀最具影響力的發明之一，因此排名第一「不令人意外」。<br>(A) agreement：同意；(B) surprise：驚訝，come as little surprise 固定搭配；(C) belief：信念；(D) concern：擔心。<br>把答案放回去：網路居首並不足為奇。little surprise 表示驚訝程度很低。",
+  "<b>解題關鍵：</b>評選小組從眾多科技創新中特別挑出二十五項，需用「單獨選出」。<br>(A) gives in：屈服；(B) takes over：接管；(C) singles out：挑選、特別指出，正確；(D) turns down：拒絕。<br>把答案放回去：小組選出二十五項重要創新。out 和眾多候選項的對比支持 C，不是拒絕所有其餘發明。",
+  "<b>解題關鍵：</b>句子先說創新已影響今日生活，再說可能改變日後生活，時間從現在推向未來。<br>(A) for a moment：片刻；(B) at that time：當時；(C) from then on：從那時起；(D) in the future：未來，正確。<br>把答案放回去：這些創新未來還可能帶來巨大改變。may dramatically alter 表尚未發生的可能結果。",
+  "<b>解題關鍵：</b>Berners-Lee 面對複雜資訊系統而感到挫折，空格放句首描述他的心理狀態。<br>(A) Having frustrated：主動使人挫折，且結構不合；(B) Frustrated：感到挫折的，省略 Being，正確；(C) To be frustrated：目的不合；(D) Been frustrated：缺少 having。<br>把答案放回去：因感到挫折，他想建立通用系統。",
+  "<b>解題關鍵：</b>建立全球資訊網的目的是讓資訊容易被大家取得，空格形容 information。<br>(A) available：可取得、可使用的，make information available 正確；(B) consistent：一致的；(C) important：重要的；(D) unforgettable：難忘的。<br>把答案放回去：他讓資訊人人可取得。make＋受詞＋形容詞是關鍵句型。",
+  "<b>解題關鍵：</b>雕塑珍貴不只因美，也因「它們所代表的事物」：文化源流地圖。介系詞 for 後需名詞子句。<br>(A) what：所……的事物，what they represent 完整；(B) which、(C) that 需先行詞；(D) when 指時間。<br>把答案放回去：雕塑因其代表意義而重要。what 同時兼具 represent 的受詞。",
+  "<b>解題關鍵：</b>固定搭配 be open to visitors 是「對訪客開放」；否定後表示收藏不供參觀。<br>(A) with：和、帶著；(B) by：被、藉由；(C) to：對……開放，正確；(D) among：在多人之間。<br>把答案放回去：收藏並未對一般訪客開放。此處 open 是形容詞，不是「用某工具打開」；visitors 是開放對象。",
+  "<b>解題關鍵：</b>空格前 warehouses 是地點，後面 few people can see them 說在倉庫裡只有少數人看得到。<br>(A) which：需作主詞受詞，但子句已完整；(B) where：在那裡，正確；(C) until：直到；(D) unless：除非。<br>把答案放回去：雕塑藏在少有人能看見的倉庫中。where 等於 in which，正好補上「在倉庫裡」的地點關係。",
+  "<b>解題關鍵：</b>原雕塑移入保管後，原地放置中空混凝土仿製品，空格要名詞複數。<br>(A) strategies：策略；(B) courses：課程、路線；(C) ways：方法；(D) fakes：仿品，正確。<br>把答案放回去：原物被混凝土複製品取代。hollow concrete 說明材質，不代表真正原作，而是只有外觀相似的人工替代品。",
+  "<b>解題關鍵：</b>幾乎所有文物都換成複製品，只有太大不能移動的文物例外。<br>(A) Except for：除了，排除例外；(B) In spite of：儘管；(C) Owing to：由於；(D) In addition to：除了還有。<br>把答案放回去：除了無法移動者，其餘文物全都被替換。語意是排除唯一例外，不是因果、讓步或增加項目。",
+  "<b>解題關鍵：</b>Piaget 十歲完成第一篇可公開出版的作品，描述白化麻雀。<br>(A) subscription：訂閱；(B) publication：出版品、發表作品，正確；(C) obligation：義務；(D) transaction：交易。<br>把答案放回去：他十歲便完成第一篇出版作品。first 和描述文章內容都支持 B。",
+  "<b>解題關鍵：</b>十五歲時他開始一項終身目標，set out to do 表示「著手、立志做」。<br>(A) put down：放下、貶低；(B) passed on：傳遞；(C) ended up：最後成為，後接 V-ing；(D) set out：著手，正確。<br>把答案放回去：他立志發展知識的生物學解釋。空格後 to develop 也直接提示 set out to 的句型。",
+  "<b>解題關鍵：</b>主句說他以動物學家開始生涯，逗號後補充當時研究軟體動物，需 V-ing。<br>(A) study：原形；(B) studied：過去式會成另一主要動詞；(C) studying：伴隨動作，正確；(D) being studied：被研究，主被動顛倒。<br>把答案放回去：他以研究軟體動物開始生涯。研究者是 Piaget 本人，所以要用主動的 studying。",
+  "<b>解題關鍵：</b>過去完成式 had published 表示到二十一歲「為止」已完成二十五篇，時間界線用 By。<br>(A) By：到……時，正確；(B) In：在……歲中；(C) With：隨著；(D) On：在……上。<br>把答案放回去：到二十一歲時，他已發表二十五篇論文。By 常與完成式搭配，強調在指定年齡期限以前就已經累積完成。",
+  "<b>解題關鍵：</b>Piaget 一生「努力試圖」建立一套心理學體系，sought 是 seek 的過去式，seek to do 表力求。<br>(A) forgot：忘記；(B) afforded：負擔得起；(C) sought：力求、設法，正確；(D) tended：傾向。<br>把答案放回去：他一生致力建立心理學系統。life’s work 支持長期追求。",
+  "<b>解題關鍵：</b>句子談澎湖島嶼數量，實際接近一百但未滿一百，需要程度副詞。<br>(F) nearly：幾乎、將近，nearly one hundred 正確。even 是甚至、particularly 是尤其，無法表接近數量；between、for 是介系詞，其他多為名詞或形容詞。<br>把答案放回去：澎湖由將近一百座島組成。",
+  "<b>解題關鍵：</b>寬廣沙灘和海底景觀是吸引遊客前來的主要「景點」。空格需複數名詞。<br>(A) attractions：景點、吸引物，主要 attractions 搭配正確。location 是單一位置、masterpiece 是傑作；其他副詞、介系詞或形容詞詞性不合。<br>把答案放回去：沙灘與海底景觀是澎湖主要景點。",
+  "<b>解題關鍵：</b>前文說只有二十座島有人居住，後面對比其餘島嶼，因此是「無人居住的」。<br>(J) uninhabited：無人居住的，能形容 islands。preserved 是被保存的，但這是無人居住造成的結果；nearly、even 等副詞不能直接作表語。<br>把答案放回去：其他島嶼無人居住，因而保持完整。",
+  "<b>解題關鍵：</b>文章已列沙灘海景，接著說原始環境、玄武岩和生態「甚至」提供更多驚喜，語氣再往上加強。<br>(I) even：甚至，表示遞進。particularly 是尤其，通常要突出某一項；nearly 是將近；其他名詞或介系詞不合。<br>把答案放回去：這些自然特色甚至帶來更多驚喜。",
+  "<b>解題關鍵：</b>前句說島嶼被列為自然保留區，後面說它們有珍稀資源，後者解釋原因。<br>(C) for：因為，在此作連接詞補充理由。between 表位置；even、particularly 是副詞；其他名詞形容詞無法連兩個子句。<br>把答案放回去：這些島被保護，因為擁有珍貴自然資源。",
+  "<b>解題關鍵：</b>姑婆嶼是生產 seaweed 的主要「地點」，空格需名詞。<br>(D) location：地點，a major location for production 合理。attractions 是景點複數，masterpiece 是傑作；preserved、uninhabited 為形容詞，其他詞性不合。<br>把答案放回去：姑婆嶼是海藻生產的重要地點。",
+  "<b>解題關鍵：</b>白沙島仍保有原始、未受破壞的特色，空格要表「被保存下來」。<br>(H) preserved：保存的、保留的，正確。uninhabited 只表示無人居住，不能直接說特色無人住；location、masterpiece 等名詞與句型不合。<br>把答案放回去：白沙島保存了原始自然特色。",
+  "<b>解題關鍵：</b>南岸柱狀玄武岩在多項景觀中特別壯觀，要用強調某一項的副詞。<br>(G) particularly：尤其、特別，修飾 spectacular。nearly 表接近、even 表遞進，不如 particularly 精準；其他名詞形容詞也不能修飾形容詞。<br>把答案放回去：南岸玄武岩格外壯觀。",
+  "<b>解題關鍵：</b>柱狀岩石是自然創造的極佳作品，空格需單數名詞和 a 搭配。<br>(E) masterpiece：傑作，a masterpiece of nature 正確。attractions 是複數、location 只是地點；preserved、uninhabited 是形容詞。<br>把答案放回去：這些岩柱堪稱大自然的傑作。",
+  "<b>解題關鍵：</b>黃色花朵從 basalt cracks 的兩側空隙盛開，表示在裂縫「之間」。<br>(B) between：在……之間，正確。for 表目的原因；nearly、even、particularly 是副詞；其他名詞形容詞無法表位置。<br>把答案放回去：黃花從玄武岩裂縫間綻放。位置線索 cracks 支持 B。",
+  "<b>解題關鍵：</b>空格前提到荷蘭早期大型研究，空格後要交代研究結果；先說如何施測才能接分數變化。<br>(C) 具體說對超過三十五萬名十九歲男性做智力測驗，建立 results 的來源。<br>(B) 是結果應放下一格；(E) 理論後續；(A)(D) 對立觀點，都需要更後面的論述背景。",
+  "<b>解題關鍵：</b>前句已交代智力測驗，空格後談 family size 與 birth order 的解釋，因此此處要先報告兩者和分數的關係。<br>(B) 說家庭越大、出生序越後，分數越低，正是研究結果。<br>(C) 是施測方法；(E) 理論延伸；(A)(D) 反方研究，放此會打亂論證順序。",
+  "<b>解題關鍵：</b>前文說 Zajonc 與 Markus 根據結果提出理論，空格後繼續說理論如何解釋家庭中的智力環境。<br>(E) Since then 回指理論提出後，說它被細化並延伸，銜接最自然。<br>(A)(D) 應在引入反方時；(B)(C) 是早期研究方法與結果，時間順序更前。",
+  "<b>解題關鍵：</b>前文先說有研究支持出生序影響智力，後文將介紹找不到支持的研究，因此先總結議題有兩面。<br>(A) There are definitely two sides... 是正反觀點的轉折橋梁。<br>(D) 會直接介紹反方研究，適合下一格；(B)(C)(E) 仍屬前方研究或理論，不能統整對立。",
+  "<b>解題關鍵：</b>前段是支持方 Zajonc 與 Markus；空格後要接 Rutherford 與 Sewell 的美國研究及相反結果。<br>(D) On the other side 明確引出另一方，並先交代一萬多名畢業生樣本。<br>(A) 已用作兩面總結；(B)(C) 是荷蘭研究；(E) 是支持方理論發展，皆不合反方位置。",
+  "<b>解題關鍵：</b>文章數據指出 Dubai Tower 至少 123 層，Taipei 101 有 101 層，相差至少 22 層。<br>(C) at least 22 stories higher 正確。<br>(A) CN Tower 不是以 stories 這樣比較；(B) 180 feet 是另一數據且對象不合；(D) 160 feet 也不是相對 Taipei 101 的正確高度差。算式 123−101 可直接驗證。",
+  "<b>解題關鍵：</b>文章引述建造者坦言沒有實用理由，這座塔是 about image，目的讓 Dubai 出現在世界地圖、獲得名聲。<br>(D) gain world fame 是同義整理。<br>(A) 頂樓工作不是主因；(B) 維持公司生意未提；(C) 沒說紀念阿拉伯工業化。主旨要依建造者明說的 image 和 world map 判斷。",
+  "<b>解題關鍵：</b>文章說設計 on paper 看起來像 a gigantic space shuttle about to take off，仍是可能的設計外形。<br>(B) may be built in space-shuttle shape 正確。<br>(A) 160 feet 不是天線尺寸；(C) silver 是外觀色澤，不是主要材料；(D) 尚未建到離地 180 英尺，數字被錯置。",
+  "<b>解題關鍵：</b>末段說艾菲爾鐵塔打破大金字塔維持四千三百年的最高建築紀錄；upset 在競爭語境是擊敗原強者。<br>(C) defeated a strong competitor 最符合。<br>(A) 不是扭曲事實；(B) 沒有碰倒建物；(D) 平常 upset 可指使人難過，但此處主詞是建築、受詞是長期紀錄保持者，明顯是在高度紀錄的競爭語境。",
+  "<b>解題關鍵：</b>醫師準備充分卻用艱深醫學研究對商會演講，聽眾無聊；會長指出若談預防流感便會吸引注意。<br>(D) 成功演講要對聽眾有意義且切身，統整對比。<br>(A) regardless of audience 與故事教訓相反；(B) 展示學問正是失敗原因；(C) 討好程度不是重點，而是選擇真正和現場聽眾日常生活非常密切相關的演講內容。",
+  "<b>解題關鍵：</b>演講中聽眾 whispering、shuffling their feet、reading newspapers，結束後也沒人圍上提問，都是無聊證據。<br>(A) 醫學題材和日常關切無關，因此厭倦，正確。<br>(B) 有人低語不代表只因聽不懂；(C) 沒被研究深度打動；(D) 沒祝賀或問問題，原文反而說無人靠近。多個動作共同指向 boredom。",
+  "<b>解題關鍵：</b>這是 NOT mentioned 題。醫師演講列 rare brain disease、immune system disorders、genetic research；flu 是會長事後建議的生活化題目。<br>(A)(C)(D) 都在演講內容中；(B) Flu 沒被醫師講，只出現在建議，故答案 B。<br>要區分 doctor actually spoke about 與 president proposed afterward。",
+  "<b>解題關鍵：</b>會長說若醫師教大家如何 avoid the flu，便會 had them on the edge of their seats；這是形容聽眾非常專注期待。<br>(C) caught their full attention 正確。<br>(A) 不是字面站起來；(B) 驚訝只是短暫反應；(D) 懷疑不是吸引。片語須依演講成功的語境理解。",
+  "<b>解題關鍵：</b>段落談 Coca-Cola 被政府要求揭露配方或離境，又有政治人物介入，核心是政府規定與法律壓力。<br>(D) political/legal issues 最符合。<br>(A) 沒有宗教；(B) 雖影響生意，重點不是收入成本；(C) 也非地理環境。分類題要抓造成公司決策的主要外部力量，也就是當地政府制定的相關法律規範。",
+  "<b>解題關鍵：</b>段落以 income、purchasing power、infrastructure 評估市場發展程度，這些都是金錢與經濟條件。<br>(B) economic issues 正確。<br>(A) 文化因素會談價值觀習俗；(C) 地理因素談位置氣候；(D) 技術議題談設備創新。三個關鍵詞都指消費能力、基礎建設與整體經濟發展。",
+  "<b>解題關鍵：</b>同一廣告在英裔與法裔加拿大使用不同家庭畫面，原因是兩群人對家庭的觀念和接受方式不同。<br>(A) cultural factors 正確。<br>(B) 未談價格收入；(C) 雖地區不同，重點是族群價值觀；(D) 政治法律未出現。廣告調整反映不同語言族群對家庭形象、親密關係與家庭角色安排的明顯文化價值差異，不是地理距離本身。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -27130,62 +27349,62 @@ window.BANK=window.BANK||[];window.BANK.push({
 })();
 
 [
-  "廟宇演歌仔戲是向觀音表達感謝；gratitude 表示「感激」。",
-  "新生參加兩日課程以完整了解學校，屬入學導覽；orientation 表示「迎新、說明」。",
-  "新專輯發行為歌手帶來財富與名聲；release 表示「發行」。",
-  "健全判斷需能分辨事實與意見；differentiate between 表示「區分」。",
-  "電子設備干擾飛行員與塔台通訊；interfere with 是固定搭配。",
-  "女演員控告雜誌故意扭曲她的言行；distorting 表示「歪曲」。",
-  "男孩對許多事好奇並想深入了解；inquisitive 表示「好奇好問的」。",
-  "花東海岸景色令人屏息讚嘆；breathtaking 表示「壯麗的」。",
-  "暢銷月刊即將出版的一期主題為愛與和平；forthcoming 表示「即將到來的」。",
-  "老師強調在語境中學字，而非逐字個別學習；individually 表示「個別地」。",
-  "老婦迷路，絕望地四處找人幫忙；desperately 表示「急切、絕望地」。",
-  "觀察資深業務如何互動並照樣做；likewise 表示「同樣地」。",
-  "為減少致命疾病傷害，各種預防措施已就緒；in place 表示「已就位」。",
-  "五十多隊參賽，賽程須一場接一場進行；back to back 表示「接連地」。",
-  "把 time 誤說成 dime 是口誤；a slip of the tongue 表示「說溜嘴」。",
-  "turn newspapers into charcoal 表示「把報紙變成木炭」。",
-  "by soaking... and then tearing... 兩個動名詞平行，故 tearing。",
-  "紙團曬乾前先把水擠出；squeezed out 表示「擠出」。",
-  "前述方法之外，專家提出另一項建議；Another 修飾單數 suggestion。",
-  "舊報紙也可鋪垃圾桶或作包裝材料；also 表示「也」。",
-  "享受、探索、深化理解不一定是分開的步驟，可能同時發生；separate 表示「分開的」。",
-  "孩子須先感受樂趣，否則對詩的興趣會消失；or 表示「否則」。",
-  "感到詩的樂趣後，孩子願意進一步探索更多詩作；explore 表示「探索」。",
-  "幼兒也能看見表面明示之外的含義；beyond the obvious 表示「超越表象」。",
-  "taking a thoughtful look 是分詞片語，補充說明 deeper understanding。",
-  "雖然所有鳥類皆可能感染，家禽特別脆弱；While 表讓步。",
-  "禽流感爆發可能重創家禽業與農民；can 表示可能性。",
-  "美國疫情撲殺逾一千七百萬隻鳥，代價近六千五百萬美元；at a cost of 表示「花費」。",
-  "開發中國家中，養禽是窮困農民收入與食物來源；where 指這些國家。",
-  "疫情廣泛後難控制，因此政府一發現便採取強力措施；Therefore 表結果。",
-  "Moses 從貧農子弟奮鬥成美國頂尖工業家之一；leading 表示「領先、重要的」。",
-  "申請公司職位的年輕人不了解企業運作；applying for 表示「申請」。",
-  "為解決問題，他創立 Junior Achievement；founded 表示「創辦」。",
-  "學生在校便可參與小型模擬公司的營運；miniature 表示「小型的」。",
-  "每年九月學生獲得加入計畫的機會；offered 表示「被提供」。",
-  "產品從耳環到製作精細的家具；elaborate 表示「精巧複雜的」。",
-  "學生可經營銀行、會計事務所與廣告公司；firms 表示「公司、事務所」。",
-  "各地 Junior Achievement 計畫規模不同；programs 為複數主詞。",
-  "小鎮人口只有數千；population 表示「人口」。",
-  "每個計畫隨地區規模與產業活動程度而異；varies 表示「變化」。",
-  "首句回顧中國畫六千年發展，D 說其成長必然反映時代變化，作為歷史轉折總領。",
-  "佛教帶動宗教壁畫後，B 轉折說題材後來擴展到宗教之外，引出歷史人物與生活故事。",
-  "山水畫成獨立形式後，E 說它逐漸發展成兩種風格，銜接藍綠與水墨山水。",
-  "談完山水畫後，A 引出另一常見類型花鳥畫，後文列花果鳥蟲魚。",
-  "二十世紀畫家混色或加墨，C 的 As a result 說因此得到更自然多變的色彩。",
-  "全文介紹用座標與 GPS 尋找並交換藏物的 geocaching，是新型戶外活動。",
-  "hikers post the coordinates，其他人可 use them；them 指 coordinates。",
-  "榮譽制度要求取走物品者留下自己的藏物，可推知參與者須交換物品。",
-  "文章以人工智慧、相機、微處理器與辨識流程介紹 Cindy，最可能出自科學期刊。",
-  "Aibo 首先普及語音指令，表示能回應口頭命令。",
-  "Cindy 把文字與資料庫比對；If it's a match 中 it 指使用者提出的 request 所要辨識內容。",
-  "Cindy 內建數位相機，掃描範圍尋找數字或字母形狀，因此能「看」。",
-  "Rebay 請 Wright 設計新建築，用來收藏 Guggenheim 的非客觀繪畫博物館藏品。",
-  "Wright 認為紐約過度建設、人口過多且缺乏建築價值，所以不熱衷。",
-  "最後選址在第五大道 88 與 89 街之間，故位於 88 街附近。",
-  "建築以三角、橢圓、弧、圓、方形等幾何圖形組成，並結合自然的可塑性，形成獨特設計。"
+  "<b>解題關鍵：</b>廟宇每年演歌仔戲獻給觀音，這是對神明庇佑表達「感謝」。<br>(A) caution：小心、警告；(B) gratitude：感激，expression of gratitude 是表達謝意；(C) approval：贊成；(D) dignity：尊嚴。<br>把答案放回去：廟宇以歌仔戲演出向觀音表達感謝。演出是感恩行動，不是在表示贊同或警戒。",
+  "<b>解題關鍵：</b>課程目的是讓新生完整了解剛錄取的大學，這類入學介紹叫 orientation program。<br>(A) orientation：迎新導覽、環境介紹，正確；(B) accomplishment：成就；(C) enthusiasm：熱忱；(D) independence：獨立。<br>把答案放回去：所有學生都須參加兩天迎新說明。complete understanding of the university 是最直接線索。",
+  "<b>解題關鍵：</b>新專輯為歌手帶來財富與全球名聲，指的是專輯「發行上市」後的成果。<br>(A) salary：薪水；(B) release：發行、推出，the release of an album 搭配正確；(C) bargain：便宜交易；(D) harvest：收成。<br>把答案放回去：新專輯的發行讓歌手名利雙收。專輯不是薪水或農作物，bargain 也不表示公開上市。",
+  "<b>解題關鍵：</b>健全判斷要能把 fact 和 opinion 分開辨認，固定搭配 differentiate between A and B。<br>(A) inform：告知；(B) undertake：承擔；(C) manipulate：操控；(D) differentiate：區分，正確。<br>把答案放回去：學生要學會分辨事實與意見。between 已提示需要能搭配兩個對象的「區分」動詞。",
+  "<b>解題關鍵：</b>飛機上禁用電子設備，是因為設備會「干擾」飛行員與塔台通訊。<br>(A) occupies：占用；(B) activates：啟動；(C) interferes：干擾，interfere with 是固定搭配；(D) eliminates：消除，意思方向相反。<br>把答案放回去：電子設備可能干擾飛航通訊。空格後的 with 也是辨認 interferes 的重要線索。",
+  "<b>解題關鍵：</b>女演員要控告雜誌，原因是雜誌故意把她真正的言行「扭曲」成不同意思。<br>(A) assigning：分派；(B) contributing：貢獻；(C) foreseeing：預見；(D) distorting：歪曲、曲解，正確。<br>把答案放回去：她控告雜誌故意曲解其言行。sue 和 purposely 都顯示這是有害且刻意的不實呈現。",
+  "<b>解題關鍵：</b>冒號後解釋男孩對很多事有興趣，總想查得更多，這就是好奇好問。<br>(A) accurate：精確的；(B) inquisitive：好奇求知的，正確；(C) manageable：可處理的；(D) contemporary：當代的。<br>把答案放回去：男孩非常好奇，總想深入了解不同事物。後句是對 inquisitive 的完整白話定義。",
+  "<b>解題關鍵：</b>遊客 wholehearted 地欣賞花蓮到宜蘭的海岸景色，應是美得令人屏息。<br>(A) airtight：密不透風的；(B) breathtaking：令人屏息、壯麗的，能形容 scenery；(C) sentimental：多愁善感的；(D) eccentric：古怪的。<br>把答案放回去：遊客盡情欣賞沿海壯麗景色。其他字可以形容容器、人或情緒，不能自然形容此處風景。",
+  "<b>解題關鍵：</b>句中用 will be，談暢銷月刊接下來尚未出版的一期，故選「即將到來的」。<br>(A) forthcoming：即將出版的，forthcoming issue 搭配正確；(B) expensive：昂貴的；(C) brilliant：傑出的、明亮的；(D) ambitious：有企圖心的。<br>把答案放回去：下一期月刊主題將是愛與和平。issue 指期刊某一期，不是爭議。",
+  "<b>解題關鍵：</b>老師把 in context「放在語境中」和另一種逐字分開學習的方法對比。<br>(A) individually：個別地、一個一個地，正確；(B) exclusively：排他地、只限於；(C) approximately：大約地；(D) supposedly：據稱。<br>把答案放回去：學新字應放入語境，不要每個字孤立學習。rather than 清楚標示兩種方法的對照。",
+  "<b>解題關鍵：</b>老婦似乎迷路，又四處找人求助，心情必定急切而無助。<br>(A) socially：社交上；(B) accidentally：意外地；(C) tremendously：非常地，通常還要修飾形容詞；(D) desperately：急切、絕望地，正確。<br>把答案放回去：迷路的老婦急切四處尋求幫助。looking for help 和 lost 共同支持 D。",
+  "<b>解題關鍵：</b>John 是資深業務；句子叫你觀察他如何對待顧客，然後「照樣做」。<br>(A) edgewise：側著、插嘴地；(B) likewise：同樣地，do likewise 是照著做；(C) otherwise：否則、以別種方式；(D) clockwise：順時針。<br>把答案放回去：觀察 John，然後用同樣方式與顧客互動。Then you will become an expert 說明是在模仿成功做法。",
+  "<b>解題關鍵：</b>為降低致命疾病的潛在傷害，各種預防措施現在已經「設置就緒」。<br>(A) by birth：天生；(B) at will：隨意地；(C) in place：就位、已施行，正確；(D) on call：隨傳隨到。<br>把答案放回去：多種預防措施已經到位。措施不是天生或待命的人員，而是已正式開始運作；in order to 後面正是實施目的。",
+  "<b>解題關鍵：</b>五十多隊參賽，場次很多，賽程必須連續、一場緊接一場。<br>(A) eye to eye：意見一致；(B) head to toe：從頭到腳；(C) hand to mouth：勉強餬口；(D) back to back：接連地，正確。<br>把答案放回去：所有比賽都會一場接一場舉行。隊伍數量多是緊密排程的原因，其他三個身體部位片語都不表示時間連續。",
+  "<b>解題關鍵：</b>說話者本想說 time 卻誤說 dime，立刻更正，這是口頭不小心說錯。<br>(A) slip of the tongue：口誤，正確；(B) thorn in my side：長期困擾；(C) penny for your thoughts：你在想什麼；(D) leap in the dark：冒險行動。<br>把答案放回去：把 time 說成 dime 只是口誤。錯誤發生在發音，不是想法或行動。",
+  "<b>解題關鍵：</b>固定搭配 turn A into B 表示「把 A 變成 B」，此處把舊報紙製成木炭。<br>(A) into：變成，正確；(B) for：為了，不能表示轉變結果；(C) off：關掉；(D) upon：在……上。<br>把答案放回去：科學家建議把報紙轉製成木炭。後文泡水、壓球、曬乾正是完整的轉換過程，而不是關閉或放置報紙。",
+  "<b>解題關鍵：</b>by 後先用 soaking，and then 後要用同樣的 V-ing 形式，形成平行結構。<br>(A) tear：原形；(B) tore：過去式；(C) tearing：動名詞，和 soaking 平行；(D) torn：過去分詞。<br>把答案放回去：先泡水兩小時，再把報紙撕成小片。兩個動作都是完成方法，且主詞是人主動撕紙，所以不能用 torn。",
+  "<b>解題關鍵：</b>紙片壓成球後，要先除去水分，才能放到太陽下曬乾。句子是被動 is ______。<br>(A) boiled down：熬煮濃縮；(B) fired up：點燃、激動；(C) kicked off：開始；(D) squeezed out：被擠出，正確。<br>把答案放回去：水擠出後，紙球才拿去日曬。動作順序也排除其他片語；太陽曬乾前不是煮沸或點火。",
+  "<b>解題關鍵：</b>前文已提出製成木炭的方法，接著再提出清潔窗戶的不同建議，因此是「另一個」。<br>(A) This：這個，會指同一建議；(B) Another：另一個，後接單數 suggestion；(C) That：那個；(D) Other：其他的，單獨修飾單數可數名詞前通常要 another。<br>把答案放回去：專家提出另一項舊報紙用途。",
+  "<b>解題關鍵：</b>文章已說舊報紙可製木炭、清窗戶，最後補充「也」能鋪垃圾桶或包東西。<br>(A) soon：很快；(B) also：也，加入用途；(C) thus：因此，後面的用途不是前文結果；(D) rather：寧可、相當。<br>把答案放回去：舊報紙也可當垃圾桶襯紙和包材。整段是在並列多種再利用方式，而不是按照時間順序或因果先後排列。",
+  "<b>解題關鍵：</b>後半句 may happen simultaneously 表示三種反應可能同時出現，所以不一定是彼此分開的步驟。<br>(A) childish：幼稚的；(B) artistic：藝術的；(C) separate：分開的，和 simultaneously 對比；(D) innocent：天真的。<br>把答案放回去：享受、探索、深化理解不一定分開發生。but 清楚帶出反差。",
+  "<b>解題關鍵：</b>孩子必須先享受詩，否則興趣會消失。這裡 or 不是「或者」，而是「否則」。<br>(A) or：否則，正確；(B) and：而且，會變成享受導致興趣消失；(C) so：所以；(D) then：然後。<br>把答案放回去：要先讓孩子覺得詩有趣，否則興趣會死去。前後是警告後果，可改寫為 If not, their interest dies。",
+  "<b>解題關鍵：</b>孩子從詩中得到樂趣後，會想接觸更多書和不同種類詩作，這叫進一步探索。<br>(A) escape：逃離；(B) explore：探索，能接 more books 的概念；(C) accustom：使習慣，須用 accustom oneself to；(D) appear：出現。<br>把答案放回去：孩子會渴望繼續探索更多作品。ready and eager 是正向動機線索。",
+  "<b>解題關鍵：</b>implications 是未直接說出的含義；孩子要從 obvious「表面明顯內容」再往外看。<br>(A) near：靠近；(B) among：在多者之中；(C) beyond：超越，beyond the obvious 是看見表象之外；(D) without：沒有。<br>把答案放回去：幼兒也能學會理解表面之外的暗示。後文 hidden meanings 直接呼應。",
+  "<b>解題關鍵：</b>逗號後的 taking a thoughtful look 補充解釋 reading for deeper understanding 是什麼，使用 V-ing 分詞片語。<br>(A) take：原形會多一個主要動詞；(B) takes：第三人稱動詞，也會句型衝突；(C) to take：較像目的；(D) taking：補充同時動作，正確。<br>把答案放回去：深度閱讀就是仔細看表面下的內容。",
+  "<b>解題關鍵：</b>所有鳥種都可能感染，家禽卻「尤其」脆弱；前半是普遍背景，後半突出特例，帶讓步對比。<br>(A) Not：不，句型不完整；(B) While：雖然，正確；(C) Since：因為，無法解釋 especially；(D) Unless：除非。<br>把答案放回去：雖然各種鳥都可能感染，家禽特別脆弱。兩個子句都是真的，只是感染風險程度不同。",
+  "<b>解題關鍵：</b>禽流感爆發有可能造成嚴重損害，文章接著用美國案例證明。<br>(A) can：可能、能夠，正確；(B) shall：將、應，語氣不自然；(C) dare：敢；(D) need：需要，後兩者不能表達風險。<br>把答案放回去：禽流感疫情可能重創產業與農民。can 後接 be devastating，表示風險可能性而非必然結果。",
+  "<b>解題關鍵：</b>撲殺一千七百萬隻鳥造成近六千五百萬美元的代價。固定搭配 at a cost of 是「花費／代價為」。<br>(A) with a view to：目的是；(B) in regard to：關於；(C) at a cost of：代價為，正確；(D) on account of：因為。<br>把答案放回去：疫情處理付出近六千五百萬美元。",
+  "<b>解題關鍵：</b>空格後描述「在這些開發中國家裡」，養禽是重要收入來源；要用關係副詞 where 指地點。<br>(A) that：關係代名詞，後面子句不缺主詞受詞；(B) until：直到；(C) although：雖然；(D) where：在那些國家，正確。<br>把答案放回去：開發中國家因依賴養禽，經濟後果更嚴重。where 等於 in which，保留地點關係。",
+  "<b>解題關鍵：</b>前句說疫情擴散後非常難控制，後句政府因此在發現時就立即採強力措施，前後是因果。<br>(A) Instead：反而；(B) Therefore：因此，正確；(C) By no means：絕不；(D) On the contrary：相反地。<br>把答案放回去：因為後期難控制，所以政府及早緊急處理。as soon as 也強調及時性。",
+  "<b>解題關鍵：</b>worked his way up 表示 Moses 從貧窮一路奮鬥，最後成為美國「頂尖」工業家之一。<br>(G) leading：領先的、重要的，可放在 industrialists 前。elaborate 是精巧複雜，miniature 是小型；applying、founded、offered 是動詞形式，其他名詞也不能形容工業家。<br>把答案放回去：他成為美國重要工業家之一。",
+  "<b>解題關鍵：</b>空格後有 for positions，表示年輕人正在「申請職位」。<br>(C) applying：申請，applying for positions 搭配正確，現在分詞修飾 young people。leading 是形容詞但意思不合；founded、offered 是過去式／分詞；programs、firms 等名詞不能構成動作。<br>把答案放回去：許多求職年輕人不了解公司運作。",
+  "<b>解題關鍵：</b>As a solution 表示 Moses 為解決年輕人不懂企業的問題，創辦一個組織。<br>(E) founded：創立，過去式符合 1919 年故事。offered 是提供，applying 是申請，varies 是變化；其餘名詞與形容詞不能作主要動詞。<br>把答案放回去：他創立 Junior Achievement 解決此問題。",
+  "<b>解題關鍵：</b>學生仍在學校，不是真正大型公司，而是透過縮小版公司練習營運。空格要形容 corporation。<br>(A) miniature：小型模型般的、縮小版的，正確。elaborate 是精巧複雜，leading 是領先的，都不能表達模擬性；firms、programs 等詞性不合。<br>把答案放回去：學生參與小型模擬公司的運作。",
+  "<b>解題關鍵：</b>句型 Students are ______ the opportunity 是被動，表示機會「被提供給」學生。<br>(J) offered：提供，be offered an opportunity 可直接接雙受詞。founded 是被創立、applying 是申請；其餘名詞或形容詞不能接 opportunity。<br>把答案放回去：每年九月，學生都有機會加入計畫。",
+  "<b>解題關鍵：</b>產品尺寸從小耳環到家庭家具，空格形容家具製作精細且結構較複雜。<br>(B) elaborate：精心製作、複雜的，能形容 furniture。miniature 會變成迷你家具，與 from earrings to 的尺寸對比不合；leading、applying 等也不合語意或詞性。<br>把答案放回去：學生甚至製作精巧的家庭家具。",
+  "<b>解題關鍵：</b>banks、accounting ______、advertising agencies 是三類學生經營的組織，空格需複數名詞。<br>(F) firms：公司、事務所，accounting firms 是會計師事務所。programs 是計畫，不表示提供會計服務的公司；population 等名詞意思不合。<br>把答案放回去：學生會經營銀行、會計事務所與廣告公司。",
+  "<b>解題關鍵：</b>動詞 range 是原形複數，主詞要是複數；內容談各城市的 Junior Achievement 計畫規模。<br>(D) programs：計畫，正確。firms 雖為複數，但 Junior Achievement firms 不是本文用語；population、miniature 等詞性或意思不合。<br>把答案放回去：各地計畫從大城市到小鎮，規模不一。",
+  "<b>解題關鍵：</b>a ______ of a few thousand 表示小鎮「人口數」只有幾千。<br>(H) population：人口，a population of 是固定搭配。programs、firms 是可數組織，不能以人口數表示；miniature、elaborate 是形容詞，varies 是動詞。<br>把答案放回去：有些計畫位於人口僅數千的小鎮。",
+  "<b>解題關鍵：</b>主詞 Each program 是單數，後面 with the size... 表示每個計畫「隨著」地區規模和商業活動而不同。<br>(I) varies：變化，vary with 是固定搭配，第三人稱單數也正確。offered、founded 是被動相關形式；其他選項無法作此處主要動詞。<br>把答案放回去：計畫規模會依所在地條件而異。",
+  "<b>解題關鍵：</b>前句總覽中國畫六千多年持續發展，後面依時代介紹題材與技法，因此需一句總領「發展反映時代變化」。<br>(D) Its growth 的 Its 回指 Chinese brush painting，能帶入歷史。<br>(A) 花鳥畫、(B) 宗教題材、(E) 兩種山水風格都屬後面局部；(C) As a result 需要前因，不能放開頭。",
+  "<b>解題關鍵：</b>空格前談佛教傳入使宗教壁畫興盛；空格後卻舉歷史人物和日常故事，題材已超出宗教。<br>(B) However 表轉折，subject matters 指繪畫題材，銜接最完整。<br>(A) 花鳥畫應接花果鳥蟲；(C) 混色結果；(D) 全文總領；(E) 兩種風格，皆不接 religious themes。",
+  "<b>解題關鍵：</b>空格前說山水畫已成獨立形式，後面立刻分別介紹 blue-and-green 與 ink-and-wash 兩種風格。<br>(E) two separate styles 正好預告後面兩類，It 指 landscape painting。<br>(A) 花鳥畫是另一類；(B) 宗教題材轉折；(C) 色彩結果；(D) 歷史總領，都不能預告兩種山水。",
+  "<b>解題關鍵：</b>前一段談完山水畫，空格後說九世紀藝術家畫此 genre，題材含花、果、鳥、蟲、魚。<br>(A) 先引出 flower-and-bird painting，後面的 this genre 才有指向。<br>(B)(D)(E) 談歷史或山水；(C) 談混色成果，皆無法讓花果鳥蟲的清單自然出現。",
+  "<b>解題關鍵：</b>空格前說二十世紀畫家在一支筆上混多色或把色彩與墨混合；空格後說這些技巧被沿用。<br>(C) As a result 承接混色方法，說因此得到更自然、多變的色彩。<br>(A) 花鳥題材、(B) 宗教轉折、(D) 歷史總領、(E) 山水兩類都與新技法結果不合。",
+  "<b>解題關鍵：</b>全文解釋 hikers 用座標與 GPS 尋找 caches、取物後留物，是名為 geocaching 的全球遊戲。<br>(D) a new form of outdoor activity 能涵蓋全文。<br>(A) hunting practices 會誤以為打獵動物；(B) Utah spa 只是例子；(C) GPS 是使用工具，不是文章主題。主旨要包住玩法、規則和旅遊應用。",
+  "<b>解題關鍵：</b>找 them 前最近可用的複數名詞：They then post the coordinates... other hikers can use them。<br>(A) coordinates：座標，能和 GPS 一起使用，正確。<br>(B) goodies 藏在包裡；(C) caches 是要尋找的藏物；(D) treks 是健行旅程，三者都不是被貼上網站後拿來定位的資料。",
+  "<b>解題關鍵：</b>文章說榮譽制度要求：取走某物時，必須 leave a cache of his own behind，表示參與者要以物換物。<br>(C) items be exchanged 是合理推論。<br>(A) goose chase 是比喻，不是真的追鵝；(B) Utah 只是可學習的一處，不是唯一；(D) 一般 caches 可放 CD、照片等，不全是 spa 商品。",
+  "<b>解題關鍵：</b>文章介紹人工智慧玩具 Cindy 的相機、微處理器、資料庫與文字辨識流程，內容屬科技科學。<br>(C) science journal 最可能刊登。<br>(A) medical report 沒有疾病診療；(B) classified ad 沒有價格或求售資訊；(D) music magazine 雖可能提聲音，本文主題不是音樂。判斷來源要看全文資訊類型與寫作目的。",
+  "<b>解題關鍵：</b>第二段直接說 Aibo was the first to popularize voice command，表示它能接收語音指令。<br>(B) could respond to spoken commands 是同義改寫。<br>(A) 形狀顏色辨識是 Cindy 比 Aibo 更進一步；(C) late 1990s 不是 1990 以前；(D) Aibo 在 Cindy 之前，不是晚很多。",
+  "<b>解題關鍵：</b>第四段流程先說 Cindy 接到 “Can you read this?” 這個 request，辨認成預設指令；後面 If it's a match 表示「若此要求／指令吻合」。<br>(D) the request 最合理。<br>(A) process 是整套流程；(B) object 是相機找到的字形；(C) radius 是掃描範圍，都不能成為 match 的指令內容。",
+  "<b>解題關鍵：</b>第四段明說 inbuilt digital camera scans a 15-degree radius in search of number- or letter-shaped objects。<br>(B) 內建相機搜尋文字，符合。<br>(A) 只辨識資料庫中的字，不是任何文字都讀成 I love you；(C) 工程師不必站旁邊；(D) 微處理器在腹部，但不是用腹部碰字。",
+  "<b>解題關鍵：</b>第一段說 Rebay 請 Wright 設計 new building to house Guggenheim’s museum of Non-Objective Painting。<br>(B) 保存 Guggenheim 的藝術收藏，符合 house 在此的「容納」。<br>(A) 委託時 Guggenheim 尚在世；(C) symphony 是設計比喻；(D) 要求來自藝術顧問與業主，不是市府。",
+  "<b>解題關鍵：</b>第二段直接列 Wright 對紐約的不滿：overbuilt、overpopulated、lacked architectural merit。<br>(A) 建築太多且人口過多，統整前兩項，正確。<br>(B) 沒談建築師不足；(C) 公眾意見有爭議但不是 Wright 不喜地點的原因；(D) Guggenheim 正是委託者，沒有反對。",
+  "<b>解題關鍵：</b>第二段最後說 present site on Fifth Avenue between 88th and 89th Streets，位置非常明確。<br>(C) 在 88 街附近，正確。<br>(A) 第五大道不是郊區；(B) near Central Park 不等於園內；(D) Riverdale 曾被考慮，最後沒有採用。定位題要分清候選地與 present site。",
+  "<b>解題關鍵：</b>第三段列出 triangles、ovals、arcs、circles、squares，第四段說結合幾何規律與自然可塑性，形成獨特建築。<br>(C) 多種幾何圖形的獨特組合，符合。<br>(A) 藝術家曾擔心建築搶眼，但作者沒以此為重要性；(B) 死亡是歷史事實；(D) symphony 是美感比喻，不是音樂廳功能。答案要抓設計特色而非建造軼事。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -28550,66 +28769,66 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "父母想確保孩子隨時安全且受到妥善照顧，protective 表示「保護的、呵護的」。",
-  "飯店經理收到客訴後寄來書面道歉；apology 表示「道歉」。",
-  "Jordan 的表現鼓舞隊友，最後擊敗對手奪冠；inspired 表示「激勵」。",
-  "評論和討論主題只有鬆散關聯，所以難以理解；loosely 表示「鬆散地」。",
-  "家境貧困，父母必須犧牲許多事物來支付教育費；sacrifice 表示「犧牲」。",
-  "SARS 疫情爆發造成許多家庭不便；outbreak 表示「爆發」。",
-  "同學羨慕 Victor 收到新手機；envious of 表示「羨慕」。",
-  "握手會感染愛滋病是錯誤觀念；mistakenly 表示「錯誤地」。",
-  "154 名外籍生代表十三個不同國家；representing 表示「代表」。",
-  "許多人失業且少有新職缺，是經濟衰退的典型情況；recession 表示「衰退」。",
-  "女嬰又感染流感；come down with 是「罹患疾病」的固定用法。",
-  "背傷可能迫使演員退出續集演出；back out of 表示「退出」。",
-  "學生未被告知演講消息，出席人數因而偏低；keep someone in the dark 表示「蒙在鼓裡」。",
-  "三年的努力以最高榮譽畢業而得到回報；pay off 表示「獲得成果」。",
-  "城市很安全，夜間散步也不必提防背後危險；watch your back 表示「小心戒備」。",
-  "句型 it found that 表示「調查發現……」，主詞是前句的 survey。",
-  "部分受訪者遇到資訊需求時轉而查書；turn to 表示「求助於、轉向」。",
-  "前文反覆比較 Internet 與 books，此處 never used the Net 指從未上網。",
-  "調查從臺灣各地 26 所小學抽樣；various parts 表示「不同地區」。",
-  "問卷由受訪者正確填寫；fill out a questionnaire 是「填寫問卷」。",
-  "後文列漫畫、寓言、科普與科技書，皆屬課外閱讀材料；extracurricular 表示「課外的」。",
-  "接續補充另一項調查結果，further indicated 表示「進一步指出」。",
-  "前一個 45% 每月至少讀五本，另一個 45% 少於三本；another 用於同類中的另一部分。",
-  "鋼與塑膠是二十世紀材料，然而十八世紀無人能想像；however 表轉折。",
-  "新材料的發展常促成另一項發明；lead to 表示「導致、促成」。",
-  "鋼因為強度高而成為實用建材；Because of 後接名詞 its strength。",
-  "有了鋼骨建築，樓房才能蓋出許多層；With 表示「藉由、有了」。",
-  "人不可能步行爬上八、十或更多層樓梯；flights of stairs 是固定搭配。",
-  "電梯是為了讓高樓更容易進出而被發明，須用被動語態 was invented。",
-  "高樓在人口擁擠的世界提供空間；crowded with people 表示「擠滿人」。",
-  "袋鼠不能走或跑，只能跳；just 在此表示「只能、僅僅」。",
-  "傍晚與清晨最適合看見袋鼠活動；in action 表示「在活動中」。",
-  "白天牠們在陰影下打盹；snoozing 表示「小睡」。",
-  "剛出生的幼袋鼠爬進母袋鼠的育兒袋；pouch 表示「育兒袋」。",
-  "幼袋鼠循著母親毛髮的排列找到育兒袋；following 表示「循著」。",
-  "幼袋鼠留在育兒袋裡直到八個月大；until 表示動作持續至該時間。",
-  "八個月後牠們永久離家；for good 表示「永遠、永久地」。",
-  "有些幼袋鼠並不熱中獨自闖蕩外界；be keen on 表示「熱衷於」。",
-  "Have you ever wondered why... 是詢問讀者是否曾好奇名稱由來。",
-  "原住民稱呼這些令人驚奇的動物為 Kangooroo；amazing 修飾 animals。",
-  "前文女兒要求養狗，E 承接父母沒有經驗、先不情願但最後答應的決策過程。",
-  "接著描述 Derek 已融入日常生活，D 正好總領散步、回家與獎勵等例子。",
-  "前文列出狗帶來的困擾，C 以拔掉電腦插頭補充另一個使敘述者生氣的事件。",
-  "敘述者把狗留在公園後開車返家，A 轉折指出 Derek 已先回到車道。",
-  "敘述者刻意繞路後迷失方向，B 的電話開啟女兒告知 Derek 正和她吃飯的對話。",
-  "文章主軸是曼谷兼具高度都市化外貌與鮮明泰國傳統文化，A 同時涵蓋兩面。",
-  "首句列交通、噪音、炎熱、洪水與空氣污染，未提人口稠密是遊客問題。",
-  "「永遠不會無聊」意指曼谷活動與體驗多元，是令人興奮的旅遊地。",
-  "寺廟屬傳統泰國文化景點；想探索現代曼谷者最不會優先選擇寺廟。",
-  "文章以事件報導語氣交代人物、時間、爭議及警方反應，最像報紙新聞。",
-  "Michael Jackson 讓兩名子女以彩色面紗遮臉，助理稱是為防止綁架。",
-  "文中以遮臉避免孩子成為綁匪目標；precautionary measure 是預防不良後果的措施。",
-  "末句明說只有在有人對 Jackson 提出 complaint 時，檢方才能展開調查。",
-  "三架航班皆因未登機恐怖分子放置的行李炸彈而墜毀，都是恐怖攻擊。",
-  "第二段首句直接定義 positive passenger bag-matching：旅客未登機，其託運行李不得上機。",
-  "航空公司擔心配對會延誤航班，並使短程旅客改搭火車或開車。",
-  "Barnett 的實驗顯示僅七分之一航班平均延誤七分鐘，且不必縮減班表。",
-  "等待登機時若儀器發現炸彈，he could be located and arrested；he 指潛在恐怖分子。",
-  "TSA 只回覆致謝，完全未表示考慮採行，暗示沒有實施 Barnett 建議的計畫。",
-  "全文先說明行李配對，再反駁延誤與成本疑慮，主旨是主張它為有效安全措施。"
+  "<b>解題關鍵：</b>後句說父母要確保孩子隨時安全、受到照顧，表示他們很保護孩子。<br>(A) patient：有耐心，未必會處處保護。<br>(B) peculiar：奇特的，語意不合。<br>(C) protective：保護的；be protective of 正確。<br>(D) persuasive：有說服力的，不是照顧態度。<br>整句是：華人父母通常很呵護孩子。",
+  "<b>解題關鍵：</b>經理收到 complaint（客訴）後，以書面回應過失，最合理是道歉。<br>(A) consent：同意，客訴後不是徵求許可。<br>(B) scandal：醜聞，不會寄一份醜聞。<br>(C) lecture：演講、訓話，對客人不合。<br>(D) apology：道歉；written apology 是書面道歉。<br>整句是：飯店經理收到投訴後寄來書面道歉。",
+  "<b>解題關鍵：</b>隊友最後振作、擊敗對手奪冠，可知 Jordan 的表現帶給他們力量。<br>(A) signaled：發出信號，不能說明士氣提升。<br>(B) promoted：升遷、促銷，不合隊友情境。<br>(C) opposed：反對，與合作奪冠相反。<br>(D) inspired：激勵、鼓舞，能造成後面的勝利。<br>整句是：Jordan 的表現鼓舞隊友，最終贏得冠軍。",
+  "<b>解題關鍵：</b>comments difficult to follow 的原因是和討論主題關係不緊密，聽者才難抓重點。<br>(A) loosely：鬆散地；loosely related 表示關聯不密切。<br>(B) specifically：明確地，反而會容易理解。<br>(C) anxiously：焦慮地，不能形容關聯。<br>(D) typically：典型地，也不表示離題。<br>整句是：林先生的評論只和主題有鬆散關係，因此難懂。",
+  "<b>解題關鍵：</b>Jack 家境貧困，父母為支付教育費必須放棄許多原本可擁有的東西。<br>(A) inherit：繼承，反而得到財產。<br>(B) qualify：使合格，不能接 many things。<br>(C) sacrifice：犧牲、放棄，符合為教育付出。<br>(D) purchase：購買，會增加支出，與貧困不合。<br>整句是：父母犧牲許多事物來供他讀書。",
+  "<b>解題關鍵：</b>SARS 造成許多家庭不便，空格要指疾病突然大規模出現。<br>(A) destiny：命運，不是疾病事件。<br>(B) contempt：輕蔑，語意無關。<br>(C) outbreak：爆發；the outbreak of a disease 正確。<br>(D) isolation：隔離，可能是防疫措施，但不是造成整體事件的起點。<br>整句是：SARS 疫情爆發帶來許多不便。",
+  "<b>解題關鍵：</b>Victor 收到新手機，同學因自己沒有而羨慕他；空格後 of 也提示固定搭配。<br>(A) arrogant：傲慢的，通常形容 Victor 自己。<br>(B) envious：羨慕的；be envious of someone 正確。<br>(C) beloved：受喜愛的，搭配不是 beloved of him。<br>(D) logical：合邏輯的，和生日禮物無關。<br>整句是：同學很羨慕 Victor 收到新手機。",
+  "<b>解題關鍵：</b>握手不會傳染愛滋病，因此 believe that... 的方式是「錯誤地」。空格用副詞修飾 believe。<br>(A) hardly：幾乎不，會改變相信的程度。<br>(B) consequently：因此，沒有前因。<br>(C) mistakenly：錯誤地，符合錯誤觀念。<br>(D) generously：慷慨地，不能形容信念。<br>整句是：有些人仍錯誤相信握手會感染愛滋病。",
+  "<b>解題關鍵：</b>154 名外籍生來自十三國，因此這群學生「代表」十三個不同國家；V-ing 補充說明主詞。<br>(A) constructing：建造，不能建造國家。<br>(B) representing：代表，正確。<br>(C) exploiting：剝削、利用，語意負面且不合。<br>(D) participating：參與，需接 in，不能直接接 countries。<br>整句是：154 名外籍生代表十三個國家。",
+  "<b>解題關鍵：</b>大量失業、幾乎沒有新職缺，是整體經濟衰退時的典型現象。<br>(A) recession：經濟衰退，正確。<br>(B) prediction：預測，本身不造成失業。<br>(C) government：政府，太廣泛，不能由句中現象直接推出。<br>(D) disappointment：失望，是感受而非經濟時期。<br>整句是：經濟衰退期間，許多人失業且工作機會很少。",
+  "<b>解題關鍵：</b>父母擔心女嬰，because 後說她又＿＿流感；固定片語 come down with 表示罹患疾病。<br>(A) put up：張貼、忍受，不能接 with the flu。<br>(B) went forward：向前進，無關疾病。<br>(C) looked after：照顧，主詞若是女孩會變成她照顧流感。<br>(D) came down：came down with the flu 是染上流感。<br>整句是：女嬰又得了流感。",
+  "<b>解題關鍵：</b>背部受傷可能讓演員無法參與 sequel（續集），因此被迫退出原先承諾的演出。<br>(A) back out of：退出、不履行，正確。<br>(B) set foot in：踏入某地，不能接續集表示參演。<br>(C) make use of：利用，傷勢不是讓他利用續集。<br>(D) keep up with：跟上，通常接人或進度。<br>整句是：他可能因背傷退出續集。",
+  "<b>解題關鍵：</b>出席人數比預期少，是因許多學生不知道演講消息；keep someone in the dark 是蒙在鼓裡。<br>(A) out of order：故障、順序錯亂，不能形容資訊不足。<br>(B) on thin ice：處境危險，與未獲通知不同。<br>(C) without a doubt：毫無疑問，和 kept 不搭。<br>(D) in the dark：不知情，能解釋低出席率。<br>整句是：許多學生未被告知演講。",
+  "<b>解題關鍵：</b>now that 後說學生以最高榮譽畢業，證明三年辛苦工作終於得到好結果。<br>(A) given in：屈服，與成功相反。<br>(B) paid off：得到回報、奏效，正確。<br>(C) fallen apart：崩解、失敗，與榮譽畢業相反。<br>(D) come about：發生，不能表努力獲回報。<br>整句是：三年的努力如今終於有了回報。",
+  "<b>解題關鍵：</b>前句說城市很安全，even at night 也不必保持警戒；片語應是小心背後危險。<br>(A) watch your back：小心、防備，正確。<br>(B) slip your mind：被忘記，主詞應是事情。<br>(C) break your neck：拼命或摔斷脖子，語意不合。<br>(D) catch your breath：喘口氣，安全與否無關。<br>整句是：夜間散步也不必提心吊膽。",
+  "<b>解題關鍵：</b>主詞 The survey，後接 that 77 percent... 是調查得到的結果；固定說法 find that。<br>(A) took：拿、花費，不能接結果子句。<br>(B) put：放置，語意不合。<br>(C) knew：知道，調查不是有意識的人。<br>(D) found：發現；過去式配合 conducted，正確。<br>整句是：調查發現七成七學生認為網路最方便。",
+  "<b>解題關鍵：</b>前文說網路是主要來源，但 14% 反而常「轉向書本」找資料，而不上網。<br>(A) used up：用完，不能用完 books for information。<br>(B) went off：離開、爆炸，語意不合。<br>(C) turned to：轉向、求助於，turned to books 正確。<br>(D) made into：製成，books 不是被製成的受詞。<br>整句是：部分學生會轉而查書。",
+  "<b>解題關鍵：</b>本段比較 Internet 與 books；27% 說從未使用某物，前面已用 Internet，這裡用同義簡稱 the Net。<br>(A) Net：網際網路，正確。<br>(B) survey：調查，學生是受訪，不會說從未用過調查。<br>(C) books：下一句 5% 不讀課外材料，但本句數據指網路使用。<br>(D) respondents：受訪者是人，不能被 used。<br>整句是：兩成七學生從未上網。",
+  "<b>解題關鍵：</b>26 所小學分布在臺灣不同地區，調查才具廣泛性；空格修飾複數 parts。<br>(A) various：各種不同的；various parts of Taiwan 正確。<br>(B) convenient：方便的，通常形容地點或方法，不表分布。<br>(C) youthful：年輕的，不能形容地區。<br>(D) routine：例行的，和抽樣地域無關。<br>整句是：調查抽選臺灣各地的小學生。",
+  "<b>解題關鍵：</b>questionnaires 由 respondents 完成，固定搭配 fill out a questionnaire 是填寫問卷；句子為被動。<br>(A) taken in：吸收、欺騙，不能表示完成問卷。<br>(B) given off：散發，通常是光、熱、氣味。<br>(C) filled out：填寫，were properly filled out 正確。<br>(D) picked on：欺負、挑中責罵，語意不合。<br>整句是：共有 4,017 份問卷正確填妥。",
+  "<b>解題關鍵：</b>後面列漫畫、寓言、科普、科技書，都是課堂以外自選閱讀，因此是 extracurricular reading materials。<br>(A) story：故事的，無法涵蓋科普科技。<br>(B) comic：漫畫的，只涵蓋一類。<br>(C) technology：科技的，也只是一類。<br>(D) extracurricular：課外的，能概括後面所有材料。<br>整句是：5% 學童不讀任何課外讀物。",
+  "<b>解題關鍵：</b>前面已報告閱讀種類比例，這句再補充每月讀書數量，是調查「進一步指出」。<br>(A) thus：因此，後數據不是前數據造成的結果。<br>(B) further：進一步地，further indicated 正確。<br>(C) otherwise：否則，沒有條件關係。<br>(D) for instance：例如，但 indicated 前需副詞且本句不是前句例子。<br>整句是：調查進一步指出每月閱讀量。",
+  "<b>解題關鍵：</b>前一組 45% 每月至少五本，後面同樣是 45% 但屬另一群，需用 another + 數字。<br>(A) other：其他的，通常後接複數名詞，不能直接接 45 percent。<br>(B) another：另一個、另外的；another 45 percent 正確。<br>(C) others'：其他人的所有格，不合。<br>(D) the other's：另一人的所有格，也不合比例。<br>整句是：另有 45% 每月讀不到三本。",
+  "<b>解題關鍵：</b>鋼與塑膠是二十世紀常見材料，下一句卻說十八世紀根本想像不到，前後形成時代反差。<br>(A) finally：最後，表時間。<br>(B) however：然而，插入逗號間表轉折，正確。<br>(C) in addition：此外，不能凸顯反差。<br>(D) as a result：因此，想像不到不是前句結果。<br>整句是：然而，十八世紀的人未曾夢想過這些材料。",
+  "<b>解題關鍵：</b>新材料出現後，常讓另一項發明成為可能，表示原因造成後續結果。<br>(A) leads to：導致、促成；one invention leads to another 正確。<br>(B) finds out：查明，invention 不能主動查明另一發明。<br>(C) succeeds in：成功做，後應接 V-ing。<br>(D) agrees with：同意、適合，兩項發明不會互相同意。<br>整句是：一項發明常促成另一項。",
+  "<b>解題關鍵：</b>steel soon became useful 的原因是 its strength；空格後接名詞片語，需要表示「因為」。<br>(A) Prior to：在……之前，強度不是時間。<br>(B) Because of：因為，後接名詞，正確。<br>(C) In spite of：儘管，會暗示強度反而是不利因素。<br>(D) Not to mention：更不用說，用於補充。<br>整句是：因為強度高，鋼很快成為實用建材。",
+  "<b>解題關鍵：</b>有了 steel construction，建築才可蓋許多層；空格表工具或條件。<br>(A) In：在鋼構裡，意思不精準。<br>(B) For：為了鋼構，因果方向不合。<br>(C) With：有了、藉由，With steel construction 正確。<br>(D) Beside：在旁邊，與建築技術無關。<br>整句是：有了鋼構，樓房就能蓋很多層。",
+  "<b>解題關鍵：</b>walk up 8, 10 or more flights of ___ 描述徒步爬高樓；固定說法 a flight of stairs 是一段樓梯。<br>(A) attendants：服務員，不能按 flight 計算。<br>(B) crews：工作人員，語意不合。<br>(C) planes：飛機，walk up planes 不合理。<br>(D) stairs：樓梯；flights of stairs 正確。<br>整句是：沒人能被期待步行爬上許多段樓梯。",
+  "<b>解題關鍵：</b>為使高樓容易進出，電梯成為被人發明的工具；elevator 與 invent 是被動關係，全文敘述過去。<br>(A) invented：缺 be 動詞，不能單獨接在主詞後表被動。<br>(B) had invented：主動過去完成，電梯不能發明東西。<br>(C) was invented：過去被動，正確。<br>(D) would have invented：假設未實現且主動，皆不合。<br>整句是：因此電梯被發明。",
+  "<b>解題關鍵：</b>高樓在一個「擠滿人口」的世界提供珍貴空間；空格作過去分詞片語修飾 world。<br>(A) crowded with：擠滿；crowded with people 正確。<br>(B) jammed on：阻塞在……上，介系詞錯誤。<br>(C) growing up：長大，world 不會長大。<br>(D) increasing by：增加了某數量，後應接數字而非 people。<br>整句是：高樓為人口擁擠的世界提供空間。",
+  "<b>解題關鍵：</b>前句明說袋鼠不能 walk or run，後句只能填「只能跳」來補足移動方式。選 F just，在此不是「剛才」，而是「僅僅、只能」，They just jump 語意完整。in action 是活動中，不能直接放在主詞與 jump 間；keen 需搭配 on。<br>整句是：袋鼠不能走或跑，牠們只能用跳的。",
+  "<b>解題關鍵：</b>傍晚與清晨是看袋鼠的最佳時間，因白天牠們在陰影下休息；因此看到的是牠們「正在活動」。選 D in action，see kangaroos in action 表示看到袋鼠活動的樣子。snoozing 應放下一句 spend time 後；for good 表永久，皆不合。<br>整句是：傍晚清晨最容易看到活躍的袋鼠。",
+  "<b>解題關鍵：</b>白天和最佳觀察時間形成對比，袋鼠會待在 shade；spend time 後接 V-ing，語意應是小睡休息。選 G snoozing（打盹），spend the daytime snoozing 結構正確。following 是循著、wondered 是好奇，雖同為動詞形式但不符合陰影下休息。<br>整句是：牠們白天在陰影下打盹。",
+  "<b>解題關鍵：</b>剛出生幼袋鼠只有 2.5 公分，必須拖行到母親身上的某個地方，後文又說 stay in the pouch，直接回指育兒袋。選 H pouch（袋鼠育兒袋）。in action、for good 是片語，不能作 mother’s 後的名詞；其他詞也不是身體空間。<br>整句是：幼袋鼠出生後立刻爬進母親育兒袋。",
+  "<b>解題關鍵：</b>幼袋鼠靠母親毛髮的排列找到育兒袋，by 後接 V-ing 表示方法，需要「循著」。選 B following，by following the pattern 是「藉由沿著毛髮紋路」。snoozing 是打盹，wondered 是好奇，都不能說明如何尋路。<br>整句是：牠們循著母親毛髮排列找到育兒袋。",
+  "<b>解題關鍵：</b>stay in the pouch 是持續動作，eight months old 是結束時間點，需要「直到」。選 J until，表示一直待到八個月大。for good 表永久，會和下一句 After that, they leave 矛盾；just 也不表時間終點。<br>整句是：幼袋鼠會留在育兒袋中，直到八個月大。",
+  "<b>解題關鍵：</b>After that 指八個月後，leave home 後要副詞片語說明離開狀態；後文卻說有些幼袋鼠不想闖世界，是對「永久離家」的幽默補充。選 C for good，表示永遠離開。until 需接時間；in action 表活動中。<br>整句是：八個月後，牠們會永久離開育兒袋。",
+  "<b>解題關鍵：</b>後例說一隻五十磅幼袋鼠仍住母袋，證明有些幼袋鼠並不熱衷獨立闖蕩。選 A keen，固定搭配 be keen on + V-ing 是「熱衷於」。amazing 可修飾事物，但不能接 on；just 也不能形成固定搭配。<br>整句是：有些幼袋鼠並不熱衷進入廣大世界。",
+  "<b>解題關鍵：</b>問句 Have you ever ___ why... 需要過去分詞與 have 組成現在完成式，意思是「曾好奇名稱由來嗎」。選 E wondered，Have you ever wondered why... 是常見問法。following、snoozing 雖為動詞形式，不能接 why 表思考內容。<br>整句是：你是否曾好奇袋鼠為何叫 kangaroo？",
+  "<b>解題關鍵：</b>空格直接修飾 animals，需要形容詞；Captain Cook 聽見原住民稱呼這些特別動物，文章以讚嘆語氣收尾。選 I amazing（令人驚奇的）。keen 通常形容人且接 on；in action、for good 是片語，不能直接修飾 animals。<br>整句是：原住民把這些驚奇動物叫作 Kangooroo。",
+  "<b>解題關鍵：</b>前句女兒提出養狗，後句立刻說 After several trips...finally decided，空格需交代父母從不願到答應。E 說沒有養寵物經驗，夫妻起初猶豫但後來讓步，完整銜接決定。D 談狗融入生活，應在買回狗後；A、B、C 都是後來棄狗或衝突事件。<br>因此選 E。",
+  "<b>解題關鍵：</b>前句說頭兩個月令人鼓舞，後面列 Derek 陪 Amy 散步、帶迷路的她回家，都是融入家庭日常的例子。D「Derek 成為生活一部分並適應家庭作息」能總領這些好表現。E 是買狗前態度；C 是問題期；A、B 是棄狗情節。<br>因此選 D。",
+  "<b>解題關鍵：</b>前文說 spoiled puppy 毀掉用餐、清晨舔臉讓作者煩躁，後句 Finally 決定丟掉牠；空格需再補一個惹怒事件。C 說 Derek 拔掉電腦插頭、作者甚至吼牠，延續 problems。D 是早期正面生活；A、B 屬棄狗後；E 是買狗前。<br>因此選 C。",
+  "<b>解題關鍵：</b>作者把 Derek 留在公園，後句 The next day 又嘗試帶到 30 分鐘外，表示第一次失敗，狗先回家。A 以 But 轉折說車開進 driveway 時狗已在那裡，完整交代失敗原因。B 是第三次迷路後打電話；C 是先前問題；D、E 更早。<br>因此選 A。",
+  "<b>解題關鍵：</b>作者第三次任意轉彎、迴轉以干擾狗的方向感，結果自己迷路；後面直接是女兒回答「Derek 正和我吃飯，你在哪？」空格須引出電話。B 說數小時後打電話問女兒是否看到 Derek，正好開啟對話。A 是第一次回家；其餘不接電話。<br>因此選 B。",
+  "<b>解題關鍵：</b>文章先承認交通、噪音等問題，再說現代外表下有鮮明泰國性，並分別列傳統寺廟與現代娛樂。<br>(A) 都市化又富傳統文化：涵蓋兩面，正確。<br>(B) 只談不適問題，過窄，漏掉全段文化與活動。<br>(C) 與巴黎等同為國際城只是用來反駁「曼谷不是泰國」的類比，不是主軸。<br>(D) 餐廳活動只是眾多細節之一。<br>所以主旨選 A，因它同時抓住現代與傳統。",
+  "<b>解題關鍵：</b>題目問 NOT mentioned。首句直接列 traffic、noise、heat、floods、polluted air。<br>(A) 交通壅塞：有提。<br>(B) 骯髒空氣：對應 polluted air，有提。<br>(C) 炎熱天氣：hot season，有提。<br>(D) 人口稠密：文章說都市化，但未列為遊客問題。<br>因此選 D，不能把都市化自行等同人口稠密。",
+  "<b>解題關鍵：</b>Warren 說 Bangkok 給他的禮物是 assurance I will never be bored，意思是活動多元、永遠有事做。<br>(A) 可買紀念品：未提。<br>(B) 提供旅遊保險：把 assurance 誤解成 insurance。<br>(C) 是令人興奮的旅遊地：可由不無聊合理推出。<br>(D) 讓他想家：未提。<br>所以推論選 C。",
+  "<b>解題關鍵：</b>文章把 temples、museums、historic sites 歸在 traditional Thai culture；現代 Krung Thep 則有餐廳、俱樂部、電影、現代藝術館。<br>(A) 寺廟：屬傳統，探索現代時最後考慮。<br>(B) 餐廳、(C) 藝術館、(D) 電影院都列在 contemporary 選項。<br>因此答案 A。",
+  "<b>解題關鍵：</b>文章報導特定人物、柏林動物園事件、前一天陽台爭議、兒保團體與檢方反應，語氣是新聞陳述。<br>(A) 私人信：不會以第三人稱交代多方說法和官方回應。<br>(B) 旅遊手冊：雖地點是動物園，焦點不是景點。<br>(C) 研究論文：沒有研究方法與資料分析。<br>(D) 報紙報導：有人物、時間、爭議與檢方回應，正確。<br>所以依新聞體裁判斷，答案選 D。",
+  "<b>解題關鍵：</b>第一段說 Jackson 帶兩名年長子女逛動物園，兩人的臉完全罩著鮮豔面紗，助理說為防綁架，奇特裝扮因此引人注意。<br>(A) 他涉及綁架：相反，是聲稱預防綁架。<br>(B) 用面紗遮住孩子以免被綁：完整符合。<br>(C) 把孩子藏在動物園：未提，他們公開同行。<br>(D) 是 Jackson 自己遮臉：原文是 children。<br>所以選 B。",
+  "<b>解題關鍵：</b>白布遮臉被說是 precautionary measure，目的明寫 protect his children from becoming kidnappers’ targets，也就是先做以避免壞事。<br>(A) 精密計算：precision 只是字形相近。<br>(B) 達成目標的計畫：太廣。<br>(C) 避免不良後果所採步驟：正確。<br>(D) 數學題：無關。<br>所以選 C。",
+  "<b>解題關鍵：</b>末句明說 inquiry could only be opened if a complaint was filed against Jackson。<br>(A) 檢察官被調查：主客體顛倒。<br>(B) 更多面紗：不是法律條件。<br>(C) 有人正式提出申訴：對應 complaint filed，正確。<br>(D) 兒保團體再次打電話：呼籲本身不足。<br>所以警方行動的必要條件是 C。",
+  "<b>解題關鍵：</b>第二段列三起案例，說 suitcase bombs brought down 三架飛機，且 terrorists weren't on board。<br>(A) 都遭恐怖攻擊擊落：共同點正確。<br>(B) 恐怖分子在機上：原文相反。<br>(C) 1980 唯一事故：未提且年代說法不對。<br>(D) 因沒遵守措施：當時措施尚未成標準。<br>因此選 A。",
+  "<b>解題關鍵：</b>第二段開頭先提出 positive passenger bag-matching，接著直接定義：若行李主人未登機，該託運行李不得上飛機，正是題目要找的定義。<br>(A) 第一段只列身分證、禁帶刀剪等一般措施。<br>(B) 第二段含 require that... 的明確定義，正確。<br>(C) 第三段談 TSA 選電子偵測及航空公司反對。<br>(D) 第四段談實驗與效果。<br>所以選 B。",
+  "<b>解題關鍵：</b>第三段說航空公司 fear it might delay flights and persuade short-haul travelers to take a train or drive。<br>(A) 電子系統較便宜：未提。<br>(B) 電子系統更有效：作者反而主張配對更能嚇阻。<br>(C) 會延誤且讓旅客改搭別種交通：符合。<br>(D) 侵犯隱私：文章稱配對能保護隱私。<br>所以選 C。",
+  "<b>解題關鍵：</b>第四段提供精確實驗：delays averaging seven minutes on only one in seven flights，且不用縮減班表。<br>(A) 僅七分之一航班平均延誤七分鐘：完全符合。<br>(B) 被迫減班：原文說 no reduction。<br>(C) 證明無效不便：相反。<br>(D) 改班表降頻率：同樣與 no reduction 相反。<br>所以選 A。",
+  "<b>解題關鍵：</b>末段先說 bag-matching ensures that the terrorist will proceed to the gate，下一句 If...devices reveal a bomb, he could be located and arrested；he 延續同一人物。<br>(A) Barnett 是提出論點者，不是等登機的人。<br>(B) 潛在恐怖分子：正確。<br>(C) 警衛、(D) 一般旅客都不會因炸彈被定位逮捕。<br>所以選 B。",
+  "<b>解題關鍵：</b>Barnett 寫信建議配對加偵測，TSA 只回 thank-you note，且 no indication...contemplating action，表示連考慮行動的跡象都沒有。<br>(A) 歡迎建議：只有禮貌致謝，不能擴大。<br>(B) 已實施、(C) 邀請任職：皆無證據。<br>(D) 沒計畫實施：最合理推論。<br>所以選 D。",
+  "<b>解題關鍵：</b>全文先介紹行李配對，指出美國忽視它，再以大型實驗反駁延誤與破產疑慮，最後主張配對加偵測比單一措施更有效。<br>(A) 隱私安全取捨：文章說此法能兼顧，不是主旨。<br>(B) 強調 TSA 任務：作者其實批評 TSA 忽略方案。<br>(C) 主張行李配對是有效措施：涵蓋定義、證據與結論。<br>(D) 倡導只用電子偵測：作者認為不足。<br>所以選 C。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
@@ -30096,71 +30315,71 @@ window.BANK=window.BANK||[];window.BANK.push({
 });
 
 [
-  "在師長與父母鼓勵下，Jane 重拾自信並大幅進步；encouragement 表示「鼓勵」。",
-  "她不等命令便主動採取必要行動；take the initiative 表示「採取主動」。",
-  "負責保存與查核個人、公司財務紀錄的是會計師；accountant 表示「會計師」。",
-  "後文說他其實很擅長運動，前面應是「看起來不具運動員特質」；athletic 表示「擅長運動的」。",
-  "陪審團要判斷被告無罪或有罪；innocent 與 guilty 形成對比。",
-  "連上網路後可瀏覽、收發信件及下載軟體；download 表示「下載」。",
-  "車禍使主要街道交通受阻數小時；obstructed 表示「被阻塞」。",
-  "沙漠風暴造成數百人死亡；perished 表示「喪生」。",
-  "準時在排定的十點抵達，不早也不晚；punctually 表示「準時地」。",
-  "停電只使全城暫時變暗，兩小時後供電即恢復；temporarily 表示「暫時地」。",
-  "老師示範前，Sam 無法弄懂如何列印；figure out 表示「理解、想出」。",
-  "Johnny 得跨大步才能跟上父親；keep pace with 表示「跟上步調」。",
-  "他無法承受日常壓力，已瀕臨精神崩潰；on the verge of 表示「瀕臨」。",
-  "王太太沒有把遊民當社會恥辱，反而提供食物與水；Instead of 表示「而不是」。",
-  "林太太對丈夫的抱怨充耳不聞；turn a deaf ear to 表示「不理會」。",
-  "前句無論是沉迷電腦或害怕科技，後句都成立；in fact 強調掌握英文確實需要電腦詞彙。",
-  "世界上的水只有一小部分是淡水，其中多數被困在極地冰層；it 指 fresh water。",
-  "淡水湖、河流與水庫看似數量眾多，實際只占極小部分；numerous 表示「眾多的」。",
-  "即使在水源充足的地方也受污染威脅；where 引導地點副詞子句。",
-  "各國競逐水資源；competition for 是「爭奪……的競爭」固定搭配。",
-  "科學奧林匹亞的共同目的在促進全球理解與彼此欣賞；promote 表示「促進」。",
-  "Each of... 是單數主詞，搭配 has its specific aims。",
-  "數學奧林匹亞以數學問題挑戰在數學方面有天分的青年；mathematically 修飾 gifted。",
-  "各國青年數學家藉參賽培養友好關係；friendly relations 是自然搭配。",
-  "因為要促進國際交流，所以其最終目標是創造交換資訊的機會；therefore 表結果。",
-  "集會要求停止購買盜版 CD；pirated 是過去分詞形容詞，表示「盜版的」。",
-  "唱片業想對抗盜版；fight piracy 表示「打擊盜版」。",
-  "devote time to 中的 to 是介系詞，後接 making；to making their music perfect 表示致力完善音樂。",
-  "粉絲支持唱片公司王國，然而業者從未以降價回饋；however 表轉折。",
-  "正版與街頭盜版的巨大價差形成簡單的算術問題；question 表示有待回答的問題。",
-  "無論是電腦迷或科技恐懼者，都需要學新詞；In either case 表示「無論哪種情況」。",
-  "master English 需要熟悉不斷出現的電腦詞彙；be familiar with 表示「熟悉」。",
-  "接著提出電腦詞易學的第一個理由；For one thing 表示「一方面」。",
-  "後文以德、西、日語的 computer 為例；For example 用來引出實例。",
-  "日語中可見 konpyuta 這個形式；find 在此表示「發現、看到」。",
-  "許多電腦詞生動有趣，初聽會令人發笑；colorful 表示「生動多彩的」。",
-  "括號說明是傳統郵件而非網路郵件，對應俏皮詞 snail mail。",
-  "要掌握電腦詞，理解創造它們的網路文化很有幫助；understand 表示「理解」。",
-  "電腦產業充滿自認不同於傳統商業人士的年輕人；be full of 表示「充滿」。",
-  "穿西裝的 business people 代表舊式商業形象；traditional 表示「傳統的」。",
-  "前文定義虛構是想像故事，E 轉折指出虛構不一定和日常現實完全不同。",
-  "後文談你、月亮、星星等真實元素，D 先提出可寫一篇飛往月球的故事。",
-  "即使故事使用真實元素，實際的太空旅行仍是想像；C 承接並判定它屬虛構。",
-  "nonfiction 全部關於真實事物，所以 A 的 Nothing is made up 直接補充定義。",
-  "列完傳記、自傳、新聞與科學報告後，B 補入歷史也是非虛構，並引出地震史例。",
-  "Mary 不看街景，反而注意必須反覆下車清除冰雪的駕駛；D 形成明確轉折。",
-  "前文說駕駛嘗試各種方法，E 指出當時仍只能用手擦除冰雪，接著才引出 Mary 的構想。",
-  "Mary 畫下裝置後，A 總領其簡單解法，後句隨即說明車內拉桿與擺臂。",
-  "裝置最初為寒冷天氣設計，C 補充後來才加入清除雨水的功能。",
-  "朋友嘲笑仍未使她放棄，B 接著交代一年後取得專利，再說 1913 年成為標準配備。",
-  "文章說明冰屋與圓錐帳篷的結構、保暖與隔熱差異，最可能出自住宅建造雜誌。",
-  "冰屋牆面密實不透風，帳篷門口與獸皮縫隙會進風，可推知冰屋隔熱較佳。",
-  "全文逐項對照兩種住所使用火堆後的不同溫度與後果，主要寫作方式是比較。",
-  "Soapy 一心違法求入獄卻屢次失敗，決心改過時反因先前破壞行為被判刑，顯示人須為行為負責。",
-  "教堂歌聲使 Soapy 決定改過並接受工作，卻立刻被捕入獄，B 符合情節。",
-  "餐廳經理發現 Soapy 想藉不付錢被捕，便要他進廚房洗碗；he 指 manager。",
-  "開頭明說 Soapy 每逢冬季會違法，以便在室內免費獲得三餐，A 正確。",
-  "Victoria 在丈夫過世前就以嚴肅聞名，因此「丈夫死後才變嚴肅」不符合本文。",
-  "她四十年使用黑邊白紙寫信，和終身穿黑衣一樣，都是表達喪夫悲痛的方式。",
-  "她道德標準高、喪夫孤獨又熱愛工作，但自信固執、期待他人同意，並不妥協。",
-  "mourned his loss 指因丈夫死亡而長期公開表達悲痛，B 最貼近語意。",
-  "Boll 是曼哈頓計畫的德國科學家，職涯科學成就是製造原子彈，因此 C 正確。",
-  "Amai 在廣島首次原爆中失去原有面容，如今戴著美國外科醫師重建的臉。",
-  "妻子看出丈夫受惡夢與良心折磨，安排救贖之旅使 Boll 與 Amai 相遇。",
-  "Boll 的勝利伴隨罪惡感與惡夢，Amai 也承受原爆創傷；全文指出戰爭勝利必須付出代價。"
+  "<b>解題關鍵：</b>Jane 在老師父母幫助下重拾信心並進步，空格要指正面鼓勵。<br>(A) construction：建造，無關信心。<br>(B) movement：運動、移動，不是支持。<br>(C) association：協會、聯想，語意不合。<br>(D) encouragement：鼓勵，能帶來信心與進步。<br>整句是：在師長父母鼓勵下，她恢復自信。",
+  "<b>解題關鍵：</b>後句說她不等命令就採取必要行動，這正是「主動帶頭」。<br>(A) initiative：主動；take the initiative 是採取主動。<br>(B) charity：慈善，和命令無關。<br>(C) vision：願景，不表示先行動。<br>(D) advantage：優勢；take advantage 是利用，意思不同。<br>整句是：Jane 的優點之一是會主動行動。",
+  "<b>解題關鍵：</b>工作內容是保存、查核個人公司 financial records，這是會計師職責。<br>(A) volunteer：志工，不特指財務。<br>(B) traitor：叛徒，語意無關。<br>(C) accountant：會計師，正確。<br>(D) economist：經濟學家，研究整體經濟，不通常逐筆查帳。<br>整句是：李先生是銀行資深會計師。",
+  "<b>解題關鍵：</b>but he is...excellent at sports 表轉折，前面應是外表「看起來不像運動型」。<br>(A) athletic：運動健將型的，與後面 sports 呼應。<br>(B) graceful：優雅的，不一定關乎運動能力。<br>(C) enthusiastic：熱情的，後文不是談態度。<br>(D) conscientious：認真的，與棒球能力無直接關係。<br>整句是：Jack 看來不擅運動，其實很強。",
+  "<b>解題關鍵：</b>陪審團需在 ___ or guilty 之間判斷，guilty（有罪）相反詞是 innocent。<br>(A) evident：明顯的，不是法律判決。<br>(B) considerate：體貼的，無關罪責。<br>(C) mature：成熟的，也不是有無罪。<br>(D) innocent：無罪的，與 guilty 配對。<br>整句是：陪審團判定被告無罪或有罪。",
+  "<b>解題關鍵：</b>連網後可瀏覽、收信並對 software 執行網路動作，合理是下載。<br>(A) upset：使不安，不能對軟體做此事。<br>(B) overcharge：多收費，主詞不是商店。<br>(C) undertake：承擔，不能說承擔軟體。<br>(D) download：下載，與網路功能並列。<br>整句是：我能從網路下載軟體，和瀏覽、收發郵件並列為連網功能。",
+  "<b>解題關鍵：</b>車禍使 Main Street traffic 數小時無法順暢，需過去分詞形容受阻。<br>(A) detected：被偵測，不能說明塞車。<br>(B) obstructed：被阻塞，正確。<br>(C) survived：存活，交通不是生物。<br>(D) estimated：被估計，和事故結果無關。<br>整句是：車禍使主要街道交通受阻，而且持續了好幾個小時。",
+  "<b>解題關鍵：</b>後半 many more were left homeless，顯示風暴造成嚴重傷亡；數百人「喪生」。<br>(A) perished：死亡、喪生，正確。<br>(B) inspired：受鼓舞，與災害相反。<br>(C) mistreated：受虐待，風暴不是人為虐待。<br>(D) dismissed：被解雇或解散，語意不合。<br>整句是：數百人在沙漠風暴中喪生。",
+  "<b>解題關鍵：</b>at ten as scheduled，且 not a minute early or late，表示完全準時；空格副詞修飾 arrived。<br>(A) flexibly：彈性地，與固定十點相反。<br>(B) punctually：準時地，正確。<br>(C) numerously：大量地，不能形容一人抵達。<br>(D) approximately：約略地，和分秒不差相反。<br>整句是：Mike 準時十點抵達。",
+  "<b>解題關鍵：</b>停電使城市變暗，但兩小時後供電恢復，表示只是暫時。<br>(A) precisely：精確地，無關持續時間。<br>(B) roughly：大約地，也不是時間長短。<br>(C) illogically：不合邏輯地，不能解釋復電。<br>(D) temporarily：暫時地，與 later restored 呼應。<br>整句是：停電暫時使全城陷入黑暗。",
+  "<b>解題關鍵：</b>老師示範前 Sam 不懂如何列印，空格需表示想通方法。<br>(A) go through：經歷、仔細查看，不能直接接 how。<br>(B) come up：出現，若提想法需 with。<br>(C) figure out：弄懂、想出，figure out how 正確。<br>(D) get over：克服、復原，通常接困難疾病。<br>整句是：老師示範後他才弄懂列印方法。",
+  "<b>解題關鍵：</b>Johnny 必須跨大步，目的就是跟上父親走路速度。<br>(A) break even：收支平衡，無關走路。<br>(B) keep pace：跟上步調；keep pace with 正確。<br>(C) win pride：贏得自豪，不是固定搭配。<br>(D) take chance：冒險，通常說 take a chance。<br>整句是：他跨大步才能跟上父親。",
+  "<b>解題關鍵：</b>因無法承受日常壓力，他已「瀕臨」嚴重精神崩潰。<br>(A) on behalf of：代表，不表即將發生。<br>(B) in the light of：根據、考量。<br>(C) on the verge of：瀕臨、即將，正確。<br>(D) in front of：在前面，只表位置。<br>整句是：他因無法處理日常壓力，正處於精神崩潰邊緣。",
+  "<b>解題關鍵：</b>王太太沒有把遊民視為恥辱，「而是」提供食物水，前後行為相反。<br>(A) Regardless of：不管，不能形成替代。<br>(B) As a result of：由於，不表對比。<br>(C) In the event of：萬一發生。<br>(D) Instead of：不是……而是，後接 V-ing 正確。<br>整句是：她不鄙視遊民，反而伸出援手。",
+  "<b>解題關鍵：</b>她認為面對問題比整天抱怨有建設性，因此選擇不理會丈夫抱怨。<br>(A) turned a deaf ear to：充耳不聞，正確。<br>(B) took part in：參與，會變成一起抱怨。<br>(C) showed him the way to：指路，結構意思不合。<br>(D) took notice of：注意，與不支持抱怨相反。<br>整句是：林太太不理丈夫的抱怨。",
+  "<b>解題關鍵：</b>前文列沉迷電腦或害怕科技兩種人，本句強調一項確實事實：學英文都需學電腦詞。<br>(A) meanwhile：同時，表時間。<br>(B) besides：此外，只補充。<br>(C) in fact：事實上，用來加強真實性，正確。<br>(D) for example：例如，後句是主要論點非例子。<br>所以句意是：事實上，掌握英文需要電腦詞彙。",
+  "<b>解題關鍵：</b>前句說世界水中只有小部分是 fresh water，後句說 most of ___ trapped in polar ice；單數不可數的 fresh water 用 it 代替。<br>(A) which：需先行詞與子句結構。<br>(B) it：代替淡水，most of it 正確。<br>(C) what：所……之物，不合代名詞位置。<br>(D) them：複數，與不可數 water 不一致。<br>所以選 B。",
+  "<b>解題關鍵：</b>淡水 lakes, rivers, reservoirs 看似很多，但後面說只占極小部分，空格需「數量眾多」。<br>(A) scarce：稀少，與表面很多相反。<br>(B) empty：空的，未談無水。<br>(C) numerous：眾多的，修飾複數主詞正確。<br>(D) polluted：受污染，污染在下一句另談。<br>整句是：這些水源雖多，所占淡水仍極少。",
+  "<b>解題關鍵：</b>空格引導子句 water is plentiful，修飾「即使在某些地方」的地點概念，子句不缺主受詞。<br>(A) how：如何，非方式。<br>(B) why：為何，非原因。<br>(C) what：什麼，會缺先行地點。<br>(D) where：在……的地方，正確。<br>整句是：即使在水源充足的地方，淡水仍可能受到相當嚴重的污染威脅。",
+  "<b>解題關鍵：</b>各國為取得水資源而競爭，固定搭配 competition for something。<br>(A) for：爭奪、為了；competition for water 正確。<br>(B) with：通常接競爭對手，不接資源。<br>(C) to：不與 competition 搭配此意。<br>(D) at：表示地點或能力。<br>整句是：各國對水資源的競爭日益加劇。",
+  "<b>解題關鍵：</b>科學奧林匹亞共同目的是讓全球更理解、彼此欣賞，需要「促進」。<br>(A) sponsor：贊助，不是理解的動作。<br>(B) promote：促進，promote understanding 正確。<br>(C) determine：決定，不能決定互相欣賞。<br>(D) calculate：計算，語意不合。<br>整句是：競賽促進全球理解與欣賞。",
+  "<b>解題關鍵：</b>主詞 Each of the Olympiads 的核心 each 是單數，後面受詞 its specific aims 需要「擁有」。<br>(A) has：單數現在式，正確。<br>(B) is：是，但不能直接接 aims。<br>(C) have：複數形式。<br>(D) are：複數 be 動詞。<br>整句是：每一項奧林匹亞都有自己的特定目標。",
+  "<b>解題關鍵：</b>數學競賽挑戰在數學方面有天分的青年，空格副詞修飾 gifted。<br>(A) destructively：破壞性地，不合。<br>(B) effectively：有效地，不能指出天分領域。<br>(C) mutually：彼此地，無關個人才華。<br>(D) mathematically：在數學方面，mathematically gifted 正確。<br>整句是：比賽挑戰具數學天分的青年。",
+  "<b>解題關鍵：</b>各國青年數學家參賽，目的之一是建立友好「關係」。<br>(A) behaviors：行為，不能 develop friendly behaviors 表國際連結。<br>(B) messages：訊息，非人際成果。<br>(C) relations：關係；friendly relations 是自然搭配。<br>(D) guests：客人，不能被 develop。<br>整句是：參賽者培養彼此友好關係。",
+  "<b>解題關鍵：</b>前文說促進國際理解與友好關係，後句「最終目標是交換資訊機會」是由此得出的結果。<br>(A) whereas：然而、而，表對比。<br>(B) nevertheless：儘管如此，無反差。<br>(C) therefore：因此，正確。<br>(D) likewise：同樣地，不強調因果。<br>整句是：因此，最終目標是創造各國學生交換科學資訊的機會。",
+  "<b>解題關鍵：</b>集會要求歌迷停止購買街上販售的盜版 CD；空格修飾 CDs，要過去分詞形容詞。<br>(A) pirating：正在盜版的，CD 不主動盜版。<br>(B) pirate：海盜或盜版者，不是此處形容形式。<br>(C) piracy：盜版行為，名詞。<br>(D) pirated：遭非法複製的、盜版的，正確。<br>整句是：停止購買非法複製、未經授權的盜版光碟。",
+  "<b>解題關鍵：</b>唱片業號召不買盜版，是要「打擊盜版行為」；空格後 piracy 為受詞。<br>(A) fight：對抗；fight piracy 正確。<br>(B) kill：殺死，通常用於生物，搭配生硬。<br>(C) win：贏得，不能 win piracy。<br>(D) shut：關閉，需接 down 等片語。<br>整句是：唱片業希望藉由拒買盜版來打擊非法複製行為。",
+  "<b>解題關鍵：</b>固定搭配 devote time to + V-ing，to 是介系詞；音樂人花時間把音樂做到完美。<br>(A) in doing：不與 devote time 直接搭配。<br>(B) for singing：目的語意不精準。<br>(C) to making：to 加 V-ing，結構正確。<br>(D) at playing：同樣不接 devote。<br>整句是：歌手投入時間完善音樂。",
+  "<b>解題關鍵：</b>歌迷支持唱片公司建立王國，後句卻說公司從未以降價回饋，前後反差。<br>(A) indeed：的確，只加強。<br>(B) however：然而，表轉折正確。<br>(C) hence：因此，降價不是支持造成。<br>(D) furthermore：此外，不能凸顯未回饋。<br>整句是：然而，業者從未以降低正版唱片價格來回報一直長期支持他們的歌迷。",
+  "<b>解題關鍵：</b>正版與盜版巨大價差形成一個簡單 arithmetic ___，意思是消費者會計算並提出疑問。<br>(A) question：問題；arithmetic question 正確。<br>(B) feedback：回饋，不是計算題。<br>(C) product：產品，價差不是產品。<br>(D) industry：產業，不能說 arithmetic industry。<br>整句是：價差形成簡單的算術問題。",
+  "<b>解題關鍵：</b>前文提出兩種相反的人：電腦迷與害怕科技者；後文說兩者都需要學電腦新詞。選 F In either case，表示無論上述哪一種情況。For one thing 是列第一個理由，應放後段；For example 用於舉例，不能概括兩類人。<br>整句是：無論是哪一種人，都得學會這些詞。",
+  "<b>解題關鍵：</b>要 master English，就必須「熟悉」不斷增加的 computer words；固定搭配 be familiar with。選 D familiar with，文法語意皆完整。full of 是充滿，主詞應是容器；understand 是動詞，若放此處會破壞 be ___ 結構。<br>整句是：精通英文需要熟悉電腦詞彙。",
+  "<b>解題關鍵：</b>前面提出學電腦詞的需要，本句開始說它們其實不難學，後文再列理由與例子；需要標示第一點。選 A For one thing（首先、一方面）。For example 要接具體例子，下一格才出現；In either case 用於兩種情況。<br>整句是：首先，很多電腦詞在不同語言中相似。",
+  "<b>解題關鍵：</b>前句提出電腦詞跨語言相似的概念，後面列 German、Spanish、Japanese 的 computer，需「例如」。選 G For example，引出具體語言例證。For one thing 是較大的第一項理由；其他選項是動詞或形容詞，不能作句首轉承。<br>所以此格功能是由概念進入例子。",
+  "<b>解題關鍵：</b>在日語中，人們可以「看到、找到」konpyuta 這個詞；can 後需原形動詞。選 E find，you can find... 表示可以發現。understand 是理解，但句子要指出該形式存在；full of、familiar with 都不能直接接在 can 後形成此意。<br>整句是：日語中可看到 konpyuta 這種形式。",
+  "<b>解題關鍵：</b>後文說電腦詞初聽會令人發笑，表示它們形象鮮明、有趣，空格修飾 words。選 J colorful，在此不只指顏色，而是「生動有趣」。traditional 與新網路文化方向相反；familiar with 需接受詞，不能直接修飾 words。<br>整句是：許多電腦詞生動又好玩。",
+  "<b>解題關鍵：</b>括號解釋 regular mail, not e-mail，表示傳統慢速郵件的俏皮稱呼。選 I snail mail，以蝸牛比喻傳統信件比電子郵件慢。colorful 是形容詞，不能作此名詞例子；traditional 也沒有完成「某種郵件」的名稱。<br>所以此格是網路文化創造的具體詞。",
+  "<b>解題關鍵：</b>文章說若要掌握電腦詞，了解創造它們的 online culture 很有幫助；to 後接原形動詞。選 C understand（理解）。find 只表示發現，無法說明掌握文化內涵；familiar with 前需 be/become。<br>整句是：理解網路文化有助於掌握其詞彙。",
+  "<b>解題關鍵：</b>句型 The computer industry is ___ young people，需表示產業中有很多自認不同的年輕人。選 B full of（充滿），be full of + 名詞正確。familiar with 是熟悉，產業不會熟悉人；traditional 應修飾下一格的 business people。<br>整句是：電腦產業充滿年輕人。",
+  "<b>解題關鍵：</b>這些年輕人自認不同於穿西裝的 ___ business people，對比新式電腦文化和舊式商業形象。選 H traditional（傳統的）。colorful 雖可形容人，但不能建立新舊對比；snail mail 是名詞。<br>整句是：他們認為自己不同於穿西裝的傳統商人。",
+  "<b>解題關鍵：</b>前文把 fiction 定義為想像故事，後文將說虛構也可含真實人物事物；空格須轉折。E「但虛構不一定和日常情況完全不同」正好架橋。A 是非虛構定義；D、C 是月球例子，應稍後；B 談歷史。<br>因此選 E，這句負責從定義轉到虛構也能包含真實元素。",
+  "<b>解題關鍵：</b>後文接著分析 you、moon、stars 都是真的，所以空格需先提出一個含真實元素卻為想像的故事。D「你可以寫自己飛往月球的故事」提供完整例子。C 是對該故事的判定，須放分析後；E 是前段轉折；A、B 屬 nonfiction。<br>因此選 D。",
+  "<b>解題關鍵：</b>前文逐一說你本人、月亮、星星都真實，但實際飛越太空是想像；空格應下結論。C「但你的太空旅行會是虛構」承接 exactly。D 是例子開頭，已先出現；E 是較大轉折；A、B 轉入非虛構。<br>因此選 C，真實元素不會改變整趟旅行是想像的事實。",
+  "<b>解題關鍵：</b>段落開始定義 nonfiction 全部關於 real things，下一句應加強「沒有任何部分是編造的」。A Nothing is made up 直接補充定義。B 是非虛構類別例子；C、D 是虛構月球故事；E 談 fiction。<br>此句也讓後面列傳記、新聞等更自然，因此選 A。",
+  "<b>解題關鍵：</b>前文列 biography、autobiography、news、science reports，後文接 earthquake history 的例子，空格需加入 history 這類 nonfiction。B「歷史也是非虛構」正好由清單接例子。A 是定義句應更早；C、D、E 都屬 fiction 段。<br>因此選 B。",
+  "<b>解題關鍵：</b>文章先說 Mary 坐電車並非欣賞街景，後面改談她觀察反覆下車清冰雪的駕駛；需要轉折與新注意焦點。D 以 Instead 開頭說她注意 motorman，完整銜接。E 談當時解決方式，應在描述駕駛嘗試後；A、B、C 是發明後發展。<br>因此選 D。",
+  "<b>解題關鍵：</b>前文說駕駛嘗試各種方法保持窗戶清楚，後文要轉入 Mary 想出裝置；E 說「然而，當時似乎只能用手擦除冰雪」，先指出舊方法限制，才促成構想。D 應更早介紹駕駛；A 是構想後總領；B、C 是後續。<br>因此選 E，先點出舊方法不足，創新設計才有必要。",
+  "<b>解題關鍵：</b>Mary 畫下裝置構想後，後句立刻詳細說車內拉桿、車外擺臂與橡膠片；空格應先總領解法。A Her solution was simple 正好引出簡單構造。E 是舊方法限制；B 是專利；C 是後來功能；D 是觀察起點。<br>因此選 A。",
+  "<b>解題關鍵：</b>前文說裝置 originally for cold weather，後文將談它成為汽車標準設備；空格應補充用途擴展。C 說清除雨水功能後來才被想到並加入，和 originally 形成時間對照。A 是構造前；B 是專利；D、E 是構想前。<br>因此選 C。",
+  "<b>解題關鍵：</b>朋友嘲笑發明，但 Mary 沒放棄；後句說 1913 年雨刷成為美國車標準配備，中間需交代成果。B「一年後她取得專利」連接堅持與日後普及。A、C 已屬前面設計說明；D、E 更早。<br>因此選 B，取得專利證明她沒有因朋友嘲笑而放棄自己的發明構想。",
+  "<b>解題關鍵：</b>文章比較 Eskimo igloo 與 Indian tepee 的結構、火堆、通風和保暖，屬住宅建造知識。<br>(A) 天氣預報：沒有預測天氣。<br>(B) 防火書：火只是比較室溫的因素。<br>(C) 動物保育：獸皮是建材，不是保育主題。<br>(D) 房屋建造雜誌：最符合住所材料、設計與保暖內容。<br>所以選 D，這類讀者會關心不同住所如何建造。",
+  "<b>解題關鍵：</b>文章說冰屋牆密實、入口可阻風；圓錐帳篷門口和獸皮縫隙會進冷風，可推知冰屋保溫較好。<br>(A) 冰屋入口必經長隧道：未說「長」。<br>(B) 冰屋隔熱優於帳篷：符合進風與室溫比較。<br>(C) 印地安人享受冬住帳篷：未提感受。<br>(D) 每頂帳篷都有煙囪：不能由單一結構推成每頂。<br>所以選 B，這是根據兩種住所具體細節作出的合理推論。",
+  "<b>解題關鍵：</b>全文以相同面向逐項對照 igloo 與 tepee：材料、空氣流動、火堆及室溫，主要方法是比較。<br>(A) compare：比較，正確。<br>(B) tell a sad story：無人物悲劇。<br>(C) amuse：資訊性語氣，不以逗趣為主。<br>(D) report a discovery：沒有新實驗或發現。<br>因此寫作目的選 A。",
+  "<b>解題關鍵：</b>Soapy 故意犯法想入獄時屢次失敗，決心改過時卻因先前行為被捕，顯示行為終須承擔後果。<br>(A) 想做什麼就做什麼：與被判刑相反。<br>(B) 人要為所作所為付代價：最符合反諷結局。<br>(C) 改過永不嫌晚：他雖想改卻仍受罰，非核心。<br>(D) 為冬天準備：只是入獄動機。<br>所以選 B，過去錯誤行為不會因臨時改變念頭就完全消失。",
+  "<b>解題關鍵：</b>教堂歌聲感動 Soapy，使他決定重新做人、找工作，但警方此時因先前破壞行為逮捕他。<br>(A) 打破一堆盤子：餐廳情節不是如此。<br>(B) 決心改過卻被關：符合先改念、後被捕的反諷結局。<br>(C) 因對女子說話被摑：不符原情節。<br>(D) 他加入唱詩班唱歌：只是聽到歌聲。<br>所以選 B，關鍵是他先決心改過、接著才被捕的時間順序。",
+  "<b>解題關鍵：</b>第三段餐廳情節中，經理發現 Soapy 想不付錢求被捕，he 接著安排他進廚房洗碗；執行此決定的是 manager。<br>(A) 警察：並未在此作決定。<br>(B) Soapy：他是被安排洗碗的人，不會命令自己。<br>(C) manager：最近且有權要求洗碗，正確。<br>(D) judge：結尾才出現。<br>所以 he 指 C，代名詞要看動作能力。",
+  "<b>解題關鍵：</b>開頭說 Soapy 每到寒冬會故意犯法，讓自己進監獄得到溫暖住所與免費餐食。<br>(A) 通常在牢裡過冬並有食宿：符合他的固定計畫。<br>(B) 有工作住處卻遊蕩：他正因無家無業才如此。<br>(C) 警察因他像紳士而不信：不能概括全文。<br>(D) 他強烈抗議無罪：結尾未如此。<br>所以選 A，這也清楚解釋他起初為何一再設法求警方逮捕。",
+  "<b>解題關鍵：</b>題目問 NOT true。文章指出 Victoria 年輕時、丈夫仍在世就以 stern、serious 著稱，因此不是喪夫後才變嚴肅。<br>(A) 很有自信：原文有提。<br>(B) 統治六十四年：時間資料有提。<br>(C) 婚姻幸福：她深愛德國王夫。<br>(D) 丈夫死後才變嚴肅：把時間順序顛倒。<br>所以選 D，否定題要找唯一明確違反原文時間線者。",
+  "<b>解題關鍵：</b>丈夫過世後，Victoria 終身穿黑衣，四十年用黑邊白紙寫信，都是哀悼的外在表現。<br>(A) 因個性嚴厲：不能解釋黑邊持續四十年。<br>(B) 黑色最喜歡：文章完全未提。<br>(C) 表達悲傷：符合長期 mourn 丈夫。<br>(D) 英國君主習俗：文章未說。<br>所以黑邊信紙是長期哀悼、公開表達喪夫悲傷的象徵，選 C。",
+  "<b>解題關鍵：</b>文章說她道德標準高、喪夫孤獨、勤奮工作，也自信固執並期待別人同意她，顯示不妥協。<br>(A) moral：高道德標準，符合。<br>(B) lonesome：喪夫後孤獨，符合。<br>(C) workaholic：投入大量工作，符合。<br>(D) compromising：願意退讓，與固執相反，是例外。<br>所以選 D；EXCEPT 題要選不能描述她的詞。",
+  "<b>解題關鍵：</b>mourned his loss 出現在丈夫死亡後，並以黑衣、黑邊信紙長期表達悲痛；mourn 是因死者而哀悼。<br>(A) 社交場合覺得難過：未限定死亡，太廣。<br>(B) 因有人去世公開表達悲傷：最貼近。<br>(C) 定期檢查：是 monitor。<br>(D) 包含於數值範圍：是 range。<br>所以選 B，不只是一般短暫心情不好。",
+  "<b>解題關鍵：</b>文章介紹 Boll 是參與 Manhattan Project 的德國科學家，該計畫製造原子彈，他後來受良心折磨。<br>(A) 紐約州大教授：不是文中身分。<br>(B) 一直享受戰勝：惡夢顯示相反。<br>(C) 製造原子彈的科學家之一：符合。<br>(D) 說服自己無錯：他無法擺脫罪惡感。<br>所以選 C，曼哈頓計畫與製造原子彈的關聯就是直接證據。",
+  "<b>解題關鍵：</b>Amai 是廣島原爆受害者，爆炸毀掉她原本面容，後由美國外科醫師重建臉部。<br>(A) 未親歷戰爭的紀錄片導演：與親身受害相反。<br>(B) 首次原爆失去臉、現有重建的新臉：符合。<br>(C) 無法原諒：文章未如此斷言。<br>(D) 享受科學家代價：文章也未提。<br>所以選 B；new face 是美國醫師後來以手術重建完成的結果。",
+  "<b>解題關鍵：</b>Boll 妻子理解丈夫因廣島原爆反覆惡夢與罪惡感受苦，因而安排他與受害者 Amai 見面尋求救贖。<br>(A) 不原諒納粹：不是安排原因。<br>(B) 不理解丈夫：她正因理解才行動。<br>(C) 安排相遇以救他脫離惡夢：符合。<br>(D) 要他繼續製彈：與救贖完全相反。<br>所以選 C，這是她理解丈夫長期痛苦後主動採取的幫助。",
+  "<b>解題關鍵：</b>Boll 所屬一方雖在戰爭中勝利，卻承受罪惡感與惡夢；Amai 則承受原爆毀容，兩方都付出沉重代價。<br>(A) 殺人者很少求原諒：過度概括。<br>(B) 人總能合理化錯事：Boll 正無法合理化。<br>(C) 夫妻以計畫為榮：與痛苦相反。<br>(D) 戰爭勝利必須付出代價：涵蓋雙方，正確。<br>所以選 D，作者同時呈現勝方與受害者創傷。"
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });

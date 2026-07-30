@@ -202,3 +202,66 @@ window.BANK.push((() => {
 ].forEach((explain, index) => {
   window.BANK.at(-1).questions[index].explain = explain;
 });
+
+[
+  "<b>解題關鍵：</b>John 每次提案，辦公室的人都會 lend their support；他們和 John 在同一間辦公室共事，所以是同事。<br>(A) villains：壞人、反派，和支持他的線索不合。<br>(B) executives：高階主管，文中沒說這些人的職位。<br>(C) colleagues：同事，符合在同一辦公室工作。<br>(D) intruders：闖入者，不會是可靠的工作夥伴。<br>把答案放回去：John 很幸運有這樣支持他的同事。",
+  "<b>解題關鍵：</b>Joan 是去年 MVP，且 No other player can replace her，表示沒有人能取代她，對球隊不可或缺。<br>(A) indispensable：不可或缺的，符合。<br>(B) comprehensible：可理解的，通常形容說明。<br>(C) affordable：負擔得起的，形容價格。<br>(D) permissible：可允許的，形容行為或規定。<br>把答案放回去：Joan 對球隊不可或缺，沒有別的球員能取代她。",
+  "<b>解題關鍵：</b>樣本數不夠大，不能作 firm conclusions「確定結論」，因此解讀結果時要小心，不可過度推論。with 後接名詞。<br>(A) metaphor：比喻，不是研究態度。<br>(B) caution：謹慎，with caution 是「審慎地」。<br>(C) enthusiasm：熱情，可能讓人忽略限制。<br>(D) impulse：衝動，和小心解讀相反。<br>把答案放回去：樣本不足，研究結果必須謹慎解讀。",
+  "<b>解題關鍵：</b>主詞是 a small group of soldiers，敵軍人數更多；Although 後說雖在人數劣勢，他們仍勇敢獲勝。句子是被動語態。<br>(A) initiated：被開始、發起，不能比較人數。<br>(B) contradicted：被反駁，通常用於說法。<br>(C) outnumbered：在人數上少於對方，符合。<br>(D) triggered：被觸發，和戰力人數無關。<br>把答案放回去：這小群士兵雖人數遠少於敵軍，仍然獲勝。",
+  "<b>解題關鍵：</b>Wise 先生因為對弱勢兒童與社區長者的付出而獲獎；his ... to people 需要能表示長期奉獻的名詞。<br>(A) competence：能力，通常說 competence in。<br>(B) prospect：前景、可能性。<br>(C) momentum：動力、勢頭，不能接 to needy children。<br>(D) devotion：奉獻、投入，devotion to people 符合。<br>把答案放回去：他因對弱勢者的奉獻而獲獎。",
+  "<b>解題關鍵：</b>直接用話語 express love，就是把原本看不見的愛「表現出來」。to 後需要動詞原形。<br>(A) manifest：展現、表明，manifest your love 符合。<br>(B) resemble：像，不能說讓愛像家人。<br>(C) execute：執行，通常接計畫或命令。<br>(D) instruct：指示、教導，受詞通常是人。<br>把答案放回去：直接說出口是展現家人之愛的好方法。",
+  "<b>解題關鍵：</b>while 形成兩方對比：有人視複製動物為醫學突破，另一些人認為它應被 prohibited「禁止」，所以他們覺得不符合倫理。<br>(A) legitimate：合法正當的，和應禁止矛盾。<br>(B) inclusive：包容的，和倫理爭議無關。<br>(C) unethical：不道德的，符合禁止理由。<br>(D) nonmilitant：非好戰的，與複製技術無關。<br>把答案放回去：有些人認為複製動物不道德，應該禁止。",
+  "<b>解題關鍵：</b>群居動物有 multiple pairs of eyes，較能找食物、發現危險；than 後應放與群居相反的「單獨動物」。<br>(A) contagious：有傳染性的，不描述是否群居。<br>(B) rigid：僵硬的、嚴格的。<br>(C) distinctive：有特色的，沒有單獨意思。<br>(D) solitary：獨居的、單獨的，和 stay in groups 對比。<br>把答案放回去：群居動物比獨居動物更容易發現危險。",
+  "<b>解題關鍵：</b>新書第一頁列出所有 helped in the publication 的人，這通常是作者向協助者表達感謝與肯定。<br>(A) contemplates：深思，不能直接表示感謝他人。<br>(B) acknowledges：公開致謝、肯定，符合書籍致謝頁。<br>(C) inquires：詢問，通常接 about。<br>(D) regulates：管制，和出版協助無關。<br>把答案放回去：作者在新書首頁感謝所有協助出版的人。",
+  "<b>解題關鍵：</b>Due to the recession 表示景氣衰退，即使受過良好教育與訓練，也不容易找到薪資待遇「像樣、合理」的工作。空格是副詞修飾 paid。<br>(A) compatibly：相容地，不能形容薪資好壞。<br>(B) decently：像樣地、合理地，decently paid 符合。<br>(C) relevantly：相關地。<br>(D) virtually：幾乎、實際上。<br>把答案放回去：衰退時很難找到待遇不錯的工作。",
+  "<b>解題關鍵：</b>第一段介紹消保委員會對各種消保組織負責 supervision and coordination，因此它「擔任」監督協調者。<br>(A) serves as：擔任、充當，符合。<br>(B) fights for：為……奮鬥，後面卻是 supervisor 角色名詞。<br>(C) persists in：堅持，後面應接 V-ing。<br>(D) corresponds to：對應於，不表示肩負職務。<br>關鍵句意：委員會擔任各消保組織的監督與協調者。",
+  "<b>解題關鍵：</b>委員會要 improve the well-being of consumers，倡導 fair trade 與不讓消費者吃虧的定價，因此價格應「合理」。<br>(A) prominent：突出的、知名的，不形容價格是否公平。<br>(B) essential：必要的，essential pricing 不自然。<br>(C) reasonable：合理的，reasonable pricing 與 fair trade 並列。<br>(D) intensive：密集的，通常形容訓練。<br>關鍵句意：委員會倡導公平交易與合理定價。",
+  "<b>解題關鍵：</b>assist consumers involved in ... with businesses 表示協助那些和企業或製造商發生某種問題的消費者；需要複數名詞「爭議」。<br>(A) references：參考資料。<br>(B) shortages：短缺，未必涉及雙方衝突。<br>(C) purchases：購買行為，本身不一定需協助。<br>(D) disputes：爭端，disputes with businesses 符合。<br>關鍵句意：委員會協助處理消費者與業者的爭議。",
+  "<b>解題關鍵：</b>ensure that 後面是完整子句，主詞 all labels and advertisements 為複數，需直接接現在式動詞；conform to regulations 是遵守規定。<br>(A) conform：原形／複數主詞現在式，正確。<br>(B) conformed：過去式，與現在措施不合。<br>(C) conforming：V-ing，句中會缺主要動詞。<br>(D) to conform：不定詞，也不能作 that 子句主要動詞。<br>關鍵句意：這些措施確保標示廣告遵守規定。",
+  "<b>解題關鍵：</b>空格後的 regulatory power and administrative resources 是委員會能扮演重要角色所「憑藉」的條件。<br>(A) From：從，不能表示擁有資源所以能行動。<br>(B) With：憑藉、有了，因果合理。<br>(C) Despite：儘管，會把權力資源當阻礙。<br>(D) Beyond：超越，不合。<br>關鍵句意：憑藉監管權力與行政資源，委員會能保護消費者。",
+  "<b>解題關鍵：</b>前句說 Fleming 的實驗室 long been untidy，下一句 this ... proved fortunate；this 指的就是凌亂狀態意外帶來好運。<br>(A) merit：優點，沒有指出凌亂。<br>(B) opinion：意見。<br>(C) scandal：醜聞。<br>(D) disorder：混亂、凌亂，承接 untidy laboratory。<br>關鍵句意：他實驗室的凌亂這次意外成為好事。",
+  "<b>解題關鍵：</b>時間順序是：休假前把培養皿堆在水槽，休假後回來才整理。因此「堆放」早於另一過去動作 came back，要用過去完成式 had＋過去分詞。<br>(A) would pile：過去將會／習慣，無先後完成意。<br>(B) had piled：早已堆放，正確。<br>(C) was piling：當時正在堆。<br>(D) might have piled：可能堆過，但文中是確定事實。<br>關鍵句意：休假前他已把培養皿堆在水槽。",
+  "<b>解題關鍵：</b>培養皿在長假期間留在水槽，沒有人照看，回來時才發現真菌污染。空格修飾 dishes。<br>(A) disabled：失去功能的，常形容人或設備。<br>(B) excluded：被排除的。<br>(C) unattended：無人照管的，符合長假放置情況。<br>(D) misunderstood：被誤解的，不能形容培養皿管理。<br>關鍵句意：他整理長時間無人照看的培養皿。",
+  "<b>解題關鍵：</b>多個培養皿被真菌污染、實驗已毀，Fleming 原本正要把它們「丟掉」，但其中一皿的細菌未生長，引起注意。<br>(A) toss out：丟棄，符合。<br>(B) get off：下車、離開。<br>(C) catch up：趕上進度。<br>(D) carry on：繼續，若繼續使用已污染皿不合。<br>關鍵句意：他正要丟掉培養皿，卻注意到重要現象。",
+  "<b>解題關鍵：</b>結尾用 however 說，偶然機會還不夠；科學家也必須有 prepared and open mind 才能看出意外的重要性。因此是「單靠機會」。<br>(A) alone：單獨地，chance alone 符合。<br>(B) alike：相似地。<br>(C) above：在上方。<br>(D) ahead：在前方。<br>其他字都不能表達「只有機會仍不足」。關鍵句意：單靠偶然不足以造就重大發現。",
+  "<b>解題關鍵：</b>第一段先說他 became known as “Birdman of Alcatraz”，下一句 Despite this ... 說其實他只在另一座監獄養鳥；空格需指這個稱呼。<br>(I) nickname：綽號，符合。<br>(L) privilege 是特權，應放後面養鳥權利；(F) imprisonment 是監禁；(A) keen 是形容詞。<br>關鍵句意：儘管有這個綽號，他其實沒在 Alcatraz 養鳥。",
+  "<b>解題關鍵：</b>Stroud 被判絞刑後，母親 desperately 為保住他的性命而求情；空格需過去式，並搭配 for his life。<br>(K) pleaded：懇求，plead for someone’s life 正確。<br>(E) supportive 是形容詞；(C) release 是釋放；(D) banned 是禁止，均不合母親的動作。<br>關鍵句意：他的母親拚命為他的性命求情。",
+  "<b>解題關鍵：</b>總統把死刑改為終身監禁且不得假釋。life 後需要名詞，形成法律固定搭配。<br>(F) imprisonment：監禁，life imprisonment 是無期徒刑。<br>(C) release 是釋放，與 without parole 矛盾；(L) privilege 是特權；(G) illness 是疾病。<br>關鍵句意：他的死刑被改為不得假釋的終身監禁。",
+  "<b>解題關鍵：</b>因 Stroud 會突然暴力發作，典獄長讓他在 total isolation 中生活；空格修飾 unit，表示隔離區。<br>(H) separated：分開、隔離的，符合。<br>(E) supportive 是支持的，和孤立相反；(D) banned 是被禁止的，不能形容單位用途；(J) effective 是有效的。<br>關鍵句意：他被安置在隔離單位獨自服刑。",
+  "<b>解題關鍵：</b>他發現受傷麻雀後，開始研究、飼養近三百隻鳥並寫書，表示對鳥產生「濃厚興趣」。空格修飾 interest。<br>(A) keen：強烈的、濃厚的，keen interest 正確。<br>(E) supportive 是支持的，不自然形容興趣；(J) effective 是有效的；其餘多為名詞或動詞。<br>關鍵句意：他在發現麻雀後對鳥類產生濃厚興趣。",
+  "<b>解題關鍵：</b>他獲得特殊權利，可在牢房飼養近三百隻鳥；to 後需動詞原形，且語意是讓鳥繁殖。<br>(B) breed：繁殖、飼育，breed birds 正確。<br>(C) release：釋放，和在牢房養鳥相反；(K) pleaded 是過去式；(D) banned 是分詞。<br>關鍵句意：他獲准在牢房繁殖鳥類並設置實驗室。",
+  "<b>解題關鍵：</b>As a result of this ... 指前句特別准許他養鳥、設實驗室的「特殊權利」，因此他才能寫書研究。<br>(L) privilege：特權，承接 special right。<br>(C) release 是釋放，沒有獲釋；(E) supportive 是形容詞；(F) imprisonment 雖在獄中，但不是促成研究的特別條件。<br>關鍵句意：靠這項特權，他得以研究並出版鳥類書籍。",
+  "<b>解題關鍵：</b>他研究金絲雀及 diseases，還開發 medicines；空格應用名詞表示藥物治療的鳥類疾病。<br>(G) illness：疾病，various kinds of bird illness 符合。<br>(F) imprisonment 是監禁；(B) breed 是繁殖；(J) effective 是有效的，詞性與 medicines for 不合。<br>關鍵句意：他甚至研發並販售治療各種鳥類疾病的藥。",
+  "<b>解題關鍵：</b>remedies 是療法；widely debated whether ... 表示大家爭論它們到底「有沒有效」。whether 後需形容詞作補語。<br>(J) effective：有效的，符合。<br>(E) supportive 是支持性的，不形容藥效；(D) banned 是被禁；(A) keen 是強烈的。<br>關鍵句意：雖然這些療法是否有效仍有爭議，他的觀察仍有研究價值。",
+  "<b>解題關鍵：</b>在 Alcatraz 寫的兩份手稿沒有出版，because 後交代獄方不允許；句子是 it was ... by authorities，需要過去分詞。<br>(D) banned：被禁止，符合。<br>(C) release 是原形且指釋放；(H) separated 是分開的；(J) effective 是有效的，都不能解釋未出版。<br>關鍵句意：手稿因遭獄方禁止而未出版。",
+  "<b>解題關鍵：</b>空格前說鬥士以致命武器戰到認輸或死亡；空格後說羅馬人喜歡血腥，擠進競技場觀看，因此中間應交代這些戰鬥的娛樂目的。<br>(E) 說鬥士為權貴和大眾娛樂而戰，完整連接戰鬥與觀眾。<br>(A) 來源應放第二段列舉奴隸前；(D) 女性應放 both male and female 前；(C)(F) 屬飲食段；(B) 起源未被後文說明。<br>因此選 E。",
+  "<b>解題關鍵：</b>空格後連列 Some were slaves、some prisoners、others volunteers，都是不同來源；前句應先提出總括句。<br>(A) 鬥士從不同來源招募，後面的三類正好作例子。<br>(D) 女性參賽應放本段後方；(E) 娛樂目的屬前段；(C)(F) 屬飲食研究；(B) 說起源神祕，反而無法引出明確來源。<br>因此選 A。",
+  "<b>解題關鍵：</b>空格後說 All fighters, both male and female 都受到照顧；both male and female 必須承接前句已提到女性鬥士。<br>(D) 提出證據顯示女性也參加競技，銜接最直接。<br>(A) 已在前面談來源；(E) 是娛樂目的；(C)(F) 屬大麥飲食；(B) 起源神祕與性別無關。<br>因此選 D。",
+  "<b>解題關鍵：</b>前句說鬥士被稱為 hordearii「吃大麥者」；空格後用骨骼化學分析證明食物含大麥，所以中間要預告名稱可能真是字面意思。<br>(C) Recent research findings 承接名稱，後句再提出研究證據。<br>(F) 是補充少肉奶，應在列出植物食物後；(A)(D)(E) 屬身分與競技；(B) 起源未接飲食。<br>因此選 C。",
+  "<b>解題關鍵：</b>前句列出 wheat, barley, beans，都是植物性食物；後句 In addition to a plant-heavy diet 繼續談飲食，因此空格應補充幾乎沒吃肉奶。<br>(F) 以 Also 加入肉與乳製品很少，完整描繪植物性飲食。<br>(C) 應放研究證據前；(A)(D)(E) 屬前兩段；(B) 談來源。<br>因此選 F。",
+  "<b>解題關鍵：</b>第一段交代污水處理出現的背景，第二段依序說篩除、初級沉澱、次級分解、沙濾、加氯等完整流程，核心是如何處理廢水。<br>(A) 污水成分只在流程中舉例，範圍太小。<br>(B) 符合全文主旨：現代廢水處理。<br>(C) 排水系統歷史只在第一段背景。<br>(D) 製造廢棄物只是需求增加原因之一。<br>因此選 B。",
+  "<b>解題關鍵：</b>這是 NOT 題。第一段說人口增加使舊排水系統 overloaded，工業革命又加入 manufacturing waste，因此需要更有效處理。<br>(A) 人口成長：直接提到。<br>(B) 工業廢棄物增加：直接提到。<br>(C) 排水系統超載：直接提到。<br>(D) 氣候變遷豪雨：全文沒有這個因果，早期系統處理雨水不等於氣候變遷。<br>因此選 D。",
+  "<b>解題關鍵：</b>第二段先說木頭等大型物與泥土等重物在進水泥槽前篩掉；到 primary tanks 時，sludge 下沉，oils and grease 浮上收集。<br>(A) wood：前一階段已篩除。<br>(B) heavy material：前一階段移除。<br>(C) grease：在初級池浮到上方收集，符合。<br>(D) organic matter：此處被分解成較小物質，不是題目所問的收集移除。<br>因此選 C。",
+  "<b>解題關鍵：</b>第二段在次級處理後寫 liquid sewage is filtered through sand，下一句說此過濾 gets rid of almost all bacteria 及殘餘固體。<br>(A) 符合：主要目的之一是去除幾乎所有細菌。<br>(B) drain water 不是通過沙的功能。<br>(C) 沙濾是濾除，不是溶解固體。<br>(D) 油脂早在初級池浮起收集。<br>因此選 A。",
+  "<b>解題關鍵：</b>各段共同說明 PCBs、PBDEs 等持久性有機污染物，即使在七英里深的 Mariana Trench 仍污染生物，並沿食物鏈轉移。<br>(A) 文章不是說受污染生物減少。<br>(B) 遙控載具只是研究工具。<br>(C) 符合：持久有毒化學物污染深海。<br>(D) 只列兩類化學物用途，並非整理所有工業污染類型。<br>因此選 C。",
+  "<b>解題關鍵：</b>第四段先說 POPs build up in bodies、藏在脂肪；生物死後，their POP-riddled bodies 沉底，表示身體裡充滿污染物。<br>(A) operated by：由 POP 操作，生物不是機器。<br>(B) filled with：充滿，最接近 riddled with。<br>(C) completed with：用 POP 完成，不合。<br>(D) discarded by：被 POP 丟棄，方向錯誤。<br>因此選 B。",
+  "<b>解題關鍵：</b>第二段說研究團隊 sent a remotely operated vehicle 深入海溝，robotic submarine 把生物帶回水面。<br>(A) 錯置：電子產品廣用的是 PBDEs；PCBs 用於多種工業用途。<br>(B) 相反：化學物可隨生物遺體沉到海底。<br>(C) 相反：最深處也受到嚴重污染。<br>(D) 符合：使用遙控機器載具研究。<br>因此選 D。",
+  "<b>解題關鍵：</b>文章直接說 POPs 會累積在生物體內，死亡後被其他深海生物吃掉，沿食物鏈轉移；由食物鏈可合理推論污染可能影響人類健康。<br>(A) 合理推論：海洋污染會威脅人類。<br>(B) 未提正在制定新法規。<br>(C) 相反：兩者長期不分解，並未變得較無害。<br>(D) 相反：海溝生物毒素甚至是最污染河川的五十倍，且未比較工業區。<br>因此選 A。",
+  "<b>解題關鍵：</b>全文正面介紹 haka 的動作、毛利語原義、歷史、賽前功能與今日文化象徵，稱它 powerful、pride、recognizable symbol，沒有嘲笑或絕望。<br>(A) cynical：憤世嫉俗，沒有。<br>(B) humorous：幽默，文章是認真介紹。<br>(C) pessimistic：悲觀，和文化驕傲相反。<br>(D) respectful：尊重的，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>第一段直接說 All Blacks 賽前表演 intended to heighten their morale and intimidate opponents；題目問他們自己的目的。<br>(A) anger opponents 不是原文，原文是威嚇。<br>(B) 未提為名聲或媒體注意。<br>(C) 符合：heighten morale 就是提升自己的士氣。<br>(D) 未提賽前為尊敬祖先。<br>因此選 C。",
+  "<b>解題關鍵：</b>最後一段說 Though the practice had traditionally been limited to Māori communities, it has now spread；practice 指前文反覆提到的 doing the haka 這項活動。<br>(A) sport：運動，haka 可在球場但本身是舞蹈儀式。<br>(B) performance：表演，最接近此處活動。<br>(C) competition：競賽，haka 不在比輸贏。<br>(D) occupation：職業，和社群傳統無關。<br>因此選 B。",
+  "<b>解題關鍵：</b>最後一段說今日 haka 用於迎賓、生日、婚禮、葬禮；傳統上限毛利社群，現在毛利與歐裔紐西蘭人都自豪表演。<br>(A) 相反：有男女皆可與女性專屬 haka，也不只戰場。<br>(B) 相反：毛利語原義只是 dance，不是戰舞。<br>(C) 相反：Kapa o Pango 2005 才寫成，不可能自 1906 輪流。<br>(D) 符合今日用途與族群。<br>因此選 D。",
+  "<b>解題關鍵：</b>第一段說 2015 年 ESSA 取代 NCLB；後四段集中介紹評量的新方向：彈性、多科、學習過程與評量用途。<br>(A) 電腦只是第二段的一種工具。<br>(B) 文章說的是評量想法，不是 ESSA 四個法案組成。<br>(C) 只涵蓋學生中心，漏掉法案轉換與多科等。<br>(D) 同時包含 NCLB 到 ESSA 的變化與評量焦點，最完整。<br>因此選 D。",
+  "<b>解題關鍵：</b>第二段先說標準化測驗方便但不完整，改採個人化學生中心評量又 difficult and time-consuming；technology can help solve this dilemma。困境就是要不要採用較完整但難執行的新評量。<br>(A) SAT 與 ACT 只是例子，沒有二選一。<br>(B) ESSA 已取代 NCLB，不是當下困境。<br>(C) 符合是否採學生中心評量。<br>(D) 電腦評量是解法，不是要不要取代它。<br>因此選 C。",
+  "<b>解題關鍵：</b>第三段區分傳統與新納入科目：traditional math and reading；全美也早已至少兩次考 science；some are now starting to include social studies, government, or economics。<br>(A) Math：傳統科目。<br>(B) Reading：傳統科目。<br>(C) Science：各州已實施，不是此處新興。<br>(D) Economics：部分州正開始納入，符合。<br>因此選 D。",
+  "<b>解題關鍵：</b>新增句介紹 learning portfolio 蒐集學期不同時間點作品，呈現 effort, progress, achievements；這是「持續蒐集學習過程資料」的具體例子。<br>(A) 第二段談評量彈性與電腦適性。<br>(B) 第三段談多科評量。<br>(C) 第四段強調 throughout learning process 並在不同時間點累積資料，完全符合。<br>(D) 第五段談評量結果如何改善教與學。<br>因此選 C。"
+].forEach((explain, index) => {
+  window.BANK.at(-1).questions[index].explain = explain;
+});
+
+[
+  [36, "第一段只是背景，第二段的完整處理程序才是篇幅與資訊重心。"],
+  [40, "主旨涵蓋污染位置、污染物特性與食物鏈傳遞，不只研究方法。"]
+].forEach(([no, note]) => {
+  window.BANK.at(-1).questions[no - 1].explain += `<br>${note}`;
+});
