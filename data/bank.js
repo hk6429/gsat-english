@@ -39,7 +39,7 @@ window.BANK.push({
     },
     "G8": {
       "title": "Specialty stores in Wonder Village",
-      "passage": "<p>Located along the sparkling coastline of the Pacific Ocean, Wonder Village is a famous indigenous district in eastern Taiwan. The historic village exhibits the traditional way of life of the tribe there. However, it does not live in the past. As numerous new restaurants and shops have sprung up in recent years, it has become not only a cultural center but also a unique commercial zone.</p><p><b>A. Oh Eco</b> sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles.</p><p><b>B. After Work</b> serves handcrafted beer and hand-made gourmet pizzas.</p><p><b>C. Aroma Paradise</b> creates fragrances customized to each shopper’s special preferences.</p><p><b>D. Something Different</b> is an antique store featuring traditional-style home accessories.</p><p><b>E. Beyond World</b> carries products only from local makers and small businesses owned by indigenous people.</p><p><b>F. The Pinery</b> serves innovative pineapple-themed menu items.</p>"
+      "passage": "<p>Located along the sparkling coastline of the Pacific Ocean, Wonder Village is a famous indigenous district in eastern Taiwan. The historic village exhibits the traditional way of life of the tribe there. However, it does not live in the past. As numerous new restaurants and shops have sprung up in recent years, it has become not only a cultural center but also a unique commercial zone. The following six shops are examples of some of the specialty stores there.</p><p><b>A. Oh Eco</b><br>Greatly concerned about the presence of fake “green” products on the market, Alice Bao decided to open this shop. She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles. “Here everyone looks out for each other and the neighborhood,” she says. “There’s a sense of community in the area.”</p><p><b>B. After Work</b><br>Neighborhood beer lovers rejoiced when After Work moved in last summer. “We knew we were coming into a really cool neighborhood,” says co-owner Joey Ma. Aside from handcrafted beer, the menu boasts hand-made gourmet pizzas such as the Yummy Duck n’ Cheese, loaded with roast duck and, yes, creamy delicious cheese. A truly unique blend!</p><p><b>C. Aroma Paradise</b><br>The fragrances at this scent shop are largely customized to meet the individual shopper’s taste. Owner Joseph Tang says he knew the idea would work well in this unique district: “Each store is one of a kind in Wonder Village,” he states. “Aroma Paradise wants to create a paradise for those who are looking for fragrance made for their special preferences.”</p><p><b>D. Something Different</b><br>Looking for something unique? Yes, at this tiny antique store you can always find, as promised, something different. Open since 1996, the store features traditional-style home accessories, ranging from cabinets and chairs to picture frames and decorative mirrors.</p><p><b>E. Beyond World</b><br>Owner Foting Mayaw opened this boutique in what he calls “the most fascinating area in Taiwan.” The shop focuses on selling various “good goods” that showcase the skill and spirit of neighborhood artisans. From fashion items to rice snacks, it carries products only from local makers and small businesses owned by indigenous people.</p><p><b>F. The Pinery</b><br>This restaurant got its name from the pineapple farms that once populated the area. Indeed, the fruit appears in some innovative menu items (e.g., pineapple jam on the burger). “Wonder Village is much more than just a tourist destination,” says owner Carol Hon. “It is a place where the old meets the new: diverse, unique, and always full of surprises.”</p>"
     }
   },
   "questions": [
@@ -810,7 +810,7 @@ window.BANK.push({
       "textType": "閱讀測驗",
       "answer": "C",
       "group": "G5",
-      "stem": "Which route shows the correct course of the Endurance after leaving South Georgia?",
+      "stem": "Which of the following shows the correct route of the Endurance after leaving South Georgia?",
       "options": {
         "A": "",
         "B": "",
@@ -818,7 +818,7 @@ window.BANK.push({
         "D": ""
       },
       "image": "img/115/q38.png",
-      "imageAlt": "四幅南極航線圖，標示 South Georgia、Elephant Island、Weddell Sea 與航線箭頭",
+      "imageAlt": "四幅南極航線圖：A 從 South Georgia 順時針繞 Weddell Sea 到 Elephant Island；B 由 South Georgia 逆時針繞行；C 由 South Georgia 沿 Weddell Sea 東側南下後折返；D 由 South Georgia 向西南抵 Elephant Island 再向南。",
       "explain": "船自 South Georgia 向南進入 Weddell Sea，受冰流推向北方，最後人員前往 Elephant Island，再折返 South Georgia 求援；圖 C 符合。"
     },
     {
@@ -888,7 +888,7 @@ window.BANK.push({
       "textType": "閱讀測驗",
       "answer": "B",
       "group": "G6",
-      "stem": "Which statement can be inferred about spiral staircases in the Medieval Ages?",
+      "stem": "Which of the following statements can be inferred about spiral staircases in the Medieval Ages?",
       "options": {
         "A": "The staircase was too narrow to allow any quick retreat.",
         "B": "The clockwise design favored right-handed castle defenders.",
@@ -945,7 +945,7 @@ window.BANK.push({
       "textType": "閱讀測驗",
       "answer": "A",
       "group": "G7",
-      "stem": "Which is closest in meaning to “a blip” in the last paragraph?",
+      "stem": "Which of the following is closest in meaning to “a blip” in the last paragraph?",
       "options": {
         "A": "A temporary state.",
         "B": "An urgent need.",
@@ -983,7 +983,7 @@ window.BANK.push({
       "textType": "混合題",
       "answer": "A,D,E",
       "group": "G8",
-      "stem": "The Chen family wants (1) a 19th-century oil lamp, (2) recycled plastic sunglasses, and (3) an aboriginal wooden beads necklace. Which stores should they visit?",
+      "stem": "While visiting Wonder Village, the Chen family decide to buy the following items as souvenirs:<br>(1) a 19th century oil lamp<br>(2) recycled plastic sunglasses<br>(3) an aboriginal wooden beads necklace<br>Which stores should they go to for these items?",
       "options": {
         "A": "Oh Eco",
         "B": "After Work",
@@ -1103,7 +1103,7 @@ window.BANK.push({
       ].map(([no, answer, stem, explain]) => make(no, "C3", ["篇章結構"], "篇章結構", answer, stem, structureOptions, { group: "G4", explain })),
 
       make(35, "C4", ["主旨判讀"], "閱讀測驗", "A", "What is this passage mainly about?", { A: "The evolution of traffic control systems.", B: "The inventors of traffic lights in history.", C: "The functions of different traffic signals.", D: "The development of modern transportation." }, { group: "G5", explain: "文章依時間介紹交通號誌從機械臂、三色燈到未來系統的演變。" }),
-      make(36, "C5", ["圖文整合"], "閱讀測驗", "C", "Which of the following pictures shows Knight’s proposed traffic signal?", { A: "", B: "", C: "", D: "" }, { group: "G5", image: "img/114/q36.png", imageAlt: "四幅交通號誌圖，依序標示 A、B、C、D。", explain: "Knight 的設計有可水平或下壓 45 度的活動臂，夜間另加紅綠燈；C 圖符合。" }),
+      make(36, "C5", ["圖文整合"], "閱讀測驗", "C", "Which of the following pictures shows Knight’s proposed traffic signal?", { A: "", B: "", C: "", D: "" }, { group: "G5", image: "img/114/q36.png", imageAlt: "四幅交通號誌圖：A 為柱頂雙圓燈箱；B 為柱上兩支斜向橫臂；C 為柱頂燈箱加兩支可動翼板；D 為柱上方寫有 STOP、GO 的方形箱體。", explain: "Knight 的設計有可水平或下壓 45 度的活動臂，夜間另加紅綠燈；C 圖符合。" }),
       make(37, "C4", ["細節檢索"], "閱讀測驗", "D", "Which of the following statements is true, according to the passage?", { A: "Knight was injured in the explosion of his traffic light.", B: "Potts’ traffic light was the first one to appear in the USA.", C: "The first traffic signal originated from the idea of a traffic director.", D: "Future vehicles may not need traffic lights to cross an intersection." }, { group: "G5", explain: "末段指出自駕車可能使交通號誌不再必要，故 D 正確。" }),
       make(38, "C4", ["篇章理解"], "閱讀測驗", "C", "Here is a sentence: “This design was adopted in later traffic light designs across the world.” Which paragraph is most suitable to have it as the final sentence?", { A: "Paragraph 1.", B: "Paragraph 2.", C: "Paragraph 3.", D: "Paragraph 4." }, { group: "G5", explain: "第三段介紹 Potts 的三色系統；This design 正好指代該設計並補充其後續影響。" }),
 
@@ -1185,7 +1185,7 @@ window.BANK.push({
       "answer": "A",
       "stem": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
       "options": {"A": "emerging", "B": "flashing", "C": "rushing", "D": "floating"},
-      "explain": "太陽從雲海中「升起、出現」，應用 emerge from。"
+      "explain": "太陽從雲海中「升起、出現」可用 emerge from；原句是 with the sun emerging from... 的「with＋名詞＋V-ing」附帶狀況結構。"
     },
     {
       "no": 3,
@@ -1574,7 +1574,7 @@ window.BANK.push({
       "stem": "Which of the following pictures shows de Mestral’s invention?",
       "options": {"A": "", "B": "", "C": "", "D": ""},
       "image": "img/113/q35.png",
-      "imageAlt": "四幅扣件圖片選項：按扣、魔鬼氈、掛鉤繩與鉤眼扣",
+      "imageAlt": "四幅扣件圖片：A 為金屬按扣；B 為兩片魔鬼氈；C 為兩端掛鉤的彈力繩；D 為布料上的鉤眼扣。",
       "explain": "文中發明是由 hooks 與 loops 相互黏合的 Velcro，圖 B 顯示魔鬼氈。"
     },
     {
@@ -1812,7 +1812,7 @@ window.BANK.push({
     { no: 41, cat: "C4", tags: ["細節檢索"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G6", stem: "Which of the following statements about elephants and the tea gardens is true according to the passage?", options: { A: "The elephants use the trenches to roam around the tea gardens.", B: "The fast growth of the tea gardens destroys the elephants’ food source.", C: "Elephants are unwilling to leave their injured members behind in the tea gardens.", D: "Pregnant elephants avoid delivering babies in the tea gardens for fear of being disturbed." }, explain: "文中說象群不願留下生病或垂死同伴，會在受困幼象旁停留。" },
     { no: 42, cat: "C4", tags: ["指涉判讀"], lang: "題組", textType: "閱讀測驗", answer: "D", group: "G6", stem: "What does “it” in the last paragraph refer to?", options: { A: "To certify elephant-friendly trenches and organizations.", B: "To reward tea growers for protecting the environment.", C: "To encourage consumers to choose high-quality brands.", D: "To create a win-win situation for elephants and tea farms." }, explain: "it 承接前句問句，指讓大象與繁榮茶業共存，也就是創造雙贏。" },
     { no: 43, cat: "C4", tags: ["資訊排序"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G7", stem: "Which of the following is true about the earliest traders in Zanzibar?", options: { A: "The earliest traders arrived around 900 AD.", B: "Most of the earliest merchants came from Africa.", C: "Asian merchants arrived centuries before the African settlers.", D: "Traders from Persia settled down permanently around 1000 AD." }, explain: "文中指出亞洲商人比約西元 1000 年抵達的非洲永久移民早 900 年到訪。" },
-    { no: 44, cat: "C5", tags: ["圖文整合"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G7", stem: "According to the passage, where is Zanzibar most likely located on the following map?", options: { A: "A", B: "B", C: "C", D: "D" }, image: "img/112/q44.png", imageAlt: "世界地圖標示 A、B、C、D 四個位置；B 位於非洲東岸外海。", explain: "桑吉巴位於坦尚尼亞外海、印度洋上，地圖中符合的是非洲東岸的 B。" },
+    { no: 44, cat: "C5", tags: ["圖文整合"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G7", stem: "According to the passage, where is Zanzibar most likely located on the following map?", options: { A: "A", B: "B", C: "C", D: "D" }, image: "img/112/q44.png", imageAlt: "世界地圖標示四個位置：A 在地中海西側，B 在非洲東岸外海，C 在南亞東側，D 在非洲東南端外海。", explain: "桑吉巴位於坦尚尼亞外海、印度洋上，地圖中符合的是非洲東岸的 B。" },
     { no: 45, cat: "C4", tags: ["推論判讀"], lang: "題組", textType: "閱讀測驗", answer: "B", group: "G7", stem: "Which of the following can be inferred from the passage about Zanzibar?", options: { A: "For centuries, Zanzibar has been a heaven for beach lovers.", B: "Cloves, vanilla, and cinnamon are common spices in Zanzibar.", C: "Besides spices, Zanzibar is well known for a great variety of jewelry.", D: "Vasco da Gama was Zanzibar’s first foreign ruler during the Age of Exploration." }, explain: "末段描述丁香、香草與肉桂香氣瀰漫，可推知這些香料在當地常見。" },
     { no: 46, cat: "C4", tags: ["指涉判讀"], lang: "題組", textType: "閱讀測驗", answer: "C", group: "G7", stem: "Which set of words is used in the passage to refer to Zanzibar?", options: { A: "islands, settlements, posts, crossroads", B: "islands, posts, jewels, destination", C: "archipelago, islands, jewels, destination", D: "archipelago, settlements, paths, islands" }, explain: "文中以 archipelago、islands、jewels 及 destination 指稱桑吉巴；settlements、posts 指波斯人建物。" },
     { no: 49, cat: "C5", tags: ["多文本整合"], lang: "題組", textType: "混合題", answer: "D,F", group: "G8", multi: true, stem: "From (A) to (H) in the above chatroom discussions, which ones show that GreenBurger can be a choice for the chatroom participants themselves only under certain circumstances?", options: { A: "Olivia", B: "Smith", C: "Mika", D: "Thomas", E: "Rico", F: "Linda", G: "Ablo", H: "Alexander" }, explain: "Thomas 只願偶爾換口味時選擇；Linda 覺得口味可以但期待價格下降，兩者都設下特定條件。" }
@@ -1883,7 +1883,7 @@ window.BANK = window.BANK || [];
     q(4,"C1","語境搭配","詞彙題","單題","A","The new vaccine was banned by the Food and Drug Administration due to its ______ fatal side effects.",{A:"potentially",B:"delicately",C:"ambiguously",D:"optionally"},"potentially fatal 表示「可能致命的」，能說明禁用原因。"),
     q(5,"C1","語境搭配","詞彙題","單題","A","______ the photos with dates and keywords help you sort them easily in your file.",{A:"Tagging",B:"Flocking",C:"Rolling",D:"Snapping"},"tag photos with dates and keywords 是替照片加標籤，方便分類。"),
     q(6,"C1","詞義辨析","詞彙題","單題","C","An ______ person is usually pleasant and easy to get along with, but don’t expect that he or she will always say “yes” to everything.",{A:"enormous",B:"intimate",C:"agreeable",D:"ultimate"},"agreeable 可形容和善、容易相處的人。"),
-    q(7,"C1","語境搭配","詞彙題","單題","B","Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",{A:"identical",B:"visible",C:"available",D:"remarkable"},"藏在巷弄深處的入口對路人而言幾乎看不見，故選 visible。"),
+    q(7,"C1","語境搭配","詞彙題","單題","B","Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",{A:"identical",B:"visible",C:"available",D:"remarkable"},"barely visible 意為「幾乎看不見」；藏在巷弄深處的入口不易被路人看見。"),
     q(8,"C1","語境搭配","詞彙題","單題","D","The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",{A:"moderate",B:"absolute",C:"promising",D:"eventual"},"eventual cost 指最後實際形成的費用，與原始預算形成對比。"),
     q(9,"C1","語境搭配","詞彙題","單題","D","After watching a TV program on natural history, Adam decided to go on a ______ for dinosaur fossils in South Dakota.",{A:"trial",B:"route",C:"strike",D:"quest"},"go on a quest for 指展開搜尋或追尋，符合尋找化石。"),
     q(10,"C1","語境搭配","詞彙題","單題","B","With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",{A:"bounces",B:"blushes",C:"polishes",D:"transfers"},"粉紅花海讓山谷像新娘般 blushes（泛紅）。"),
@@ -1920,7 +1920,7 @@ window.BANK = window.BANK || [];
       [34,"B","前文描述盆舞活動，B 說明這些活動常舉辦的場所。"],
     ].map(([no,answer,explain]) => q(no,"C3","篇章結構","篇章結構","題組",answer,`Choose the sentence that best fits blank ${no}.`,structureOptions,explain,{group:"G4"})),
 
-    q(35,"C5","圖文整合","閱讀測驗","題組","B","Which of the following pictures best represents the image of a typical Maasai warrior?",{A:"",B:"",C:"",D:""},"文中典型 Maasai 戰士披 shúkà，並持長矛與盾牌；圖 B 符合。",{group:"G5",image:"img/111/q35.png",imageAlt:"四幅東非戰士圖片；B 圖人物披布、手持長矛與圓盾"}),
+    q(35,"C5","圖文整合","閱讀測驗","題組","B","Which of the following pictures best represents the image of a typical Maasai warrior?",{A:"",B:"",C:"",D:""},"文中典型 Maasai 戰士披 shúkà，並持長矛與盾牌；圖 B 符合。",{group:"G5",image:"img/111/q35.png",imageAlt:"四幅人物圖：A 蹲姿持弓箭；B 披長布、持長矛與圓盾；C 裸上身、持短矛與長橢圓盾；D 裸上身、持細長矛。"}),
     q(36,"C4","細節檢索","閱讀測驗","題組","A","What can we learn from the passage about the Maasai people?",{A:"They have been urged by governments to leave behind their traditions.",B:"They resist foreign influence because they were enslaved in the past.",C:"A boy has to kill a lion by himself before becoming an adult.",D:"A Maasai woman is usually good at beadwork and farming."},"文章明說肯亞與坦尚尼亞政府曾敦促他們採取現代生活方式，故 A 正確。",{group:"G5"}),
     q(37,"C4","細節檢索","閱讀測驗","題組","C","Which of the following is true about Maasai clothing and beadwork?",{A:"Striped and patterned cloth is preferred by young adults.",B:"Young men cannot wear black until they become warriors.",C:"Colorful glass jewelry became popular after the 19th century.",D:"The color of the shúkà represented one’s importance in the tribe."},"十九世紀與歐洲人交易後，彩色玻璃珠取代天然材料，故 C。",{group:"G5"}),
     q(38,"C4","篇章理解","閱讀測驗","題組","C","Why does the author quote Blixen’s comment at the end of the third paragraph?",{A:"To explain how Maasai warriors hunt for deer in the wild.",B:"To exemplify the types of weapons used by Maasai warriors.",C:"To emphasize that weapons are an inseparable part of a Maasai warrior’s outfit.",D:"To show the similarities between the behavior of a Maasai warrior and that of a male deer."},"引文把武器與裝飾比作雄鹿的角，強調它們是戰士形象不可分的一部分。",{group:"G5"}),
@@ -1935,7 +1935,7 @@ window.BANK = window.BANK || [];
     q(45,"C4","語境推義","閱讀測驗","題組","A","Which of the following is closest in meaning to “replicated” in the third paragraph?",{A:"Reproduced.",B:"Reassembled.",C:"Recycled.",D:"Restored."},"replicate 在此是重現同一再生過程，最接近 reproduced。",{group:"G7"}),
     q(46,"C4","推論判讀","閱讀測驗","題組","D","According to the passage, which of the following is an opinion, but NOT a fact?",{A:"Humans and zebrafish have 70 percent of genes in common.",B:"Zebrafish can quickly recover vision after damage to the retina.",C:"Scientists are testing if the GABA theory works on mice as it does on zebrafish.",D:"Understanding regeneration in zebrafish may allow humans to regrow their organs."},"D 是對未來人類器官再生可能性的推測；其餘皆為文章陳述的研究事實。",{group:"G7"}),
 
-    q(49,"C5","多文本整合","混合題","題組","C,D","Which statements are true for both Yusra Mardini and Popole Misenga?",{A:"Being an Olympic medalist.",B:"Growing up in an orphanage.",C:"Joining the Olympic Games more than once.",D:"Leaving his/her hometown because of war.",E:"Showing talent in sports after going to a foreign country.",F:"Traveling through several countries before securing protection."},"兩人都在 2016、2021 參加奧運，也都因戰爭離開家鄉；故選 C、D。",{group:"G8",multi:true}),
+    q(49,"C5","多文本整合","混合題","題組","C,D","請從下列 (A) 到 (F) 中，選出對 Yusra Mardini 和 Popole Misenga 都正確的選項。",{A:"Being an Olympic medalist.",B:"Growing up in an orphanage.",C:"Joining the Olympic Games more than once.",D:"Leaving his/her hometown because of war.",E:"Showing talent in sports after going to a foreign country.",F:"Traveling through several countries before securing protection."},"兩人都在 2016、2021 參加奧運，也都因戰爭離開家鄉；故選 C、D。",{group:"G8",multi:true}),
   ];
 
   window.BANK.push({
@@ -2069,7 +2069,7 @@ window.BANK = window.BANK || [];
   const q = (no, cat, tags, textType, answer, stem, options, group, image) => ({
     no, cat, tags, lang: group ? "題組" : "單題", textType, answer, stem, options,
     ...(group ? { group } : {}),
-    ...(image ? { image, imageAlt: "題目所附涼鞋示意圖。" } : {})
+    ...(image ? { image, imageAlt: "一雙平底涼鞋，鞋底前端有腳趾環，數條直向皮帶連接橫向腳背帶與踝帶。" } : {})
   });
   const dimplesOptions = {
     A: "flaw", B: "exhibit", C: "chubby", D: "attractiveness", E: "fade",
@@ -2400,7 +2400,7 @@ window.BANK.push({
       "no": 29, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G3",
       "stem": "Choose the best answer for blank 29.",
       "options": {"A": "prettier", "B": "larger", "C": "healthier", "D": "tastier"},
-      "explain": "氣味裝置使普通點心感覺比實際更 tastier「美味」。"
+      "explain": "氣味裝置使普通點心嚐起來比實際更美味；tasty 的比較級是 tastier。"
     },
     {
       "no": 30, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",
@@ -2973,7 +2973,7 @@ window.BANK.push({
       "no": 22, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G2",
       "stem": "Choose the best answer for blank 22.",
       "options": {"A": "adapted", "B": "attached", "C": "related", "D": "restricted"},
-      "explain": "感測器電線會 attached to「連接到」身體不同部位。"
+      "explain": "原句使用被動搭配 wires are attached to different parts of the body，表示感測器電線「連接在」身體不同部位。"
     },
     {
       "no": 23, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G2",
@@ -3440,7 +3440,7 @@ The young will not have to pay crippling motor insurance, because their reckless
     C(20,"A","G1","The area code generally determines the ______ of a call.",{A:"cost",B:"format",C:"quality",D:"distance"}),
     C(21,"D","G2","______ a coin is, the more it is worth.",{A:"Rare as",B:"The rare",C:"Rarest",D:"The rarer"},"時態語意"),
     C(22,"A","G2","Rarity has little to do with the ______ of a coin.",{A:"age",B:"shape",C:"size",D:"weight"}),
-    C(23,"B","G2","Many thousand-year-old coins often sell for little because there are many around, ______ a 1913 Liberty Head Nickel may sell for over one million US dollars.",{A:"since",B:"while",C:"whether",D:"if"},"邏輯關係"),
+    C(23,"B","G2","Many thousand-year-old coins often sell for no more than a few dollars because there are a lot of them around, ______ a 1913 Liberty Head Nickel may sell for over one million US dollars because there are only five in existence.",{A:"since",B:"while",C:"whether",D:"if"},"邏輯關係"),
     C(24,"C","G2","The demand for a particular coin will also ______ influence coin values.",{A:"merely",B:"hardly",C:"greatly",D:"roughly"}),
     C(25,"C","G2","A 1798 dime is much rarer than a 1916 dime, but the ______ sells for significantly more.",{A:"older",B:"better",C:"latter",D:"bigger"},"篇章指涉"),
     C(26,"B","G3","He was interested in the workings of the ______ mind rather than the nature of mental illness.",{A:"contrary",B:"normal",C:"detective",D:"mutual"}),
@@ -3941,7 +3941,7 @@ window.BANK.push({
     F(34,"E","The artificial butter substitute that generally ______ with microwavable popcorn contains a common food-flavoring substance."),
     F(35,"H","This substance is ______ for some serious lung diseases."),
     F(36,"F","For an easy and ______ alternative, nutritionists suggest that we pop our own popcorn."),
-    F(37,"G","All that is ______ is a large, high pot, vegetable oil and organic popcorn kernels."),
+    F(37,"G","All that is ______ is a large, high pot, about four tablespoons of vegetable oil and a small handful of organic popcorn kernels."),
     F(38,"C","When the kernels start ______, shake the pot to let the steam escape."),
     F(39,"I","As soon as the popping slows down, ______ the pot from the stove."),
     F(40,"B","Season with a small ______ of real butter or olive oil and natural salt."),
@@ -4074,7 +4074,7 @@ window.BANK.push({
     },
     "G6": {
       "title": "The world's first green airport",
-      "passage": "<p>The Galápagos Islands are the Pacific island paradise where Darwin’s theory of evolution was born. They are places filled with giant tree lizards, sandy beaches, and tropical plants. Now they will be famous for one more thing: the world’s first green airport. This group of islands off the coast of Ecuador has recently contracted Argentine HYPERLINK \"http://www.corporacionamerica.aero/\" Corporación America to manage the redevelopment of the airport on the island of Baltra. It is estimated that US$20 million is needed to complete the project HYPERLINK \"http://ar.news.yahoo.com/s/reuters/080916/tecnologia/internet_transporte_ecuador_galapagos_sol\" by 2009. The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle. This new development couldn’t be coming at a better time for the Galápagos, which were added to an environmental “ HYPERLINK \"http://whc.unesco.org/en/danger/\" danger list” in 2007. Pacific islands like the Galápagos, Easter Island, and Tahiti, have economies that are driven almost completely by tourism. However, some people think these are “unsustainable models of development.” The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006. These increases put great stress on the islands’ resources and environment. Air travel is especially criticized for exhausting natural resources and causing environmental damage. Thus, efforts are being made to reduce the environmental impact of the tourism industry. The greening of airports is just one of these attempts.</p>"
+      "passage": "<p>The Galápagos Islands are the Pacific island paradise where Darwin’s theory of evolution was born. They are places filled with giant tree lizards, sandy beaches, and tropical plants. Now they will be famous for one more thing: the world’s first green airport. This group of islands off the coast of Ecuador has recently contracted Argentine Corporación America to manage the redevelopment of the airport on the island of Baltra. It is estimated that US$20 million is needed to complete the project by 2009. The new development has several important features: use of wind and solar energy, passive heating and cooling systems, as well as concrete runways in place of asphalt, which has a greater carbon footprint during its production cycle. This new development couldn’t be coming at a better time for the Galápagos, which were added to an environmental “danger list” in 2007. Pacific islands like the Galápagos, Easter Island, and Tahiti, have economies that are driven almost completely by tourism. However, some people think these are “unsustainable models of development.” The number of visitors to the Galápagos rose more than 250% from 1990 to 2006, while the number of commercial flights to the area rose 193% from 2001 to 2006. These increases put great stress on the islands’ resources and environment. Air travel is especially criticized for exhausting natural resources and causing environmental damage. Thus, efforts are being made to reduce the environmental impact of the tourism industry. The greening of airports is just one of these attempts.</p>"
     },
     "G7": {
       "title": "Whether cattle behave like compass needles",
@@ -7823,7 +7823,7 @@ window.BANK=window.BANK||[];window.BANK.push({
     },
     "G5": {
       "title": "Twin heart transplants",
-      "passage": "<p>A sense of humor is just one of the many things shared by Alfred and Anthony Melillo, 64-year-old twin brothers from East Haven who made history in February 2002. On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor. Two days before Valentine’s Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants. INCLUDEPICTURE \"../../../../Administrator/My%20Documents/heart%20transplant.files/pixel.gif\" \\* MERGEFORMATINET \\d “I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes. While the twins knew that genetics might have played a role in their condition, they recognized that their eating habits might have also contributed to their heart problems. “We’d put half a pound of butter on a steak. I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.” The discussion moved to Anthony’s recovery. In the five years since his heart transplant, he had been on an exercise program where he regularly rode a bicycle for five miles, swam each day, and walked a couple of miles. He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery. “Right now I feel pretty young and I’m doing very well,” Anthony said. “I feel like a new person.” Alfred said his goal, of course, was to feel even better than his brother. But, he added, “I love my brother very much. We’re very close and I’m sure we’ll do just fine.”</p>"
+      "passage": "<p>A sense of humor is just one of the many things shared by Alfred and Anthony Melillo, 64-year-old twin brothers from East Haven who made history in February 2002. On Christmas Eve, 1992, Anthony had a heart transplant from a 21-year-old donor. Two days before Valentine’s Day in 2002, Alfred received a 19-year-old heart, marking the first time on record that twin adults each received heart transplants.</p><p>“I’m 15 minutes older than him, but now I’m younger because of my heart and I’m not going to respect him,” Alfred said with a grin, pointing to his brother while talking to a roomful of reporters, who laughed frequently at their jokes.</p><p>While the twins knew that genetics might have played a role in their condition, they recognized that their eating habits might have also contributed to their heart problems. “We’d put half a pound of butter on a steak. I overdid it on all the food that tasted good, so I guess I deserved what I got for not dieting properly.”</p><p>The discussion moved to Anthony’s recovery. In the five years since his heart transplant, he had been on an exercise program where he regularly rode a bicycle for five miles, swam each day, and walked a couple of miles. He was still on medication, but not nearly as much as Alfred, who was just in the early stage of his recovery.</p><p>“Right now I feel pretty young and I’m doing very well,” Anthony said. “I feel like a new person.” Alfred said his goal, of course, was to feel even better than his brother. But, he added, “I love my brother very much. We’re very close and I’m sure we’ll do just fine.”</p>"
     },
     "G6": {
       "title": "Returning ancient artifacts",
@@ -13835,7 +13835,7 @@ window.BANK.push((() => {
 
       q(11, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "I sometimes take John's coat for my own, because the two of them look so _____.", {A:"original",B:"cheerful",C:"curious",D:"similar"}, {explain:"兩件外套容易混淆，是因為看起來 similar「相似」。"}),
       q(12, "C1", ["語境搭配"], "單題", "詞彙題", "A", "George at first had difficulty swimming across the pool, but he finally succeeded on his fourth _____.", {A:"attempt",B:"process",C:"instance",D:"display"}, {explain:"on his fourth attempt 表示在第四次嘗試時成功。"}),
-      q(13, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "Several motorists were _____ waiting for the light to change.", {A:"impossibly",B:"impracticably",C:"importantly",D:"impatiently"}, {explain:"等紅綠燈的駕駛顯得 impatiently「不耐煩地」。"}),
+      q(13, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "Several motorists were _____ waiting for the light to change.", {A:"impossibly",B:"impracticably",C:"importantly",D:"impatiently"}, {explain:"駕駛「不耐煩地」等待紅綠燈；副詞 impatiently 修飾 waiting 的動作。"}),
       q(14, "C1", ["語境搭配"], "單題", "詞彙題", "A", "Mary wrote a letter of _____ to the manufacturer after her new car broke down three times in the same week.", {A:"complaint",B:"repair",C:"depression",D:"madness"}, {explain:"letter of complaint 是「投訴信」的固定搭配。"}),
       q(15, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "John's poor math score must have _____ him a lot, because he is not attending the class any more.", {A:"expelled",B:"discouraged",C:"impressed",D:"finished"}, {explain:"低分使 John discouraged「感到挫折」，所以不再上課。"}),
       q(16, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "The issue of environmental protection has not received much attention until very _____.", {A:"seriously",B:"recently",C:"amazingly",D:"dangerously"}, {explain:"until very recently 表示直到最近才受到注意。"}),
@@ -13855,7 +13855,7 @@ window.BANK.push((() => {
       q(29, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 29.", {A:"attentive",B:"attributive",C:"attractive",D:"accustomed"}, {group:"G5",explain:"廣告展示對年輕人 attractive「有吸引力的」情境。"}),
       q(30, "C2", ["邏輯關係"], "題組", "綜合測驗", "B", "Choose the best answer for blank 30.", {A:"where",B:"while",C:"what",D:"why"}, {group:"G5",explain:"while 引導同時發生的情境：人們從事活動時舉杯。"}),
 
-      q(31, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 31.", {A:"far from",B:"by far",C:"a bit far",D:"as far"}, {group:"G6",explain:"by far the most popular 是「最受歡迎得多」的固定搭配。"}),
+      q(31, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 31.", {A:"far from",B:"by far",C:"a bit far",D:"as far"}, {group:"G6",explain:"by far 用來強調最高級；by far the most popular 意為「遠遠是最受歡迎的」。"}),
       q(32, "C2", ["邏輯關係"], "題組", "綜合測驗", "D", "Choose the best answer for blank 32.", {A:"also",B:"but",C:"for",D:"or"}, {group:"G6",explain:"rafting 與 swimming 是可選擇的兩種水上活動，用 or。"}),
       q(33, "C2", ["轉承語"], "題組", "綜合測驗", "A", "Choose the best answer for blank 33.", {A:"In addition",B:"In due time",C:"For instance",D:"By and large"}, {group:"G6",explain:"接續補充露營地資訊，用 In addition。"}),
       q(34, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 34.", {A:"About",B:"For",C:"With",D:"In"}, {group:"G6",explain:"For those who prefer... 表示對偏好住城裡的人而言。"}),
@@ -16602,7 +16602,7 @@ window.BANK.push((() => {
     q(45,"C4",["語境推義"],"閱讀測驗","A","What does the word “want” in the first paragraph most likely mean?",{A:"Lack.",B:"Growth.",C:"Loss.",D:"Search."},"G7",P5),
     q(46,"C4",["細節檢索"],"閱讀測驗","D","Which of the following is true about the Maniq?",{A:"They live in a different climate zone from the Jahai.",B:"Their ability to smell is stronger than that of the Jahai.",C:"They use smell terms to describe how food looks and tastes.",D:"Their living environment is similar to that in earlier human history."},"G7",P5),
     q(47,"C4",["推論判讀"],"閱讀測驗","B","Why is it difficult for English speakers to describe smells directly?",{A:"They cannot distinguish the smells around them.",B:"The sense of smell is not critical for their survival.",C:"They consider it uncivilized to talk about smells directly.",D:"There are not many sources of odor in their surroundings."},"G7",P5),
-    q(48,"C5",["圖文整合"],"混合題","B","Which of the following is a picture of an okapi?",{A:"Image A",B:"Image B",C:"Image C",D:"Image D"},"G8",P5,{image:"img/z108/q48.png",imageAlt:"Four animal illustrations labeled A through D; choose the okapi."}),
+    q(48,"C5",["圖文整合"],"混合題","B","Which of the following is a picture of an okapi?",{A:"Image A",B:"Image B",C:"Image C",D:"Image D"},"G8",P5,{image:"img/z108/q48.png",imageAlt:"四幅動物圖：A 全身有淡色直條紋；B 深色身軀、四肢帶黑白橫紋；C 頸部到身體前半有密集條紋；D 上身深色、後腿帶橫紋並有分叉角。"}),
     q(49,"C4",["細節檢索"],"閱讀測驗","A","Which of the following descriptions is true about the okapi?",{A:"It is an important symbol of Congo.",B:"It is a mystical creature from a Greek legend.",C:"It has been well protected since 1987.",D:"It is more closely related to the zebra than the giraffe."},"G8",P5),
     q(50,"C4",["語境推義"],"閱讀測驗","C","What does the word “whiff” most likely mean in the third paragraph?",{A:"Firm belief.",B:"Kind intention.",C:"Slight trace.",D:"Strong dislike."},"G8",P5),
     q(51,"C4",["推論判讀"],"閱讀測驗","C","Which of the following can be inferred about Henry Morton Stanley?",{A:"He was the first European to analyze okapi skeleton.",B:"He had found many new species of animals in Africa.",C:"He did not know the “African donkey” in his book was the okapi.",D:"He had seen the backside of an okapi dashing through the bushes."},"G8",P5)

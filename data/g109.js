@@ -4,7 +4,7 @@
   const q = (no, cat, tags, textType, answer, stem, options, group, image) => ({
     no, cat, tags, lang: group ? "題組" : "單題", textType, answer, stem, options,
     ...(group ? { group } : {}),
-    ...(image ? { image, imageAlt: "題目所附涼鞋示意圖。" } : {})
+    ...(image ? { image, imageAlt: "一雙平底涼鞋，鞋底前端有腳趾環，數條直向皮帶連接橫向腳背帶與踝帶。" } : {})
   });
   const dimplesOptions = {
     A: "flaw", B: "exhibit", C: "chubby", D: "attractiveness", E: "fade",

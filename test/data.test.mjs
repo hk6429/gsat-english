@@ -20,6 +20,9 @@ const allowedTags = new Set([
   "篇章指涉", "主旨連貫", "文意選填", "篇章結構", "主旨判讀", "語境推義",
   "細節檢索", "圖文整合", "篇章理解", "指涉判讀", "資訊排序", "推論判讀", "多文本整合"
 ]);
+const allowedTextTypes = new Set([
+  "詞彙題", "文法題", "綜合測驗", "文意選填", "篇章結構", "閱讀測驗", "混合題"
+]);
 const answerKeys = q => Array.isArray(q.acceptedAnswers) && q.acceptedAnswers.length
   ? q.acceptedAnswers
   : String(q.answer || "").split(",").filter(Boolean);
@@ -38,6 +41,7 @@ test("各年度題庫結構完整", () => {
     for (const q of item.questions) {
       assert.ok(q.answer, `${item.era}${item.year} 第 ${q.no} 題缺答案`);
       assert.ok(allowedCategories.has(q.cat), `${item.era}${item.year} 第 ${q.no} 題分類不受控`);
+      assert.ok(allowedTextTypes.has(q.textType), `${item.era}${item.year} 第 ${q.no} 題題型不受控：${q.textType}`);
       for (const tag of q.tags) assert.ok(allowedTags.has(tag), `${item.era}${item.year} 第 ${q.no} 題標籤不受控：${tag}`);
       for (const answer of answerKeys(q)) {
         assert.ok(Object.hasOwn(q.options, answer), `${item.era}${item.year} 第 ${q.no} 題答案 ${answer} 不在選項內`);
@@ -157,6 +161,40 @@ test("題目圖片存在且具替代文字", () => {
     for (const q of item.questions.filter(q => q.image)) {
       assert.ok(fs.existsSync(path.join(root, q.image)), `${item.era}${item.year} 第 ${q.no} 題圖片不存在`);
       assert.ok(q.imageAlt, `${item.era}${item.year} 第 ${q.no} 題圖片缺少替代文字`);
+      assert.ok(q.imageAlt.length >= 20, `${item.era}${item.year} 第 ${q.no} 題圖片替代文字過短`);
+      const entries = Object.entries(q.options || {});
+      const imageOnly = entries.length > 0 && entries.every(([, value]) =>
+        !String(value).trim() || /^Image [A-Z]$/.test(String(value))
+      );
+      if (imageOnly) {
+        for (const [key] of entries) {
+          assert.match(
+            q.imageAlt,
+            new RegExp(`(?:^|[^A-Z])${key}(?:[^A-Z]|$)`),
+            `${item.era}${item.year} 第 ${q.no} 題替代文字缺少圖片選項 ${key}`
+          );
+        }
+      }
+    }
+  }
+});
+
+test("題庫不含 Word 欄位碼或轉檔雜訊", () => {
+  const artifact = /HYPERLINK|INCLUDEPICTURE|MERGEFORMAT|Administrator|�/i;
+  for (const item of banks) {
+    for (const [groupId, group] of Object.entries(item.groups || {})) {
+      assert.doesNotMatch(
+        JSON.stringify(group),
+        artifact,
+        `${item.era}${item.year} 題組 ${groupId} 含轉檔雜訊`
+      );
+    }
+    for (const q of item.questions) {
+      assert.doesNotMatch(
+        JSON.stringify(q),
+        artifact,
+        `${item.era}${item.year} 第 ${q.no} 題含轉檔雜訊`
+      );
     }
   }
 });

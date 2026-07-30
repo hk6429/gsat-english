@@ -63,7 +63,7 @@
     C(20,"A","G1","The area code generally determines the ______ of a call.",{A:"cost",B:"format",C:"quality",D:"distance"}),
     C(21,"D","G2","______ a coin is, the more it is worth.",{A:"Rare as",B:"The rare",C:"Rarest",D:"The rarer"},"時態語意"),
     C(22,"A","G2","Rarity has little to do with the ______ of a coin.",{A:"age",B:"shape",C:"size",D:"weight"}),
-    C(23,"B","G2","Many thousand-year-old coins often sell for little because there are many around, ______ a 1913 Liberty Head Nickel may sell for over one million US dollars.",{A:"since",B:"while",C:"whether",D:"if"},"邏輯關係"),
+    C(23,"B","G2","Many thousand-year-old coins often sell for no more than a few dollars because there are a lot of them around, ______ a 1913 Liberty Head Nickel may sell for over one million US dollars because there are only five in existence.",{A:"since",B:"while",C:"whether",D:"if"},"邏輯關係"),
     C(24,"C","G2","The demand for a particular coin will also ______ influence coin values.",{A:"merely",B:"hardly",C:"greatly",D:"roughly"}),
     C(25,"C","G2","A 1798 dime is much rarer than a 1916 dime, but the ______ sells for significantly more.",{A:"older",B:"better",C:"latter",D:"bigger"},"篇章指涉"),
     C(26,"B","G3","He was interested in the workings of the ______ mind rather than the nature of mental illness.",{A:"contrary",B:"normal",C:"detective",D:"mutual"}),

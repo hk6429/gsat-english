@@ -84,7 +84,7 @@ window.BANK.push((() => {
 
       q(11, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "I sometimes take John's coat for my own, because the two of them look so _____.", {A:"original",B:"cheerful",C:"curious",D:"similar"}, {explain:"兩件外套容易混淆，是因為看起來 similar「相似」。"}),
       q(12, "C1", ["語境搭配"], "單題", "詞彙題", "A", "George at first had difficulty swimming across the pool, but he finally succeeded on his fourth _____.", {A:"attempt",B:"process",C:"instance",D:"display"}, {explain:"on his fourth attempt 表示在第四次嘗試時成功。"}),
-      q(13, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "Several motorists were _____ waiting for the light to change.", {A:"impossibly",B:"impracticably",C:"importantly",D:"impatiently"}, {explain:"等紅綠燈的駕駛顯得 impatiently「不耐煩地」。"}),
+      q(13, "C1", ["詞義辨析"], "單題", "詞彙題", "D", "Several motorists were _____ waiting for the light to change.", {A:"impossibly",B:"impracticably",C:"importantly",D:"impatiently"}, {explain:"駕駛「不耐煩地」等待紅綠燈；副詞 impatiently 修飾 waiting 的動作。"}),
       q(14, "C1", ["語境搭配"], "單題", "詞彙題", "A", "Mary wrote a letter of _____ to the manufacturer after her new car broke down three times in the same week.", {A:"complaint",B:"repair",C:"depression",D:"madness"}, {explain:"letter of complaint 是「投訴信」的固定搭配。"}),
       q(15, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "John's poor math score must have _____ him a lot, because he is not attending the class any more.", {A:"expelled",B:"discouraged",C:"impressed",D:"finished"}, {explain:"低分使 John discouraged「感到挫折」，所以不再上課。"}),
       q(16, "C1", ["詞義辨析"], "單題", "詞彙題", "B", "The issue of environmental protection has not received much attention until very _____.", {A:"seriously",B:"recently",C:"amazingly",D:"dangerously"}, {explain:"until very recently 表示直到最近才受到注意。"}),
@@ -104,7 +104,7 @@ window.BANK.push((() => {
       q(29, "C2", ["語境搭配"], "題組", "綜合測驗", "C", "Choose the best answer for blank 29.", {A:"attentive",B:"attributive",C:"attractive",D:"accustomed"}, {group:"G5",explain:"廣告展示對年輕人 attractive「有吸引力的」情境。"}),
       q(30, "C2", ["邏輯關係"], "題組", "綜合測驗", "B", "Choose the best answer for blank 30.", {A:"where",B:"while",C:"what",D:"why"}, {group:"G5",explain:"while 引導同時發生的情境：人們從事活動時舉杯。"}),
 
-      q(31, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 31.", {A:"far from",B:"by far",C:"a bit far",D:"as far"}, {group:"G6",explain:"by far the most popular 是「最受歡迎得多」的固定搭配。"}),
+      q(31, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 31.", {A:"far from",B:"by far",C:"a bit far",D:"as far"}, {group:"G6",explain:"by far 用來強調最高級；by far the most popular 意為「遠遠是最受歡迎的」。"}),
       q(32, "C2", ["邏輯關係"], "題組", "綜合測驗", "D", "Choose the best answer for blank 32.", {A:"also",B:"but",C:"for",D:"or"}, {group:"G6",explain:"rafting 與 swimming 是可選擇的兩種水上活動，用 or。"}),
       q(33, "C2", ["轉承語"], "題組", "綜合測驗", "A", "Choose the best answer for blank 33.", {A:"In addition",B:"In due time",C:"For instance",D:"By and large"}, {group:"G6",explain:"接續補充露營地資訊，用 In addition。"}),
       q(34, "C2", ["語境搭配"], "題組", "綜合測驗", "B", "Choose the best answer for blank 34.", {A:"About",B:"For",C:"With",D:"In"}, {group:"G6",explain:"For those who prefer... 表示對偏好住城裡的人而言。"}),

@@ -212,7 +212,7 @@ window.BANK.push({
       "no": 29, "cat": "C2", "tags": ["語境選詞"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G3",
       "stem": "Choose the best answer for blank 29.",
       "options": {"A": "prettier", "B": "larger", "C": "healthier", "D": "tastier"},
-      "explain": "氣味裝置使普通點心感覺比實際更 tastier「美味」。"
+      "explain": "氣味裝置使普通點心嚐起來比實際更美味；tasty 的比較級是 tastier。"
     },
     {
       "no": 30, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G3",

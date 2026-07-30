@@ -35,7 +35,7 @@ window.BANK.push({
     },
     "G8": {
       "title": "Specialty stores in Wonder Village",
-      "passage": "<p>Located along the sparkling coastline of the Pacific Ocean, Wonder Village is a famous indigenous district in eastern Taiwan. The historic village exhibits the traditional way of life of the tribe there. However, it does not live in the past. As numerous new restaurants and shops have sprung up in recent years, it has become not only a cultural center but also a unique commercial zone.</p><p><b>A. Oh Eco</b> sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles.</p><p><b>B. After Work</b> serves handcrafted beer and hand-made gourmet pizzas.</p><p><b>C. Aroma Paradise</b> creates fragrances customized to each shopper’s special preferences.</p><p><b>D. Something Different</b> is an antique store featuring traditional-style home accessories.</p><p><b>E. Beyond World</b> carries products only from local makers and small businesses owned by indigenous people.</p><p><b>F. The Pinery</b> serves innovative pineapple-themed menu items.</p>"
+      "passage": "<p>Located along the sparkling coastline of the Pacific Ocean, Wonder Village is a famous indigenous district in eastern Taiwan. The historic village exhibits the traditional way of life of the tribe there. However, it does not live in the past. As numerous new restaurants and shops have sprung up in recent years, it has become not only a cultural center but also a unique commercial zone. The following six shops are examples of some of the specialty stores there.</p><p><b>A. Oh Eco</b><br>Greatly concerned about the presence of fake “green” products on the market, Alice Bao decided to open this shop. She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles. “Here everyone looks out for each other and the neighborhood,” she says. “There’s a sense of community in the area.”</p><p><b>B. After Work</b><br>Neighborhood beer lovers rejoiced when After Work moved in last summer. “We knew we were coming into a really cool neighborhood,” says co-owner Joey Ma. Aside from handcrafted beer, the menu boasts hand-made gourmet pizzas such as the Yummy Duck n’ Cheese, loaded with roast duck and, yes, creamy delicious cheese. A truly unique blend!</p><p><b>C. Aroma Paradise</b><br>The fragrances at this scent shop are largely customized to meet the individual shopper’s taste. Owner Joseph Tang says he knew the idea would work well in this unique district: “Each store is one of a kind in Wonder Village,” he states. “Aroma Paradise wants to create a paradise for those who are looking for fragrance made for their special preferences.”</p><p><b>D. Something Different</b><br>Looking for something unique? Yes, at this tiny antique store you can always find, as promised, something different. Open since 1996, the store features traditional-style home accessories, ranging from cabinets and chairs to picture frames and decorative mirrors.</p><p><b>E. Beyond World</b><br>Owner Foting Mayaw opened this boutique in what he calls “the most fascinating area in Taiwan.” The shop focuses on selling various “good goods” that showcase the skill and spirit of neighborhood artisans. From fashion items to rice snacks, it carries products only from local makers and small businesses owned by indigenous people.</p><p><b>F. The Pinery</b><br>This restaurant got its name from the pineapple farms that once populated the area. Indeed, the fruit appears in some innovative menu items (e.g., pineapple jam on the burger). “Wonder Village is much more than just a tourist destination,” says owner Carol Hon. “It is a place where the old meets the new: diverse, unique, and always full of surprises.”</p>"
     }
   },
   "questions": [
@@ -806,7 +806,7 @@ window.BANK.push({
       "textType": "閱讀測驗",
       "answer": "C",
       "group": "G5",
-      "stem": "Which route shows the correct course of the Endurance after leaving South Georgia?",
+      "stem": "Which of the following shows the correct route of the Endurance after leaving South Georgia?",
       "options": {
         "A": "",
         "B": "",
@@ -814,7 +814,7 @@ window.BANK.push({
         "D": ""
       },
       "image": "img/115/q38.png",
-      "imageAlt": "四幅南極航線圖，標示 South Georgia、Elephant Island、Weddell Sea 與航線箭頭",
+      "imageAlt": "四幅南極航線圖：A 從 South Georgia 順時針繞 Weddell Sea 到 Elephant Island；B 由 South Georgia 逆時針繞行；C 由 South Georgia 沿 Weddell Sea 東側南下後折返；D 由 South Georgia 向西南抵 Elephant Island 再向南。",
       "explain": "船自 South Georgia 向南進入 Weddell Sea，受冰流推向北方，最後人員前往 Elephant Island，再折返 South Georgia 求援；圖 C 符合。"
     },
     {
@@ -884,7 +884,7 @@ window.BANK.push({
       "textType": "閱讀測驗",
       "answer": "B",
       "group": "G6",
-      "stem": "Which statement can be inferred about spiral staircases in the Medieval Ages?",
+      "stem": "Which of the following statements can be inferred about spiral staircases in the Medieval Ages?",
       "options": {
         "A": "The staircase was too narrow to allow any quick retreat.",
         "B": "The clockwise design favored right-handed castle defenders.",
@@ -941,7 +941,7 @@ window.BANK.push({
       "textType": "閱讀測驗",
       "answer": "A",
       "group": "G7",
-      "stem": "Which is closest in meaning to “a blip” in the last paragraph?",
+      "stem": "Which of the following is closest in meaning to “a blip” in the last paragraph?",
       "options": {
         "A": "A temporary state.",
         "B": "An urgent need.",
@@ -979,7 +979,7 @@ window.BANK.push({
       "textType": "混合題",
       "answer": "A,D,E",
       "group": "G8",
-      "stem": "The Chen family wants (1) a 19th-century oil lamp, (2) recycled plastic sunglasses, and (3) an aboriginal wooden beads necklace. Which stores should they visit?",
+      "stem": "While visiting Wonder Village, the Chen family decide to buy the following items as souvenirs:<br>(1) a 19th century oil lamp<br>(2) recycled plastic sunglasses<br>(3) an aboriginal wooden beads necklace<br>Which stores should they go to for these items?",
       "options": {
         "A": "Oh Eco",
         "B": "After Work",

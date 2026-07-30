@@ -77,7 +77,7 @@
     F(34,"E","The artificial butter substitute that generally ______ with microwavable popcorn contains a common food-flavoring substance."),
     F(35,"H","This substance is ______ for some serious lung diseases."),
     F(36,"F","For an easy and ______ alternative, nutritionists suggest that we pop our own popcorn."),
-    F(37,"G","All that is ______ is a large, high pot, vegetable oil and organic popcorn kernels."),
+    F(37,"G","All that is ______ is a large, high pot, about four tablespoons of vegetable oil and a small handful of organic popcorn kernels."),
     F(38,"C","When the kernels start ______, shake the pot to let the steam escape."),
     F(39,"I","As soon as the popping slows down, ______ the pot from the stove."),
     F(40,"B","Season with a small ______ of real butter or olive oil and natural salt."),

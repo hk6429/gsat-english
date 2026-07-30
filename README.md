@@ -57,6 +57,24 @@ npm test
 npm run validate:official
 ```
 
+## 四專家審題
+
+全庫已由高中英文教師、考生、教育評量專家及命題專家以不同檢核面向覆蓋
+2,850／2,850 題。審查包含正式答案、題幹與選項、題組材料、既有解析、
+分類、題圖無障礙文字及官方統計來源。
+
+完整結論與逐題紀錄：
+
+- `review/2026-07-30/four-expert-audit.md`
+- `review/2026-07-30/four-expert-audit.json`
+
+重新整併三份獨立審查 JSON：
+
+```sh
+node scripts/build-four-expert-review.mjs \
+  <teacher.json> <student.json> <item-writer.json> review/2026-07-30
+```
+
 ## 資料結構
 
 - `data/g83.js`～`data/g115.js`：學測各年度題庫
@@ -65,6 +83,7 @@ npm run validate:official
 - `data/option-stats.js`：官方答對率、鑑別度與選項分析，由腳本產生
 - `img/<年度>/`、`img/z<年度>/`：正式題本必要題圖
 - `.sources/`：本機查核用官方原始檔，不推送 GitHub
+- `docs/TAXONOMY.md`：本站能力分類、題型與標籤控制詞
 
 ## 正式網站
 

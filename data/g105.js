@@ -170,7 +170,7 @@ window.BANK.push({
       "no": 22, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "B", "group": "G2",
       "stem": "Choose the best answer for blank 22.",
       "options": {"A": "adapted", "B": "attached", "C": "related", "D": "restricted"},
-      "explain": "感測器電線會 attached to「連接到」身體不同部位。"
+      "explain": "原句使用被動搭配 wires are attached to different parts of the body，表示感測器電線「連接在」身體不同部位。"
     },
     {
       "no": 23, "cat": "C2", "tags": ["語境搭配"], "lang": "題組", "textType": "綜合測驗", "answer": "D", "group": "G2",

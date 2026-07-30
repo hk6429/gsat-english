@@ -60,7 +60,7 @@ window.BANK.push({
       "answer": "A",
       "stem": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
       "options": {"A": "emerging", "B": "flashing", "C": "rushing", "D": "floating"},
-      "explain": "太陽從雲海中「升起、出現」，應用 emerge from。"
+      "explain": "太陽從雲海中「升起、出現」可用 emerge from；原句是 with the sun emerging from... 的「with＋名詞＋V-ing」附帶狀況結構。"
     },
     {
       "no": 3,
@@ -449,7 +449,7 @@ window.BANK.push({
       "stem": "Which of the following pictures shows de Mestral’s invention?",
       "options": {"A": "", "B": "", "C": "", "D": ""},
       "image": "img/113/q35.png",
-      "imageAlt": "四幅扣件圖片選項：按扣、魔鬼氈、掛鉤繩與鉤眼扣",
+      "imageAlt": "四幅扣件圖片：A 為金屬按扣；B 為兩片魔鬼氈；C 為兩端掛鉤的彈力繩；D 為布料上的鉤眼扣。",
       "explain": "文中發明是由 hooks 與 loops 相互黏合的 Velcro，圖 B 顯示魔鬼氈。"
     },
     {
