@@ -6,6 +6,7 @@
   "scripts": {
     "build:stats": "node scripts/build-official-stats.mjs",
     "build:data": "node scripts/build-bank.mjs && node scripts/build-official-stats.mjs",
+    "validate:explanations": "node scripts/validate-explanations.mjs",
     "validate:official": "node scripts/validate-official.mjs",
     "pretest": "npm run build:data",
     "test": "node --test test/*.test.mjs"
