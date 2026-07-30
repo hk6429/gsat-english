@@ -127,11 +127,17 @@
   .reportToggleBtn:hover{opacity:1; color:var(--bad)}
   .reportToggleBtn:disabled{cursor:default; text-decoration:none}
   .reportPanel{margin-top:6px; padding:8px 10px; background:rgba(0,0,0,.03); border:1px solid var(--line); border-radius:8px; display:flex; flex-direction:column; gap:6px}
+  .reportPanel[hidden]{display:none}
+  .reportPanel label{display:flex; flex-direction:column; gap:3px; font-size:.8rem; color:var(--accent2)}
   .reportPanel select,.reportPanel textarea{font:inherit; font-size:.82rem; padding:5px 7px; border:1px solid var(--line); border-radius:6px; background:var(--card); color:var(--ink); resize:vertical}
+  .reportPanel textarea{min-height:72px}
   .reportActions{display:flex; align-items:center; gap:8px}
   .reportSubmitBtn{padding:4px 12px; border-radius:6px; border:1.5px solid var(--accent); background:var(--accent); color:#fff; font-size:.8rem; cursor:pointer}
   .reportSubmitBtn:disabled{opacity:.6; cursor:default}
   .reportStatus{font-size:.78rem; color:var(--muted)}
+  .reportStatus.ok{color:var(--ok)}
+  .reportStatus.bad{color:var(--bad)}
+  .reportHp{position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden}
   .reasonBtn.on{background:var(--accent2); border-color:var(--accent2); color:#fff9ec}
   @keyframes fadeup{from{opacity:0; transform:translateY(4px)} to{opacity:1; transform:none}}
   @media (prefers-reduced-motion: reduce){
@@ -201,6 +207,8 @@
     .chip{padding:9px 12px}
     select,input[type=number],textarea,.reportPanel select,.reportPanel textarea{font-size:16px}
     .row label{min-height:40px; display:inline-flex; align-items:center}
+    .reportActions{align-items:stretch; flex-direction:column}
+    .reportSubmitBtn{width:100%; min-height:44px}
     .footer{padding-bottom:120px}
   }
   @media print{
@@ -424,6 +432,7 @@
 <!-- 題庫合併檔（由 scripts/build-data.mjs 產生）-->
 <script defer src="data/bank.js"></script>
 <script defer src="data/option-stats.js"></script>
+<script defer src="js/report-client.js"></script>
 <script>
 document.addEventListener("DOMContentLoaded", ()=>{
 // localStorage 寫入一律走這個包裝：無痕模式／配額爆滿時只是靜默失敗，不會中斷作答與解析顯示
@@ -877,12 +886,79 @@ function wrongReasonPickerHtml(q){
     ).join("")+`</div>`;
 }
 function reportLinkHtml(q){
-  const subject = encodeURIComponent(`大學英文題庫問題回報：${q.era}${q.year}-${q.no}`);
-  const body = encodeURIComponent(
-    `題目：${q.era} ${q.year} 年第 ${q.no} 題（${q.id}）\n\n問題類型：\n問題描述：\n`
-  );
-  return `<div class="reportBox no-print"><a class="reportToggleBtn" href="mailto:hk6429@gmail.com?subject=${subject}&body=${body}">🚩 這題有問題？回報給大乃老師</a></div>`;
+  return `<div class="reportBox no-print">
+    <button type="button" class="reportToggleBtn" data-report-qid="${q.id}" aria-expanded="false">🚩 這題有問題？回報給大乃老師</button>
+    <form class="reportPanel" data-report-form="${q.id}" hidden>
+      <label>問題類型
+        <select name="issueType" required>
+          <option value="解析不清楚">解析不清楚</option>
+          <option value="答案或選項有疑問">答案或選項有疑問</option>
+          <option value="圖片或表格有缺漏">圖片或表格有缺漏</option>
+          <option value="題目文字有誤">題目文字有誤</option>
+          <option value="超出課程範圍">超出課程範圍</option>
+          <option value="其他">其他</option>
+        </select>
+      </label>
+      <label>補充說明（選填）
+        <textarea name="note" maxlength="800" placeholder="如果方便，再告訴老師哪裡需要修正。"></textarea>
+      </label>
+      <label class="reportHp" aria-hidden="true">網站<input name="website" tabindex="-1" autocomplete="off"></label>
+      <div class="reportActions">
+        <button type="submit" class="reportSubmitBtn">送出回報</button>
+        <span class="reportStatus" role="status" aria-live="polite"></span>
+      </div>
+    </form>
+  </div>`;
 }
+function reportOptions(q){
+  return Object.entries(q.options||{}).map(([key,value])=>`(${key}) ${plainText(value)}`).join("\n");
+}
+function reportContext(q){
+  const group = q.groupData ? `${q.groupData.title||""}\n${q.groupData.passage||""}` : "";
+  return plainText([group, q.passage||"", q.note||""].filter(Boolean).join("\n"));
+}
+document.addEventListener("click", e=>{
+  const toggle = e.target.closest(".reportToggleBtn");
+  if(!toggle) return;
+  const panel = toggle.closest(".reportBox")?.querySelector(".reportPanel");
+  if(!panel) return;
+  const open = panel.hidden;
+  panel.hidden = !open;
+  toggle.setAttribute("aria-expanded", String(open));
+});
+document.addEventListener("submit", async e=>{
+  const form = e.target.closest(".reportPanel");
+  if(!form) return;
+  e.preventDefault();
+  const q = ALL.find(item=>item.id===form.dataset.reportForm);
+  const status = form.querySelector(".reportStatus");
+  const submit = form.querySelector(".reportSubmitBtn");
+  if(!q || !status || !submit) return;
+  submit.disabled = true;
+  status.className = "reportStatus";
+  status.textContent = "正在送出…";
+  const data = new FormData(form);
+  const reportUrl = new URL(location.href);
+  reportUrl.searchParams.set("q", q.id);
+  try{
+    await GSAT_ENGLISH_REPORT.submit({
+      questionId:q.id, year:q.year, era:q.era, no:q.no, originalNo:q.originalNo||q.no,
+      category:[CATS[q.cat], ...(q.tags||[])].filter(Boolean).join("／"),
+      stem:plainText(q.stem), context:reportContext(q), options:reportOptions(q),
+      answer:answerLabel(q), picked:answered[q.id]||"", explain:plainText(q.explain||""),
+      issueType:data.get("issueType"), note:data.get("note"), website:data.get("website"),
+      url:reportUrl.href
+    }, location);
+    status.className = "reportStatus ok";
+    status.textContent = "已送給大乃老師，謝謝你協助校對！";
+    form.querySelector("textarea").value = "";
+  }catch(error){
+    status.className = "reportStatus bad";
+    status.textContent = error.message || "回報暫時無法送出";
+  }finally{
+    submit.disabled = false;
+  }
+});
 // 錯題連對通過第3盒畢業時，在解析框補一句正回饋（把「還債」變成「成就」）
 function markGraduated(div){
   const eb = div.querySelector(".explainBox"); if(!eb) return;
