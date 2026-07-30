@@ -1,0 +1,11 @@
+{
+  "name": "學測英文題庫 — 歷屆試題分類練習",
+  "short_name": "英文題庫",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#eef1f7",
+  "theme_color": "#2e4a8a",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

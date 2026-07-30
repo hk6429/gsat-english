@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>查題校對 — 學測英文題庫</title>
+<meta name="robots" content="noindex">
+<style>
+:root{--ink:#1f2733; --paper:#eef2f8; --card:#ffffff; --accent:#2e4a8a; --seal:#2e4a8a; --ok:#2f7d4f; --muted:#6b7688; --line:#cdd7e6}
+*{box-sizing:border-box}
+body{font-family:"Songti TC","Noto Serif TC",serif; background:var(--paper); color:var(--ink); margin:0; padding:20px; line-height:1.85}
+.wrap{max-width:780px; margin:0 auto}
+h1{font-size:1.25rem; color:var(--accent); margin:.2em 0}
+.hint{color:var(--muted); font-size:.85rem; margin-bottom:16px}
+.bar{display:flex; gap:8px; position:sticky; top:0; background:var(--paper); padding:10px 0; z-index:5}
+#q{flex:1; font-size:1.2rem; padding:10px 14px; border:2px solid var(--seal); border-radius:8px; background:var(--card); color:var(--ink); font-family:inherit}
+#go{font-size:1.05rem; padding:10px 22px; background:var(--seal); color:#fff; border:none; border-radius:8px; cursor:pointer}
+#go:active{opacity:.85}
+.card{background:var(--card); border:1px solid var(--line); border-left:4px solid var(--seal); border-radius:0 10px 10px 0; padding:16px 18px; margin-top:14px}
+.meta{font-size:.82rem; color:var(--muted); margin-bottom:10px; letter-spacing:.05em}
+.meta b{color:var(--accent)}
+.passage{background:#e8edf8; border-left:3px solid var(--seal); padding:10px 12px; border-radius:0 8px 8px 0; margin-bottom:12px; font-size:.92rem}
+.passage::before{content:"閱讀文本"; display:block; font-size:.7rem; color:var(--muted); letter-spacing:.2em; margin-bottom:6px}
+.passage p{margin:.4em 0}
+.passage .underline, .passage u, .stem u{background:rgba(216,158,44,.30); font-weight:700; text-decoration:underline; text-decoration-color:var(--ink); text-underline-offset:2px; padding:0 2px; border-radius:2px}
+.passage table{border-collapse:collapse; margin:8px 0; font-size:.9em}
+.passage table td,.passage table th{border:1px solid #b9c4d6; padding:4px 10px}
+.gtitle{font-size:.8rem; color:var(--seal); font-weight:700; margin-bottom:6px}
+.stem{font-size:1.06rem; margin-bottom:12px; font-weight:600}
+.opt{padding:7px 12px; margin:5px 0; border:1px solid var(--line); border-radius:8px; background:#fbfcfe}
+.opt.correct{border-color:var(--ok); background:#e7f2ec; font-weight:700}
+.opt .lab{display:inline-block; min-width:1.6em; font-weight:700; color:var(--muted)}
+.opt.correct .lab{color:var(--ok)}
+.ans{margin:12px 0 6px; font-size:1rem}
+.ans b{color:var(--ok); font-size:1.15rem}
+.explain{background:#eef3fa; border-radius:8px; padding:12px 14px; font-size:.92rem; color:#26303f}
+.explain::before{content:"解析"; display:block; font-size:.72rem; color:var(--seal); letter-spacing:.2em; margin-bottom:5px}
+.note{font-size:.82rem; color:var(--muted); margin-top:8px}
+.err{color:var(--accent); padding:14px; font-weight:600}
+.warn{background:#fbe6c5; border:1px solid #e3c471; border-radius:8px; padding:8px 12px; font-size:.82rem; color:#7a5a12; margin-top:10px}
+.flag{background:#fdecec; border:1px solid #e6a5a5; border-radius:8px; padding:8px 12px; font-size:.82rem; color:#a13030; margin-top:10px}
+.stats{margin-top:12px;padding:10px 12px;background:#eef2fb;border:1px solid var(--line);border-radius:8px;font-size:.84rem}
+.stats table{width:100%;border-collapse:collapse;margin-top:6px}.stats th,.stats td{padding:4px 8px;border-bottom:1px solid var(--line);text-align:right}.stats th:first-child,.stats td:first-child{text-align:left}
+kbd{background:var(--ink); color:var(--paper); border-radius:4px; padding:1px 6px; font-size:.8rem; font-family:inherit}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>查題校對系統 <a href="index.html" style="font-size:.8rem;font-weight:400;margin-left:8px">← 回題庫首頁</a></h1>
+  <div class="hint">輸入「年份-題號」直接查題，例如 <kbd>115-38</kbd>、<kbd>學測115-49</kbd> 或 <kbd>g115 1</kbd>。按 Enter 或「查」即可。</div>
+  <div class="bar">
+    <input id="q" placeholder="例：115-38、學測115-49" autocomplete="off" autofocus>
+    <button id="go">查</button>
+  </div>
+  <div id="out"></div>
+</div>
+<script>
+  window.BANK = window.BANK || [];
+</script>
+<!-- 載入全部題庫（由 scripts/build-data.mjs 產生） -->
+<script src="data/bank.js"></script>
+<script src="data/option-stats.js"></script>
+<script>
+const out = document.getElementById('out');
+const input = document.getElementById('q');
+
+function parse(s){
+  if(!s) return null;
+  s = s.replace(/\s+/g,' ').trim();
+  const prefix = s.split(/\d/)[0] || '';
+  let era = null;
+  if(/學|[gG]/.test(prefix)) era = '學測';
+  const m = s.match(/(\d{2,3})\D*?(\d{1,2})\b/);
+  if(!m) return null;
+  return { era, year: parseInt(m[1],10), no: parseInt(m[2],10) };
+}
+
+function esc(t){return (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+// 自動旗標：畫線缺漏、缺圖、答案格式、選項空白
+function flags(q, bank){
+  const fs = [];
+  const g = q.group && bank.groups ? bank.groups[q.group] : null;
+  const material = (g?(g.passage||''):'') + (q.passage||'');
+  const stem = q.stem || '';
+  if(/畫線|畫底線|劃底線|畫記/.test(stem) && material.length>10
+     && !/<u>|underline/.test(material)
+     && !Object.values(q.options||{}).some(o=>/<u>/.test(o||''))
+     && !/「[^」]{2,}」/.test(stem)){
+    fs.push('題幹提到畫線，但材料無 <u> 標記');
+  }
+  const imgWord = /右圖|左圖|下圖|上圖|附圖|如圖|示意圖|下表|上表|甲表|乙表|畫作|照片/;
+  const hasImg = q.image || (g && g.image) || /〔附圖|〔第|<table|<img/.test(material);
+  if(imgWord.test(stem) && !hasImg){
+    fs.push('題幹提到圖／表，但無圖且材料未見表格或附圖說明');
+  }
+  if(!q.answer) fs.push('缺正解 answer');
+  if(q.options && !q.image){
+    for(const k of Object.keys(q.options)){
+      if(q.options[k]==='') fs.push('選項('+k+')為空字串');
+    }
+  }
+  return fs;
+}
+
+function cardHtml(bank, q){
+  const g = q.group && bank.groups ? bank.groups[q.group] : null;
+  let h = '<div class="card">';
+  h += '<div class="meta">'+(bank.era||'')+' <b>'+bank.year+' 年</b> ・ 第 <b>'+q.no+'</b> 題'
+     + (q.cat?' ・ '+q.cat:'') + (q.lang?' ・ '+q.lang:'')
+     + (q.textType?' ・ '+q.textType:'')
+     + (q.tags&&q.tags.length?' ・ '+q.tags.join('／'):'') + '</div>';
+  const fl = flags(q, bank);
+  if(fl.length) h += '<div class="flag">🚩 疑點：'+fl.map(esc).join('；')+'</div>';
+  if(g){
+    if(g.title) h += '<div class="gtitle">題組：'+esc(g.title)+'</div>';
+    h += '<div class="passage">'+g.passage+(g.note?'<div class="note">'+g.note+'</div>':'')+'</div>';
+    if(g.image) h += '<img src="'+g.image+'" style="max-width:100%;border:1px solid var(--line);border-radius:6px" alt="題組附圖">';
+  }
+  if(q.passage) h += '<div class="passage">'+q.passage+'</div>';
+  h += '<div class="stem">'+q.stem+'</div>';
+  if(q.image) h += '<img src="'+q.image+'" style="max-width:100%;border:1px solid var(--line);border-radius:6px" alt="'+esc(q.imageAlt||'附圖')+'">';
+  const ansSet = new Set(String(q.answer||'').split(/[、,\s]+/).filter(Boolean));
+  if(q.options){
+    for(const k of Object.keys(q.options)){
+      const on = ansSet.has(k);
+      h += '<div class="opt'+(on?' correct':'')+'"><span class="lab">('+k+')</span>'
+         + (q.options[k]===''?'（圖／空）':q.options[k]) + (on?' ✓':'') + '</div>';
+    }
+  }
+  h += '<div class="ans">正解：<b>'+(q.answer||'—')+'</b>'
+     + (q.pass!=null?' ・ 答對率 '+Math.round(q.pass*100)+'%':'')
+     + (q.disc!=null?' ・ 鑑別度 '+(Math.abs(q.disc)>1?q.disc/100:q.disc).toFixed(2):'') + '</div>';
+  if(q.explain) h += '<div class="explain">'+q.explain+'</div>';
+  if(q.opt && q.low && q.low.opt){
+    h += '<div class="stats"><b>大考中心官方選項畫記率</b><table><thead><tr><th>選項</th><th>全體</th><th>低分組</th></tr></thead><tbody>';
+    for(const k of Object.keys(q.options||{})){
+      h += '<tr><td>'+esc(k)+(ansSet.has(k)?' ✓':'')+'</td><td>'+Number(q.opt[k]||0)+'%</td><td>'+Number(q.low.opt[k]||0)+'%</td></tr>';
+    }
+    h += '<tr><td>未答</td><td>'+Number(q.optUnanswered||0)+'%</td><td>'+Number(q.low.unanswered||0)+'%</td></tr></tbody></table>';
+    h += '<div style="margin-top:6px;color:var(--muted)">'+(q.multi?'多選題各選項為獨立畫記率，不應相加。':'單選題各選項與未答合計約 100%。')+'</div></div>';
+  }
+  h += '</div>';
+  return h;
+}
+
+function render(target){
+  const r = parse(target);
+  if(!r){ out.innerHTML = '<div class="err">看不懂「'+esc(target)+'」，請輸入像 115-38 或學測115-49 這樣的格式。</div>'; return; }
+  let banks = window.BANK.filter(b=>b.year===r.year && (!r.era || b.era===r.era));
+  if(!banks.length){
+    out.innerHTML = '<div class="err">題庫目前沒有 '+(r.era||'')+' '+r.year+' 年；首批已完成 115 學年度。</div>';
+    return;
+  }
+  let h = '';
+  let found = 0;
+  banks.forEach(bank=>{
+    const q = (bank.questions||[]).find(x=>x.no===r.no);
+    if(!q){ h += '<div class="err">'+bank.era+' '+bank.year+' 年沒有第 '+r.no+' 題（該年共 '+(bank.questions||[]).length+' 題）。</div>'; return; }
+    h += cardHtml(bank, q); found++;
+  });
+  out.innerHTML = h;
+}
+
+document.getElementById('go').addEventListener('click', ()=>render(input.value));
+input.addEventListener('keydown', e=>{ if(e.key==='Enter') render(input.value); });
+const pre = new URLSearchParams(location.search).get('q') || decodeURIComponent(location.hash.slice(1));
+if(pre){ input.value = pre; render(pre); }
+</script>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hk6429.gsat-english" alt="訪客人數" loading="lazy" style="position:fixed;right:14px;bottom:14px;z-index:2147483000;border-radius:999px;box-shadow:0 2px 10px rgba(0,0,0,.35);">
+<script>window.goatcounter = {path: p => location.host + p}</script>
+<script data-goatcounter="https://hk6429.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

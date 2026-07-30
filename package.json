@@ -1,0 +1,13 @@
+{
+  "name": "gsat-english",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.38.0"
+  }
+}

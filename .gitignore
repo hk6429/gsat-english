@@ -1,0 +1,20 @@
+.vercel
+
+# Local Netlify folder
+.netlify
+
+# Local Cloudflare state
+.wrangler
+
+# Local credentials and dependencies
+.env
+.env.*
+node_modules/
+.sources/
+img/guide/
+img/hero/
+img/icon-*.png
+
+# Generated/local backups
+data.bak-pre-v4/
+.DS_Store
