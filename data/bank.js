@@ -2630,6 +2630,64 @@ window.BANK.push({
 // 107 學年度學科能力測驗英文考科（單選題 56 題）
 // 題目與答案取自大學入學考試中心官方試題、答案。
 (function () {
+  const explanations = {
+    1: "芒果在臺灣主要於七月達到最甜的盛產期，seasonal fruit 指「季節性水果」。",
+    2: "寫學期報告與口頭報告是大學生常見的課程要求，course requirements 搭配自然。",
+    3: "努力實現夢想應用 fulfill one’s dreams，fulfill 表示「實現、完成」。",
+    4: "承諾從未付諸行動，表示這些話空洞不實；hollow promises 是「空洞的承諾」。",
+    5: "打網球造成腳踝受傷且仍疼痛，twist one’s ankle 表示「扭傷腳踝」。",
+    6: "男女對婚姻意義有不同看法，beliefs 表示「信念、觀念」。",
+    7: "同樣工作卻給更短期限，顯示新經理要求很高；demanding 表示「要求嚴格的」。",
+    8: "孩子失蹤時夫妻焦急尋找，anxiously 表示「焦慮地」。",
+    9: "得獎者演講後被索取簽名的粉絲包圍，be surrounded by 是「被……包圍」。",
+    10: "面試者要讓面試官對自己的能力留下好印象，impress 表示「使留下深刻印象」。",
+    11: "草地被一大片雪覆蓋可說 a blanket of snow，以「毯子」比喻覆蓋層。",
+    12: "書頁邊緣可供寫筆記的空白處是 margins「頁邊空白」。",
+    13: "遲交作業會以低分作為處罰，penalty 表示「懲罰」。",
+    14: "研究在醫院中被執行，conduct a study 是「進行研究」，此處用被動 have been conducted。",
+    15: "火勢猛烈且蔓延迅速，並已造成三十人死亡，massive firestorm 表示「大規模火災」。",
+    16: "文章否定創造力只屬於少數天才，指出它更像人類天賦；less A than B 表示「與其說是 A，不如說是 B」。",
+    17: "暫時離開問題可能激發頓悟時刻，spark 在此表示「引發、激起」。",
+    18: "公司鼓勵員工參加放鬆活動，take part in 表示「參與」。",
+    19: "the mind turns inward 描述一種心智狀態，where 引導關係副詞子句，意為「在此狀態中」潛意識可整理線索。",
+    20: "突破常出現在人們跨出慣常作息或專業領域時，venture beyond 表示「冒險超越」。",
+    21: "吸油特性對衛生未必好，對環境卻有益，While 在此引導讓步對比，表示「雖然」。",
+    22: "人髮供應無限且可重複取得，被稱為終極可再生資源 renewable resource。",
+    23: "收集頭髮與動物毛是為了清理每年發生的漏油，clean up after 表示「在……之後清理」。",
+    24: "water 是被污染的，需用過去分詞 polluted 作形容詞修飾 waters。",
+    25: "沙龍與牧場剪下後不再需要的毛髮可回收利用，unneeded 表示「不需要的」。",
+    26: "know 後的名詞子句缺少 dreaming of 的受詞，what 同時作連接詞與介系詞 of 的受詞。",
+    27: "清醒夢仍發生於睡眠中，因此人的身體是 asleep「睡著的」，與 daydream 時身體清醒形成對比。",
+    28: "後文說清醒夢還能運用大腦潛能，故不只是清楚的夢；more than 表示「不只是」。",
+    29: "後句換句話重述清醒夢能運用沉睡時的大腦潛能，In other words 表示「換言之」。",
+    30: "夢中可成為超級英雄，不受現實身分限制；regardless of 表示「不論、不管」。",
+    31: "關於幸運餅乾起源有多個彼此競爭、尚未證實的說法，competing stories 指「相互競逐的說法」。",
+    32: "trace A back to B 表示「把 A 追溯至 B」，此說把起源追溯到十三、十四世紀中國。",
+    33: "藏在月餅中的紙條記載推翻蒙古人的秘密計畫，secret plans 符合革命需保密的語境。",
+    34: "革命最後促成明朝建立，表示行動成功，successful 最符合結果。",
+    35: "此處把今日所知的幸運餅乾稱為 treats「點心、甜食」。",
+    36: "前文列出多個起源說法，another account 表示「另一種說法」。",
+    37: "每塊餅乾裡面都裝有一張聖經勵志語紙條，contained 表示「包含」。",
+    38: "較廣為接受的說法認為幸運餅乾在 1907 或 1914 年首次出現，appeared 符合語意。",
+    39: "將配方加甜是為迎合美國人的口味，tastes 在此指「口味、喜好」。",
+    40: "中餐館把感謝紙條換成占卜籤語，replace A with B 表示「以 B 取代 A」。",
+    41: "全文依序說明白宮的興建、開放傳統與名稱演變，主旨是白宮歷史，選 D。",
+    42: "this practice 承接 Jefferson 開創、Lincoln 延續的總統就職開放參觀活動；人潮過大促成管制，因此選 A。",
+    43: "第一段指出 Washington 宣布聯邦政府所在地、主持籌備並監督房屋興建，因此由他發起，選 C。",
+    44: "設計師 James Hoban 是愛爾蘭出生的建築師，不是美國總統，所以 NOT 題選 B。",
+    45: "文章從傳播與症狀談到 2012 年疫情，再分析氣候、經濟與政府作為等有利病毒蔓延的條件，選 C。",
+    46: "第一段說症狀通常在蚊子叮咬後 3 至 14 天出現，也就是兩週內，選 A。",
+    47: "第二段明說 Dallas 宣布緊急狀態，並以空中噴灑農藥消滅蚊子，選 A。",
+    48: "第三段指出異常溫和的冬季讓更多蚊子存活，是 2012 年疫情嚴重的原因之一，選 D。",
+    49: "Saudi Arabia 水資源有限，且與臺灣淡水充足形成對比，因此 arid 是「乾燥的」，選 C。",
+    50: "第二段強調海水淡化需要大量能源、技術昂貴，核心是淡化成本高，選 A。",
+    51: "第三段說海洋生物可能被吸入淡化廠，殺死幼魚與浮游生物並擾亂食物鏈，選 B。",
+    52: "作者雖列出成本與環境障礙，末段仍說研究競賽已展開且不斷有可望成功的新成果，態度偏樂觀 hopeful，選 D。",
+    53: "全文不只談搖籃曲哄睡，也說它能療癒嬰兒並讓母親抒發恐懼，最適合的標題是「搖籃曲的功能」，選 B。",
+    54: "dark undertones 指歌詞表面之下帶有陰暗含意或訊息，messages 最接近，選 D。",
+    55: "第二段直接以研究結果 Research has shown 支持搖籃曲能安撫、甚至幫助療癒嬰兒，選 A。",
+    56: "搖籃曲的聲音與旋律安撫嬰兒，歌詞則讓母親表達焦慮並成為她的療癒，因此同時安慰兩者，選 C。"
+  };
   const groups = {
     G1: {
       title: "Ways to increase creativity",
@@ -2665,11 +2723,11 @@ window.BANK.push({
     }
   };
 
-  const V = (no, answer, stem, options, tag = "語境搭配") => ({ no, cat: "C1", tags: [tag], lang: "單題", textType: "詞彙題", answer, stem, options });
-  const C = (no, answer, group, stem, options, tag = "語境選詞") => ({ no, cat: "C2", tags: [tag], lang: "題組", textType: "綜合測驗", answer, group, stem, options });
+  const V = (no, answer, stem, options, tag = "語境搭配") => ({ no, cat: "C1", tags: [tag], lang: "單題", textType: "詞彙題", answer, stem, options, explain: explanations[no] });
+  const C = (no, answer, group, stem, options, tag = "語境選詞") => ({ no, cat: "C2", tags: [tag], lang: "題組", textType: "綜合測驗", answer, group, stem, options, explain: explanations[no] });
   const FILL = { A: "account", B: "appeared", C: "competing", D: "contained", E: "replaced", F: "secret", G: "successful", H: "tastes", I: "traces", J: "treats" };
-  const F = (no, answer, stem) => ({ no, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer, group: "G4", stem, options: FILL });
-  const R = (no, answer, group, stem, options, tag = "細節檢索") => ({ no, cat: "C4", tags: [tag], lang: "題組", textType: "閱讀測驗", answer, group, stem, options });
+  const F = (no, answer, stem) => ({ no, cat: "C2", tags: ["文意選填"], lang: "題組", textType: "文意選填", answer, group: "G4", stem, options: FILL, explain: explanations[no] });
+  const R = (no, answer, group, stem, options, tag = "細節檢索") => ({ no, cat: "C4", tags: [tag], lang: "題組", textType: "閱讀測驗", answer, group, stem, options, explain: explanations[no] });
 
   const questions = [
     V(1, "C", "Mangoes are a ______ fruit here in Taiwan; most of them reach their peak of sweetness in July.", { A: "mature", B: "usual", C: "seasonal", D: "particular" }),

@@ -199,14 +199,16 @@ test("題庫不含 Word 欄位碼或轉檔雜訊", () => {
   }
 });
 
-test("109 學測第一批 56 題解析完整", () => {
-  const item = banks.find(candidate => candidate.era === "學測" && candidate.year === 109);
-  assert.ok(item);
-  assert.equal(item.questions.length, 56);
-  for (const q of item.questions) {
-    assert.ok(q.explain, `學測109 第 ${q.no} 題缺解析`);
-    assert.ok(q.explain.trim().length >= 12, `學測109 第 ${q.no} 題解析過短`);
-    assert.doesNotMatch(q.explain, /TODO|待補|待確認|undefined|null/i);
+test("已完成解析批次逐題完整", () => {
+  for (const year of [109, 107]) {
+    const item = banks.find(candidate => candidate.era === "學測" && candidate.year === year);
+    assert.ok(item);
+    assert.equal(item.questions.length, 56);
+    for (const q of item.questions) {
+      assert.ok(q.explain, `學測${year} 第 ${q.no} 題缺解析`);
+      assert.ok(q.explain.trim().length >= 12, `學測${year} 第 ${q.no} 題解析過短`);
+      assert.doesNotMatch(q.explain, /TODO|待補|待確認|undefined|null/i);
+    }
   }
 });
 
