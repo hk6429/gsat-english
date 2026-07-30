@@ -200,10 +200,15 @@ test("題庫不含 Word 欄位碼或轉檔雜訊", () => {
 });
 
 test("已完成解析批次逐題完整", () => {
-  for (const year of [109, 107, 106, 104, 103, 102, 100, 99, 98, 96, 95, 94]) {
+  const completed = new Map([
+    [109, 56], [107, 56], [106, 56], [104, 56], [103, 56], [102, 56],
+    [100, 56], [99, 56], [98, 56], [96, 56], [95, 56], [94, 56],
+    [93, 55], [91, 55]
+  ]);
+  for (const [year, questionCount] of completed) {
     const item = banks.find(candidate => candidate.era === "學測" && candidate.year === year);
     assert.ok(item);
-    assert.equal(item.questions.length, 56);
+    assert.equal(item.questions.length, questionCount);
     for (const q of item.questions) {
       assert.ok(q.explain, `學測${year} 第 ${q.no} 題缺解析`);
       assert.ok(q.explain.trim().length >= 12, `學測${year} 第 ${q.no} 題解析過短`);
