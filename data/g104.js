@@ -1,6 +1,64 @@
 // 104 學年度學科能力測驗英文考科（單選題 56 題）
 // 題目與答案取自大學入學考試中心官方試題、答案。
 (function () {
+  const explanations = {
+    1: "員工可自行選擇六點到十一點間上班，屬於 flexible work schedule「彈性工時」。",
+    2: "以獎勵良好行為、處罰不當行為教孩子是非，reward 表示「獎勵」。",
+    3: "為遵守有限預算而捨棄昂貴產品，選較負擔得起的 affordable 電視。",
+    4: "書中的美麗圖畫是 illustrations「插圖」，與有趣故事共同吸引讀者。",
+    5: "機場因暴風雪關閉，延誤的是前往巴黎的出發 departure。",
+    6: "感到地震後立刻跑出教室，swiftly 表示「迅速地」。",
+    7: "電梯為安全不可超載，400 公斤是 maximum capacity「最大載重」。",
+    8: "擁抱與親吻是親密行為 intimate behavior。",
+    9: "藥品包裝上說明用法與時間的文字在 labels「標籤」上。",
+    10: "航班無故取消使乘客憤怒地爭辯，furiously 表示「盛怒地」。",
+    11: "正式上市前提供免費樣品，是為宣傳產品；promote 表示「推廣」。",
+    12: "父親向說話者保證會協助規劃旅程，assure＋受詞＋that 子句表示「向某人保證」。",
+    13: "食用油醜聞引發加強食品銷售管制的呼聲，regulation 表示「規範、管理」。",
+    14: "下班後應多與親友互動，而不是獨自打電玩；interact with 表示「與……互動」。",
+    15: "機場對疫區旅客進行伊波拉篩檢，screenings 表示「篩檢」。",
+    16: "人們為健康效益而練習太極拳，practice 在此表示「練習、習練」。",
+    17: "後面列舉兩個詩意招式名稱，like 表示「例如、像」。",
+    18: "主詞 These movements 為複數，句子缺謂語，故用 allow；allow＋受詞＋to V 表示「讓……能夠」。",
+    19: "前文是 physical，後文談身心溝通與心理效果，故與之並列的是 mental exercise。",
+    20: "太極帶來平靜與信心，表示能減輕壓力；reduce stress 是自然搭配。",
+    21: "前句說藍鳥是吉兆，接著啄木鳥也被視為吉兆，Similarly 表示「同樣地」。",
+    22: "孔雀在印度、中日被視為幸運，其他地區卻受蔑視，因此並非普遍 universally 被視為幸運。",
+    23: "羽毛上的眼睛被說能提醒孔雀有邪惡正在接近，approaching 作形容詞修飾 evil。",
+    24: "統治家族以孔雀象徵身分與財富，represent 表示「代表、象徵」。",
+    25: "孔雀羽毛的眼狀圖案被聯想到 evil eyes，因此被視為最不吉利 unlucky 的部位。",
+    26: "from A to B 的 A、B 應為平行名詞結構；from early humans gathering... to the first cultivation...，故用 gathering。",
+    27: "主句完整，with over 7,000 different kinds in existence 補充蘋果品種數量。",
+    28: "雖有七千多品種，多數家蘋果仍可追溯同一祖先；variety 表示「多樣性」。",
+    29: "蘋果在十七世紀由殖民者帶到北美，為過去特定時間的被動動作，故用 were brought。",
+    30: "蘋果如今在世界各地經常被食用，regularly eaten 語意最自然。",
+    31: "紙夾是用來夾住紙張的常見器具，device 表示「裝置、用具」。",
+    32: "別針便宜而且容易取下，removable 表示「可移除的」。",
+    33: "鋼線有彈性，可被拉伸並扭成各種夾狀物，twisted into 表示「扭成」。",
+    34: "最常與紙夾發明聯繫的名字是 Johan Vaaler，associated with 表示「與……相關」。",
+    35: "今日熟悉的內外雙環設計由英國公司發明，familiar 表示「熟悉的、常見的」。",
+    36: "這種紙夾因此有時被稱為 Gem clip，be known as 表示「被稱為」。",
+    37: "紙夾在二戰挪威成為團結象徵，扮演重要歷史角色，historical 最符合語境。",
+    38: "納粹禁止挪威人佩戴任何國家團結的象徵，symbol of... 是「……的象徵」。",
+    39: "挪威人佩戴紙夾是反抗占領、表達團結的抗議行動，in protest 表示「以示抗議」。",
+    40: "戰後立巨型紙夾雕像是為紀念 Vaaler，honor 表示「向……致敬」。",
+    41: "第二段明說創辦人 Camake Valaule 是體育老師，因此選 B。",
+    42: "Camake 擔心 75 分鐘演出大多是沒有樂器伴奏的 a cappella，觀眾會睡著，因此選 B。",
+    43: "孩子唱傳統歌謠後，父母才察覺自己不會唱；blurred memory 指父母對自身傳統的模糊理解，選 D。",
+    44: "風災迫使學校與村落遷移，無法帶走山林房舍，卻能帶著文化，讓 Camake 更體認傳承的重要，選 C。",
+    45: "全文以 Power 太太為例，說明過多檢查與治療可能造成身體和財務傷害，主旨選 C。",
+    46: "即使檢查結果為陰性，原醫師仍繼續安排更多檢查，正是她遭遇的問題，選 C。",
+    47: "Mr. Power 說很難判斷「他們」何時越界，前後談的都是安排過多治療的醫師，they 指 physicians，選 A。",
+    48: "作者開頭即警告過度治療會造成傷害，案例也顯示不必要的檢查太多，態度最符合 A。",
+    49: "父親靠紡織致富，但父母生活節儉得像家境貧窮，因此家庭富有卻非常節省，選 A。",
+    50: "第四段明說非洲之旅激起 Cartier-Bresson 對攝影的興趣，選 B。",
+    51: "他拍攝 Gandhi 遇刺後的死亡及其對印度的立即影響，完成珍貴攝影專題，選 C。",
+    52: "他以手持相機捕捉日常生活稍縱即逝的影像，且反對後製；四個選項中符合的是 C。",
+    53: "文章說明久坐如何改變代謝、升高血糖血壓並增加疾病風險，目的在解釋長時間坐著的健康威脅，選 D。",
+    54: "sedentary lifestyle 與久坐、缺少活動相連，因此最接近 inactive「不活動的」，選 C。",
+    55: "第二段指出全天經常以短暫輕度活動打斷久坐，便足以降低血糖與血壓，選 C。",
+    56: "研究發現固定運動者在運動當天反而少活動約 30%，可推論他們那天較少站立或走動，選 B。"
+  };
   const groups = {
     G1: {
       title: "Tai Chi Chuan",
@@ -36,11 +94,11 @@
     }
   };
 
-  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options});
-  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options});
+  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options,explain:explanations[no]});
+  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options,explain:explanations[no]});
   const FILL={A:"familiar",B:"honor",C:"device",D:"removable",E:"known as",F:"protest",G:"symbol",H:"twisted into",I:"associated with",J:"historical"};
-  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL});
-  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options});
+  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL,explain:explanations[no]});
+  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options,explain:explanations[no]});
   const questions=[
     V(1,"D","Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m.",{A:"relative",B:"severe",C:"primitive",D:"flexible"}),
     V(2,"C","To teach children right from wrong, some parents will ______ their children when they behave well and punish them when they misbehave.",{A:"settle",B:"declare",C:"reward",D:"neglect"}),

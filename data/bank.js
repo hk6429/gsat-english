@@ -2799,9 +2799,68 @@ window.BANK.push({
 // 106 學年度學科能力測驗英文考科（單選題 56 題）
 // 題目與答案均取自大學入學考試中心官方試卷及答案。
 (() => {
+  const explanations = {
+    1: "鬧鐘未設定也會響，表示時鐘沒有正常運作；properly 表示「正常地、適當地」。",
+    2: "決心成為物理教授，表示要從事物理相關職涯；pursue a career 是「追求、從事某種職業」。",
+    3: "數日可能遇不到其他人，顯示該地偏遠；remote 表示「遙遠、偏僻的」。",
+    4: "把群體利益置於個人利益前，表示認同自己所屬群體；identify with 是「認同」。",
+    5: "把陌生人誤認成名演員並索取簽名會令人尷尬，embarrassing 表示「令人難堪的」。",
+    6: "薪水幾乎都花在房租與食物，娛樂費所剩無幾；barely 表示「幾乎不」。",
+    7: "飛機和船神祕消失且沒有留下任何線索，without a trace 是「無影無蹤」。",
+    8: "Tony 高喊並揮牌，是在催促路人進店購買麵包；urge＋受詞＋to V 表示「力勸」。",
+    9: "藝術家以細沙創作的是沙雕，sculptures 表示「雕塑作品」。",
+    10: "雲層散開後落在教堂上的一道光是 a beam of light「一束光」。",
+    11: "祖母把錢放進生日卡內，enclose 表示「隨信附上、裝入」。",
+    12: "奧運選手夢想贏得的是金牌 gold medal。",
+    13: "竊賊假扮保全離開，disguise oneself as... 表示「把自己偽裝成……」。",
+    14: "遊戲玩家被提醒留意周遭危險，be aware of 表示「察覺、注意到」。",
+    15: "福爾摩斯能從細節推理，靠的是驚人的觀察力 powers of observation。",
+    16: "眼皮疼痛時看進鏡子檢查睫毛根部，look into the mirror 表示「照鏡子查看」。",
+    17: "疼痛與紅點是針眼剛形成時的症狀，symptoms 表示「症狀」。",
+    18: "先揉鼻子再揉眼睛會把細菌轉移到眼部，be transferred to 表示「被傳到」。",
+    19: "針眼外觀不佳，卻通常無害，前後為讓步關係，Although 表示「雖然」。",
+    20: "以溫熱毛巾貼壓眼皮需用 press A against B，against 表示「貼著」。",
+    21: "貧困者連鞋都不易取得，更不用說尺寸合適的鞋；let alone 表示「更遑論」。",
+    22: "孩子只能勉強穿太小的鞋，make do with 表示「以現有之物將就」。",
+    23: "可成長鞋讓孩子隨腳長大調整尺寸，adjust 表示「調整」。",
+    24: "鞋款有兩種尺寸，come in＋尺寸／顏色表示「以……規格供應」。",
+    25: "鞋跟與腳趾帶控制長度，兩側帶則控制寬度，while 在此表示對照。",
+    26: "前文說壞天氣令人焦慮疲累，因此人們據此認為會降低生產力；Accordingly 表示「因此」。",
+    27: "人們的既有看法與實際研究結果不同，a gap between A and B 表示「A、B 之間的落差」。",
+    28: "研究同時使用實驗資料與銀行實地觀察，as well as 表示「以及」。",
+    29: "好天氣使員工想到工作外可從事的活動，engage in activities 表示「參與活動」。",
+    30: "戶外活動照片會分散注意力，因而降低生產力；lower 表示「使降低」。",
+    31: "古埃及人對洋蔥的重視超過其他文化，admired 表示「欣賞、推崇」。",
+    32: "洋蔥不只作食物或藥物，還具有重要精神意義，spiritual 表示「精神／宗教上的」。",
+    33: "洋蔥一圈又一圈的構造被視為永生的象徵，symbols of eternal life 搭配完整。",
+    34: "圓中有圓的構造映照存在的永恆，reflected 表示「反映、象徵」。",
+    35: "古埃及人把洋蔥的療癒力量視為魔法而非醫療，healing power 是「療癒能力」。",
+    36: "金字塔與墓穴內被發現的許多畫作描繪洋蔥，discovered 作過去分詞修飾 paintings。",
+    37: "洋蔥在祭壇上發揮喪葬供品的功能，functioned as 表示「作為……使用」。",
+    38: "洋蔥被放在遺體不同部位周圍，parts of their bodies 表示「身體部位」。",
+    39: "洋蔥與洋蔥花裝飾木乃伊的骨盆、胸部、耳眼與腳，decorating 是現在分詞描述附帶狀態。",
+    40: "強烈氣味被認為能促使死者再度呼吸，prompt＋受詞＋to V 表示「促使」。",
+    41: "第三段依序說明付款後填問卷、進行遊戲式測試，最後取得認知報告，是評估流程，選 B。",
+    42: "第二段指出狗和人一樣具有多種智能，差別在於較依賴哪一類，因此不同狗各有強項，選 A。",
+    43: "Dognition 是新成立公司，co-founder 也顯示 venture 在此指新創事業，最接近 new business，選 D。",
+    44: "Charmer 信任主人給的資訊勝過自己的眼睛，因此最可能依賴主人指出零食位置，選 C。",
+    45: "全文依序介紹 Capoeira 的特色、奴隸時期起源、遭禁與取得官方認可的發展，主旨是其歷史，選 A。",
+    46: "Capoeira 使用手腳、腿臂與頭部，且源自徒手格鬥；持劍刺擊不符合文中描述，NOT 題選 C。",
+    47: "作者以史實與現況說明 Capoeira，沒有明顯讚美、懷疑或批判語氣，態度客觀，選 B。",
+    48: "末段明說 Mestre Bimba 成功說服巴西政府承認其文化價值，使之成為正式格鬥與國家運動，選 D。",
+    49: "末段以「這場兩週展覽」介紹展品範圍並邀請觀眾欣賞，最可能出現在美術館網站，選 B。",
+    50: "第一段說 Homer 在波士頓印刷公司當學徒，以插畫迅速成名，故先在家鄉建立插畫家聲譽，選 D。",
+    51: "第三段指出他的兒童、農村女孩與獵人作品成為十九世紀美國生活的經典圖像，選 A。",
+    52: "前句的 Many of his works 描繪美國生活，後句 Others 則談普遍主題，因此 Others 指其他作品，選 C。",
+    53: "文章按十七世紀王室飲茶、約 1800 年下午茶、十九世紀 high tea 到今日依序敘述，採時間順序，選 C。",
+    54: "tea break 從當時延續成英國習慣，a lasting British institution 指長久傳統，選 B。",
+    55: "第一段說社交場合飲茶超出多數英國人的負擔，因茶價高且另課稅，所以選 D。",
+    56: "afternoon tea 約下午四點；high tea 是勞工工作一日返家後搭配主餐飲用，時間較晚，選 A。"
+  };
   const q = (no, cat, tags, textType, answer, stem, options, group) => ({
     no, cat, tags, lang: group ? "題組" : "單題", textType, answer, stem, options,
-    ...(group ? { group } : {})
+    ...(group ? { group } : {}),
+    ...(explanations[no] ? { explain: explanations[no] } : {})
   });
   const onionOptions = {
     A: "reflected", B: "parts", C: "admired", D: "functioned", E: "prompt",
@@ -3303,6 +3362,64 @@ window.BANK.push({
 // 104 學年度學科能力測驗英文考科（單選題 56 題）
 // 題目與答案取自大學入學考試中心官方試題、答案。
 (function () {
+  const explanations = {
+    1: "員工可自行選擇六點到十一點間上班，屬於 flexible work schedule「彈性工時」。",
+    2: "以獎勵良好行為、處罰不當行為教孩子是非，reward 表示「獎勵」。",
+    3: "為遵守有限預算而捨棄昂貴產品，選較負擔得起的 affordable 電視。",
+    4: "書中的美麗圖畫是 illustrations「插圖」，與有趣故事共同吸引讀者。",
+    5: "機場因暴風雪關閉，延誤的是前往巴黎的出發 departure。",
+    6: "感到地震後立刻跑出教室，swiftly 表示「迅速地」。",
+    7: "電梯為安全不可超載，400 公斤是 maximum capacity「最大載重」。",
+    8: "擁抱與親吻是親密行為 intimate behavior。",
+    9: "藥品包裝上說明用法與時間的文字在 labels「標籤」上。",
+    10: "航班無故取消使乘客憤怒地爭辯，furiously 表示「盛怒地」。",
+    11: "正式上市前提供免費樣品，是為宣傳產品；promote 表示「推廣」。",
+    12: "父親向說話者保證會協助規劃旅程，assure＋受詞＋that 子句表示「向某人保證」。",
+    13: "食用油醜聞引發加強食品銷售管制的呼聲，regulation 表示「規範、管理」。",
+    14: "下班後應多與親友互動，而不是獨自打電玩；interact with 表示「與……互動」。",
+    15: "機場對疫區旅客進行伊波拉篩檢，screenings 表示「篩檢」。",
+    16: "人們為健康效益而練習太極拳，practice 在此表示「練習、習練」。",
+    17: "後面列舉兩個詩意招式名稱，like 表示「例如、像」。",
+    18: "主詞 These movements 為複數，句子缺謂語，故用 allow；allow＋受詞＋to V 表示「讓……能夠」。",
+    19: "前文是 physical，後文談身心溝通與心理效果，故與之並列的是 mental exercise。",
+    20: "太極帶來平靜與信心，表示能減輕壓力；reduce stress 是自然搭配。",
+    21: "前句說藍鳥是吉兆，接著啄木鳥也被視為吉兆，Similarly 表示「同樣地」。",
+    22: "孔雀在印度、中日被視為幸運，其他地區卻受蔑視，因此並非普遍 universally 被視為幸運。",
+    23: "羽毛上的眼睛被說能提醒孔雀有邪惡正在接近，approaching 作形容詞修飾 evil。",
+    24: "統治家族以孔雀象徵身分與財富，represent 表示「代表、象徵」。",
+    25: "孔雀羽毛的眼狀圖案被聯想到 evil eyes，因此被視為最不吉利 unlucky 的部位。",
+    26: "from A to B 的 A、B 應為平行名詞結構；from early humans gathering... to the first cultivation...，故用 gathering。",
+    27: "主句完整，with over 7,000 different kinds in existence 補充蘋果品種數量。",
+    28: "雖有七千多品種，多數家蘋果仍可追溯同一祖先；variety 表示「多樣性」。",
+    29: "蘋果在十七世紀由殖民者帶到北美，為過去特定時間的被動動作，故用 were brought。",
+    30: "蘋果如今在世界各地經常被食用，regularly eaten 語意最自然。",
+    31: "紙夾是用來夾住紙張的常見器具，device 表示「裝置、用具」。",
+    32: "別針便宜而且容易取下，removable 表示「可移除的」。",
+    33: "鋼線有彈性，可被拉伸並扭成各種夾狀物，twisted into 表示「扭成」。",
+    34: "最常與紙夾發明聯繫的名字是 Johan Vaaler，associated with 表示「與……相關」。",
+    35: "今日熟悉的內外雙環設計由英國公司發明，familiar 表示「熟悉的、常見的」。",
+    36: "這種紙夾因此有時被稱為 Gem clip，be known as 表示「被稱為」。",
+    37: "紙夾在二戰挪威成為團結象徵，扮演重要歷史角色，historical 最符合語境。",
+    38: "納粹禁止挪威人佩戴任何國家團結的象徵，symbol of... 是「……的象徵」。",
+    39: "挪威人佩戴紙夾是反抗占領、表達團結的抗議行動，in protest 表示「以示抗議」。",
+    40: "戰後立巨型紙夾雕像是為紀念 Vaaler，honor 表示「向……致敬」。",
+    41: "第二段明說創辦人 Camake Valaule 是體育老師，因此選 B。",
+    42: "Camake 擔心 75 分鐘演出大多是沒有樂器伴奏的 a cappella，觀眾會睡著，因此選 B。",
+    43: "孩子唱傳統歌謠後，父母才察覺自己不會唱；blurred memory 指父母對自身傳統的模糊理解，選 D。",
+    44: "風災迫使學校與村落遷移，無法帶走山林房舍，卻能帶著文化，讓 Camake 更體認傳承的重要，選 C。",
+    45: "全文以 Power 太太為例，說明過多檢查與治療可能造成身體和財務傷害，主旨選 C。",
+    46: "即使檢查結果為陰性，原醫師仍繼續安排更多檢查，正是她遭遇的問題，選 C。",
+    47: "Mr. Power 說很難判斷「他們」何時越界，前後談的都是安排過多治療的醫師，they 指 physicians，選 A。",
+    48: "作者開頭即警告過度治療會造成傷害，案例也顯示不必要的檢查太多，態度最符合 A。",
+    49: "父親靠紡織致富，但父母生活節儉得像家境貧窮，因此家庭富有卻非常節省，選 A。",
+    50: "第四段明說非洲之旅激起 Cartier-Bresson 對攝影的興趣，選 B。",
+    51: "他拍攝 Gandhi 遇刺後的死亡及其對印度的立即影響，完成珍貴攝影專題，選 C。",
+    52: "他以手持相機捕捉日常生活稍縱即逝的影像，且反對後製；四個選項中符合的是 C。",
+    53: "文章說明久坐如何改變代謝、升高血糖血壓並增加疾病風險，目的在解釋長時間坐著的健康威脅，選 D。",
+    54: "sedentary lifestyle 與久坐、缺少活動相連，因此最接近 inactive「不活動的」，選 C。",
+    55: "第二段指出全天經常以短暫輕度活動打斷久坐，便足以降低血糖與血壓，選 C。",
+    56: "研究發現固定運動者在運動當天反而少活動約 30%，可推論他們那天較少站立或走動，選 B。"
+  };
   const groups = {
     G1: {
       title: "Tai Chi Chuan",
@@ -3338,11 +3455,11 @@ window.BANK.push({
     }
   };
 
-  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options});
-  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options});
+  const V=(no,answer,stem,options)=>({no,cat:"C1",tags:["語境搭配"],lang:"單題",textType:"詞彙題",answer,stem,options,explain:explanations[no]});
+  const C=(no,answer,group,stem,options,tag="語境選詞")=>({no,cat:"C2",tags:[tag],lang:"題組",textType:"綜合測驗",answer,group,stem,options,explain:explanations[no]});
   const FILL={A:"familiar",B:"honor",C:"device",D:"removable",E:"known as",F:"protest",G:"symbol",H:"twisted into",I:"associated with",J:"historical"};
-  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL});
-  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options});
+  const F=(no,answer,stem)=>({no,cat:"C2",tags:["文意選填"],lang:"題組",textType:"文意選填",answer,group:"G4",stem,options:FILL,explain:explanations[no]});
+  const R=(no,answer,group,stem,options,tag="細節檢索")=>({no,cat:"C4",tags:[tag],lang:"題組",textType:"閱讀測驗",answer,group,stem,options,explain:explanations[no]});
   const questions=[
     V(1,"D","Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m.",{A:"relative",B:"severe",C:"primitive",D:"flexible"}),
     V(2,"C","To teach children right from wrong, some parents will ______ their children when they behave well and punish them when they misbehave.",{A:"settle",B:"declare",C:"reward",D:"neglect"}),
