@@ -422,6 +422,11 @@
       <button class="btn btn-sub" id="wordBtn">下載 Word 檔</button>
       <span id="selCount" style="font-size:.9rem"></span>
     </div>
+    <div class="row" aria-label="出卷題目分頁">
+      <button class="btn btn-sub" id="paperPrevBtn">上一頁</button>
+      <span id="paperPageInfo" style="font-size:.9rem" aria-live="polite"></span>
+      <button class="btn btn-sub" id="paperNextBtn">下一頁</button>
+    </div>
     <div id="linkOut" style="margin-top:10px; font-size:.85rem; word-break:break-all"></div>
   </div>
 
@@ -519,6 +524,9 @@ let mode = "practice";           // practice | paper
 let current = [];                // 目前顯示題目
 let answered = {};               // id -> 選項
 let pickedIds = new Set();       // 出卷勾選
+let paperPool = [];              // 出卷模式目前可選的完整題目池
+let paperPage = 0;               // 出卷題目目前頁次（從 0 起算）
+const PAPER_PAGE_SIZE = 50;       // 避免一次渲染近三千題造成首頁卡住
 let timerId = null;              // 計時模式用
 let streak = 0;                  // 連對計數（模考模式不計，避免洩題）
 let lastQuizAction = null;       // 交卷後「再練一次」要重跑的動作
@@ -1391,27 +1399,46 @@ $("paperYearQuickOptions").onchange = e=>{
   if(!all.checked && !years.some(c=>c.checked)) all.checked=true;
   updatePaperYearQuickSummary();
 };
+function renderPaperPage(){
+  const totalPages = Math.max(1, Math.ceil(paperPool.length/PAPER_PAGE_SIZE));
+  paperPage = Math.max(0, Math.min(paperPage, totalPages-1));
+  const start = paperPage*PAPER_PAGE_SIZE;
+  const visible = paperPool.slice(start, start + PAPER_PAGE_SIZE);
+  const box = $("quiz"); box.innerHTML = "";
+  visible.forEach(q=>box.appendChild(renderQ(q,null,{pick:true})));
+  $("paperPrevBtn").disabled = paperPage===0;
+  $("paperNextBtn").disabled = paperPage>=totalPages-1;
+  $("paperPageInfo").textContent = paperPool.length
+    ? `顯示第 ${start+1}–${start+visible.length} 題，共 ${paperPool.length} 題（第 ${paperPage+1}/${totalPages} 頁）`
+    : "目前沒有符合條件的題目";
+  $("selCount").textContent = `已選 ${pickedIds.size} 題`;
+}
 $("paperBtn").onclick = ()=>{
   mode = "paper"; pickedIds = new Set();
   $("paperPanel").style.display = "block";
   $("resultBox").style.display = "none";
   $("historyPanel").style.display = "none";
-  const qs = pool();
+  paperPool = pool();
+  paperPage = 0;
   const ytxt = $("mainYearSummary").textContent;
-  $("paperFilterInfo").textContent = `目前套用篩選：年份 ${ytxt}，符合 ${qs.length} 題（可回到上方「選擇範圍」調整類別／年份；下方也可依年度／難度快速勾選）`;
-  const box = $("quiz"); box.innerHTML = "";
-  qs.forEach((q,i)=>box.appendChild(renderQ(q,null,{pick:true})));
-  $("selCount").textContent = "已選 0 題";
+  $("paperFilterInfo").textContent = `目前套用篩選：年份 ${ytxt}，符合 ${paperPool.length} 題（每頁顯示 ${PAPER_PAGE_SIZE} 題；可回到上方「選擇範圍」調整類別／年份，下方也可依年度／難度快速勾選）`;
+  renderPaperPage();
   $("submitBtn").style.display = "none";
 };
-$("selAllBtn").onclick = ()=>{ document.querySelectorAll(".pickbox").forEach(c=>{c.checked=true; c.onchange({target:c});}); };
-$("selNoneBtn").onclick = ()=>{ document.querySelectorAll(".pickbox").forEach(c=>{c.checked=false; c.onchange({target:c});}); };
+$("paperPrevBtn").onclick = ()=>{ if(paperPage>0){ paperPage--; renderPaperPage(); } };
+$("paperNextBtn").onclick = ()=>{ if((paperPage+1)*PAPER_PAGE_SIZE<paperPool.length){ paperPage++; renderPaperPage(); } };
+$("selAllBtn").onclick = ()=>{
+  pickedIds = new Set(paperPool.map(q=>q.id));
+  renderPaperPage();
+};
+$("selNoneBtn").onclick = ()=>{
+  pickedIds = new Set();
+  renderPaperPage();
+};
 $("paperQuickBtn").onclick = ()=>{
   const years = selectedPaperYearKeys();
   const d = $("paperDiffQuick").value;
-  document.querySelectorAll(".pickbox").forEach(c=>{
-    const id = c.closest(".q").dataset.id;
-    const q = ALL.find(x=>x.id===id);
+  pickedIds = new Set(paperPool.filter(q=>{
     let match = true;
     if(years && !years.has(`${q.era}|${q.year}`)) match = false;
     if(d!=="all"){
@@ -1420,9 +1447,10 @@ $("paperQuickBtn").onclick = ()=>{
       else if(d==="mid" && !(q.pass>=0.4 && q.pass<0.7)) match = false;
       else if(d==="hard" && !(q.pass<0.4)) match = false;
     }
-    c.checked = match;
-    c.onchange({target:c});
-  });
+    return match;
+  }).map(q=>q.id));
+  paperPage = 0;
+  renderPaperPage();
 };
 
 $("linkBtn").onclick = ()=>{
