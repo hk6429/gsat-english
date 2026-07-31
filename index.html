@@ -161,6 +161,14 @@
   .passbar{display:inline-block; width:44px; height:8px; background:#d9e0f0; border-radius:4px; overflow:hidden}
   .passbar i{display:block; height:100%; border-radius:4px}
   .pickbox{margin-right:8px; transform:scale(1.2)}
+  .paper-year-filter{min-width:min(100%,260px); padding:0; margin:0; border:0}
+  .paper-year-filter legend{margin-bottom:4px; font-size:.88rem}
+  .paper-year-multi{position:relative}
+  .paper-year-multi summary{min-height:42px; padding:9px 34px 9px 12px; overflow:hidden; color:var(--ink); background:#f4f6fc; border:1px solid var(--line); border-radius:8px; cursor:pointer; text-overflow:ellipsis; white-space:nowrap}
+  .paper-year-options{position:static; display:grid; grid-template-columns:repeat(2,minmax(100px,1fr)); gap:2px 10px; width:100%; min-width:260px; max-height:280px; padding:10px; margin-top:4px; overflow-y:auto; background:var(--card); border:1px solid var(--line); border-radius:8px; box-shadow:0 8px 24px rgba(29,43,79,.16)}
+  .paper-year-options label{display:flex; align-items:center; min-height:38px; gap:6px; cursor:pointer}
+  .paper-year-options input{width:18px; height:18px}
+  .paper-year-all{grid-column:1/-1; padding-bottom:4px; border-bottom:1px solid var(--line); font-weight:700}
   .footer{color:var(--muted); font-size:.78rem; text-align:center; padding:20px 10px 40px}
   .flinks{display:flex; flex-wrap:wrap; gap:4px 18px; justify-content:center; margin-top:8px}
   .result{background:#e8edf8; border:2px solid var(--seal); border-radius:4px 16px 4px 16px; padding:18px; margin:14px 0; text-align:center; font-size:1.1rem; display:none}
@@ -387,7 +395,13 @@
     <p style="font-size:.9rem; margin-bottom:8px">勾選下方題目後：可產生「線上測驗連結」給學生，或直接「列印考卷」（含教師答案卷＋教師詳解卷）／「下載 Word 檔」自行編輯。</p>
     <p id="paperFilterInfo" style="font-size:.82rem; color:var(--muted); margin-bottom:8px"></p>
     <div class="row">
-      <label>快速勾選 年度：<select id="paperYearQuick"><option value="all">全部</option></select></label>
+      <fieldset class="paper-year-filter">
+        <legend>快速勾選年度（可複選）</legend>
+        <details class="paper-year-multi" id="paperYearQuick">
+          <summary id="paperYearQuickSummary">全部年度</summary>
+          <div class="paper-year-options" id="paperYearQuickOptions"></div>
+        </details>
+      </fieldset>
       <label>難度：<select id="paperDiffQuick"><option value="all">不限</option><option value="easy">較簡單（≥70%）</option><option value="mid">中等（40–70%）</option><option value="hard">較難（&lt;40%）</option></select></label>
       <button class="btn btn-sub" id="paperQuickBtn">套用（只勾符合的）</button>
     </div>
@@ -1319,8 +1333,29 @@ $("clearBtn").onclick = ()=>{
 };
 
 // ---- 出卷模式 ----
-yearKeys.forEach(k=>{ const [era,y]=k.split("|"); const o=document.createElement("option");
-  o.value=k; o.textContent=`${era} ${y}年`; $("paperYearQuick").appendChild(o); });
+$("paperYearQuickOptions").innerHTML = `
+  <label class="paper-year-all"><input id="paperYearAll" type="checkbox" value="all" checked> 全部年度</label>
+  ${yearKeys.map(k=>{ const [era,y]=k.split("|"); return `<label><input class="paper-year-checkbox" type="checkbox" value="${k}"> ${era} ${y}年</label>`; }).join("")}`;
+function selectedPaperYearKeys(){
+  if($("paperYearAll").checked) return null;
+  return new Set([...document.querySelectorAll(".paper-year-checkbox:checked")].map(c=>c.value));
+}
+function updatePaperYearQuickSummary(){
+  const selected = [...document.querySelectorAll(".paper-year-checkbox:checked")];
+  $("paperYearQuickSummary").textContent = $("paperYearAll").checked || !selected.length
+    ? "全部年度"
+    : selected.length<=3
+      ? selected.map(c=>c.parentElement.textContent.trim()).join("、")
+      : `${selected.slice(0,2).map(c=>c.parentElement.textContent.trim()).join("、")}等 ${selected.length} 個年度`;
+}
+$("paperYearQuickOptions").onchange = e=>{
+  const all = $("paperYearAll");
+  const years = [...document.querySelectorAll(".paper-year-checkbox")];
+  if(e.target===all && all.checked) years.forEach(c=>{ c.checked=false; });
+  else if(e.target.classList.contains("paper-year-checkbox") && e.target.checked) all.checked=false;
+  if(!all.checked && !years.some(c=>c.checked)) all.checked=true;
+  updatePaperYearQuickSummary();
+};
 $("paperBtn").onclick = ()=>{
   mode = "paper"; pickedIds = new Set();
   $("paperPanel").style.display = "block";
@@ -1337,13 +1372,13 @@ $("paperBtn").onclick = ()=>{
 $("selAllBtn").onclick = ()=>{ document.querySelectorAll(".pickbox").forEach(c=>{c.checked=true; c.onchange({target:c});}); };
 $("selNoneBtn").onclick = ()=>{ document.querySelectorAll(".pickbox").forEach(c=>{c.checked=false; c.onchange({target:c});}); };
 $("paperQuickBtn").onclick = ()=>{
-  const y = $("paperYearQuick").value;
+  const years = selectedPaperYearKeys();
   const d = $("paperDiffQuick").value;
   document.querySelectorAll(".pickbox").forEach(c=>{
     const id = c.closest(".q").dataset.id;
     const q = ALL.find(x=>x.id===id);
     let match = true;
-    if(y!=="all" && `${q.era}|${q.year}`!==y) match = false;
+    if(years && !years.has(`${q.era}|${q.year}`)) match = false;
     if(d!=="all"){
       if(q.pass==null) match = false;
       else if(d==="easy" && !(q.pass>=0.7)) match = false;
