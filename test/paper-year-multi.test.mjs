@@ -10,3 +10,10 @@ test("教師出卷年度採核取方塊複選", () => {
   assert.match(index, /function selectedPaperYearKeys\(\)/);
   assert.match(index, /years\.has\(`\$\{q\.era\}\|\$\{q\.year\}`\)/);
 });
+
+test("首頁年度採核取方塊複選並套用到題庫篩選", () => {
+  assert.match(index, /id="mainYearOptions"/);
+  assert.match(index, /class="main-year-checkbox"/);
+  assert.match(index, /function selectedYearKeys\(\)/);
+  assert.match(index, /years\.has\(`\$\{q\.era\}\|\$\{q\.year\}`\)/);
+});

@@ -169,6 +169,8 @@
   .paper-year-options label{display:flex; align-items:center; min-height:38px; gap:6px; cursor:pointer}
   .paper-year-options input{width:18px; height:18px}
   .paper-year-all{grid-column:1/-1; padding-bottom:4px; border-bottom:1px solid var(--line); font-weight:700}
+  .main-year-filter{min-width:min(100%,260px)}
+  .main-year-filter .paper-year-options{min-width:0}
   .footer{color:var(--muted); font-size:.78rem; text-align:center; padding:20px 10px 40px}
   .flinks{display:flex; flex-wrap:wrap; gap:4px 18px; justify-content:center; margin-top:8px}
   .result{background:#e8edf8; border:2px solid var(--seal); border-radius:4px 16px 4px 16px; padding:18px; margin:14px 0; text-align:center; font-size:1.1rem; display:none}
@@ -341,7 +343,13 @@
     <div class="toolrow" style="margin-bottom:6px"><span style="font-size:.85rem; color:var(--muted)">勾選想練的分類，或直接調整下方條件</span><span class="gtoggle" id="allToggle">全選／清除</span></div>
     <div id="catChips"></div>
     <div class="row" style="border-top:1px dashed var(--line); padding-top:12px">
-      <label>年份：<select id="yearSel"><option value="all">全部</option></select></label>
+      <fieldset class="paper-year-filter main-year-filter">
+        <legend>年份（可複選）</legend>
+        <details class="paper-year-multi" id="mainYearFilter">
+          <summary id="mainYearSummary">全部年度</summary>
+          <div class="paper-year-options" id="mainYearOptions"></div>
+        </details>
+      </fieldset>
       <label>題數：<input type="number" id="numInput" min="1" value="10" style="width:70px"></label>
       <label><input type="checkbox" id="shuffleChk" checked> 隨機出題</label>
       <label><input type="checkbox" class="langChk" value="單題" checked> 單題</label>
@@ -650,11 +658,37 @@ const eraOrder = {"學測":0,"指考":1};
 const yearKeys = [...new Set(ALL.map(q=>`${q.era}|${q.year}`))]
   .sort((a,b)=>{ const [ea,ya]=a.split("|"), [eb,yb]=b.split("|");
     return (eraOrder[ea]??9)-(eraOrder[eb]??9) || Number(yb)-Number(ya); });
-yearKeys.forEach(k=>{ const [era,y]=k.split("|"); const o=document.createElement("option");
-  o.value=k; o.textContent=`${era} ${y}年`; $("yearSel").appendChild(o); });
-// 解析年份選單的複合值 → {era, year}；全部回傳 null
-function ysel(){ const v=$("yearSel").value; if(v==="all") return null;
-  const [era,y]=v.split("|"); return {era, year:Number(y)}; }
+$("mainYearOptions").innerHTML = `
+  <label class="paper-year-all"><input id="mainYearAll" type="checkbox" value="all" checked> 全部年度</label>
+  ${yearKeys.map(k=>{ const [era,y]=k.split("|"); return `<label><input class="main-year-checkbox" type="checkbox" value="${k}"> ${era} ${y}年</label>`; }).join("")}`;
+function selectedYearKeys(){
+  if($("mainYearAll").checked) return null;
+  return new Set([...document.querySelectorAll(".main-year-checkbox:checked")].map(c=>c.value));
+}
+function selectedSingleExamYear(){
+  const keys = selectedYearKeys();
+  if(!keys || keys.size!==1) return null;
+  const [era,y] = [...keys][0].split("|");
+  return {era, year:Number(y)};
+}
+function updateMainYearSummary(){
+  const selected = [...document.querySelectorAll(".main-year-checkbox:checked")];
+  $("mainYearSummary").textContent = $("mainYearAll").checked || !selected.length
+    ? "全部年度"
+    : selected.length<=3
+      ? selected.map(c=>c.parentElement.textContent.trim()).join("、")
+      : `${selected.slice(0,2).map(c=>c.parentElement.textContent.trim()).join("、")}等 ${selected.length} 個年度`;
+}
+function handleMainYearChange(e){
+  const all = $("mainYearAll");
+  const years = [...document.querySelectorAll(".main-year-checkbox")];
+  if(e.target===all && all.checked) years.forEach(c=>{ c.checked=false; });
+  else if(e.target.classList.contains("main-year-checkbox") && e.target.checked) all.checked=false;
+  if(!all.checked && !years.some(c=>c.checked)) all.checked=true;
+  updateMainYearSummary();
+  updateCount();
+}
+updateMainYearSummary();
 
 function activeLangs(){
   return [...document.querySelectorAll(".langChk")].filter(c=>c.checked).map(c=>c.value);
@@ -686,11 +720,11 @@ function inDiscRange(q){
   return true;
 }
 function pool(){
-  const ys = ysel();
+  const years = selectedYearKeys();
   const langs = activeLangs();
   const types = activeTypes();
   return ALL.filter(q => (q.tags||[]).some(t=>activeSubs.has(q.cat+"::"+t))
-    && (!ys || (q.year===ys.year && q.era===ys.era))
+    && (!years || years.has(`${q.era}|${q.year}`))
     && (!q.lang || langs.includes(q.lang))
     && (!q.textType || types.includes(q.textType))
     && inDiffRange(q)
@@ -698,7 +732,7 @@ function pool(){
 }
 function updateCount(){ $("countInfo").textContent = `符合條件共 ${pool().length} 題（題庫總計 ${ALL.length} 題）`; updateFilterSummary(); }
 updateCount();
-$("yearSel").onchange = updateCount;
+$("mainYearOptions").onchange = handleMainYearChange;
 $("diffSel").onchange = updateCount;
 $("discSel").onchange = updateCount;
 document.querySelectorAll(".langChk").forEach(c=>c.onchange = updateCount);
@@ -1081,7 +1115,7 @@ function updateFilterSummary(){
   const expanded = $("filterBody").style.display !== "none";
   if(expanded){ el.style.display = "none"; return; }
   el.style.display = "block";
-  const yl = $("yearSel"); const ytxt = yl.value==="all" ? "全部" : yl.options[yl.selectedIndex].textContent;
+  const ytxt = $("mainYearSummary").textContent;
   const cats = new Set(); activeSubs.forEach(k=>cats.add(k.split("::")[0]));
   const langs = activeLangs();
   const d = $("diffSel");
@@ -1205,12 +1239,13 @@ function resetToHome(){
 
 // ---- 整回模考模式 ----
 function doMock(){
-  const ys = ysel();
+  const ys = selectedSingleExamYear();
   if(!ys){
     if($("filterBody").style.display==="none") toggleAdvFilter();
-    $("yearSel").focus();
-    $("yearSel").scrollIntoView({behavior:"smooth", block:"center"});
-    return alert("請先在「進階篩選 → 年份」選一個特定年份，才能開始整回模考（已為你展開篩選並定位到年份）");
+    $("mainYearFilter").open = true;
+    $("mainYearSummary").focus();
+    $("mainYearSummary").scrollIntoView({behavior:"smooth", block:"center"});
+    return alert("整回模考一次只能使用一份原卷，請在「進階篩選 → 年份」只勾選一個特定年度。");
   }
   const qs = ALL.filter(q=>q.year===ys.year && q.era===ys.era).sort((a,b)=>a.no-b.no);
   if(!qs.length) return alert("找不到這個年份的題目");
@@ -1362,7 +1397,7 @@ $("paperBtn").onclick = ()=>{
   $("resultBox").style.display = "none";
   $("historyPanel").style.display = "none";
   const qs = pool();
-  const yl = $("yearSel"); const ytxt = yl.value==="all" ? "全部" : yl.options[yl.selectedIndex].textContent;
+  const ytxt = $("mainYearSummary").textContent;
   $("paperFilterInfo").textContent = `目前套用篩選：年份 ${ytxt}，符合 ${qs.length} 題（可回到上方「選擇範圍」調整類別／年份；下方也可依年度／難度快速勾選）`;
   const box = $("quiz"); box.innerHTML = "";
   qs.forEach((q,i)=>box.appendChild(renderQ(q,null,{pick:true})));
