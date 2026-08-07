@@ -32,9 +32,9 @@
 
   function endpoint(locationLike) {
     const hostname = String(locationLike?.hostname || "");
-    return hostname === "gsat-english-lac.vercel.app" || hostname.endsWith(".vercel.app")
+    return ["gsat-english-bqe.pages.dev", "localhost", "127.0.0.1"].includes(hostname)
       ? "/api/report"
-      : "https://gsat-english-lac.vercel.app/api/report";
+      : "https://gsat-english-bqe.pages.dev/api/report";
   }
 
   async function submit(input, locationLike, fetchImpl) {

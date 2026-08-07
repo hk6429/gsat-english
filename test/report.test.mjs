@@ -47,15 +47,15 @@ test("題目回報只送出允許欄位並限制文字長度", () => {
   assert.equal("unexpected" in payload, false);
 });
 
-test("三個正式站都使用同一個 Vercel 回報 API", () => {
-  assert.equal(report.endpoint({ hostname: "gsat-english-lac.vercel.app" }), "/api/report");
+test("三個正式站都使用同一個 Cloudflare Pages 回報 API", () => {
+  assert.equal(report.endpoint({ hostname: "gsat-english-bqe.pages.dev" }), "/api/report");
   assert.equal(
-    report.endpoint({ hostname: "gsat-english-bqe.pages.dev" }),
-    "https://gsat-english-lac.vercel.app/api/report"
+    report.endpoint({ hostname: "gsat-english-lac.vercel.app" }),
+    "https://gsat-english-bqe.pages.dev/api/report"
   );
   assert.equal(
     report.endpoint({ hostname: "gsat-english.netlify.app" }),
-    "https://gsat-english-lac.vercel.app/api/report"
+    "https://gsat-english-bqe.pages.dev/api/report"
   );
 });
 
@@ -71,7 +71,7 @@ test("前端送出回報後會解析成功結果", async () => {
   );
 
   assert.deepEqual(result, { ok: true });
-  assert.equal(request.url, "https://gsat-english-lac.vercel.app/api/report");
+  assert.equal(request.url, "/api/report");
   assert.equal(request.options.method, "POST");
   assert.equal(request.options.headers["Content-Type"], "application/json");
 });
